@@ -24,11 +24,8 @@ eleventyNavigation:
 
 
 <div class="responsive-embed widescreen">
-<iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJpU09wHX7dGsRLT0wROHwhAA&key=..." width="100%" height="400px" style="border:0;" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-
-<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
-src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJpU09wHX7dGsRLT0wROHwhAA&key=..."></iframe> 
+   <gmp-map center="-32.005943298339844,151.95358276367188" zoom="14" map-id="DEMO_MAP_ID">
+      <gmp-advanced-marker position="-32.005943298339844,151.95358276367188" title="My location"></gmp-advanced-marker>
+    </gmp-map>
 </div>
 
