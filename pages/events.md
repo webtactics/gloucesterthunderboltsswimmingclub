@@ -5,7 +5,7 @@ description:
 section: events
 class: events
 date: 2024-07-18
-permalink: /about/
+permalink: /events/
 metadata:
   title: Gloucester Thunderbolts Swimming Club Events and Swim NSW Meets
 eleventyNavigation:
