@@ -1,6 +1,6 @@
 ---
 layout: layouts/default.njk
-title: Gloucester Thunderbolts Swimming Club Events and Swim NSW Meets
+title: Club Events and Swim NSW Meets
 description: 
 section: events
 class: events
