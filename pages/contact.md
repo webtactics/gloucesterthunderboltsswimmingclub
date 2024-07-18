@@ -1,12 +1,12 @@
 ---
 layout: layouts/contact.njk
-title: Contact James Taylor Bathurst Solicitor
+title: Contact Gloucester Thunderbolts Swimming Club
 class: contact
-description: How to contact James Taylor Bathurst Solictor
+description: How to contact Gloucester Thunderbolts Swimming Club
 section: contact
 date: 2023-07-20
 metadata:
-  title: Criminal and Family Law Lawyer Bathurst NSW
+  title: Contact  Gloucester Thunderbolts Swimming Club
 permalink: /contact/
 eleventyNavigation:
   key: Contact
@@ -20,13 +20,15 @@ eleventyNavigation:
 
 
 <h2>Contact Details</h2>
-<p>Address: <a title="James Taylor Bathurst Solicitor Map" alt="James Taylor Bathurst Solicitor Map" href="https://goo.gl/maps/VH3KrRsjfEAdpWns9" target="_blank" rel="noopener">Suite A, 238 Howick St, Bathurst NSW 2795</a><br>
-Mobile: <a title="Call James Taylor Bathurst Solicitor" alt="Call James Taylor Bathurst Solicitor" href="tel:+61400316661">0400 316 661</a><br>
-Email: <a title="Email jtaylorsolicitor@gmail.com" alt="Email jtaylorsolicitor@gmail.com" href="mailto:jtaylorsolicitor@gmail.com">jtaylorsolicitor@gmail.com</a><br>
-Website: <a href="/" title="James Taylor Bathurst Solicitor Website" alt="James Taylor Bathurst Solicitor Website">jamestaylorsolicitor.com.au</a></p>
+<p>to be added</p>
 
 
 <div class="responsive-embed widescreen">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1222.486707369501!2d149.57922032526344!3d-33.415435392773844!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b11e5cd42b057b5%3A0x8f81db03621d7cda!2sJames%20Taylor%20Solicitor!5e0!3m2!1sen!2sau!4v1690855582699!5m2!1sen!2sau" width="100%" height="400px" style="border:0;" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJpU09wHX7dGsRLT0wROHwhAA&key=..." width="100%" height="400px" style="border:0;" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJpU09wHX7dGsRLT0wROHwhAA&key=..."></iframe> 
 </div>
 
