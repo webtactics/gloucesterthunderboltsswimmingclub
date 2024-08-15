@@ -7,7 +7,7 @@ date: 2024-07-18
 description: Gloucester Thunderbolts Swimming Club we provide opportunities for swimmers of all levels to improve their swimming and achieve personal goals. 
 metadata:
   title: Gloucester Thunderbolts Swimming Club
-permalink: /index-new.html
+permalink: /
 eleventyNavigation:
   key: Home
   order: 0
