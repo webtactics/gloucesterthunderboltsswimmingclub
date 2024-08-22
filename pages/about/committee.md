@@ -7,7 +7,7 @@ date: 2024-08-22
 permalink: "/about/committee/"
 eleventyNavigation:
   key: Committee
-  parent: about
+  parent: About
   order: 1
 ---
 Swim NSW about

@@ -7,7 +7,7 @@ date: 2024-08-22
 permalink: "/about/resources/"
 eleventyNavigation:
   key: Resources
-  parent: about
+  parent: About
   order: 3
 ---
 Records

@@ -7,7 +7,7 @@ date: 2024-08-22
 permalink: "/about/sponsors/"
 eleventyNavigation:
   key: Sponsors
-  parent: about
+  parent: About
   order: 2
 ---
 Club Nights
