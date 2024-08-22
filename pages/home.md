@@ -8,9 +8,7 @@ description: Gloucester Thunderbolts Swimming Club we provide opportunities for 
 metadata:
   title: Gloucester Thunderbolts Swimming Club
 permalink: /
-eleventyNavigation:
-  key: Home
-  order: 0
+
 ---
 
 ## Website under construction ##
