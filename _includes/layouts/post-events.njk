@@ -1,0 +1,165 @@
+---
+layout: layouts/detail.njk
+section: post
+---
+
+
+ <div class="grid-2-columns-3x1">
+ <div class="detailwrapper">
+<article>
+
+
+<div class="item blogdetail">
+<div class="blogdetailimage" align="center"><img src="{{ image }}?tr=w-800,h-800" alt="{{ imageAlt }}" title="{{ imageAlt }}"></div>
+{% if GTIN %}<div class="timecostwrapper"><span class="timecostmin">GTIN:</span>{{ GTIN }}</div>{% endif %}
+<div class="detailcontent">     
+{{ layoutContent | safe }}</div>
+
+<h1>Nutrition Information</h1>
+
+<div class="grid-container">
+    <div class="grid-item">
+      <h2>Nutrition Information</h2>
+      <ul>
+        <li>Servings per Pack: {{ nutrition.servesPerPack }}</li>
+        <li>Serving Size: {{ nutrition.servingSize }}</li>
+        <li>Energy per Serve: {{ nutrition.energyPerServe }}</li>
+        <li>Energy per 100g: {{ nutrition.energyPer100g }}</li>
+        <li>Protein per Serve: {{ nutrition.proteinPerServe }}</li>
+        <li>Protein per 100g: {{ nutrition.proteinPer100g }}</li>
+        <li>Total Fat per Serve: {{ nutrition.fatTotalPerServe }}</li>
+        <li>Total Fat per 100g: {{ nutrition.fatTotalPer100g }}</li>
+      </ul>
+    </div>
+    <div class="grid-item">
+      <ul>
+        <li>Saturated Fat per Serve: {{ nutrition.fatSaturatedPerServe }}</li>
+        <li>Saturated Fat per 100g: {{ nutrition.fatSaturatedPer100g }}</li>
+        <li>Carbohydrate per Serve: {{ nutrition.carbohydratePerServe }}</li>
+        <li>Carbohydrate per 100g: {{ nutrition.carbohydratePer100g }}</li>
+        <li>Carbohydrate Sugars per Serve: {{ nutrition.carbohydrateSugarsPerServe }}</li>
+        <li>Carbohydrate Sugars per 100g: {{ nutrition.carbohydrateSugarsPer100g }}</li>
+        <li>Sodium per Serve: {{ nutrition.sodiumPerServe }}</li>
+        <li>Sodium per 100g: {{ nutrition.sodiumPer100g }}</li>
+      </ul>
+    </div>
+  </div>
+
+
+  <h1>Recipes</h1>
+
+<p>{{ ingredients }}</p>
+<p>{{ allergen.line1 }}<br>
+{{ allergen.line2 }}{% if allergen.line3 %}<br>
+{{ allergen.line3 }}{% endif %}</p>
+
+  
+
+
+
+
+
+
+{% set postslist = collections['Featured'] %}
+  {% include "components/postslist-sidebar.njk" %}
+
+
+
+
+
+
+
+
+{% if galleryimages %}
+ <div class="gallery">
+{% include "components/gallery-products.njk" %}
+</div>
+{% endif %}
+
+
+
+// Apply the include filter to a collection and store the result
+{% set typeProducts = collections.products | include("data.type", "Changs Chinese Black Pepper Sauce") %}
+
+// We can now loop over the stored result e.g. projects with a "type" of "Open Source"
+{% for product in typeProducts %}
+
+  <h2>{{ products.title }}</h2>
+  
+{% endfor %}
+
+
+{% if tags %}
+  <div class="tag"><h4>Tags</h4>
+  <ul>
+{% for tag in tags %}
+  {%- if tag != "post" -%}
+    {% set tagUrl %}/tagged/{{ tag }}/{% endset %}
+   <li><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
+  {%- endif -%}
+{% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+
+   
+</div>
+</article>
+</div>
+<div class="detailsidebar">
+<aside>
+    {% if "Changs-Chinese-Black-Pepper-Sauce" %}
+    <h1>Changs-Chinese-Black-Pepper-Sauce</h1>
+    {% set postslist = collections['Changs Chinese Black Pepper Sauce'] %}
+    {% include "components/postslist.njk" %}
+    {% endif %}
+
+    {% if "Changs Chinese Black Pepper Sauce" %}
+    <h1>Changs Chinese Black Pepper Sauce</h1>
+    {% set postslist = collections['Changs Chinese Black Pepper Sauce'] %}
+    {% include "components/postslist.njk" %}
+    {% endif %}
+    
+    {% if "Changs-Wok-Ready-Noodles" %}
+    <h1>Changs-Wok-Ready-Noodles 5s2</h1>
+    {% set postslist = collections['Changs Wok-Ready Noodles'] %}
+    {% include "components/postslist.njk" %}
+     {% endif %}
+
+    {% if "recipes.ChangsChineseBlackPepperSauce" %}
+    <h1>Changs Wok Ready Noodles 5t</h1>
+    {% set postslist = collections['Changs Wok Ready Noodles'] %}
+    {% include "components/postslist.njk" %}
+    {% endif %}
+
+{% if prodChangsWokReadyNoodles %}
+<h1>Changs Wok Ready Noodles 2</h1>
+{% set postslist = collections['Changs Wok Ready Noodles'] %}
+{% include "components/postslist.njk" %}
+{% endif %}
+
+{% if ChangsWokReadyNoodles %}
+<h1>Changs Wok Ready Noodles 3</h1>
+{% set postslist = collections['Changs Wok Ready Noodles'] %}
+{% include "components/postslist.njk" %}
+{% endif %}
+
+{% if "Changs Wok-Ready Noodles" %}
+<div class="sidebarwrapper2">
+<h3>"Changs Wok-Ready Noodles 2"</h3>
+{% set postslist = collections['Changs Wok-Ready Noodles'] %}
+{% include "components/postslist.njk" %}
+</div>
+{% endif %}
+{% if "Changs Chinese Black Pepper Sauce" %}
+<div class="sidebarwrapper2">
+<h3>"Changs Chinese Black Pepper Sauce"</h3>
+{% set postslist = collections['Changs-Chinese-Black-Pepper-Sauce'] %}
+{% include "components/postslist.njk" %}
+</div>
+{% endif %}
+</aside>
+</div>
+</div>
+
