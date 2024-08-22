@@ -8,8 +8,9 @@ permalink: "/events/records/"
 eleventyNavigation:
   key: Records
   parent: Events
+  order: 3
 ---
-Swim NSW Events
+Records
 ```
 
 

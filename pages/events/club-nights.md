@@ -8,6 +8,7 @@ permalink: "/events/club-nights/"
 eleventyNavigation:
   key: Club Nights
   parent: Events
+  order: 1
 ---
 Club Nights
 ```
