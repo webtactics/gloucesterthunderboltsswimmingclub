@@ -8,7 +8,7 @@ permalink: "/about/sponsors/"
 eleventyNavigation:
   key: Sponsors
   parent: About
-  order: 2
+  order: 3
 ---
 Club Nights
 ```

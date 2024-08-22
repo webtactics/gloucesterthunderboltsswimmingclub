@@ -8,7 +8,7 @@ permalink: "/about/committee/"
 eleventyNavigation:
   key: Committee
   parent: About
-  order: 1
+  order: 2
 ---
 Swim NSW about
 ```

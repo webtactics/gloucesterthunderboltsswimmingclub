@@ -8,7 +8,7 @@ permalink: "/about/resources/"
 eleventyNavigation:
   key: Resources
   parent: About
-  order: 3
+  order: 4
 ---
 Records
 ```
