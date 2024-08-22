@@ -10,7 +10,7 @@ metadata:
 permalink: /contact/
 eleventyNavigation:
   key: Contact
-  order: 4
+  order: 5
 ---
 
 
