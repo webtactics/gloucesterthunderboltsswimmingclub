@@ -10,7 +10,7 @@ metadata:
   title: About Gloucester Thunderbolts Swimming Club
 eleventyNavigation:
   key: About
-  order: 2
+  order: 1
 ---
 
 

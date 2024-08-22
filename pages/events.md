@@ -10,7 +10,7 @@ metadata:
   title: Gloucester Thunderbolts Swimming Club Events and Swim NSW Meets
 eleventyNavigation:
   key: Events
-  order: 3
+  order: 2
 ---
 
 
