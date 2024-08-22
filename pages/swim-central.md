@@ -15,7 +15,7 @@ eleventyNavigation:
 
 
 
-Swim Central plus linmkls to come
+Swim Central plus links to come
 
 
 
