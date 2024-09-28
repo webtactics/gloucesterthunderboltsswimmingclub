@@ -97,22 +97,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("script.js");
   };
 
-  /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
-  let options = {
-    breaks: true,
-    linkify: true,
-    html: true,
-  };
 
-  let opts = {
-    permalink: false
-  };
-
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
-  );
 
   return {
     templateFormats: ["md", "njk", "liquid"],
