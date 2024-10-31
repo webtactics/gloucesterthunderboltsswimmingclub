@@ -1056,6 +1056,13 @@ grid-template-rows: var(--headerheight);
   padding:1rem 0;
   }
 
+  @media (max-width: 1050px) {
+
+    .footernavwrapper {
+      background-color: var(--primary);
+    }
+  }
+
  .footernav {
   display: grid;
   grid-template-columns:280px  1fr;
