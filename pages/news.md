@@ -15,7 +15,14 @@ eleventyNavigation:
 
 
 
-Drowning in a sea of news.  Need to add some news here.  Maybe a blog post or two.  Maybe a link to a news article.  Maybe a link to a video.  Maybe a link to a podcast?
+Drowning in a sea of news.  
+
+Need to add some news here.  
+
+Maybe a blog post or two.  
+Maybe a link to a news article.  
+Maybe a link to a video.  
+Maybe a link to a podcast?
 
 
 
