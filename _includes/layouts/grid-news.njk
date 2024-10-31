@@ -12,6 +12,14 @@
        <h1 class="heading-text">{{ title }}</h1>
     </div>
 	{{ content | safe }}
+
+<div class="resultswrapper">
+      <h2 class="heading-text">GTSC & Other Swimming News</h2>
+	{% set postslist = collections['News'] %} 
+	{% include "components/postslist-news.njk" %}
+</div>
+
+
 </div>
 
 
