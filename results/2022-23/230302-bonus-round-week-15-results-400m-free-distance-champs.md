@@ -16,9 +16,10 @@ results: /results/2022-23/230302-bonus-round-week-15-results-400m-free-distance-
 tags:
   - Club-Night
   - Results
-  - 2022-23-Season-Results
+  - 2022-23-Results
+  - 2022-23-Results-GTSC
   - 2023
-  - GTSC-club-Championships
+  - GTSC-Club-Championships
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool

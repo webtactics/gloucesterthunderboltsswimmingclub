@@ -16,9 +16,10 @@ results: /results/2022-23/230316-bonus-round-week-17-results-updated-200-back,fl
 tags:
   - Club-Night
   - Results
-  - 2022-23-Season
+  - 2022-23-Results
+  - 2022-23-Results-GTSC
   - 2023
-  - GTSC-club-Championships
+  - GTSC-Club-Championships
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool

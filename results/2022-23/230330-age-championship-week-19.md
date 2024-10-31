@@ -16,7 +16,8 @@ results: /results/2022-23/230330-age-championship-week-19.pdf
 tags:
   - Club-Night
   - Results
-  - 2022-23-Season
+  - 2022-23-Results
+  - 2022-23-Results-GTSC
   - 2023
   - GTSC-club-Championships
 

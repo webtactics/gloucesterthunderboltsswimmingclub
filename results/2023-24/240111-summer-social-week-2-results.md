@@ -17,7 +17,8 @@ results: /results/2023-24/240111-summer-social-week-2-results.pdf
 tags:
   - Club-Night
   - Results
-  - 2023-24-Season-Results
+  - 2023-24-Results
+  - 2023-24-Results-GTSC
   - 2024
   - Summer-Social
 

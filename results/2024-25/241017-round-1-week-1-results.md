@@ -15,7 +15,10 @@ results: /results/2024-25/241017-round-1-week-1-results.pdf
 tags:
   - Club-Night
   - Results
-  - 2024-25-Season-Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
+  - 2024
+
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool

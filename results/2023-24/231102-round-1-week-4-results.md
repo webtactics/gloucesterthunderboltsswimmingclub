@@ -16,7 +16,8 @@ results: /results/2023-24/231102-round-1-week-4-results.pdf
 tags:
   - Club-Night
   - Results
-  - 2023-24-Season-Results
+  - 2023-24-Results
+  - 2023-24-Results-GTSC
   - 2023
 
 time: 6:00pm - 8:00pm

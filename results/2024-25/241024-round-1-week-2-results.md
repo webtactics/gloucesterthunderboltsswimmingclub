@@ -17,7 +17,9 @@ rain: true
 tags:
   - Club-Night
   - Results
-  - 2024-25-Season-Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
+  - 2024
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool

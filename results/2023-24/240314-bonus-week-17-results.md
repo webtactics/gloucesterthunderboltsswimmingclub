@@ -17,7 +17,8 @@ results: /results/2023-24/240314-bonus-week-17-results.pdf
 tags:
   - Club-Night
   - Results
-  - 2023-24-Season-Results
+  - 2023-24-Results
+  - 2023-24-Results-GTSC
   - 2024
 
 time: 6:00pm - 8:00pm
