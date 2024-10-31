@@ -1127,7 +1127,7 @@ ul.footer-menu li {
   border: none;
   width: 100%;
 }
-  @media (max-width: 800px) {
+  @media (max-width: 1050px) {
 
     ul.footer-menu {
       display: grid;
