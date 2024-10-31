@@ -3,7 +3,7 @@
     "permalink": "events/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-      "events"
+     "Event"
     ]
   }
   
