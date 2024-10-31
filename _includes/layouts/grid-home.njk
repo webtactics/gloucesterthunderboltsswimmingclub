@@ -28,9 +28,10 @@
 	{% set postslist = collections['News'] %} 
 	{% include "components/postslist-news.njk" %}
 </div>
-<div class="linkwrapper">
-	<a class="resultspdfsmall" href="/events/club-nights/" title="Club Night Results" alt="Club Night Results">For all Club Night Results &gt;</a>
-</div>
+
+<div class="linkwrapper"><a class="resultspdfsmall" href="/news/" title="GTSC News" alt="GTSC News" >For all News Items &gt;</a></div>
+	
+
 <div class="eightypercentborder3rem"></div>
 
 <div class="resultswrapper">
@@ -38,7 +39,7 @@
 	{% set postslist = collections['2024-25-Season-Results'] | limit(3) -%} 
 	{% include "components/postslist-results.njk" %}
 </div>
-<div class="linkwrapper"><a class="resultspdfsmall" href="/news/" title="GTSC News" alt="GTSC News" >For all News Items &gt;</a></div>
+<div class="linkwrapper"><a class="resultspdfsmall" href="/events/club-nights/" title="Club Night Results" alt="Club Night Results">For all Club Night Results &gt;</a></div>
 
 	</main>
 </div>
