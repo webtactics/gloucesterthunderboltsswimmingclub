@@ -2689,6 +2689,13 @@ h3.news-title a:hover {
   transition: background-color .6s;
 }
 
+.postnewsimage img {
+  border-radius: 0.5rem;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+
 /* Useful links */
 
 .usefultextwrapper {
