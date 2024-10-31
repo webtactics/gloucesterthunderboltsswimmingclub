@@ -29,7 +29,7 @@ time: 9:00am - 5:00pm
 where: The Y NSW Port Macquarie War Memorial Olympic Swimming Pool
 map: https://maps.app.goo.gl/BUvsdufd6n9WeBZj8
 
-maptaree: https://maps.app.goo.gl/BUvsdufd6n9WeBZj8
+mapportmac: https://maps.app.goo.gl/BUvsdufd6n9WeBZj8
 ---
 
 
