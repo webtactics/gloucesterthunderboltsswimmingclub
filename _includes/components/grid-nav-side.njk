@@ -18,7 +18,9 @@
 
 <ul class="off-canvas-list">
 <li><a href="/" title="Home" alt="Home">Home</a></li>
+{% if not entry.hide %}
 {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+{% endif %}
 </ul>
 
 <div class="social-wrapper">

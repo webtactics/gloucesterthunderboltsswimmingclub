@@ -265,7 +265,7 @@ color: var(--black);
 /* topnav layout */
 
 
-.mobilemenu {padding:0 0 1rem 0;}
+.mobilemenu {padding:0;}
 
 .smalltextwrapper {
   display: flex;
