@@ -2492,7 +2492,7 @@ h4.sum-title {
 
 h4.sum-title a {
   color: var(--white);
-  background-color: var(--primary);
+  background-color: var(--darkblue);
   font-size:1.3rem;
   line-height: 2;
   padding: 0.25rem 1rem 0.4rem 1rem;
@@ -2507,8 +2507,8 @@ h4.sum-title a {
 
 
 h4.sum-title a:hover {
-  color: var(--white);
-  background-color: var(--darkblue);
+  color: var(--darkblue);
+  background-color: var(--primarylight);
   transition: background-color .6s;
   border-bottom-left-radius: 0.5rem;
   border-bottom-right-radius: 0.5rem;
