@@ -1108,7 +1108,7 @@ ul.footer-menu li {
   -ms-transition: all .6s;
   -o-transition: all .6s;
   transition: all .6s;
-  color: var(--darkblue);
+  color: var(--lightgrey);
   background-color: transparent;
   border: none;
   width: 100%;
