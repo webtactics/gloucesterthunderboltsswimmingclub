@@ -14,7 +14,9 @@ tags:
   - Port-Macquarie
   - Featured
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/port-macquarie-swimming-club-600x400
+image: https://ik.imagekit.io/webtactics/gtsc/img/events/port-macquarie-swimming-club-600x400.jpg
+
+clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/port-macquarie-swimming-club-600x400.jpg
 
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
