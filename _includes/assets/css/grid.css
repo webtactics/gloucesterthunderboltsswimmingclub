@@ -2704,3 +2704,23 @@ span.stroketitle  {font-weight:bold;color:var(--primary);}
   height: 100% !important;
 
 }
+
+/* Contact Form */
+form {
+  display: grid;
+	padding: 2em 0;
+}
+
+form label {
+  display: none;
+}
+
+input,
+textarea
+ {
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 1em;
+	font-size: 1rem;
+	border: 1px solid var(--primary);
+}
