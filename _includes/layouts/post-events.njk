@@ -27,6 +27,8 @@ section: post
 
 {% if meetflyerpdf %}<p><strong>Event Flyer: </strong><a href="{{ meetflyerpdf }}" title="{{ title }} Flyer" alt="{{ title }} Flyer" target="_blank">{{ subtitle }} Flyer</a></p>{% endif %}
 
+{% if entrylink %}<p><strong>Entry: </strong><a href="{{ entrylink }}" title="{{ title }} entry" alt="{{ title }} entry" target="_blank">{{ subtitle }} entry</a></p>{% endif %}
+
 
   {% if events %}
 <div class="eventsheld"><p>Events to be held</p></div>
