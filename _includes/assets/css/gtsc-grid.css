@@ -321,8 +321,8 @@ ul.off-canvas-list, ul.second {
 
 ul.off-canvas-list li a {
   display: block;
-  color: var(--black);
-  background: var(--white);
+  color: var(--white);
+  background: var(--primary);
  padding: 0.5rem;
   border-bottom: 1px solid var(--lightgrey);
   transition: background 300ms ease;
