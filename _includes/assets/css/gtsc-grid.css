@@ -1081,7 +1081,7 @@ grid-template-rows: var(--headerheight);
    }
 
    .footerrightbottomline p {
-    color: var(--white);
+    color: var(--darkblue);
     text-align: right;
     padding:0 2rem 0 0;
     font-size: 0.9rem;
