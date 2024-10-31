@@ -1049,6 +1049,11 @@ grid-template-rows: var(--headerheight);
 
 /* footer layout */
 
+.footernavwrapper {
+  background-color: var(--white);
+  border-top: 0.6rem solid var(--primary);
+  }
+
  .footernav {
   display: grid;
   grid-template-columns:280px  1fr;
@@ -2537,10 +2542,10 @@ a.resultspdf {
   border: none;
   padding: 0.25rem 2rem;
   white-space: wrap;
-  text-decoration-thickness: 0.2rem;
+  text-decoration-thickness: 0.4rem;
   text-decoration-style: dotted;
   text-decoration-color: var(--primary);
-  text-underline-offset: 0.8rem;
+  text-underline-offset: 1.5rem;
   transition: background-color .6s,text-decoration-color .6s;
 }
 
@@ -2549,10 +2554,10 @@ a.resultspdf:hover {
   background-color: var(--primary);
   color: var(--white);
   border: none;
-  text-decoration-thickness: 0.2rem;
+  text-decoration-thickness: 0.4rem;
   text-decoration-style: solid;
   text-decoration-color: var(--darkblue);
-  text-underline-offset: 0.8rem;
+  text-underline-offset: 1.5rem;
   transition: background-color .6s,text-decoration-color .6s;
   }
 
