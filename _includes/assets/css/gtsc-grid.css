@@ -2441,7 +2441,7 @@ h3.sum-title a {
   align-items: center;
   justify-content: flex-start;
   color: var(--white);
-  background-color: var(--primary);
+  background-color: var(--darkblue);
   font-size:1.5rem;
   padding: 0.25rem 1rem;
   white-space: normal;
@@ -2453,7 +2453,7 @@ h3.sum-title a {
 
 h3.sum-title a:hover {
   color: var(--white);
-  background-color: var(--darkblue);
+  background-color: var(--primary);
   transition: background-color .6s;
 }
 
@@ -2643,7 +2643,7 @@ a.resultspdfsmall:hover {
 
 
 .postsumdate {
-background-color: var(--primary);
+background-color: var(--darkblue);
 padding: 0 1rem;
 min-height: 2.3rem;
 }
