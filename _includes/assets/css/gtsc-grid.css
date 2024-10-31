@@ -2441,7 +2441,7 @@ h3.sum-title a {
   align-items: center;
   justify-content: flex-start;
   color: var(--white);
-  background-color: var(--darkblue);
+  background-color: var(--primary);
   font-size:1.5rem;
   padding: 0.25rem 1rem;
   white-space: normal;
@@ -2453,7 +2453,7 @@ h3.sum-title a {
 
 h3.sum-title a:hover {
   color: var(--white);
-  background-color: var(--primary);
+  background-color: var(--darkblue);
   transition: background-color .6s;
 }
 
@@ -2492,7 +2492,7 @@ h4.sum-title {
 
 h4.sum-title a {
   color: var(--white);
-  background-color: var(--darkblue);
+  background-color: var(--primary);
   font-size:1.3rem;
   line-height: 2;
   padding: 0.25rem 1rem 0.4rem 1rem;
@@ -2508,7 +2508,7 @@ h4.sum-title a {
 
 h4.sum-title a:hover {
   color: var(--white);
-  background-color: var(--primary);
+  background-color: var(--darkblue);
   transition: background-color .6s;
   border-bottom-left-radius: 0.5rem;
   border-bottom-right-radius: 0.5rem;
@@ -2643,7 +2643,7 @@ a.resultspdfsmall:hover {
 
 
 .postsumdate {
-background-color: var(--darkblue);
+background-color: var(--primary);
 padding: 0 1rem;
 min-height: 2.3rem;
 }
