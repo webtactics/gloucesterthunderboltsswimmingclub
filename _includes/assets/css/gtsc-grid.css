@@ -1052,6 +1052,7 @@ grid-template-rows: var(--headerheight);
 .footernavwrapper {
   background-color: var(--white);
   border-top: 0.6rem solid var(--primary);
+  padding:1rem 0;
   }
 
  .footernav {
