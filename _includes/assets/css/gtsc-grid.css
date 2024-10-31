@@ -2532,33 +2532,29 @@ h4.sum-title-cancelled {
 
 a.resultspdf {
   color: var(--white);
-  background-color: var(--primary);
+  background-color: var(--darkblue);
   font-size:1.3rem;
-  border-bottom-left-radius: 0.5rem;
-  border-bottom-right-radius: 0.5rem;
-  padding: 0.25rem 1rem;
-  white-space: nowrap;
+  border: none;
+  padding: 0.25rem 2rem;
+  white-space: wrap;
   text-decoration-thickness: 0.2rem;
   text-decoration-style: dotted;
   text-decoration-color: var(--primary);
   text-underline-offset: 0.8rem;
   transition: background-color .6s,text-decoration-color .6s;
-  width:100%;
-  display: block;
 }
 
 
 a.resultspdf:hover {
-  background-color: var(--darkblue);
+  background-color: var(--primary);
   color: var(--white);
-  border-bottom-left-radius: 0.5rem;
-  border-bottom-right-radius: 0.5rem;
+  border: none;
   text-decoration-thickness: 0.2rem;
   text-decoration-style: solid;
   text-decoration-color: var(--darkblue);
   text-underline-offset: 0.8rem;
   transition: background-color .6s,text-decoration-color .6s;
-}
+  }
 
 a.resultspdfsmall {
   color: var(--white);
