@@ -286,7 +286,7 @@ line-height:4rem;
 display: flex;
 justify-content: flex-end;
 align-items: center;
-background: var(--primary);
+
 }
 
 .offcanvas .smalltextwrapper h3 {padding-left: 0.5rem;font-size:1.3rem;
