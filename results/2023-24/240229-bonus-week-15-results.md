@@ -1,7 +1,7 @@
 ---
 title: Club Night Results Bonus Round Week 15, 2023-24 Season
 subtitle: Bonus Round Week 15 
-date: 2024-22-29
+date: 2024-02-29
 
 eventdate:
   day: 29th
