@@ -4,7 +4,7 @@ title: Contact Gloucester Thunderbolts Swimming Club
 class: contact
 description: How to contact Gloucester Thunderbolts Swimming Club
 section: contact
-date: 2023-07-20
+date: 2024-10-31
 metadata:
   title: Contact  Gloucester Thunderbolts Swimming Club
 permalink: /contact/
@@ -20,7 +20,7 @@ eleventyNavigation:
 
 <p>All ages and abilities are welcome.<p>
 
-<p>For more information please contact the club via email @ <a href="mailto:gloucesterthunderboltsswimclub@outlook.com">gloucesterthunderboltsswimclub@outlook.com</a></p>
+<p>For more information please contact the club via email @ <a href="mailto:gloucesterthunderboltsswimclub@outlook.com">gloucesterthunderboltsswimclub@outlook.com</a>, or use the form below.</p>
 
 
 
