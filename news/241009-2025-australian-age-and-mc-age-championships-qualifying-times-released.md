@@ -11,29 +11,24 @@ eventdate:
 tags:
   - 2024-25-Qualifying-Times
   - Swim-NSW
-
+  - Australian-Age-Championships
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/news/241009-2025-australian-age-and-mc-age-championships-qualifying-times-released.jpg
 
-clubimage: 
+articlelink: https://nsw.swimming.org.au/news-articles/2025-australian-age-and-mc-age-championships-qualifying-times-released 
 
-club: 
-clubURL: 
 
-fullstory: https://nsw.swimming.org.au/news-articles/2025-australian-age-and-mc-age-championships-qualifying-times-released
+articlePDF: https://nsw.swimming.org.au/sites/default/files/assets/documents/2025-Australian-Age-Championships-QTs.pdf
+articlePDFtitle: 2025 Australian Age Championships Qualifying Times
 
-meetflyerpdf: https://nsw.swimming.org.au/sites/default/files/assets/documents/2025-Australian-Age-Championships-QTs.pdf
+articlePDF2: https://swimmingausprd.wpengine.com/wp-content/uploads/2025-Australian-Age-Championships-MC-QTs.pdf
+articlePDFtitle: 2025 Australian MC Age Championships Qualifying Times
 
-entrylink: 
 
-time: 9:00am - 5:00pm
-where: The Y NSW Port Macquarie War Memorial Olympic Swimming Pool
-map: https://maps.app.goo.gl/BUvsdufd6n9WeBZj8
 
 
 ---
-
 
 
 Swimming Australia has released the qualifying times for the 2025 National Age Swimming Championships, signalling the start of an exciting season for swimmers aiming to compete on the national stage.
