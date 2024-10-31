@@ -6,6 +6,8 @@ permalink: contact/thank-you/
 parent: Contact
 eleventyNavigation:
   hide: true
+
+eleventyExcludeFromCollections: true
 ---
 
 We will get back to you as soon as we can.
