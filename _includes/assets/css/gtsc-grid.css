@@ -1051,7 +1051,7 @@ grid-template-rows: var(--headerheight);
 
 .footernavwrapper {
   background-color: var(--white);
-  border-top: 0.6rem solid var(--primary);
+  border-top: 1rem solid var(--primary);
   padding:1rem 0;
   }
 
@@ -1317,14 +1317,6 @@ h1.heading-text {
 
 
 
-
-
-
-
-
-
-
-
 .content.detail {
   margin: 0 auto;
   padding: 5rem 0 6rem 0;
@@ -1366,22 +1358,6 @@ padding: 0 0 6rem 0;
 
 
 
-
-
-
-.content.redgradientcontent p, .redgradientaboutcontent p {
-  line-height: 150%;
-  font-size: 1.35rem;
-  color: var(--white);
-  text-decoration: none;
-margin:0;
-padding:0;
-max-width: 60ch;
-text-align:center;
-
-
-}
-
 .text-center {text-align: center;}
 .text-left {text-align: left;}
 .text-right {text-align: right;}
@@ -1389,36 +1365,9 @@ text-align:center;
 .float-left {float: left;}
 .float-right {float: right;}
 
-.Robotoheading h2, .Robotoheading h3, .Robotoheading h4 {
- font-family: 'Montserrat', Helvetica, Arial, Lucida, sans-serif;
-  text-transform: none;
-  font-family: 'Roboto' , sans-serif;
-  font-style: normal;
-  font-weight: 500;}
 
 
-  .Robotoheading h3 {
-  font-size: 1.8rem;
-  font-size: clamp(1.6rem, 2vw + 1.5rem, 2rem);
-}
 
-.Robotoheading h4 {
-  font-size: 1.5rem;
-  font-size: clamp(1.3rem, 2vw + 1.5rem, 1.7rem);
-}
-
-  .blackh2 h2 {
-    margin: 0 0 2rem 0;
-    color: var(--black);
-    text-transform: none;
-    font-size: 2rem;
-    font-size: clamp(1.8rem, 2vw + 1.5rem, 2.2rem);
-    font-family: 'Roboto' , sans-serif;
-    font-style: normal;
-    font-weight: 500;
-  }
-  .blackh2 h2 a {border-bottom: 1px dotted transparent;}
-  .blackh2 h2 a:hover {border-bottom: 1px solid var(--primary);}
       
 
 .flex-center-align {display: flex;justify-content: flex-start;align-items: center;align-content: center;  flex-direction: row;}
