@@ -2478,7 +2478,7 @@ h3.sum-title-cancelled {
 
 h4.sum-title {
   color: var(--white);
-  background-color: var(--primary);
+  background-color: var(--primarylight);
   font-size:1.3rem;
   line-height: 2;
   white-space: nowrap;
