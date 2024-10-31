@@ -1060,6 +1060,7 @@ grid-template-rows: var(--headerheight);
 
     .footernavwrapper {
       background-color: var(--primary);
+      border-top: none;
     }
   }
 
