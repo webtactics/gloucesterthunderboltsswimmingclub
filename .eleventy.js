@@ -76,7 +76,10 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
-
+    // limit filter for arrays
+  eleventyConfig.addFilter("limit", function (arr, limit) {
+    return arr.slice(0, limit);
+  });
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");

@@ -1,16 +1,15 @@
 ---
-layout: layouts/default.njk
-title: Useful links and Resources
+layout: layouts/grid-useful.njk
+title: Useful Links & Resources
 class: about
-metaDescription: Useful links and Resources
+metaDescription: Useful Links & Resources
 date: 2024-08-22
-permalink: "/about/resources/"
+permalink: /about/resources/
 eleventyNavigation:
   key: Resources
   parent: About
   order: 4
 ---
-Records
-```
+
 
 
