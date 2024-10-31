@@ -9,7 +9,6 @@ eventdate:
   year: 2024
 
 tags:
-
   - GTSC
 
 
