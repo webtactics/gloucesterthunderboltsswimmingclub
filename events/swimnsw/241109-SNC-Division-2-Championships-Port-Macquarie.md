@@ -34,7 +34,7 @@ mapportmac: https://maps.app.goo.gl/BUvsdufd6n9WeBZj8
 
 
 
-Don’t forget to get your entires in for the Division 2 championships. 
+Don’t forget to get your entries in for the Division 2 championships. 
 
 Good news this year for all the 50m events you do NOT need to have a verified time in swim central. This is a great opportunity for swimmers new to competitions to get a taste of racing.
 
