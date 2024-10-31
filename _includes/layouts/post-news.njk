@@ -1,157 +1,152 @@
 ---
-layout: layouts/grid-detail.njk
+layout: layouts/grid-default.njk
 section: post
 ---
 
 
- <div class="grid-2-columns-3x1">
- <div class="detailwrapper">
-<article>
+
+<div class="detailwrapper">
+  <article>
+    <div class="grid-2">
+
+<div class="item postdetail">
+
+<div class="detailcontent">{{ content | safe }}</div>
+
+<div class="eventdate">
+  <p><strong>Event Date :</strong> {{ eventdate.day }} {{ eventdate.month }}, {{ eventdate.year }}</p>
+</div>
+
+<div class="time"><p><strong>Time :</strong> {{ time }}</p></div>
+
+<div class="where"><p><strong>Where :</strong> {{ where }}</p></div>
+
+<div class="map"><p><strong>Map Shortcode :</strong> <a href="{{ map }}" title="{{ title }}">{{ map }}</a></p></div>
+
+{% if club %}<p><strong>Hosting Club :</strong> <a href="{{ clubURL }}" title="Hosting Club : {{ title }}" alt="Hosting Club : {{ title }}" target="_blank">{{ club }}</a></p>{% endif %}
+
+{% if meetflyerpdf %}<p><strong>Event Flyer: </strong><a href="{{ meetflyerpdf }}" title="{{ title }} Flyer" alt="{{ title }} Flyer" target="_blank">{{ subtitle }} Flyer</a></p>{% endif %}
+
+{% if entrylink %}<p><strong>Entry: </strong><a href="{{ entrylink }}" title="{{ title }} entry" alt="{{ title }} entry" target="_blank">{{ subtitle }} entry</a></p>{% endif %}
 
 
-<div class="item blogdetail">
-<div class="blogdetailimage" align="center"><img src="{{ image }}?tr=w-800,h-800" alt="{{ imageAlt }}" title="{{ imageAlt }}"></div>
-{% if GTIN %}<div class="timecostwrapper"><span class="timecostmin">GTIN:</span>{{ GTIN }}</div>{% endif %}
-<div class="detailcontent">     
-{{ layoutContent | safe }}</div>
+  {% if events %}
+<div class="eventsheld"><p>Events to be held</p></div>
+  {% endif %}
 
-<h1>Nutrition Information</h1>
+ <div class="grid-1x3">
+{% if freestyle %}
+ <div class="strokeleft"><p><span class="stroketitle">Freestyle:</span></p></div>
+<div class="strokeright"><p>
+{% if freestyle.length25 %}<span class="eventlength">25 metres</span>{% endif %}
+{% if freestyle.length50 %}<span class="eventlength">50 metres</span>{% endif %}
+{% if freestyle.length100 %}<span class="eventlength">100 metres</span>{% endif %}
+{% if freestyle.length200 %}<span class="eventlength">200 metres</span>{% endif %}
+{% if freestyle.length400 %}<span class="eventlength">400 metres</span>{% endif %}
+{% if freestyle.length800 %}<span class="eventlength">800 metres</span>{% endif %}
+{% if freestyle.length1500 %}<span class="eventlength">1500 metres</span>{% endif %}
+</p>
+</div>
+{% endif %}
 
-<div class="grid-container">
-    <div class="grid-item">
-      <h2>Nutrition Information</h2>
-      <ul>
-        <li>Servings per Pack: {{ nutrition.servesPerPack }}</li>
-        <li>Serving Size: {{ nutrition.servingSize }}</li>
-        <li>Energy per Serve: {{ nutrition.energyPerServe }}</li>
-        <li>Energy per 100g: {{ nutrition.energyPer100g }}</li>
-        <li>Protein per Serve: {{ nutrition.proteinPerServe }}</li>
-        <li>Protein per 100g: {{ nutrition.proteinPer100g }}</li>
-        <li>Total Fat per Serve: {{ nutrition.fatTotalPerServe }}</li>
-        <li>Total Fat per 100g: {{ nutrition.fatTotalPer100g }}</li>
-      </ul>
-    </div>
-    <div class="grid-item">
-      <ul>
-        <li>Saturated Fat per Serve: {{ nutrition.fatSaturatedPerServe }}</li>
-        <li>Saturated Fat per 100g: {{ nutrition.fatSaturatedPer100g }}</li>
-        <li>Carbohydrate per Serve: {{ nutrition.carbohydratePerServe }}</li>
-        <li>Carbohydrate per 100g: {{ nutrition.carbohydratePer100g }}</li>
-        <li>Carbohydrate Sugars per Serve: {{ nutrition.carbohydrateSugarsPerServe }}</li>
-        <li>Carbohydrate Sugars per 100g: {{ nutrition.carbohydrateSugarsPer100g }}</li>
-        <li>Sodium per Serve: {{ nutrition.sodiumPerServe }}</li>
-        <li>Sodium per 100g: {{ nutrition.sodiumPer100g }}</li>
-      </ul>
-    </div>
-  </div>
+{% if backstroke %}
+ <div class="strokeleft"><p><span class="stroketitle">Backstroke:</span></p></div>
+<div class="strokeright"><p>
+   {% if backstroke.length25 %}<span class="eventlength">25 metres</span>{% endif %}
+  {% if backstroke.length50 %}<span class="eventlength">50 metres</span>{% endif %}
+  {% if backstroke.length100 %}<span class="eventlength">100 metres</span>{% endif %}
+  {% if backstroke.length200 %}<span class="eventlength">200 metres</span>{% endif %}
+  {% if backstroke.length400 %}<span class="eventlength">400 metres</span>{% endif %}
+  {% if backstroke.length800 %}<span class="eventlength">800 metres</span>{% endif %}
+  {% if backstroke.length1500 %}<span class="eventlength">1500 metres</span>{% endif %}
+</p>
+</div>
+{% endif %}
 
+{% if breaststroke %}
+ <div class="strokeleft"><p><span class="stroketitle">Breaststroke:</span></p></div>
+<div class="strokeright"><p>
+  {% if breaststroke.length25 %}<span class="eventlength">25 metres</span>{% endif %}
+  {% if breaststroke.length50 %}<span class="eventlength">50 metres</span>{% endif %}
+  {% if breaststroke.length100 %}<span class="eventlength">100 metres</span>{% endif %}
+  {% if breaststroke.length200 %}<span class="eventlength">200 metres</span>{% endif %}
+  {% if breaststroke.length400 %}<span class="eventlength">400 metres</span>{% endif %}
+  {% if breaststroke.length800 %}<span class="eventlength">800 metres</span>{% endif %}
+</p>
+</div>
+{% endif %}
 
-  <h1>Recipes</h1>
+{% if butterfly %}
+ <div class="strokeleft"><p><span class="stroketitle">Butterfly:</span></p></div>
+<div class="strokeright"><p>
+    {% if butterfly.length25 %}<span class="eventlength">25 metres</span>{% endif %}
+    {% if butterfly.length50 %}<span class="eventlength">50 metres</span>{% endif %}
+    {% if butterfly.length100 %}<span class="eventlength">100 metres</span>{% endif %}
+    {% if butterfly.length200 %}<span class="eventlength">200 metres</span>{% endif %}
+    {% if butterfly.length400 %}<span class="eventlength">400 metres</span>{% endif %}
+    {% if butterfly.length800 %}<span class="eventlength">800 metres</span>{% endif %}
+</p>
+</div>
+{% endif %}
 
-<p>{{ ingredients }}</p>
-<p>{{ allergen.line1 }}<br>
-{{ allergen.line2 }}{% if allergen.line3 %}<br>
-{{ allergen.line3 }}{% endif %}</p>
-
-  
-
-
-
-
-
-
-{% set postslist = collections['Featured'] %}
-  {% include "components/postslist-sidebar.njk" %}
-
-
-
-
-
-
-
-
-{% if galleryimages %}
- <div class="gallery">
-{% include "components/gallery-products.njk" %}
+{% if medley %}
+ <div class="strokeleft"><p><span class="stroketitle">IM:</span></p></div>
+<div class="strokeright"><p>
+    {% if medley.length100 %}<span class="eventlength">100 metres</span>{% endif %}
+    {% if medley.length200 %}<span class="eventlength">200 metres</span>{% endif %}
+    {% if medley.length400 %}<span class="eventlength">400 metres</span>{% endif %}
+    {% if medley.length800 %}<span class="eventlength">800 metres</span>{% endif %}
+</p>
 </div>
 {% endif %}
 
 
+{% if relay %}<p><strong>Relay</strong></p>{% endif %}
+{% if distance %}<p><strong>Distance</strong></p>{% endif %}
+{% if sprint %}<p><strong>Sprint</strong></p>{% endif %}
+{% if team %}<p><strong>Team</strong></p>{% endif %}
+{% if individual %}<p><strong>Individual</strong></p>{% endif %}
+{% if mixed %}<p><strong>Mixed</strong></p>{% endif %}
+
+
+{% if interclub %}<p><strong>Interclub</strong></p>{% endif %}
+{% if invitational %}<p><strong>Invitational</strong></p>{% endif %}
+{% if championship %}<p><strong>Championship</strong></p>{% endif %}
+
+
+</div>
+
+
+
+</div>
+
+<div class="sidebarwrapper">
 
 
 
 
-{% if tags %}
-  <div class="tag"><h4>Tags</h4>
-  <ul>
-{% for tag in tags %}
-  {%- if tag != "post" -%}
-    {% set tagUrl %}/tagged/{{ tag }}/{% endset %}
-   <li><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
-  {%- endif -%}
-{% endfor %}
-  </ul>
+{% if mapgtsc %}
+<div class="map">
+{% include "components/global/map-gtsc.html" %}
 </div>
 {% endif %}
-
-
-   
+{% if maptaree %}
+<div class="map">
+{% include "components/global/map-taree.html" %}
 </div>
+{% endif %}
+{% if mapforster %}
+<div class="map">
+{% include "components/global/map-forster.html" %}
+</div>
+{% endif %}
+{% if mapportmac %}
+<div class="map">
+{% include "components/global/map-portmac.html" %}
+{% endif %}
+</div>
+
+</div>
+
 </article>
 </div>
-<div class="detailsidebar">
-<aside>
-    {% if "Changs-Chinese-Black-Pepper-Sauce" %}
-    <h1>Changs-Chinese-Black-Pepper-Sauce</h1>
-    {% set postslist = collections['Changs Chinese Black Pepper Sauce'] %}
-    {% include "components/postslist.njk" %}
-    {% endif %}
-
-    {% if "Changs Chinese Black Pepper Sauce" %}
-    <h1>Changs Chinese Black Pepper Sauce</h1>
-    {% set postslist = collections['Changs Chinese Black Pepper Sauce'] %}
-    {% include "components/postslist.njk" %}
-    {% endif %}
-    
-    {% if "Changs-Wok-Ready-Noodles" %}
-    <h1>Changs-Wok-Ready-Noodles 5s2</h1>
-    {% set postslist = collections['Changs Wok-Ready Noodles'] %}
-    {% include "components/postslist.njk" %}
-     {% endif %}
-
-    {% if "recipes.ChangsChineseBlackPepperSauce" %}
-    <h1>Changs Wok Ready Noodles 5t</h1>
-    {% set postslist = collections['Changs Wok Ready Noodles'] %}
-    {% include "components/postslist.njk" %}
-    {% endif %}
-
-{% if prodChangsWokReadyNoodles %}
-<h1>Changs Wok Ready Noodles 2</h1>
-{% set postslist = collections['Changs Wok Ready Noodles'] %}
-{% include "components/postslist.njk" %}
-{% endif %}
-
-{% if ChangsWokReadyNoodles %}
-<h1>Changs Wok Ready Noodles 3</h1>
-{% set postslist = collections['Changs Wok Ready Noodles'] %}
-{% include "components/postslist.njk" %}
-{% endif %}
-
-{% if "Changs Wok-Ready Noodles" %}
-<div class="sidebarwrapper2">
-<h3>"Changs Wok-Ready Noodles 2"</h3>
-{% set postslist = collections['Changs Wok-Ready Noodles'] %}
-{% include "components/postslist.njk" %}
-</div>
-{% endif %}
-{% if "Changs Chinese Black Pepper Sauce" %}
-<div class="sidebarwrapper2">
-<h3>"Changs Chinese Black Pepper Sauce"</h3>
-{% set postslist = collections['Changs-Chinese-Black-Pepper-Sauce'] %}
-{% include "components/postslist.njk" %}
-</div>
-{% endif %}
-</aside>
-</div>
-</div>
-
