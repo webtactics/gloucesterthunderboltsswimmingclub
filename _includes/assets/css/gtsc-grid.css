@@ -2478,7 +2478,7 @@ h3.sum-title-cancelled {
 
 h4.sum-title {
   color: var(--white);
-  background-color: var(--primarylight);
+  background-color: var(--primary);
   font-size:1.3rem;
   line-height: 2;
   white-space: nowrap;
@@ -2507,8 +2507,8 @@ h4.sum-title a {
 
 
 h4.sum-title a:hover {
-  color: var(--darkblue);
-  background-color: var(--primarylight);
+  color: var(--white);
+  background-color: var(--primary);
   transition: background-color .6s;
   border-bottom-left-radius: 0.5rem;
   border-bottom-right-radius: 0.5rem;
