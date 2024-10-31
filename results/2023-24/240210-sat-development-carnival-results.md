@@ -15,7 +15,7 @@ results: /results/2023-24/240210-sat-development-carnival-results.pdf
 tags:
   - Club-Night
   - Results
-  - 2023-24-Season
+  - 2023-24-Season-Results
   - 2024
   - GTSC-Development-Carnival
 
