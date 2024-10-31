@@ -53,6 +53,7 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
+entrylink: https://swimcentral.swimming.org.au/
 
 ---
 
