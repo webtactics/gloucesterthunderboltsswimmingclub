@@ -1900,7 +1900,10 @@ padding: 3rem 1rem;}
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
 }
-
+.grid-2-news {
+  grid-template-columns: 2fr 1fr;
+  gap: 3rem;
+}
 
 .grid-3 {
   grid-template-columns:1fr 1fr 1fr;
@@ -1992,7 +1995,7 @@ max-width: 600px;}
     row-gap: 0;
   }
 
-  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks  {
+  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news   {
     grid-template-columns: repeat(1, 1fr); 
     gap: 1rem;
   }
