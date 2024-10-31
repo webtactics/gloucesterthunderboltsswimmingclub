@@ -2,8 +2,6 @@
     "layout": "layouts/post-results.njk",
     "permalink": "results/{{ title | slug }}/index.html",
     "author": "Anonymous",
-    "tags": [
-      "results"
-    ]
+  
   }
   
