@@ -1160,9 +1160,11 @@ ul.footer-menu li {
   padding: 0.5rem 2rem;
   height: auto;
   border-bottom: 1px solid var(--lightgrey);
+  color: var(--white);
 }
 .footer-menu>li>a:hover {
   border-bottom: 1px solid var(--primarydark);
+  color: var(--white);
 }
     .footer {
       display: block;
