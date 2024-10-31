@@ -246,7 +246,7 @@ color: var(--black);
 
 
 
-.hide { display: none;}
+
 
 .scrolled .hide-for-scrolled {display: none;}
 
@@ -1623,7 +1623,7 @@ button.blogdetail, .button.blogdetail {margin:0;}
 
 .hide { display: none;}
 
-
+li.hide { display: none;}
 
 /* homepage hero */
 
