@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-news.njk
+layout: layouts/grid-default.njk
 title: News about Club Events and Swim NSW Meets
 description: 
 section: news
