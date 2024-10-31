@@ -1,6 +1,6 @@
 ---
 title: Summer Social Results Week 1 04/01/2024
-subtitle: Summer Social Week 2
+subtitle: Summer Social Week 1
 date: 2024-01-04
 
 eventdate:
