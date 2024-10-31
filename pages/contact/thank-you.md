@@ -8,4 +8,4 @@ eleventyNavigation:
   hide: true
 ---
 
-Thank you for contacting us! We will get back to you as soon as we can.
+We will get back to you as soon as we can.
