@@ -15,14 +15,38 @@ eleventyNavigation:
 
 
 
-Drowning in a sea of news.  
+### Interested in swimming?
 
-Need to add some news here.  
+**Cool, then some of this stuff may interest you too.**
 
-Maybe a blog post or two.  
-Maybe a link to a news article.  
-Maybe a link to a video.  
-Maybe a link to a podcast?
+{% for post in collections.news %}
+<article class="news-item">
+  <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+  <p>{{ post.data.date }}</p>
+  <p>{{ post.data.eventdate.day }} {{ post.data.eventdate.month }} {{ post.data.eventdate.year }}</p>
+  <p>{{ post.data.tags }}</p>
+  <p>{{ post.data.time }}</p>
+  <p>{{ post.data.where }}</p>
+  <p>{{ post.data.map }}</p>
+  <p>{{ post.data.articlelink }}</p>
+  <p>{{ post.data.articlePDF }}</p>
+  <p>{{ post.data.articlePDFtitle }}</p>
+  <p>{{ post.data.articlePDF2 }}</p>
+  <p>{{ post.data.articlePDFtitle2 }}</p>
+  <p>{{ post.data.image }}</p>
+  <p>{{ post.data.articlelink }}</p>
+  <p>{{ post.data.articlePDF }}</p>
+  <p>{{ post.data.articlePDFtitle }}</p>
+  <p>{{ post.data.articlePDF2 }}</p>
+  <p>{{ post.data.articlePDFtitle2 }}</p> 
+  <p>{{ post.data.time }}</p>
+
+
+
+</article>
+{% endfor %}
+
+```
 
 
 
