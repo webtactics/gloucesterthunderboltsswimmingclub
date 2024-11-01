@@ -2329,24 +2329,24 @@ font-size:1rem;
 
 .resultssumroundimage img {
   border-radius: 1rem;
-  width: 100%;
+  width: auto;
   aspect-ratio: 100 / 150;
 }
 .resultssumroundimage img:hover {
   filter: brightness(110%);
   transition: all 0.2s ease-in-out;
-  width: 100%;
+ 
 }
 
 .resultssumsmallimage img {
   border-radius: 1rem;
-  width: 100%;
+  width: auto;
   aspect-ratio: 1 / 1;
 }
 .resultssumsmallimage img:hover {
   filter: brightness(110%);
   transition: all 0.2s ease-in-out;
-  width: 100%;
+
 }
 
 .recordsimage img {
