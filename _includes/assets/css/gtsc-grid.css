@@ -1955,7 +1955,9 @@ max-width: 600px;}
 
 @media (max-width: 1024px) {
 
- 
+  .grid-150x1fr {
+    grid-template-columns: 100px 1fr;
+  }
 
   .grid-1x3 {
     grid-template-columns: repeat(1, 1fr); 
