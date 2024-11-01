@@ -1842,6 +1842,10 @@ padding: 3rem 1rem;}
   gap: 1rem;
 }
 
+.grid-150x1fr {
+  grid-template-columns: 150px 1fr;
+}
+
 .grid-1x2 {
   grid-template-columns: 1fr 2fr;
 }
