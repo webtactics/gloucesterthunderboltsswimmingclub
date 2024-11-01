@@ -2610,7 +2610,16 @@ a.resultspdfsmall:hover {
   height: 80px
  
 }
-
+@media (max-width: 1025px) {
+  .eightypercentborder3rem, .eightypercentborder {
+    margin: 0 auto 2rem auto;
+    border-bottom: 4px dotted var(--lightgrey);
+    width: calc(80vw - 6rem);
+    max-width: 800px;
+    height: 32px
+   
+  }
+}
 
 .postsumdate {
 background-color: var(--primary);
