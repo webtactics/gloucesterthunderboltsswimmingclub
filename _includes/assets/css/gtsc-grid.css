@@ -2308,7 +2308,7 @@ font-size:1rem;
 }
 
 
-.resultssummary, .eventsummary {margin: 1rem 0;}
+.resultssummary, .eventsummary {margin: 0;}
 
 .bordertopsumimage img {
   border-top-left-radius: 0.5rem;
