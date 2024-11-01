@@ -2,7 +2,7 @@
 layout: layouts/grid-default.njk
 title: Club Sponsorship
 class: about
-metaDescription: Gloucester Thunderbolts Swimming Club Sponsors and Supporters. Supporting our club and our swimmers.
+description: Gloucester Thunderbolts Swimming Club Sponsors and Supporters. Supporting our club and our swimmers.
 date: 2024-08-22
 permalink: /about/sponsors/
 eleventyNavigation:

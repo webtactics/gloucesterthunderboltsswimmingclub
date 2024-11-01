@@ -2,7 +2,7 @@
 layout: layouts/grid-governance.njk
 title: Governance
 class: about
-metaDescription: Governance and Bylaws
+description: Governance and Bylaws
 date: 2024-10-29
 permalink: /about/governance/
 eleventyNavigation:
