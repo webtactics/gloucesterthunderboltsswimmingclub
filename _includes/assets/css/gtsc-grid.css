@@ -2279,7 +2279,11 @@ select {
 /* Gallery
 ------------------------------------------------- */
 
+.resultswrapper {
 
+padding-top:2rem;
+
+}
   
 
 a.swimcentral {
