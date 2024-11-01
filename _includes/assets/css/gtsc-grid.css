@@ -1356,7 +1356,7 @@ padding: 0 0 6rem 0;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
   padding:0 0.25rem;
-
+white-space: wrap;
 }
 
 .container p a:hover {
