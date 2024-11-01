@@ -1853,7 +1853,6 @@ padding: 3rem 1rem;}
 }
 .grid-1x4 {
   grid-template-columns: 100px 1fr;
-  gap: 2rem;
   margin-bottom:2rem;
 }
 
@@ -1951,10 +1950,7 @@ max-width: 600px;}
 
 @media (max-width: 1024px) {
 
-  .grid-1x4 {
-
-    gap: 1rem;
-  }
+ 
 
   .grid-1x3 {
     grid-template-columns: repeat(1, 1fr); 
