@@ -1912,7 +1912,7 @@ max-width: 600px;}
 .grid-3-columns {
   grid-template-columns: repeat(3, 1fr);
 }
-.grid-3-columns.resultssum {
+.grid-3-columns.resultssum, .grid-3-columns.eventsum {
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
 }
