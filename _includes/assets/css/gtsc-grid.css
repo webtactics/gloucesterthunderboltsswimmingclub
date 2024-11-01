@@ -1914,8 +1914,8 @@ max-width: 600px;}
 }
 .grid-3-columns.resultssum, .grid-3-columns.eventsum {
   grid-template-columns: repeat(3, 1fr);
-  column-gap: 2rem;
-  row-gap: 1rem;
+  gap: 2rem;
+
 }
 
 .grid-4-columns {
