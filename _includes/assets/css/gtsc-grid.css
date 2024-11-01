@@ -1852,7 +1852,7 @@ padding: 3rem 1rem;}
   row-gap: 0;
 }
 .grid-1x4 {
-  grid-template-columns: 1fr 5fr;
+  grid-template-columns: 150px 1fr;
   gap: 2rem;
   margin-bottom:2rem;
 }
@@ -1952,7 +1952,7 @@ max-width: 600px;}
 @media (max-width: 1024px) {
 
   .grid-1x4 {
-    grid-template-columns: 1fr 5fr;
+
     gap: 1rem;
   }
 
