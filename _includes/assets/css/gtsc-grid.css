@@ -2679,7 +2679,7 @@ h3.news-title a:hover {
 }
 
 @media (max-width: 700px) {
-  .usefultextwrapper {
+  .usefultextwrapper, .usefultextwrapper:hover {
     padding: 0;
     margin: 0;
     border-left: none;
