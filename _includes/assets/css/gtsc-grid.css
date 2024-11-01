@@ -1959,7 +1959,7 @@ max-width: 600px;}
     row-gap: 0;
   }
 
-  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news   {
+  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news, .grid-3-columns.resultssum, .grid-3-columns.eventsum   {
     grid-template-columns: repeat(1, 1fr); 
     gap: 1rem;
   }
@@ -2593,8 +2593,6 @@ a.resultspdfsmall:hover {
 
 
 .eightypercentborder3rem, .eightypercentborder {
-
-
   margin: 0 auto 5rem auto;
   border-bottom: 4px dotted var(--lightgrey);
   width: calc(80vw - 6rem);
