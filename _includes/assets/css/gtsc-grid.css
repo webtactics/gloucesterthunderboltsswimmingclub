@@ -2312,14 +2312,14 @@ font-size:1rem;
 .bordertopsumimage img {
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
-  width: 100%;
+  width: auto;
   aspect-ratio: 400 / 267;
 }
 
 .bordertopsumimage img:hover {
   filter: brightness(90%);
   transition: all 0.2s ease-in-out;
-  width: 100%;
+
 }
 
 
@@ -2650,7 +2650,7 @@ h3.news-title a:hover {
 
 .postnewsimage img {
   border-radius: 0.5rem;
-  width: 100%;
+  width: auto;
   aspect-ratio: 1 / 1;
 }
 
