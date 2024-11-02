@@ -2748,7 +2748,7 @@ textarea
 	border: 1px solid var(--primary);
 }
 
-.buttonnavwrapperoutside {position:sticky;top:80px;z-index: 5;background-color: var(--white);padding:1rem 0;}
+.buttonnavwrapperoutside {position:sticky;top:80px;z-index: 5;background-color: var(--white);padding:1rem;}
 
 .buttonnavwrapper {
   display: flex;
