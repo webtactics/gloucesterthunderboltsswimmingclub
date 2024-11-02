@@ -11,7 +11,7 @@ metadata:
 eleventyNavigation:
   key: Swim Central
   parent: Events
-  order: 4
+  order: 3
 ---
 
 

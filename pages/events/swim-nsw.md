@@ -8,7 +8,7 @@ permalink: /events/swim-nsw/
 eleventyNavigation:
   key: Swim NSW 
   parent: Events
-  order: 3
+  order: 4
 ---
 
 
