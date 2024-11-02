@@ -286,6 +286,7 @@ line-height:4rem;
 display: flex;
 justify-content: flex-end;
 align-items: center;
+background: var(--darkblue);
 
 }
 
@@ -926,6 +927,7 @@ grid-template-rows: var(--headerheight);
   -o-transition: all 0.6s;
   transition: all 0.6s;
   padding: 0 0 0 var(--navbottomheight); 
+  z-index:6;
 }
 
  .scrolled .logo {
