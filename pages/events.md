@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-events.njk
-title: Club Events and Swim NSW Meets
+title: GTSC Events & Swim NSW Meets
 description: 
 section: events
 class: events
