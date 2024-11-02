@@ -1,6 +1,6 @@
 ---
 title: Club Night Round 1 Week 10, 2024-25 Season
-subtitle: GTSC Round 1 Week 10
+subtitle: GTSC Round 1 Week 10, Xmas BBQ
 date: 2024-12-19
 
 eventdate:
