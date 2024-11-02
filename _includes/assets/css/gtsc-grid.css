@@ -2748,7 +2748,13 @@ textarea
 	border: 1px solid var(--primary);
 }
 
-.buttonnavwrapper {position:sticky;top:80px;z-index: 5;background-color: var(--white);padding:1rem 0;}
+.buttonnavwrapperoutside {position:sticky;top:80px;z-index: 5;background-color: var(--white);padding:1rem 0;}
+
+.buttonnavwrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
 .buttonnavwrapper > button {
   padding: 15px 20px;
