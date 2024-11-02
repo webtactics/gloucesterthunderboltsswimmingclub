@@ -3,7 +3,7 @@ title: Boys Long Course Overall North Coast Records @ 22/10/2024
 subtitle: Boys Long Course Overall Records
 date: 2024-10-22
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/records/swimming-north-coast-600x400.jpg
 
 description: Boys Long Course Overall North Coast Records @ 22/10/2024
 
