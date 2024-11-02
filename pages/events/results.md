@@ -8,7 +8,7 @@ permalink: /events/results/
 eleventyNavigation:
   key: Results
   parent: Events
-  order: 4
+  order: 2
 ---
 <div class="buttonnavwrapperoutside">
 <div class="buttonnavwrapper">
