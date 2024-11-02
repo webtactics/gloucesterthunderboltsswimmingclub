@@ -11,6 +11,7 @@ records: /records/north-coast/241022-Long-Course-Overall-Records-Girls.pdf
 
 tags:
   - Records
+  - North-Coast-Records
   - North-Coast-Long-Course-Records
 
 

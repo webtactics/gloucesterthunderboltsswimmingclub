@@ -11,6 +11,7 @@ records: /records/north-coast/241022-Short-Course-Overall-Records-Boys.pdf
 
 tags:
   - Records
+  - North-Coast-Records
   - North-Coast-Short-Course-Records
 
 
