@@ -16,5 +16,5 @@ eleventyNavigation:
 <button><a href="/events/results#2023-24">2023-24 Club Night Results</a></button>
 <button><a href="#2022-23">2022-23 Club Night Results</a></button>
 <button><a href="#2021-22">2021-22 Club Night Results</a></button>
-<button><a href="#2020-21">2020-21 Club Night Results</a></button>
+<button><a href="#2020_21">2020-21 Club Night Results</a></button>
 </div>
