@@ -762,7 +762,7 @@ ul.infoboxmobile a {
   background-color: var(--primarydark);
   height: var(--mobilenavheight);
   width: 100%;
-  z-index: 3;
+  z-index: 6;
 }
 
 
