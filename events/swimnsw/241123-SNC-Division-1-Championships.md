@@ -16,7 +16,7 @@ tags:
 
 image: 
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/lismore-workers-600x400.jpg
+clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/coffs-harbour-600x400.jpg
 
 club: Coffs Harbour Swim Club
 clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/
