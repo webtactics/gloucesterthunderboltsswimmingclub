@@ -11,7 +11,7 @@ eleventyNavigation:
   order: 4
 ---
 
-<div class="buttonnavwrapper">
+<div class="buttonnavwrapper" style="position:sticky;padding:2rem 0;">
 <button><a href="#2024-25">2024-25 Club Night Results</a></button>
 <button><a href="#2023-24">2023-24 Club Night Results</a></button>
 <button><a href="#2022-23">2022-23 Club Night Results</a></button>
