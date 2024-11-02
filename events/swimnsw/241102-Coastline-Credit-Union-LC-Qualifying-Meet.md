@@ -21,7 +21,7 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Taree-Torpedoes
-  - Featured
+
 
 time: 9:00am - 5:00pm
 where: Manning Aquatic Leisure Centre Taree
