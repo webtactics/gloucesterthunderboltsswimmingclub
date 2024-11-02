@@ -2756,6 +2756,16 @@ textarea
   justify-content: center;
 }
 
+.buttonnavwrapper a {
+  text-decoration: none;
+  color: var(--primary);
+}
+
+.buttonnavwrapper a:hover {
+  text-decoration: none;
+  color: var(--white);
+}
+
 .buttonnavwrapper > button {
   padding: 0.25rem;
   text-align: center;
@@ -2776,12 +2786,3 @@ textarea
   background-color: var(--primary);
 }
 
-.buttonnavwrapper a {
-  text-decoration: none;
-  color: var(--primary);
-}
-
-.buttonnavwrapper a:hover {
-  text-decoration: none;
-  color: var(--white);
-}
