@@ -1,41 +1,45 @@
 ---
-title: 2024 Lismore Workers LC Qualifying Carnival
-subtitle: Lismore Workers LC Qualifying Carnival
-date: 2024-11-16
+title: Coffs Harbour SNC Division 1 Championships
+subtitle: SNC Division 1 Championships
+date: 2024-11-23
 
 eventdate:
-  day: 16th
+  day: 23rd
   month: November
   year: 2024
 
 tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
-  - Lismaore-Workers
+  - Coffs-Harbour-Swim-Club
   - Featured
 
 image: 
 
 clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/lismore-workers-600x400.jpg
 
-club: Lismore Workers Swim Team 
-clubURL: https://www.facebook.com/lwstswimming/
+club: Coffs Harbour Swim Club
+clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/
 
-meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_0d65084ad83342af912e55310515d5f2.pdf
+meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_068dab087119484088ecf5684c56c5f2.pdf
 
-entrylink: https://swimcentral.swimming.org.au/bounce?returnUrl=%2Fevents%2Fa9f67258-3686-ef11-ac20-000d3ad05ca9%2Fdetail
+entrylink: https://swimcentral.swimming.org.au/bounce?returnUrl=%2Fevents%2F89a7a61f-f077-ef11-ac20-0022489771e1%2Fdetail
 
 time: 9:00am - 5:00pm
-where: Lismore Memorial Baths
-map: https://maps.app.goo.gl/uy2f5rSq7pkM1MXS7
+where: Coffs Harbour War Memorial Swim Centre
+map: https://maps.app.goo.gl/MygpKRQthLtx39jKA
 
 maptaree:
 
 mapportmac:
 
+mapcoffs: true
+
 mapcresenthead:
 
-maplismore: true
+maplismore: 
+
+
 
 
 ---
