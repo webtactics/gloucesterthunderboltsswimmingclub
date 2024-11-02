@@ -2751,7 +2751,7 @@ textarea
 	border: 1px solid var(--primary);
 }
 
-.buttonnavwrapperoutside {position:sticky;top:60px;z-index: 5;background-color: var(--white);padding:0.5rem 0;}
+.buttonnavwrapperoutside {position:sticky;top:60px;z-index: 3;background-color: var(--white);padding:0.5rem 0;}
 
 .buttonnavwrapper {
   display: flex;
