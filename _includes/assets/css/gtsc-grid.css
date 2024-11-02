@@ -2757,17 +2757,16 @@ textarea
 }
 
 .buttonnavwrapper > button {
-  padding: 15px 20px;
+  padding: 0.25rem 0.5rem;
   text-align: center;
   text-decoration: none;
   background-color: var(--white);
   font-family: Montserrat,Helvetica,Arial,Lucida,sans-serif;
-  font-size: 20px;
+  font-size: 1rem;
   font-style: normal;
-  font-weight: 600;
   line-height: normal;
   letter-spacing: 0.8px;
-  margin: 1rem 20px;
+  margin: 0.5rem;
   border-radius: 40px;
   border: 3px solid var(--primary);
   transition-duration: 0.2s;
