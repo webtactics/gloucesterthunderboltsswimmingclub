@@ -48,7 +48,7 @@
 
 {# 2021-22 Season Club Night Results #}
 <div class="two-colum-wrapper">	
-  <h2 id="#2021-22" class="heading-text">2021-22 Season Club Night Results</h2>
+  <h2 id="{{ page.url }}#2021-22" class="heading-text">2021-22 Season Club Night Results</h2>
 <div class="resultswrapper">
 	{% set postslist = collections['2021-22-Results-GTSC'] | reverse -%} 
 	{% include "components/postslist-results-small.njk" %}
