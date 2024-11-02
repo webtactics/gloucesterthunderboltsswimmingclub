@@ -2748,4 +2748,4 @@ textarea
 	border: 1px solid var(--primary);
 }
 
-.buttonnavwrapper {position:sticky;top:100px;z-index: 5;}
+.buttonnavwrapper {position:sticky;top:80px;z-index: 5;}
