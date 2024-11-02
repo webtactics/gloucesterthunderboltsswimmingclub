@@ -978,7 +978,8 @@ grid-template-rows: var(--headerheight);
     display: block;
     height: 100%;
     width : 100%;
-    max-width:117px;aspect-ratio: 103 / 70;
+    max-width:103px;
+    aspect-ratio: 103 / 70;
    }
 
 .hamburger {
