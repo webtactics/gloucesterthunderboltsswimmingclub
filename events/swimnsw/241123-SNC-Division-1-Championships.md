@@ -1,6 +1,6 @@
 ---
 title: Coffs Harbour SNC Division 1 Championships
-subtitle: SNC Division 1 Championships
+subtitle: Coffs Harbour SNC Division 1 Championships
 date: 2024-11-23
 
 eventdate:
