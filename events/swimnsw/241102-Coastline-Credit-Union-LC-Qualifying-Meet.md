@@ -13,7 +13,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-3.jpg
 clubimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/taree-torpedoes-600x400.jpg
 
 club: Taree Torpedoes
-clubURL: https://www.tareetorpedoes.com.au/
+clubURL: https://www.tareetorpedoes.com/
 
 meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_5f2281fb0a034d09af25d4b8ed5ddad5.pdf
 
