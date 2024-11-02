@@ -16,7 +16,7 @@ tags:
 
 image: 
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/lismore-workers-600x400.jpg
+clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/lismore-workers-600x400-border.jpg
 
 club: Lismore Workers Swim Team 
 clubURL: https://www.facebook.com/lwstswimming/

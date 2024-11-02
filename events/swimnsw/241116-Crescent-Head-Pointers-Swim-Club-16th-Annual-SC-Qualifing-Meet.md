@@ -16,7 +16,7 @@ tags:
 
 image: 
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/Crescent-Head-Pointers-600x400.jpg
+clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/Crescent-Head-Pointers-600x400-border.jpg
 
 club: Crescent Head Pointers
 clubURL: https://www.facebook.com/p/Crescent-Head-Pointers-Swimming-Club-100031252717475/
