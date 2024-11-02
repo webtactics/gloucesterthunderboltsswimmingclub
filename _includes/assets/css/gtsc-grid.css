@@ -967,7 +967,7 @@ grid-template-rows: var(--headerheight);
 
   .logo,  .scrolled .logo  {
   display: flex;
-  height: 100px;
+  height: auto;
   justify-content:flex-end;
   align-items: flex-start;
   padding: 0 1rem;
