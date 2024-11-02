@@ -2747,3 +2747,5 @@ textarea
 	font-size: 1rem;
 	border: 1px solid var(--primary);
 }
+
+.buttonnavwrapper {position:sticky;top:100px;z-index: 5;}
