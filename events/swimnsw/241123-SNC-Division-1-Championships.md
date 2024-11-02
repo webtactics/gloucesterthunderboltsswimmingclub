@@ -29,6 +29,7 @@ time: 9:00am - 5:00pm
 where: Coffs Harbour War Memorial Swim Centre
 map: https://maps.app.goo.gl/MygpKRQthLtx39jKA
 
+
 maptaree:
 
 mapportmac:
