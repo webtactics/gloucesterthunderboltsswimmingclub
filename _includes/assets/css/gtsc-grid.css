@@ -2453,7 +2453,56 @@ h3.sum-title-cancelled {
   min-height: 61px;
 }
 
+.grid-4-columns.resultssum h3.sum-title {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--white);
+  background-color: var(--primary);
+  font-size:1.5rem;
+  white-space: normal;
+  transition: background-color .6s;
+  width:100%;
+  margin:0;
+  min-height: 88px;
+}
 
+.grid-4-columns.resultssum h3.sum-title a {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--white);
+  background-color: var(--primary);
+  font-size:1.5rem;
+  padding: 0.25rem 1rem;
+  white-space: normal;
+  transition: background-color .6s;
+  width:100%;
+  margin:0;
+  min-height: 88px;
+}
+
+.grid-4-columns.resultssum h3.sum-title a:hover {
+  color: var(--white);
+  background-color: var(--darkblue);
+  transition: background-color .6s;
+}
+
+
+.grid-4-columns.resultssum h3.sum-title-cancelled {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--white);
+  background-color: var(--primary);
+  font-size:1.5rem;
+  white-space: normal;
+  transition: background-color .6s;
+  padding: .25rem 1rem;
+  width:100%;
+  margin:0;
+  min-height: 88px;
+}
 
 
 h4.sum-title {
