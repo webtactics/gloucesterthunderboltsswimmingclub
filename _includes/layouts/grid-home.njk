@@ -34,7 +34,7 @@
 
 <div class="resultswrapper">
    <h2 class="heading-text">2024-25 Season Results</h2>
-	{% set postslist = collections.results | sort: "data.month" | reverse %}  
+	{% set postslist = collections.results | reverse %}  
 	{% include "components/postslist-results.njk" %}
 </div>
 <div class="linkwrapper"><a class="resultspdf" href="/events/club-nights/" title="Club Night Results" alt="Club Night Results">For all Club Night Results &gt;</a></div>
