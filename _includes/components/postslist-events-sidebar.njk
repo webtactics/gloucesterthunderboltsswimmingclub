@@ -3,9 +3,19 @@
 <summary class="grid-150x1fr resultssummarysmall">
 
 
+
+{% if post.data.clubimage %}
+
 <div class="resultssumsmallimage">
 <a href="{{ post.url | url }}" ><img src="{{ post.data.clubimage }}/tr:w-150,h-150" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="150px" height="auto" class="postlistimg"></a>
 </div>
+
+{% else %}
+<div class="resultssumsmallimage">
+<a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-150,h-150" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="150px" height="auto" class="postlistimg"></a>
+</div>
+
+{% endif %}
 
 
 <div class="resultssumsmallcontent">
