@@ -21,7 +21,7 @@
 
 {% if eventssidebar %}
    <h2 class="heading-text">2024-25 Events</h2>
-{% set postslist = collections['Featured'] | reverse -%} 
+{% set postslist = collections['Featured'] | reverse | limit(6) -%} 
 	{% include "components/postslist-events-sidebar.njk" %}
     {% else %}
 
