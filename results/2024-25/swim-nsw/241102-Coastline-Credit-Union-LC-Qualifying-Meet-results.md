@@ -18,8 +18,8 @@ tags:
   - Club-Night
   - Results
   - 2024-25-Results
-  - 2024-25-Results-GTSC
-  - 2024
+  - 2024-25-Results-SwimNSW
+  - 2024-year
 
 time: 9:00am - 5:00pm
 where: Manning Aquatic Leisure Centre Taree

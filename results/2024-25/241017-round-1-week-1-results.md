@@ -17,7 +17,7 @@ tags:
   - Results
   - 2024-25-Results
   - 2024-25-Results-GTSC
-  - 2024
+  - 2024-year
 
 
 time: 6:00pm - 8:00pm

@@ -17,7 +17,7 @@ tags:
   - Results
   - 2023-24-Results
   - 2023-24-Results-GTSC
-  - 2024
+  - 2024-year
   - GTSC-Development-Carnival
 
 time: 6:00pm - 8:00pm
