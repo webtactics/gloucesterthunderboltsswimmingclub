@@ -50,7 +50,7 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
-entrylink: https://swimcentral.swimming.org.au/
+entrylink: https://swimcentral.swimming.org.au/events/42aa4851-0f91-ef11-8a69-000d3ad2172a/detail
 ---
 
 

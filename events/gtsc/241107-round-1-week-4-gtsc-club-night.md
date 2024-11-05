@@ -53,7 +53,7 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
-entrylink: https://swimcentral.swimming.org.au/
+entrylink: https://swimcentral.swimming.org.au/events/60cd051a-2990-ef11-8a6a-000d3ad07ecc/nominations
 
 ---
 
