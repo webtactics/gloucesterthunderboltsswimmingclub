@@ -1,0 +1,58 @@
+---
+title: Beresfield Swimming Development Meet 2024
+subtitle: Beresfield Swimming Development Meet 2024
+date: 2024-12-01
+
+eventdate:
+  day: 1st
+  month: December
+  year: 2024
+
+tags:
+  - 2024-25-Season-Events
+  - 2024-25-Season-Events-SwimNSW
+  - Beresfield-Barracudas
+  - Featured
+
+image: 
+
+clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/beresfield-sc-600x400.jpg
+
+club: Beresfield Barracudas Swim Club 
+clubURL: https://www.facebook.com/BeresfieldSwimClub
+
+meetflyerpdf: 
+
+entrylink: https://swimcentral.swimming.org.au/events/c5453639-1294-ef11-8a68-000d3ad12ff7/detail
+
+time: 9:00am - 5:00pm
+where: Beresfield Pool 230 Anderson Dr, Beresfield NSW 2322
+
+map: https://maps.app.goo.gl/rozRY7sGJjzoDg2x9
+
+maptaree: 
+
+mapportmac:
+
+mapcoffs:
+
+mapcresenthead:
+
+maplismore: 
+
+maplaurieton: 
+
+mapberesfield: true
+
+
+---
+
+
+The Beresfield Barracudas Swim Club Development Meet is on Sunday 1st December 2024.
+
+This is a fantastic meet for our new members starting out in the world of competitive swimming.
+Development Meets
+
+These events are entry level for developing swimmers without official times and for new competitors. These meets may have “Break Times” listed on their programs, which are times that the competitor cannot be faster than. This effectively eliminates the fast and seasoned competitors. 
+
+These events are a great starting point for all new club members and recreational competitors.
