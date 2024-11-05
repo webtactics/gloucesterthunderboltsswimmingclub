@@ -23,7 +23,7 @@ clubURL: https://www.tareetorpedoes.com/
 
 meetflyerpdf: https://nsw.swimming.org.au/sites/default/files/assets/documents/2025%20NSW%20Country%20Regional%20Schedule%20of%20Events%20%26%20QTs%20Final_0.pdf
 
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/home
 
 time: 9:00am - 5:00pm
 where: Manning Aquatic Leisure Centre Taree
@@ -45,3 +45,4 @@ maplaurieton:
 ---
 
 
+There are NO QUALIFYING TIMES for 50m/100m events!
