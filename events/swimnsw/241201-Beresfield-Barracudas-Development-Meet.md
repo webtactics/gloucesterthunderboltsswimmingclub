@@ -46,13 +46,11 @@ mapberesfield: true
 
 
 ---
-
-
-The Beresfield Barracudas Swim Club Development Meet is on Sunday 1st December 2024.
-
 This is a fantastic meet for our new members starting out in the world of competitive swimming.
-Development Meets
 
-These events are entry level for developing swimmers without official times and for new competitors. These meets may have “Break Times” listed on their programs, which are times that the competitor cannot be faster than. This effectively eliminates the fast and seasoned competitors. 
+Development Meets
+These events are entry level for developing swimmers without official times and for new competitors. 
+
+These meets may have “Break Times” listed on their programs, which are times that the competitor cannot be faster than. This effectively eliminates the fast and seasoned competitors. 
 
 These events are a great starting point for all new club members and recreational competitors.
