@@ -23,7 +23,7 @@ clubURL: https://www.tareetorpedoes.com/
 
 meetflyerpdf: https://nsw.swimming.org.au/sites/default/files/assets/documents/2025%20NSW%20Country%20Regional%20Schedule%20of%20Events%20%26%20QTs%20Final_0.pdf
 
-entrylink: https://swimcentral.swimming.org.au/home
+entrylink: https://swimcentral.swimming.org.au/events/2ec1c3de-a795-ef11-8a68-002248971738/nominations
 
 time: 9:00am - 5:00pm
 where: Manning Aquatic Leisure Centre Taree
