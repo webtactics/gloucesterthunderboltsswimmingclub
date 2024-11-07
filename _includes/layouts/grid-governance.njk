@@ -22,7 +22,7 @@
     <div class="sidebarbox">
        <h2 class="heading-text">2024-25 Season Club Night Results</h2>
 	
-    {% set latest_posts = collections['2024-25-Results-GTSC'] | reverse %} {% for post in latest_posts.slice(0,2) %}{% include "components/postslist-results-sidebar.njk" %}{% endfor %}
+    {% set posts = collections['2024-25-Results-GTSC'] | reverse %} {% for post in posts.slice(0,2) %}{% include "components/postslist-results-sidebar.njk" %}{% endfor %}
 	
     </div>
     <div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="2024-25 Season Results" alt="2024-25 Season Results">For all Results &gt;</a></div>
