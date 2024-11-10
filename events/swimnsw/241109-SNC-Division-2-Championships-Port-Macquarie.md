@@ -12,7 +12,7 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Port-Macquarie
-  - Featured
+
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/port-macquarie-swimming-club-600x400.jpg
 
