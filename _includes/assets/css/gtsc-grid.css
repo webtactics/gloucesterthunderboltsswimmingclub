@@ -2476,7 +2476,7 @@ h3.sum-title-cancelled {
   transition: background-color .6s;
   width:100%;
   margin:0;
-  min-height: 88px;
+  min-height: 61px;
 }
 
 .grid-4-columns.resultssum h3.sum-title a {
@@ -2491,7 +2491,7 @@ h3.sum-title-cancelled {
   transition: background-color .6s;
   width:100%;
   margin:0;
-  min-height: 88px;
+  min-height: 61px;
 }
 
 .grid-4-columns.resultssum h3.sum-title a:hover {
@@ -2513,7 +2513,7 @@ h3.sum-title-cancelled {
   padding: var(--h3h4sumpadding);
   width:100%;
   margin:0;
-  min-height: 88px;
+  min-height: 61px;
 }
 
 
