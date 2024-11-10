@@ -2466,7 +2466,7 @@ h3.sum-title-cancelled {
   justify-content: flex-start;
   color: var(--white);
   background-color: var(--primary);
-  font-size:1.5rem;
+  font-size:1.3rem;
   white-space: normal;
   transition: background-color .6s;
   width:100%;
@@ -2480,7 +2480,7 @@ h3.sum-title-cancelled {
   justify-content: flex-start;
   color: var(--white);
   background-color: var(--primary);
-  font-size:1.5rem;
+  font-size:1.3rem;
   padding: 0.25rem 1rem;
   white-space: normal;
   transition: background-color .6s;
