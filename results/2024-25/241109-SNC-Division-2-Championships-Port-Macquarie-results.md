@@ -1,6 +1,6 @@
 ---
 title: Port Macquarie SNC Division 2 Championships Results
-subtitle: Port Macquarie SNC Division 2 Championships Results
+subtitle: SNC Division 2 Championships Results
 date: 2024-11-09
 
 eventdate:

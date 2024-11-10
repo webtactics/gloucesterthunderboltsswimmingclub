@@ -1,6 +1,6 @@
 ---
 title: Coastline Credit Union LC Qualifying Meet Results
-subtitle: Taree Torpedoes LC Qualifying Meet Results
+subtitle: LC Qualifying Meet Results
 date: 2024-11-02
 
 eventdate:
