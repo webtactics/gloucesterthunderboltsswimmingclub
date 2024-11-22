@@ -11,7 +11,7 @@ eventdate:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-24.jpg
 
 
-results: /results/2022-23/230330-age-championship-week-19.pdf
+results: /static/results/2022-23/230330-age-championship-week-19.pdf
 
 tags:
   - Club-Night

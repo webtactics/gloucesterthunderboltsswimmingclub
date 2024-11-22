@@ -10,7 +10,7 @@ eventdate:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/dev-carnival-2024.jpg
 
-results: /results/2023-24/240210-sat-development-carnival-results.pdf
+results: /static/results/2023-24/240210-sat-development-carnival-results.pdf
 
 tags:
   - Club-Night

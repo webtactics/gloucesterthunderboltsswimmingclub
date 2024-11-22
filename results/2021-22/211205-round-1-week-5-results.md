@@ -10,7 +10,7 @@ eventdate:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-5.jpg
 
-results: /results/2021-22/211205-round-1-week-5-results.pdf
+results: /static/results/2021-22/211205-round-1-week-5-results.pdf
 
 tags:
   - Club-Night

@@ -12,7 +12,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-3.jpg
 
 
 
-results: /results/2022-23/221027-round-1-week-3-results.pdf
+results: /static/results/2022-23/221027-round-1-week-3-results.pdf
 
 tags:
   - Club-Night

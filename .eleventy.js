@@ -94,6 +94,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("static/fonts");
   eleventyConfig.addPassthroughCopy("static/assets");
+  eleventyConfig.addPassthroughCopy("static/results");
+  eleventyConfig.addPassthroughCopy("static");
   eleventyConfig.addPassthroughCopy("admin/");
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("_includes/assets/css/gtsc-grid.css");
@@ -104,6 +106,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets/js/slick.min.js");
   eleventyConfig.addPassthroughCopy("script.js");
   eleventyConfig.addPassthroughCopy("**/*.jpg");
+
+
+
+  // Copy any .pdf file to `_site`, via Glob pattern
+	// Keeps the same directory structure.
+	eleventyConfig.addPassthroughCopy("**/*.pdf");
 
   // Markdown plugins
   let markdownIt = require("markdown-it");

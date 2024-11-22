@@ -11,7 +11,7 @@ eventdate:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-28.jpg
 
 
-results: /results/2022-23/230302-bonus-round-week-15-results-400m-free-distance-champs.pdf
+results: /static/results/2022-23/230302-bonus-round-week-15-results-400m-free-distance-champs.pdf
 
 tags:
   - Club-Night

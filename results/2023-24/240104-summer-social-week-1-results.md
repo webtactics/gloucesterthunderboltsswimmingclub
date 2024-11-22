@@ -11,7 +11,7 @@ eventdate:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-26.jpg
 
 
-results: /results/2023-24/240104-summer-social-week-1-results.pdf
+results: /static/results/2023-24/240104-summer-social-week-1-results.pdf
 
 tags:
   - Club-Night

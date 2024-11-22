@@ -12,7 +12,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-17.jpg
 
 
 
-results: /results/2022-23/230316-bonus-round-week-17-results.pdf
+results: /static/results/2022-23/230316-bonus-round-week-17-results.pdf
 
 tags:
   - Club-Night

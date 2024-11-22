@@ -12,7 +12,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-28.jpg
 
 metadescription: Summer Social Results Week 2 11/01/2024
 
-results: /results/2023-24/240111-summer-social-week-2-results.pdf
+results: /static/results/2023-24/240111-summer-social-week-2-results.pdf
 
 tags:
   - Club-Night

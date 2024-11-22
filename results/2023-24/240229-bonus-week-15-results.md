@@ -12,7 +12,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-15.jpg
 
 metadescription: Club Night Results Week 15 Bonus Round 2023-24 Season
 
-results: /results/2023-24/240229-bonus-week-15-results.pdf
+results: /static/results/2023-24/240229-bonus-week-15-results.pdf
 
 tags:
   - Club-Night

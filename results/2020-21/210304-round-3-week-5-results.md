@@ -10,7 +10,7 @@ eventdate:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-17.jpg
 
-results: /results/2020-21/210304-round-3-week-5-results.pdf
+results: /static/results/2020-21/210304-round-3-week-5-results.pdf
 
 tags:
   - Club-Night

@@ -11,7 +11,7 @@ eventdate:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-26.jpg
 
 
-results: /results/2022-23/230309-bonus-round-week-16-results-200m-distance-champs.pdf
+results: /static/results/2022-23/230309-bonus-round-week-16-results-200m-distance-champs.pdf
 
 tags:
   - Club-Night

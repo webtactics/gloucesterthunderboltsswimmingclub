@@ -11,7 +11,7 @@ eventdate:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-25.jpg
 
 
-results: /results/2022-23/230316-bonus-round-week-17-results-updated-200-back,fly-and-distance-events-championships.pdf
+results: /static/results/2022-23/230316-bonus-round-week-17-results-updated-200-back,fly-and-distance-events-championships.pdf
 
 tags:
   - Club-Night
