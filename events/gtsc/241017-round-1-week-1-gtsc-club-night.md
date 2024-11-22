@@ -10,6 +10,8 @@ eventdate:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.jpg
 
+results: /results/2024-25/241017-round-1-week-1-results.pdf
+
 events:
   - freestyle
   - backstroke

@@ -10,6 +10,8 @@ eventdate:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-6.jpg
 
+results: /results/2024-25/241121-round-1-week-6-results.pdf
+
 tags:
   - Club-Night
   - GTSC-Event
