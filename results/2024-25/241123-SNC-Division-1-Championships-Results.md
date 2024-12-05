@@ -10,18 +10,18 @@ eventdate:
 
 
 tags:
-  - Port-Macquarie
+  - Coffs-Harbour
   - Results
   - 2024-25-Results
   - 2024-25-Results-SwimNSW
   - 2024-year
 
-results: /static/results/2024-25/241123-coffs-snc-div- final-results.pdf
+results: /static/results/2024-25/241123-coffs-snc-div-final-results.pdf
 
 
-image: 
+image: https://ik.imagekit.io/webtactics/gtsc/img/events/coffs-harbour-600x400-border.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/coffs-harbour-600x400-border.jpg
+
 
 club: Coffs Harbour Swim Club
 clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/
