@@ -48,7 +48,7 @@ tags:
   - GTSC-Event
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
-  - Featured
+ 
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool
