@@ -8,10 +8,15 @@ eventdate:
   month: November
   year: 2024
 
+
 tags:
-  - 2024-25-Season-Events
-  - 2024-25-Season-Events-SwimNSW
-  - Coffs-Harbour-Swim-Club
+  - Port-Macquarie
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
+  - 2024-year
+
+results: /static/results/2024-25/241123-coffs-snc-div- final-results.pdf
 
 
 image: 
