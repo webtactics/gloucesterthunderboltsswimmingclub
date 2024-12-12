@@ -10,6 +10,12 @@ eventdate:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
 
+tags:
+  - Club-Night
+  - GTSC-Event
+  - 2024-25-Season-GTSC
+  - 2024-25-Season-Events
+
 events:
   - freestyle
   - backstroke
@@ -41,13 +47,6 @@ butterfly:
 
 
 
-
-tags:
-  - Club-Night
-  - GTSC-Event
-  - 2024-25-Season-GTSC
-  - 2024-25-Season-Events
-  - Featured
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool
