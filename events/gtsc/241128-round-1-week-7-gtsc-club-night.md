@@ -15,6 +15,7 @@ events:
   - backstroke
   - breaststroke
   - butterfly
+  - medley
 
 freestyle:
   length25: 25

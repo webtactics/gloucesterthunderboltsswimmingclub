@@ -1,22 +1,14 @@
 ---
-title: Club Night Round 1 Week 10, 2024-25 Season
-subtitle: GTSC Round 1 Week 10, Xmas BBQ
-date: 2024-12-19
+title: Club Night Round 2 Week 2, 2024-25 Season
+subtitle: GTSC Round 2 Week 2
+date: 2024-12-12
 
 eventdate:
-  day: 19th
+  day: 12th
   month: December
   year: 2024
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-10.jpg
-
-tags:
-  - Club-Night
-  - GTSC-Event
-  - 2024-25-Season-GTSC
-  - 2024-25-Season-Events
-
-
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
 
 events:
   - freestyle
@@ -27,26 +19,35 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length100: 100
+  length400: 400
 
 
 backstroke:
   length25: 25
   length50: 50
-  length200: 200
+  length100: 100
 
 
 breaststroke:
   length25: 25
   length50: 50
-  length200: 200
+  length100: 100
 
 
 butterfly:
   length25: 25
   length50: 50
-  length100: 100
+  length200: 200
 
+
+
+
+tags:
+  - Club-Night
+  - GTSC-Event
+  - 2024-25-Season-GTSC
+  - 2024-25-Season-Events
+  - Featured
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool
@@ -56,5 +57,3 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 entrylink: https://swimcentral.swimming.org.au/
 ---
-
-Get ready for our Christmas  BBQ!

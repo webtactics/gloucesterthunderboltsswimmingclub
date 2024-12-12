@@ -1,36 +1,33 @@
 ---
-title: GTSC Summer Social Week 3, 2024-25 Season
-subtitle: GTSC Summer Social Week 3, 2024-25 Season
-date: 2025-01-23
+title: Club Night Round 2 Week 7, 2024-25 Season
+subtitle: GTSC Round 2 Week 7
+date: 2025-02-27
 
 eventdate:
-  day: 23rd
-  month: January
+  day: 27th
+  month: February
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-26.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-14.jpg
 
 tags:
   - Club-Night
   - GTSC-Event
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
-  - Summer-Social
   - Featured
-
-
 
 events:
   - freestyle
   - backstroke
   - breaststroke
   - butterfly
-  - relay 
+  - medley
 
 freestyle:
   length25: 25
   length50: 50
-
+  length400: 200
 
 
 backstroke:
@@ -49,8 +46,10 @@ butterfly:
   length25: 25
   length50: 50
 
-relay:
-  length4x50: 4x50
+
+medley:
+  length100or200: 100 or 200
+
 
 
 time: 6:00pm - 8:00pm
@@ -59,8 +58,5 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
-entrylink: https://swimcentral.swimming.org.au/events/
+entrylink: https://swimcentral.swimming.org.au/
 ---
-
-Teams for the 4 x 50 metre relay will be decided on the day, as to try and have an even race.
-Open to all.

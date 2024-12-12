@@ -1,6 +1,6 @@
 ---
-title: Club Night Round 1 Week 8, 2024-25 Season
-subtitle: GTSC Round 1 Week 8
+title: Club Night Round 2 Week 1, 2024-25 Season
+subtitle: GTSC Round 2 Week 1
 date: 2024-12-05
 
 eventdate:

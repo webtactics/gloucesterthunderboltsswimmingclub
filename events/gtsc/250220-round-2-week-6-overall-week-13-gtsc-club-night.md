@@ -1,24 +1,33 @@
 ---
-title: Club Night Round 1 Week 9, 2024-25 Season
-subtitle: GTSC Round 1 Week 9
-date: 2024-12-12
+title: Club Night Round 2 Week 6, 2024-25 Season
+subtitle: GTSC Round 2 Week 6
+date: 2025-02-20
 
 eventdate:
-  day: 12th
-  month: December
-  year: 2024
+  day: 20th
+  month: February
+  year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-13.jpg
+
+tags:
+  - Club-Night
+  - GTSC-Event
+  - 2024-25-Season-GTSC
+  - 2024-25-Season-Events
+  - Featured
 
 events:
   - freestyle
   - backstroke
   - breaststroke
   - butterfly
+  - medley
 
 freestyle:
   length25: 25
   length50: 50
+  length50: 100
   length400: 400
 
 
@@ -37,17 +46,12 @@ breaststroke:
 butterfly:
   length25: 25
   length50: 50
-  length200: 200
+
+medley:
+  length400: 400
 
 
 
-
-tags:
-  - Club-Night
-  - GTSC-Event
-  - 2024-25-Season-GTSC
-  - 2024-25-Season-Events
-  - Featured
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool
