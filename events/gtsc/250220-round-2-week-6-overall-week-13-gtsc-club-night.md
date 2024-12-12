@@ -27,7 +27,7 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length50: 100
+  length100: 100
   length400: 400
 
 
