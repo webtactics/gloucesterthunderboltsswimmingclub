@@ -62,4 +62,5 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 entrylink: https://swimcentral.swimming.org.au/events/
 ---
 
-Enter a relay team in the 4x 50 metre relay race! Open to all.
+Teams for the 4 x 50 metre relay will be decided on the day, as to try and have an even race.
+Open to all.
