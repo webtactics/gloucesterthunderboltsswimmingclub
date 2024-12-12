@@ -1,7 +1,7 @@
 ---
 title: Summer Social Week 1, 2024-25 Season
 subtitle: Summer Social Week 1, 2024-25 Season
-date: 2025--1-09
+date: 2025-01-09
 
 eventdate:
   day: 9th
