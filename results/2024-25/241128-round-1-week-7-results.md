@@ -1,6 +1,6 @@
 ---
-title: Club Night Results Round 1 Week 7, 2024-25 Season
-subtitle: Round 1 Week 7
+title: GTSC Club Night Results Round 1 Week 7, 2024-25 Season
+subtitle: GTSC Club Night Round 1 Week 7
 date: 2024-11-28
 
 eventdate:

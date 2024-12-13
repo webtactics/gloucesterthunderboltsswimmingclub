@@ -1,6 +1,6 @@
 ---
-title: Club Night Results Round 1 Week 5, 2024-25 Season
-subtitle: Round 1 Week 5
+title: GTSC Club Night Results Round 1 Week 5, 2024-25 Season
+subtitle: GTSC Club Night Round 1 Week 5
 date: 2024-11-14
 
 eventdate:
