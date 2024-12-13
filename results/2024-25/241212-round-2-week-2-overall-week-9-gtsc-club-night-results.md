@@ -1,6 +1,6 @@
 ---
-title: Club Night Results Round 1 Week 9, 2024-25 Season
-subtitle: Round 1 Week 9
+title: GTSC Club Night Results Round 2 Week 2, 2024-25 Season
+subtitle: GTSC Club Night Round 2 Week 2 (Week 9)
 date: 2024-12-12
 
 eventdate:
