@@ -8,7 +8,7 @@ eventdate:
   month: January
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-27.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-27-refresh.jpg
 
 tags:
   - Club-Night
