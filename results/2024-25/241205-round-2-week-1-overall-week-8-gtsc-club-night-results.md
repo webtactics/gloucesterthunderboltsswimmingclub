@@ -10,7 +10,7 @@ eventdate:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-8.jpg
 
-results: /static/results/2024-25/241205-round-1-week-8-results.pdf
+results: /static/results/2024-25/241205-round-1-week-8-results-update.pdf
 
 rain:
 
