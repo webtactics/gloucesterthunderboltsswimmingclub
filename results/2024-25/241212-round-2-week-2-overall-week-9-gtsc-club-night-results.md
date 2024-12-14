@@ -10,7 +10,7 @@ eventdate:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
 
-results: /static/results/2024-25/241212-round-1-week-9-results.pdf
+results: /static/results/2024-25/241212-round-2-week-2-overall-week-9-results.pdf
 
 rain:
 
