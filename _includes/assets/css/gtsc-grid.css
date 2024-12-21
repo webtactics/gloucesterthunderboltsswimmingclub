@@ -2350,7 +2350,18 @@ font-size:1rem;
   transition: all 0.2s ease-in-out;
 
 }
+.goldsponsorsumimage img {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
 
+.goldsponsorsumimage img:hover {
+  filter: brightness(90%);
+  transition: all 0.2s ease-in-out;
+
+}
 
 .resultssumroundimage img {
   border-radius: 1rem;
