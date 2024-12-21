@@ -10,7 +10,7 @@ tags:
 
 
 
-logo: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
+logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/turner-freeman-lawyers.jpg
 
 
 
