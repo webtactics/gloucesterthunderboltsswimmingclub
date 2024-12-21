@@ -1,5 +1,5 @@
 <section class="grid-3-columns" >
-	{% for post in postslist | reverse %}
+	{% for post in postslist %}
 	<div class="NewsSummaryHome">
 		<article{% if post.url == url %} data-current="current item"{% endif %} class="NewsSummaryHome">
 			
