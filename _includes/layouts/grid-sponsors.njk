@@ -12,6 +12,18 @@
         </div>
 	{{ content | safe }}
 
+
+
+    {% for sponsor in collections.sponsors %}
+  {% if sponsor.data.tags contains ['Gold-Sponsor'] %}
+    <div class="sponsor">
+      <a href="{{ sponsor.data.website }}" target="_blank">
+        <img src="{{ sponsor.data.logo }}" alt="{{ sponsor.data.title }}" />
+      </a>
+    </div>
+  {% endif %}
+{% endfor %}
+
 <div class="two-colum-wrapper">	
    <h2 class="heading-text">2024-25 Season Sponsors</h2>
 <div class="resultswrapper">
