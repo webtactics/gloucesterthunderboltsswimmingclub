@@ -12,8 +12,15 @@ eleventyNavigation:
 ---
 ## Gloucester Thunderbolts Swimming Club Sponsors and Supporters. Supporting our club and our swimmers.
 
-
-Coming soon - a list of our sponsors and supporters.
+{% for sponsor in collections.sponsors %}
+  {% if sponsor.data.tags contains "Gold-Sponsor" %}
+    <div class="sponsor">
+      <a href="{{ sponsor.data.website }}" target="_blank">
+        <img src="{{ sponsor.data.logo }}" alt="{{ sponsor.data.title }}" />
+      </a>
+    </div>
+  {% endif %}
+{% endfor %}
 
 ```
 
