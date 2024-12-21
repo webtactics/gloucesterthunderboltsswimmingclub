@@ -1,6 +1,6 @@
 {
     "layout": "layouts/post-results.njk",
-    "permalink": "results/{{ title | slug }}/index.html",
+    "permalink": "sponsors/{{ title | slug }}/index.html",
     "author": "Anonymous"
   
   }
