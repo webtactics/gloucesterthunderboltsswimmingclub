@@ -24,6 +24,8 @@
   --mattblack: hsla(214,12%,11%,0.95);
   --green: hsla(144, 80%, 22%, 1);
 
+  --gold: #FFD700;
+
 
   --transitionLength: 0.4s;
   --transitionTiming: ease;
@@ -1299,6 +1301,8 @@ h1.heading-text {
       display: inline-block;
      
     }
+
+    h2.gold.heading-text { background-color: var(--gold);}
 
     h2.home-heading-text {
       color: var(--white);
