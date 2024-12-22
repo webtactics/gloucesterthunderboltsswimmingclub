@@ -13,14 +13,10 @@ section: post
 
 
 {% if address %}
-<div class="sponsordetaillist"><p><strong>Address :</strong> {{ address }}</p></div>
+<div class="sponsordetaillist"><p><strong>Address :</strong> <a href="{{ map }}" title="{{ title }}"title="{{ title }}" target="_blank">{{ address }}</a></p></div>
 {% endif %}
 {% if phone %}
 <div class="sponsordetaillist"><p><strong>Phone :</strong> <a href="tel:{{ phone }}" title="{{ title }}"title="{{ title }}" target="_blank">{{ phone }}</a></p></div>
-{% endif %}
-
-{% if map %}
-<div class="sponsordetaillist"><p><strong>Map Shortcode :</strong> <a href="{{ map }}" title="{{ title }}"title="{{ title }}" target="_blank">{{ map }}</a></p></div>
 {% endif %}
 
 {% if website %}
