@@ -12,7 +12,7 @@ tags:
 
 
 
-logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/turner-freeman-lawyers.jpg
+logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/turner-freeman-lawyers-400x400.jpg
 
 
 

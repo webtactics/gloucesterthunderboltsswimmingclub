@@ -1,18 +1,18 @@
 ---
-title: Roadie's Café
-permalink: /sponsors/roadies-cafe/
-website: https://www.facebook.com/roadiescafe2422/
+title: Gloucester Outdoor Solutions
+permalink: /sponsors/gloucester-outdoor-solutions/
+website: https://www.gloucesteroutdoorsolutions.com.au/
 description: So if you need legal advice, Turner Freeman Lawyers are your local experts and are always here to help. Let’s show them our appreciation by supporting those who support us! 
 area: sponsors
 
 tags:
-  - Silver-Sponsor
+  - Gold-Sponsor
   - 2024-25-Season-Sponsors
   - 2024-25-Season-Gold-Sponsors
 
 
 
-logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/roadies-cafe-220x220.jpg
+logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/Gloucester-Outdoor-Solutions.jpg
 
 
 
