@@ -14,7 +14,7 @@ tags:
 
 
 
-logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/forest-of-play-400x400.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/forest-of-play-400x400.jpg
 
 
 

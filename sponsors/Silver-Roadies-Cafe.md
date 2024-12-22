@@ -14,7 +14,7 @@ tags:
 
 
 
-logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/roadies-cafe-220x220.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/roadies-cafe-220x220.jpg
 
 
 

@@ -14,7 +14,7 @@ tags:
 
 
 
-logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/turner-freeman-lawyers-400x400.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/turner-freeman-lawyers-400x400.jpg
 
 
 

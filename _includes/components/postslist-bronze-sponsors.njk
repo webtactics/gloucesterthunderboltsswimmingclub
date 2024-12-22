@@ -2,9 +2,9 @@
 	{% for post in postslist %}
 <summary class="eventsummary">
 
-{% if post.data.logo %}
+{% if post.data.image %}
 <div class="bronzesponsorsumimage">
-<a href="{{ post.url | url }}"><img src="{{ post.data.logo }}/tr:w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="300px" height="auto" class="postlistimg"></a>
+<a href="{{ post.url | url }}"><img src="{{ post.data.image }}/tr:w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="300px" height="auto" class="postlistimg"></a>
 </div>
 {% endif %}
 
