@@ -467,8 +467,8 @@ background-color: var(--primary); font-weight: bold;}
 
 .navbar  .navbar-menu  li  a.social-icon:hover
 {
-  background: var(--black);
-  color: var(--white);
+  background: transparent;
+  color: var(--black);
 }
 
 .navbar-menu {
@@ -653,10 +653,17 @@ span.search-icon svg:hover {
 .sponsordetail svg {
   color : var(--primary);
 }
-
 .sponsordetail  svg:hover {
   color : var(--black);
 }
+.sponsordetail .gold svg {
+  color : var(--gold);
+}
+.sponsordetail  .gold svg:hover {
+  color : var(--darkgold);
+}
+
+
 .infoboxmobile svg {
   color : var(--white);
 }
