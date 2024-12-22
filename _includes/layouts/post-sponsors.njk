@@ -86,14 +86,18 @@ section: post
 
 
 {% if address %}
-<div class="map pad2remtop"><p><strong>Address :</strong> {{ address }}</p></div>
+<div class="sponsordetaillist"><p><strong>Address :</strong> {{ address }}</p></div>
 {% endif %}
 {% if phone %}
-<div class="map pad2remtop"><p><strong>Phone :</strong> {{ phone }}</p></div>
+<div class="sponsordetaillist"><p><strong>Phone :</strong> <a href="tel:{{ phone }}" title="{{ title }}"title="{{ title }}" target="_blank">{{ phone }}</a></p></div>
 {% endif %}
 
 {% if map %}
-<div class="map pad2remtop"><p><strong>Map Shortcode :</strong> <a href="{{ map }}" title="{{ title }}">{{ map }}</a></p></div>
+<div class="sponsordetaillist"><p><strong>Map Shortcode :</strong> <a href="{{ map }}" title="{{ title }}"title="{{ title }}" target="_blank">{{ map }}</a></p></div>
+{% endif %}
+
+{% if website %}
+<div class="sponsordetaillist"><p><strong>Website :</strong> <a href="{{ website }}" title="{{ title }}"title="{{ title }}" target="_blank">{{ website }}</a></p></div>
 {% endif %}
 
 </article>
