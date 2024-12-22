@@ -8,18 +8,12 @@
 </div>
 {% endif %}
 
+
 {% if post.data.website %}
-<div class="goldsponsorsumurl">
-<a href="{{ post.data.website }}" target="_blank">{{ post.data.website }}</a>
+<div class="linkwrapper">
+	<a class="goldsponsorwebsite" href="{{ post.data.website }}" alt="{{ title }}" title="{{ title }}" target="_blank">Website</a>
 </div>
 {% endif %}
-
-{% if post.data.description %}
-<div class="goldsponsorsumtext">
-<p>{{ post.data.description }}</p>
-</div>
-{% endif %}
-
 
 
 <div class="sumtitle">
