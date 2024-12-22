@@ -9,6 +9,31 @@ section: post
 
 <article>
 <div class="detailcontent">{{ content | safe }}</div>
+
+{% if post.data.website %}
+<div class="linkwrapper">
+{% if gold %}
+<a class="goldsponsorwebsite" href="{{ post.data.website }}" alt="{{ title }}" title="{{ title }}" target="_blank">Website</a>
+{% elif silver %}
+<a class="silversponsorwebsite" href="{{ post.data.website }}" alt="{{ title }}" title="{{ title }}" target="_blank">Website</a>
+{% elif bronze %}
+<a class="bronzesponsorwebsite" href="{{ post.data.website }}" alt="{{ title }}" title="{{ title }}" target="_blank">Website</a>
+{% endif %}
+</div>
+{% endif %}
+
+{% if post.data.facebook %}
+<div class="linkwrapper">
+{% if gold %}
+<a class="goldsponsorwebsite" href="{{ post.data.facebook }}" alt="{{ title }}" title="{{ title }}" target="_blank">Facebook</a>
+{% elif silver %}
+<a class="silversponsorwebsite" href="{{ post.data.facebook }}" alt="{{ title }}" title="{{ title }}" target="_blank">Facebook</a>
+{% elif bronze %}
+<a class="bronzesponsorwebsite" href="{{ post.data.facebook }}" alt="{{ title }}" title="{{ title }}" target="_blank">Facebook</a>
+{% endif %}
+</div>
+{% endif %}
+
 </article>
 </div>
 

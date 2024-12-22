@@ -25,4 +25,4 @@ map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4083.785
 
 
 
-Gloucester Outdoor Solutions arethe trusted name in outdoor power equipment &  pool supplies on the Mid North Coast, serving clients from Gloucester, Bulahdelah, Stroud and surrounding areas. 
+Gloucester Outdoor Solutions are the trusted name in outdoor power equipment & pool supplies on the Mid North Coast, serving clients from Gloucester, Bulahdelah, Stroud and surrounding areas. 
