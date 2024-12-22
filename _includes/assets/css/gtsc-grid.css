@@ -2836,7 +2836,32 @@ a.goldsponsorwebsite:hover {
     text-underline-offset: 1rem;
     transition: background-color .6s,text-decoration-color .6s;
     }
-
+    
+    a.bronzesponsorwebsite {
+      color: var(--white);
+      background-color: var(--bronze);
+      font-size:var(--h3sum);
+      border: none;
+      padding: 0.25rem 2rem;
+      white-space: wrap;
+      text-decoration-thickness: 0.4rem;
+      text-decoration-style: dotted;
+      text-decoration-color: var(--bronze);
+      text-underline-offset: 1rem;
+      transition: background-color .6s,text-decoration-color .6s;
+    }
+    
+    
+    a.bronzesponsorwebsite:hover {
+      background-color: var(--darkbronze);
+      color: var(--white);
+      border: none;
+      text-decoration-thickness: 0.4rem;
+      text-decoration-style: solid;
+      text-decoration-color: var(--darkbronze);
+      text-underline-offset: 1rem;
+      transition: background-color .6s,text-decoration-color .6s;
+      }
 @media (max-width: 1025px) {
   a.recordspdfsmall, a.resultspdfsmall, h4.results-title, h4.results-title a, h3.results-title, h3.results-title a, h3.event-title, h3.event-title a {
     white-space: normal;
