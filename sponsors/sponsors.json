@@ -1,5 +1,5 @@
 {
-    "layout": "layouts/grid-default.njk",
+    "layout": "layouts/post-sponsors.njk",
     "permalink": "sponsors/{{ title | slug }}/index.html",
     "author": "Anonymous"
   
