@@ -2,7 +2,7 @@
 title: Gloucester Outdoor Solutions
 permalink: /sponsors/gloucester-outdoor-solutions/
 website: https://www.gloucesteroutdoorsolutions.com.au/
-description: So if you need legal advice, Turner Freeman Lawyers are your local experts and are always here to help. Let’s show them our appreciation by supporting those who support us! 
+description: Gloucester Outdoor Solutions arethe trusted name in outdoor power equipment &  pool supplies on the Mid North Coast, serving clients from Gloucester, Bulahdelah, Stroud and surrounding areas. 
 area: sponsors
 
 tags:
@@ -21,4 +21,4 @@ logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/Gloucester-Outd
 
 
 
-So if you need legal advice, Turner Freeman Lawyers are your local experts and are always here to help. Let’s show them our appreciation by supporting those who support us! 
+Gloucester Outdoor Solutions arethe trusted name in outdoor power equipment &  pool supplies on the Mid North Coast, serving clients from Gloucester, Bulahdelah, Stroud and surrounding areas. 

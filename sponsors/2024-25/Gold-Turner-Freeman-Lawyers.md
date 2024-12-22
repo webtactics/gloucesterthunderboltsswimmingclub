@@ -2,7 +2,7 @@
 title: Turner Freeman Lawyers
 permalink: /sponsors/turner-freeman-lawyers/
 website: https://www.turnerfreeman.com.au/office/gloucester/
-description: So if you need legal advice, Turner Freeman Lawyers are your local experts and are always here to help. Let’s show them our appreciation by supporting those who support us! 
+description: When you need legal advice, Turner Freeman Lawyers are your local experts and are always there to help. Let’s show our appreciation by supporting those who support us! 
 area: sponsors
 
 tags:
