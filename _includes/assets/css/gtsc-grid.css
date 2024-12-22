@@ -24,8 +24,8 @@
   --mattblack: hsla(214,12%,11%,0.95);
   --green: hsla(144, 80%, 22%, 1);
 
-  --gold: #daa520;
-  --darkgold: #9D7309;
+  --gold: hsl(43, 74.4%, 49%);
+  --darkgold: hsl(43, 88.7%, 38.2%);
 
   --silver: hsl(0, 0%, 75%);
   --darksilver: #808080;
