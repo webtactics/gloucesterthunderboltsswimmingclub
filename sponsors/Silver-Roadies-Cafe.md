@@ -32,4 +32,4 @@ map: https://maps.app.goo.gl/akMzXSh76zPdsCdd8
 
 
 
-Great food. Great coffee. Fast and friendly service. Not just another cafe. Come and experience The Roadies Cafe.
+Great food. Great coffee. Fast and friendly service. Not just another cafe. Come and experience Roadie's Café.
