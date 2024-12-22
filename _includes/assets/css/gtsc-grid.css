@@ -2245,40 +2245,7 @@ font-size: 2.5rem;
 
 
 
-.redgradient {
-position: relative;
-margin:0;
-background-repeat: repeat;
-background-image: url("/img/blog_hero.jpg"), linear-gradient(to bottom, #ed1c2e, #e51c2c, #dd1c2b, #d51b29, #cd1b28, #c61b27, #be1b25, #b71b24, #af1b22, #a71a21, #a01a1f, #98191e);
-}
 
-
-
-
-
-/* CGBlog 
-
-------------------------------------------------- */
-
-
-  /* CGBlog Details 
-------------------------------------------------- */
-
-
-  /* Products 
-------------------------------------------------- */
-
-
-  /* accordion
-------------------------------------------------- */
-
-
-/* Newsletter input
-------------------------------------------------- */
-
-/* Search 
-
-------------------------------------------------- */
 
 
 /* Select box 
@@ -3068,3 +3035,14 @@ textarea
   background-color: var(--primary);
 }
 
+.sponsordetaillist {
+  padding: 1rem 0;
+}
+
+.socialdetailcontent {
+  padding: 1rem 0;
+}
+
+.returndetailcontent {
+  padding: 1rem 0;
+}

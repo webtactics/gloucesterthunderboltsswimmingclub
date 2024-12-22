@@ -13,14 +13,14 @@ section: post
 
 
 {% if address %}
-<div class="sponsordetaillist"><p><strong>Address :</strong> <a href="{{ map }}" title="{{ title }}"title="{{ title }}" target="_blank">{{ address }}</a></p></div>
+<div class="sponsordetaillist"><p><strong>Address :</strong> <a href="{{ map }}" alt="{{ title }} Google Map" title="{{ title }} Google Map" target="_blank">{{ address }}</a></p></div>
 {% endif %}
 {% if phone %}
-<div class="sponsordetaillist"><p><strong>Phone :</strong> <a href="tel:{{ phone }}" title="{{ title }}"title="{{ title }}" target="_blank">{{ phone }}</a></p></div>
+<div class="sponsordetaillist"><p><strong>Phone :</strong> <a href="tel:{{ phone }}" alt="Tel: {{ title }} "title="Tel: {{ title }}" target="_blank">{{ phone }}</a></p></div>
 {% endif %}
 
 {% if website %}
-<div class="sponsordetaillist"><p><strong>Website :</strong> <a href="{{ website }}" title="{{ title }}"title="{{ title }}" target="_blank">{{ website }}</a></p></div>
+<div class="sponsordetaillist"><p><strong>Website :</strong> <a href="{{ website }}" alt="Visit the {{ title }} website" title="Visit the {{ title }} website" target="_blank">{{ website }}</a></p></div>
 {% endif %}
 
 
@@ -102,9 +102,9 @@ section: post
 </div>
 
 
-
+<div class="returndetailcontent">
 <p>Return to the main <a href="/about/sponsors/" title="Sponsors" >Sponsors</a> page.</p>
-
+</div>
 
 
 </article>
