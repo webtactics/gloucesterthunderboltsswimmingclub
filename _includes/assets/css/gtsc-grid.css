@@ -650,7 +650,13 @@ span.search-icon svg:hover {
   height:2.2rem;
 
 }
+.sponsordetail svg {
+  color : var(--primary);
+}
 
+.sponsordetail  svg:hover {
+  color : var(--black);
+}
 .infoboxmobile svg {
   color : var(--white);
 }
@@ -659,7 +665,7 @@ span.search-icon svg:hover {
   color : var(--black);
 }
 
-ul.infobox, .infoboxmobile {
+ul.infobox, ul.infoboxmobile, ul.sponsordetail {
   list-style: none;
   margin: 0;
   margin-block-start: 0;
@@ -674,32 +680,11 @@ ul.infobox li, ul.infoboxmobile li {
   float: right;
  
 }
-.social-contact {
-  display: flex;
-  flex-direction: row-reverse;
-}
-.social-contact > a {padding-left: 1rem;}
 
-.social-contact svg {
-  color : var(--primary);
-}
-
-.social-contact svg:hover {
-  color : var(--black);
-}
-
-.social-icon svg {
-    color : var(--white);
-  }
-  
-  .social-icon svg:hover {
-    color : var(--black);
-  }
 
 
 @media (max-width: 1024px) {
-  .social-contact  {  display: flex;
-    flex-direction: row;}
+ 
 }
 
 
