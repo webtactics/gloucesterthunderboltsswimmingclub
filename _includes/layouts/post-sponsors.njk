@@ -4,10 +4,13 @@ section: post
 ---
 
 
- <div class="grid-2-columns-3x1">
- <div class="detailwrapper">
-<article>
+ <div class="grid-2">
+<div class="detailwrapper">
 
+<article>
+<div class="detailcontent">{{ content | safe }}</div>
+</article>
+</div>
 
 <div class="item blogdetail">
 
@@ -24,28 +27,6 @@ section: post
 <div class="blogdetailimage" align="center"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></div>
 </div>
 {% endif %}
-
-<div class="detailcontent">{{ content | safe }}</div>
-
-
-
-{% if tags %}
-  <div class="tag"><h4>Tags</h4>
-  <ul>
-{% for tag in tags %}
-  {%- if tag != "post" -%}
-    {% set tagUrl %}/tagged/{{ tag }}/{% endset %}
-   <li><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
-  {%- endif -%}
-{% endfor %}
-  </ul>
-</div>
-{% endif %}
-
-
-   
-</div>
-</article>
 </div>
 
 </div>
