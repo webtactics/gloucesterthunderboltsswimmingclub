@@ -1949,7 +1949,10 @@ max-width: 600px;}
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
 }
-
+.grid-5-columns {
+  grid-template-columns: repeat(5, 1fr);
+  gap: 2rem;
+}
 .grid-6-columns {
   grid-template-columns: repeat(6, 1fr);
   gap: 2rem;
