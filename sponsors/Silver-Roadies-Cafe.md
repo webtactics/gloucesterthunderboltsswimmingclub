@@ -5,6 +5,8 @@ website: https://www.facebook.com/roadiescafe2422/
 description: Great food. Great coffee. Fast and friendly service. Not just another cafe. Come and experience The Roadies Cafe.
 area: sponsors
 
+silver: true
+
 tags:
   - Silver-Sponsor
   - 2024-25-Season-Sponsors

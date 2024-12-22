@@ -5,6 +5,8 @@ website: https://www.turnerfreeman.com.au/office/gloucester/
 description: When you need legal advice, Turner Freeman Lawyers are your local experts and are always there to help. Let’s show our appreciation by supporting those who support us! 
 area: sponsors
 
+gold: true
+
 tags:
   - Gold-Sponsor
   - 2024-25-Season-Sponsors
