@@ -680,7 +680,10 @@ ul.infobox li, ul.infoboxmobile li {
   float: right;
  
 }
-
+ul.sponsordetail li {
+  float: left;
+ 
+}
 
 
 @media (max-width: 1024px) {
