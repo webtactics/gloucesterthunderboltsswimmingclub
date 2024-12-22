@@ -1,5 +1,5 @@
 <section class="grid-5-columns eventsum" >
-	{% for post in postslist %}
+	{% for post in postslist | sort(attribute="data.title") %}
 <summary class="eventsummary">
 
 {% if post.data.image %}
