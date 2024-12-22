@@ -2359,6 +2359,7 @@ font-size:1rem;
 }
 .goldsponsorsumimage img {
   border-radius: 0.5rem;
+  border: 1rem solid var(--gold);
   width: 100%;
   aspect-ratio: 1 / 1;
   margin-bottom: 1rem;
@@ -2367,6 +2368,22 @@ font-size:1rem;
 .goldsponsorsumimage img:hover {
   filter: brightness(90%);
   transition: all 0.2s ease-in-out;
+  border: 1rem solid var(--darkgold);
+
+}
+
+.silversponsorsumimage img {
+  border-radius: 0.5rem;
+  border: 1rem solid var(--silver);
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  margin-bottom: 1rem;
+}
+
+.silversponsorsumimage img:hover {
+  filter: brightness(90%);
+  transition: all 0.2s ease-in-out;
+  border: 1rem solid var(--darksilver);
 
 }
 
