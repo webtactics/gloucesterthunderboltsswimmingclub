@@ -30,6 +30,9 @@
   --silver: hsl(0, 0%, 75%);
   --darksilver: #808080;
 
+  --bronze: #b08d57;
+  --darkbronze: hsla(36, 36%, 52%, 0.507);
+
   --transitionLength: 0.4s;
   --transitionTiming: ease;
 
@@ -1306,6 +1309,8 @@ h1.heading-text {
     }
 
     h2.gold.heading-text { background-color: var(--gold);}
+    h2.silver.heading-text { background-color: var(--silver);}
+    h2.bronze.heading-text { background-color: var(--bronze);}
 
     h2.home-heading-text {
       color: var(--white);
