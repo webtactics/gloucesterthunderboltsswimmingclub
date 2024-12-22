@@ -13,7 +13,7 @@ tags:
 
 
 
-logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/jbs-mowing-400x400
+logo: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/jbs-mowing-400x400.jpg
 
 
 facebook: https://www.facebook.com/profile.php?id=100083709183495
