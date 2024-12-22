@@ -10,7 +10,20 @@ section: post
 
 
 <div class="item blogdetail">
+
+{% if gold %}
+<div class="goldsponsorsumimage">
 <div class="blogdetailimage" align="center"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></div>
+</div>
+{% elif silver %}
+<div class="silversponsorsumimage">
+<div class="blogdetailimage" align="center"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></div>
+</div>
+{% elif bronze %}
+<div class="bronzesponsorsumimage">
+<div class="blogdetailimage" align="center"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></div>
+</div>
+{% endif %}
 
 <div class="detailcontent">{{ content | safe }}</div>
 
