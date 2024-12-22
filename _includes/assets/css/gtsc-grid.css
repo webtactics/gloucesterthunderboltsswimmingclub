@@ -3045,4 +3045,6 @@ textarea
 
 .returndetailcontent {
   padding: 1rem 0;
+  clear: both;
+  width:100%;
 }
