@@ -1,7 +1,10 @@
 ---
 title: Gloucester Outdoor Solutions
+permalink: /sponsors/gloucester-outdoor-solutions/
+
 website: https://www.gloucesteroutdoorsolutions.com.au/
 facebook: https://www.facebook.com/Gloucesteroutdoorsolutions/
+instagram: 
 description: Gloucester Outdoor Solutions arethe trusted name in outdoor power equipment &  pool supplies on the Mid North Coast, serving clients from Gloucester, Bulahdelah, Stroud and surrounding areas. 
 area: sponsors
 
