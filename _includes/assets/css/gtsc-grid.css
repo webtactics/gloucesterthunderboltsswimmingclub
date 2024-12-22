@@ -28,7 +28,7 @@
   --darkgold: hsla(43, 74%, 49%, 0.658);
 
   --silver: hsl(0, 0%, 75%);
-  --darksilver: hsla(0, 0%, 100%, 0.144);
+  --darksilver: hsl(0, 0%, 100%);
 
   --transitionLength: 0.4s;
   --transitionTiming: ease;
