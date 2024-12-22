@@ -2575,7 +2575,29 @@ h3.silver.sum-title a:hover {
   background-color: var(--darksilver);
   transition: background-color .6s;
 }
+h3.bronze.sum-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  background-color: var(--bronze);
 
+}
+
+h3.bronze.sum-title a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  background-color: var(--bronze);
+
+}
+
+h3.bronze.sum-title a:hover {
+  color: var(--white);
+  background-color: var(--darkbronze);
+  transition: background-color .6s;
+}
 
 .grid-4-columns.resultssum h3.sum-title {
   display: flex;
