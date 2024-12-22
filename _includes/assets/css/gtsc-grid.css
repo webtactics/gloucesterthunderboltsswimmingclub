@@ -1295,6 +1295,10 @@ h1.heading-text {
   animation-duration: 2s;
 }
   
+h1.gold.heading-text { background-color: var(--gold);}
+h1.silver.heading-text { background-color: var(--silver);}
+h1.bronze.heading-text { background-color: var(--bronze);}
+
 
   h2.heading-text, h3.heading-text, h4.heading-text, h5.heading-text, h6.heading-text {
     color: var(--white);
@@ -2836,7 +2840,7 @@ a.goldsponsorwebsite:hover {
     text-underline-offset: 1rem;
     transition: background-color .6s,text-decoration-color .6s;
     }
-    
+
     a.bronzesponsorwebsite {
       color: var(--white);
       background-color: var(--bronze);
