@@ -17,7 +17,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/Gloucester-Outdoor-Solutions.jpg
 
 phone: (02) 6558 1612
-adddress: 7 Market St, Gloucester NSW 2422
+address: 7 Market St, Gloucester NSW 2422
 
 map: https://maps.app.goo.gl/j5mbher7Se5ueP1N7
 
