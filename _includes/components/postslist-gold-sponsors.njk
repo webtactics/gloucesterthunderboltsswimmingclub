@@ -8,6 +8,12 @@
 </div>
 {% endif %}
 
+{% if post.data.description %}
+<div class="goldsponsorsumtext">
+<p>{{ post.data.description }}</p>
+</div>
+{% endif %}
+
 <div class="sumtitle">
 <h3 class="gold sum-title"><a class="eventtitle" href="{{ post.data.website }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank" >{{ post.data.title }}</a></h3>
 </div>
