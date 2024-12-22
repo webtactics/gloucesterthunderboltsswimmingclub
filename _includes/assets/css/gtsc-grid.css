@@ -27,8 +27,8 @@
   --gold: #daa520;
   --darkgold: hsla(43, 74%, 49%, 0.658);
 
-  --silver: #c0c0c0;
-  --darksilver: #c0c0c08e;
+  --silver: hsl(0, 0%, 75%);
+  --darksilver: hsla(0, 0%, 100%, 0.144);
 
   --transitionLength: 0.4s;
   --transitionTiming: ease;
