@@ -467,8 +467,8 @@ background-color: var(--primary); font-weight: bold;}
 
 .navbar  .navbar-menu  li  a.social-icon:hover
 {
-  background: var(--primarydark);
-  color: var(--darkblue);
+  background: var(--black);
+  color: var(--white);
 }
 
 .navbar-menu {
