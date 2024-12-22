@@ -101,7 +101,17 @@
 <div class="container">
 	<main class="content">
         <div class="titlebox fade-in appear">
-       <h1 class="heading-text">{{ title }}</h1>
+
+{% if gold %}
+<h1 class="gold heading-text">{{ title }}</h1>
+{% elif silver %}
+<h1 class="silver heading-text">{{ title }}</h1>
+{% elif bronze %}
+<h1 class="bronmze heading-text">{{ title }}</h1>
+{% else %}
+<h1 class="heading-text">{{ title }}</h1>
+{% endif %}
+
         </div>
 	{{ content | safe }}
 	</main>
