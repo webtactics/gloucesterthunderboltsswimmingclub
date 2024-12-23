@@ -1,8 +1,14 @@
 ---
 title: JB's Mowing & Yard Care
-website: https://www.facebook.com/profile.php?id=100083709183495
+permalink: /sponsors/jbs-mowing-and-yard-care/
+
+bronze: true
+
+website: 
 facebook: https://www.facebook.com/profile.php?id=100083709183495
-description: Specialising in residential & rural property sales and management in Gloucester, NSW.
+instagram:
+
+description: JBs Mowing and Yard care, maintaining residential and rural properties in Gloucester, NSW.
 area: sponsors
 
 bronze: true
@@ -10,16 +16,21 @@ bronze: true
 tags:
   - Bronze-Sponsor
   - 2024-25-Season-Sponsors
-  - 2024-25-Season-Gold-Sponsors
-
+  - 2024-25-Season-Bronze-Sponsors
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/jbs-mowing-400x400.jpg
 
+phone: 	+61475 913 987
+address: 
+
+map: 
 
 
 ---
 
 
 
-Specialising in residential & rural property sales and management in Gloucester, NSW.
+
+
+JBs Mowing and Yard care, maintaining residential and rural properties in Gloucester, NSW.
