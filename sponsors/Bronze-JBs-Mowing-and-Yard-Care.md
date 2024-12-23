@@ -11,8 +11,6 @@ instagram:
 description: JBs Mowing and Yard care, maintaining residential and rural properties in Gloucester, NSW.
 area: sponsors
 
-bronze: true
-
 tags:
   - Bronze-Sponsor
   - 2024-25-Season-Sponsors
