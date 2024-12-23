@@ -2386,7 +2386,7 @@ font-size:1rem;
 }
 
 .silversponsorsumimage img:hover {
-  filter: brightness(90%);
+  filter: brightness(100%);
   transition: all 0.2s ease-in-out;
   border: 0.75rem solid var(--darksilver);
 
@@ -2401,7 +2401,7 @@ font-size:1rem;
 }
 
 .bronzesponsorsumimage img:hover {
-  filter: brightness(90%);
+  filter: brightness(110%);
   transition: all 0.2s ease-in-out;
   border: 0.5rem solid var(--darkbronze);
 
