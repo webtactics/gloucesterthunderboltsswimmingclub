@@ -662,8 +662,18 @@ span.search-icon svg:hover {
 .sponsordetail  .gold svg:hover {
   color : var(--darkgold);
 }
-
-
+.sponsordetail .silver svg {
+  color : var(--silver);
+}
+.sponsordetail  .silver svg:hover {
+  color : var(--darksilver);
+}
+.sponsordetail .bronze svg {
+  color : var(--bronze);
+}
+.sponsordetail  .bronze svg:hover {
+  color : var(--darkbronze);
+}
 .infoboxmobile svg {
   color : var(--white);
 }
