@@ -126,11 +126,30 @@ section: post
 </div>
 {% elif silver %}
 <div class="silversponsorsumimage">
-<div class="blogdetailimage" align="center"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></div>
+<div class="blogdetailimage" align="center">
+    {% if website %}
+    <a href="{{ website }}"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></a>
+    {% elif facebook %} 
+    <a href="{{ facebook }}"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></a>
+    {% else %}
+    <img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}">
+    {% endif %}
+    </div>
+
+</div>
 </div>
 {% elif bronze %}
 <div class="bronzesponsorsumimage">
-<div class="blogdetailimage" align="center"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></div>
+<div class="blogdetailimage" align="center">
+        {% if website %}
+    <a href="{{ website }}"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></a>
+    {% elif facebook %} 
+    <a href="{{ facebook }}"><img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}"></a>
+    {% else %}
+    <img src="{{ image }}?tr=w-400,h-400" alt="{{ title }}" title="{{ title }}">
+    {% endif %}
+    </div>
+</div>
 </div>
 {% endif %}
 </div>
