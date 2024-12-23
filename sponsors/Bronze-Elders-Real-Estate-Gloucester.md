@@ -1,6 +1,6 @@
 ---
 title: Elders Real Estate Gloucester
-permalink: /sponsors/forest-of-play/
+permalink: /sponsors/elders-real-estate-gloucester/
 
 bronze: true
 
