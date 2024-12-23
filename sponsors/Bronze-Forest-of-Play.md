@@ -9,7 +9,7 @@ facebook: https://www.facebook.com/ForestOfPlay
 instagram: https://www.instagram.com/forest_of_play/
 
 
-description: A magical place to visit..Nostalgic, warm and inviting,like a colourful forest with lots to discover
+description: A magical place to visit. Nostalgic, warm and inviting, like a colourful forest with lots to discover!
 area: sponsors
 
 
@@ -29,4 +29,6 @@ map: https://maps.app.goo.gl/S6q87mNGE1GLPR7C7
 
 
 
-A magical place to visit..Nostalgic, warm and inviting,like a colourful forest with lots to discover
+A magical place to visit.
+
+Nostalgic, warm and inviting, like a colourful forest with lots to discover!
