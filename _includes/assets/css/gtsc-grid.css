@@ -1981,7 +1981,10 @@ max-width: 600px;}
 
 @media (max-width: 1200px) {
 
-
+  .grid-2-sponsor {
+    grid-template-columns: 2fr 1fr;
+    gap: 1rem;
+  }
 
 
   .grid-4-columns {
@@ -2016,7 +2019,7 @@ max-width: 600px;}
     row-gap: 0;
   }
 
-  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news, .grid-3-columns.resultssum, .grid-3-columns.eventsum   {
+  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news, .grid-3-columns.resultssum, .grid-3-columns.eventsum, .grid-4-columns.resultssum, .grid-4-columns.eventsum,  .grid-2-sponsor   {
     grid-template-columns: repeat(1, 1fr); 
     gap: 1rem;
   }
@@ -2137,6 +2140,11 @@ max-width: 600px;}
     .grid-4-1-gluten {
       grid-template-columns:1fr;gap: 1rem;
       padding:1rem 0;
+    }
+
+    .grid-5-columns {
+      grid-template-columns: repeat(2,1fr);
+      gap: 1rem;
     }
 }
 
