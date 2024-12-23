@@ -19,7 +19,7 @@ tags:
   - 2024-25-Season-Bronze-Sponsors
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/generic-400x400.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/assets/sponsors/bellbird-quarries.jpg
 
 
 phone: 	
