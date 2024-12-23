@@ -2039,6 +2039,10 @@ max-width: 600px;}
 
 @media (max-width: 800px) {
 
+  .linkwrapper {
+    padding: 3rem 0;
+  }
+
   .grid-committee  {
     grid-template-columns: repeat(1, 1fr);
     gap: 0.25rem;
