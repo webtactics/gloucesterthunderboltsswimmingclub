@@ -1,10 +1,10 @@
 ---
 title: Fashion Fish Nelson Bay Swim Club Carnival 25
 subtitle: Fashion Fish Nelson Bay Swim Club Carnival 25
-date: 2025-01-11
+date: 2025-01-10
 
 eventdate:
-  day: 11th
+  day: 10th and 11th
   month: January
   year: 2025
 
@@ -48,3 +48,6 @@ mapnelsonbay: true
 
 
 ---
+Fashion Fish Designs are again the title sponsor of the Nelson Bay event and the weekend is set to be spectacular. 
+
+Whether you plan to make a weekend of it and take the opportunity to double up on a specific event/events, or pick and choose events across the weekend to spread out your races - this is a one time, not to be missed, opportunity!
