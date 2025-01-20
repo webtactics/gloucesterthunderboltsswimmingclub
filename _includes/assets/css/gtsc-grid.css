@@ -724,7 +724,7 @@ ul.infobox a {
 }
 .navbar  ul.navbar-menu  li  a.social-icon:hover
 {
-  background: transparent;
+  background: var(--red);
   color: var(--black);
 }
 
