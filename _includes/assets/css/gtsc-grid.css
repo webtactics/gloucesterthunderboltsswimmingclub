@@ -465,11 +465,7 @@ background-color: var(--primary); font-weight: bold;}
   color: var(--darkblue);
 }
 
-.navbar  .navbar-menu  li  a.social-icon:hover
-{
-  background: transparent;
-  color: var(--black);
-}
+
 
 .navbar-menu {
   display: flex;
@@ -726,7 +722,11 @@ ul.infobox a {
   padding: 0 0 0 2rem;
 
 }
-
+.navbar  ul.navbar-menu  li  a.social-icon:hover
+{
+  background: transparent;
+  color: var(--black);
+}
 
 
 ul.infoboxmobile a {
