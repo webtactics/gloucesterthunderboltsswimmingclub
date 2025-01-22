@@ -18,10 +18,10 @@ tags:
 
 results: /static/results/2024-25/250118-Taree-2025-NSW-Country-Regionals-Results.pdf
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/club/taree-torpedoes-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/club/taree-torpedoes-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-400x600.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/club/taree-torpedoes-600x400.jpg
+clubimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg
 
 club: Taree Torpedoes
 clubURL: https://www.tareetorpedoes.com/
