@@ -1,7 +1,7 @@
 ---
 title: GTSC Breaststroke Records
 subtitle: Breaststroke
-date: 2025-01-24
+date: 2025-01-23
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/breaststroke-400x600.jpg
 
