@@ -1,7 +1,7 @@
 ---
 title: GTSC Backstroke Records
 subtitle: Backstroke
-date: 2025=01-22
+date: 2025-01-22
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/backstroke-400x600.jpg
 

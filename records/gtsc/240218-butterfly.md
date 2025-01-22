@@ -1,7 +1,7 @@
 ---
 title: GTSC Butterfly Records
 subtitle: Butterfly
-date: 2025=01-22
+date: 2025-01-22
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/butterfly-400x600.jpg
 
