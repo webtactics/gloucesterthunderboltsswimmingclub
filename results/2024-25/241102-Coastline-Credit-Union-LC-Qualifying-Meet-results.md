@@ -9,6 +9,7 @@ eventdate:
   year: 2024
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/resources/taree-torpedoes-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/taree-torpedoes-400x600.jpg
 
 results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_6dde64e5459f4fac80a6cff8c3a5ddfc.pdf
 
