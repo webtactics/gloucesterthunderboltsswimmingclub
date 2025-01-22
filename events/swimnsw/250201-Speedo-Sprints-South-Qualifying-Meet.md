@@ -14,9 +14,8 @@ tags:
   - Port-Macquarie
   - Featured
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/resources/swimming-north-coast-600x400.jpg
-
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/swimming-north-coast-600x400.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-400x600.jpg
 
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
