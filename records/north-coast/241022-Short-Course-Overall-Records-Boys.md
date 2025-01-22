@@ -7,7 +7,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/records/swimming-north-coast-4
 
 description: Boys Short Course Overall North Coast Records @ 22/10/2024
 
-records: /records/north-coast/241022-Short-Course-Overall-Records-Boys.pdf
+records: /static/records/north-coast/241022-Short-Course-Overall-Records-Boys.pdf
 
 tags:
   - Records

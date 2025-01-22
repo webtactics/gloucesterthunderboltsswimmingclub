@@ -7,7 +7,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.
 
 metadescription: Mixed Relay Short Course Records as at 30 November 2020
 
-records: /records/nsw-short/201130-Mixed-Relay-Current-Short-Course-Records-at-301120.pdf
+records: /static/records/nsw-short/201130-Mixed-Relay-Current-Short-Course-Records-at-301120.pdf
 
 tags:
   - Records

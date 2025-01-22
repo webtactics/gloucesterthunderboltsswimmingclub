@@ -7,7 +7,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/records/swimming-north-coast-4
 
 description: Short Course Championship Records Boys & Girls
 
-records: /records/north-coast/240604-Short-Course-Championship-Records-Boys-Girls.pdf
+records: /static/records/north-coast/240604-Short-Course-Championship-Records-Boys-Girls.pdf
 
 tags:
   - Records

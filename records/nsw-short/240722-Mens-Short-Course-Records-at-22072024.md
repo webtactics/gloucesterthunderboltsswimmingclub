@@ -7,7 +7,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.
 
 metadescription: Mens Short Course Records as at 22 July 2024
 
-records: /records/nsw-short/240722-Mens-Short-Course-Records-at-22072024.pdf
+records: /static/records/nsw-short/240722-Mens-Short-Course-Records-at-22072024.pdf
 
 tags:
   - Records

@@ -7,7 +7,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.
 
 metadescription: Mens Long Course Records as at 29 May 2024
 
-records: /records/nsw-long/240529-Mens-Current-Long-Course-Records-at-240529.pdf
+records: /static/records/nsw-long/240529-Mens-Current-Long-Course-Records-at-240529.pdf
 
 tags:
   - Records

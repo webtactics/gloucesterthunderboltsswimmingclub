@@ -7,7 +7,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.
 
 metadescription: Mixed Relay Long Course Records as at 31 May 2022
 
-records: /records/nsw-long/220531-Mixed-Relay-Current-Long-Course-Records-at-310522.pdf
+records: /static/records/nsw-long/220531-Mixed-Relay-Current-Long-Course-Records-at-310522.pdf
 
 tags:
   - Records
