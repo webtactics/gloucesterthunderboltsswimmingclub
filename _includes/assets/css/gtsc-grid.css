@@ -724,8 +724,8 @@ ul.infobox a {
 }
 .navbar  ul.navbar-menu  li  a.social-icon:hover svg
 {
-  background: var(--primarydark);
-  color: var(--red);
+
+  color: var(--darkblue);
 }
 
 
