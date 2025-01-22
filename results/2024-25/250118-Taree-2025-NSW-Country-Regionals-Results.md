@@ -16,7 +16,7 @@ tags:
   - Taree-Torpedoes
 
 
-results: https://nsw.swimming.org.au/sites/default/files/assets/documents/results%20by%20event%20-%20taree.pdf
+results: /static/results/2024-25/250118-Taree-2025-NSW-Country-Regionals-Results.pdf
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/resources/taree-torpedoes-600x400.jpg
 
@@ -26,6 +26,7 @@ club: Taree Torpedoes
 clubURL: https://www.tareetorpedoes.com/
 
 meetflyerpdf: https://nsw.swimming.org.au/sites/default/files/assets/documents/2025%20NSW%20Country%20Regional%20Schedule%20of%20Events%20%26%20QTs%20Final_0.pdf
+
 
 entrylink: https://swimcentral.swimming.org.au/events/2ec1c3de-a795-ef11-8a68-002248971738/nominations
 
