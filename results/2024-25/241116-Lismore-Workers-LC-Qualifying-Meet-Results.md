@@ -1,5 +1,5 @@
 ---
-title: 2024 Lismore Workers LC Qualifying Carnival Resultd
+title: 2024 Lismore Workers LC Qualifying Carnival Results
 subtitle: Lismore Workers LC Qualifying Carnival
 date: 2024-11-16
 
@@ -17,7 +17,8 @@ tags:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/events/lismore-workers-600x400-border.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-400x600.jpg
 
 club: Lismore Workers Swim Team 
 clubURL: https://www.facebook.com/lwstswimming/

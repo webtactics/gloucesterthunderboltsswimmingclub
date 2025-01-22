@@ -19,12 +19,12 @@ tags:
 results: /static/results/2024-25/241123-coffs-snc-div-final-results.pdf
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/events/coffs-harbour-600x400-border.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/coffs-harbour-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
 
 
 club: Coffs Harbour Swim Club
-clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/
+clubURL: https://www.facebook.com/Coffs-Harbour-Swim-Club-100060444858133/
 
 meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_068dab087119484088ecf5684c56c5f2.pdf
 

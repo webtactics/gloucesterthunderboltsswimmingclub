@@ -10,8 +10,8 @@ eventdate:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/events/port-macquarie-swimming-club-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/port-macquarie-swimming-club-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-400x600.jpg
 
 results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_2b98bd2dbc194a6988c4e7918d19c206.pdf
 
