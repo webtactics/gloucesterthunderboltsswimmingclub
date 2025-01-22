@@ -18,7 +18,7 @@ tags:
 
 results: https://nsw.swimming.org.au/sites/default/files/assets/documents/results%20by%20event%20-%20taree.pdf
 
-image: 
+image: https://ik.imagekit.io/webtactics/gtsc/img/resources/taree-torpedoes-600x400.jpg
 
 clubimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/taree-torpedoes-600x400.jpg
 
