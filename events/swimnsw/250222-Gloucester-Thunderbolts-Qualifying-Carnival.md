@@ -14,9 +14,9 @@ tags:
   - Gloucester-Thunderbolts
   - Featured
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/resources/gloucester-thunderbolts-600x400.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/resources/gloucester-thunderbolts-600x400-border.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/gloucester-thunderbolts-600x400.jpg
+clubimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/gloucester-thunderbolts-600x400-border.jpg
 
 club: Gloucester Thunderbolts Swimming Club
 clubURL: https://www.gloucesterthunderboltsswimmingclub.com.au/

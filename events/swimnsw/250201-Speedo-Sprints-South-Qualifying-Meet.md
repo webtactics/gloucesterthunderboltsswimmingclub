@@ -45,9 +45,7 @@ maplaurieton:
 ---
 
 
-<h2>Speedo Sprints</h2>
-
-The 2025 Speedo Heats and Qualifying Meets are fast approaching, and entries are open on Swim Central.
+<strong>The 2025 Speedo Heats and Qualifying Meets are fast approaching, and entries are open on Swim Central.</strong>
 
 Please Note: The actual Australian Age Qualification Ruling should read: Any swimmer who has achieved a national qualifying time for the 2025 Australian Age Championships by 31 January 2025 (excluding MC and Open Water) is ineligible to compete in the heats and finals series. This is for Speedo events only, which are 8-13 Years 50m events.
 
