@@ -1,13 +1,13 @@
 ---
 title: GTSC Freestyle Records
 subtitle: Freestyle
-date: 2024-02-18
+date: 2025-01-25
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/freestyle-400x600.jpg
 
 metadescription: Gloucester Thunderbolts Swimming Club Freestyle Swimming Records
 
-records: /records/gtsc/240218-freestyle-records.pdf
+records: /static/records/gtsc/250119-freestyle-records.pdf
 
 tags:
   - Records
