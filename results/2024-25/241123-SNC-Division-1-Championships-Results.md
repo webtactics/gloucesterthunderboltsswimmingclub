@@ -1,6 +1,6 @@
 ---
-title: Coffs Harbour SNC Division 1 Championships
-subtitle: Coffs Harbour SNC Division 1 Championships
+title: Coffs Harbour SNC Division 1 Championships Results
+subtitle: Coffs Harbour SNC Division 1 Championships Results
 date: 2024-11-23
 
 eventdate:
@@ -20,7 +20,7 @@ results: /static/results/2024-25/241123-coffs-snc-div-final-results.pdf
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/coffs-harbour-600x400-border.jpg
-
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/coffs-harbour-400x600.jpg
 
 
 club: Coffs Harbour Swim Club

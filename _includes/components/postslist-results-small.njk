@@ -5,6 +5,12 @@
 
 {% if post.data.rain %}
 <div class="resultssumroundimage">
+
+	{% if post.data.sumimage %}
+	<img src="{{ post.data.sumimage }}/tr:w-100,h-150" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="100px" height="150px" class="postlistimg">
+	{% else %}
+	<img src="{{ post.data.image }}/tr:w-100,h-150" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="100px" height="150px" class="postlistimg">
+	{% endif %}
 <img src="{{ post.data.image }}/tr:w-100,h-150" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="100px" height="150px" class="postlistimg">
 </div>
 <div class="resultssumsmallcontent">
@@ -21,7 +27,11 @@
 {% else %}
 
 <div class="resultssumroundimage">
+		{% if post.data.sumimage %}
+<a href="{{ post.data.results }}" target="_blank"><img src="{{ post.data.sumimage }}/tr:w-100,h-150" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="100px" height="150px" class="postlistimg"></a>
+	{% else %}
 <a href="{{ post.data.results }}" target="_blank"><img src="{{ post.data.image }}/tr:w-100,h-150" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="100px" height="150px" class="postlistimg"></a>
+	{% endif %}
 </div>
 
 <div class="resultssumsmallcontent">
