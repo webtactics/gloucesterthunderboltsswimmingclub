@@ -1,7 +1,7 @@
 ---
 title: GTSC Individual Medley Records
 subtitle: Medley Records
-date: 2025=01-22
+date: 2025=01-23
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/medley-400x600.jpg
 
