@@ -8,7 +8,6 @@ eventdate:
   month: January
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-27-refresh.jpg
 
 tags:
   - Club-Night
@@ -16,9 +15,16 @@ tags:
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
   - Summer-Social
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
+  - 2025-year
 
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-27.jpg
 
+results: 
 
+rain: true
 
 events:
   - freestyle
