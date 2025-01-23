@@ -52,11 +52,7 @@ medley:
   length200: 200
 
 
-tags:
-  - Club-Night
-  - GTSC-Event
-  - 2024-25-Season-GTSC
-  - 2024-25-Season-Events
+
  
 
 time: 6:00pm - 8:00pm
