@@ -2,15 +2,11 @@
 	{% for post in postslist %}
 <summary class="eventsummary">
 
-{% if post.data.clubimage %}
-<div class="bordertopsumimage">
-<a href="{{ post.url | url }}" ><img src="{{ post.data.clubimage }}/tr:w-440,h-293" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="440px" height="auto" class="postlistimg"></a>
-</div>
-{% else %}
+
 <div class="bordertopsumimage">
 <a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-440,h-293" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="440px" height="auto" class="postlistimg"></a>
 </div>
-{% endif %}
+
 
 <div class="sumtitle">
 <h3 class="sum-title"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.subtitle }}</a></h3>
