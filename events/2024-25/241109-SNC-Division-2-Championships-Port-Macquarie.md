@@ -12,11 +12,14 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Port-Macquarie
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
 
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-400x600.jpg
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/events/port-macquarie-swimming-club-600x400.jpg
-
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/port-macquarie-swimming-club-600x400.jpg
+results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_2b98bd2dbc194a6988c4e7918d19c206.pdf
 
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
