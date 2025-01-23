@@ -12,11 +12,15 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Lismore-Workers
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
 
 
-image: 
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-400x600.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/lismore-workers-600x400-border.jpg
+results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_55bd1035f297428ea5b4b3bdd01cd6bc.pdf
 
 club: Lismore Workers Swim Team 
 clubURL: https://www.facebook.com/lwstswimming/
