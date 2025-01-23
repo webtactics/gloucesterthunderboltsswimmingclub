@@ -1,21 +1,21 @@
 ---
-title: Club Night Bonus Round Week 1, 2024-25 Season
-subtitle: GTSC Bonus Round Week 1
-date: 2025-03-06
+title: GTSC Age Championships Week 2, 2024-25 Season
+subtitle: GTSC Age Championships Week 2
+date: 2025-04-03
 
 eventdate:
-  day: 6th
-  month: March
+  day: 3rd
+  month: April
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-15.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-19.jpg
 
 tags:
   - Club-Night
   - GTSC-Event
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
-  - Bonus-Round
+  - Age-Championships
   - Featured
 
 events:
@@ -28,7 +28,7 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length400: 400
+
 
 
 backstroke:
@@ -41,14 +41,16 @@ backstroke:
 breaststroke:
   length25: 25
   length50: 50
-  length100: 100
+
+
 
 
 
 butterfly:
   length25: 25
   length50: 50
-  length200: 200
+  length100: 100
+
 
 
 
@@ -58,8 +60,13 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
-entrylink: https://swimcentral.swimming.org.au/events/4dfecb01-1bce-ef11-8ee9-002248971738/detail
+entrylink: https://swimcentral.swimming.org.au/events/e64b7042-4bce-ef11-8eea-002248978584/detail
 ---
 
-<strong>Distance Championships</strong>
-Freestyle: 400m
+<strong>Age Championships</strong>
+Freestyle: 50m
+Backstroke: 25m and 100m
+Breastroke: 50m
+Butterfly: 25m and 100m
+
+

@@ -1,14 +1,14 @@
 ---
-title: Club Night Bonus Round Week 1, 2024-25 Season
-subtitle: GTSC Bonus Round Week 1
-date: 2025-03-06
+title: Club Night Bonus Round Week 3, 2024-25 Season
+subtitle: GTSC Bonus Round Week 3
+date: 2025-03-20
 
 eventdate:
-  day: 6th
+  day: 20th
   month: March
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-15.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-17.jpg
 
 tags:
   - Club-Night
@@ -28,20 +28,20 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length400: 400
+
 
 
 backstroke:
   length25: 25
   length50: 50
-  length100: 100
+  length200: 200
 
 
 
 breaststroke:
   length25: 25
   length50: 50
-  length100: 100
+
 
 
 
@@ -49,6 +49,11 @@ butterfly:
   length25: 25
   length50: 50
   length200: 200
+
+medley:
+    length200: 200
+
+
 
 
 
@@ -58,8 +63,11 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
-entrylink: https://swimcentral.swimming.org.au/events/4dfecb01-1bce-ef11-8ee9-002248971738/detail
+entrylink: https://swimcentral.swimming.org.au/events/709bf748-47ce-ef11-8ee9-000d3a6b6147/detail
 ---
 
 <strong>Distance Championships</strong>
-Freestyle: 400m
+Backstroke: 200m
+Butterfly: 200m
+IM: 200m
+

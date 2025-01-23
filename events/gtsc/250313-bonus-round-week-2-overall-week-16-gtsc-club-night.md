@@ -64,3 +64,9 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 entrylink: https://swimcentral.swimming.org.au/events/1aa74561-1dce-ef11-8eea-6045bdc295e3/detail
 ---
+
+<strong>Distance Championships</strong>
+Freestyle: 200m
+Breaststroke: 200m
+IM: 100m
+
