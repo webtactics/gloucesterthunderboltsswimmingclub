@@ -1693,7 +1693,7 @@ z-index: 0;
 
 
 .flex-caption {
-  background: var(--darkblue40);
+  background: var(--white);
   font-size: 14px;
   top: 60vh;
   left: 0px;
@@ -1728,7 +1728,7 @@ padding: 1rem;
     font-family: 'Montserrat', Helvetica, Arial, Lucida, sans-serif;
     font-weight: 400;
     line-height: 1;
-    color: var(--white);
+    color: var(--darkblue);
     text-align: left;
   letter-spacing: 1px;
     padding:0;
