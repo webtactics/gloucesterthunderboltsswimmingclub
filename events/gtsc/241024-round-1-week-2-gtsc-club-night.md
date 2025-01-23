@@ -8,10 +8,18 @@ eventdate:
   month: October
   year: 2024
 
+tags:
+  - Club-Night
+  - GTSC-Event
+  - 2024-25-Season-GTSC
+  - 2024-25-Season-Events
+  - Results
+
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-2.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-2.jpg
 
-results: /static/results/2024-25/241024-round-1-week-2-results.pdf
-
+results: 
+rain: true
 
 events:
   - freestyle
@@ -44,13 +52,6 @@ medley:
   length200: 200
 
 
-
-
-tags:
-  - Club-Night
-  - GTSC-Event
-  - 2024-25-Season-GTSC
-  - 2024-25-Season-Events
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool

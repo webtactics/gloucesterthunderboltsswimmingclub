@@ -8,7 +8,16 @@ eventdate:
   month: December
   year: 2024
 
+tags:
+  - Club-Night
+  - GTSC-Event
+  - 2024-25-Season-GTSC
+  - 2024-25-Season-Events
+  - Results
+
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-8.jpg
+
+results: /static/results/2024-25/241205-round-2-week-1-overall-week-8-results-update.pdf
 
 events:
   - freestyle

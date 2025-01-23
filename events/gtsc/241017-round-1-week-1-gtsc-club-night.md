@@ -8,7 +8,15 @@ eventdate:
   month: October
   year: 2024
 
+tags:
+  - Club-Night
+  - GTSC-Event
+  - 2024-25-Season-GTSC
+  - 2024-25-Season-Events
+  - Results
+
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.jpg
 
 results: /static/results/2024-25/241017-round-1-week-1-results.pdf
 
@@ -40,11 +48,6 @@ butterfly:
   length100: 100m
 
 
-tags:
-  - Club-Night
-  - GTSC-Event
-  - 2024-25-Season-GTSC
-  - 2024-25-Season-Events
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool

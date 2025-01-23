@@ -8,16 +8,17 @@ eventdate:
   month: November
   year: 2024
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-4.jpg
-
-results: /static/results/2024-25/241107-round-1-week-4-results.pdf
-
-
 tags:
   - Club-Night
   - GTSC-Event
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
+  - Results
+  
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-4.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-4.jpg
+
+results: /static/results/2024-25/241107-round-1-week-4-results.pdf
 
 
 events:
