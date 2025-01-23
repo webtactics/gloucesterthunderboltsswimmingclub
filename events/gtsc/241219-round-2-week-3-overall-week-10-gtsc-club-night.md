@@ -8,13 +8,16 @@ eventdate:
   month: December
   year: 2024
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-10.jpg
-
 tags:
   - Club-Night
   - GTSC-Event
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
+  
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-10.jpg
+
+results: 
 
 
 
