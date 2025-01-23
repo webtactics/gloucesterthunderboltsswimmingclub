@@ -14,9 +14,10 @@ tags:
   - Beresfield-Barracudas
 
 
-image: 
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/beresfield-sc-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/beresfield-sc-400x600.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/beresfield-sc-600x400.jpg
+results: 
 
 club: Beresfield Barracudas Swim Club 
 clubURL: https://www.facebook.com/BeresfieldSwimClub
