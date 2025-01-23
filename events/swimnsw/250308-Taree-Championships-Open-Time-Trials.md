@@ -13,6 +13,7 @@ tags:
   - 2024-25-Season-Events-SwimNSW
   - Taree-Torpedoes
   - 2025-Year
+  - Featured
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg
