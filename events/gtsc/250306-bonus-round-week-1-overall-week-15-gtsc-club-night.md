@@ -61,5 +61,5 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 entrylink: https://swimcentral.swimming.org.au/events/4dfecb01-1bce-ef11-8ee9-002248971738/detail
 ---
 
-<strong>Distance Championships</strong>
-Freestyle: 400m
+<strong>Distance Championships</strong><br/>
+Freestyle: 400m<br/>
