@@ -12,11 +12,15 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Crescent-Head-Pointers
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
 
 
-image: 
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Crescent-Head-Pointers-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Crescent-Head-Pointers-400x600.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/Crescent-Head-Pointers-600x400-border.jpg
+results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_50da6fef2e2f4e6c922db181bff6d7d4.pdf
 
 club: Crescent Head Pointers
 clubURL: https://www.facebook.com/p/Crescent-Head-Pointers-Swimming-Club-100031252717475/
