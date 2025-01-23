@@ -14,6 +14,8 @@ tags:
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
   - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-2.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-2.jpg
