@@ -14,9 +14,10 @@ tags:
   - Laurieton-Swimming-Club
 
 
-image: 
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/laurieton-sc-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/laurieton-sc-400x600.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/laurieton-sc.jpg
+results: 
 
 club: Laurieton Swimming Club
 clubURL: https://www.laurietonswimmingclub.com/

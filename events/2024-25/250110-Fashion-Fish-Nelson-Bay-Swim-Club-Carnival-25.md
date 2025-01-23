@@ -14,9 +14,10 @@ tags:
   - Nelson-Bay-Swim-Club
 
 
-image: 
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/nelson-bay-sc-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/nelson-bay-sc-400x600.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/nelson-bay-sc-600x400.png
+results: 
 
 club: 	Nelson Bay Swim Club
 clubURL: https://www.tomareeac.com.au/swim/swim-club
