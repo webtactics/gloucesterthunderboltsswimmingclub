@@ -12,11 +12,15 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Coffs-Harbour-Swim-Club
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
 
 
-image: 
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/events/coffs-harbour-600x400-border.jpg
+results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_f8e15be203994a51993fa1fdce7a1030.pdf
 
 club: Coffs Harbour Swim Club
 clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/
