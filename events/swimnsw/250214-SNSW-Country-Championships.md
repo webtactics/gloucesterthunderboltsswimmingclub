@@ -14,8 +14,8 @@ tags:
   - Swim-NSW
   - Featured
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-600x400.jpg
 
 club: Swim NSW
 clubURL: https://nsw.swimming.org.au/
@@ -46,12 +46,3 @@ mapsydneyolympic: https://maps.app.goo.gl/yW8LAZartfFc6veo7
 ---
 
 
-<strong>The 2025 Speedo Heats and Qualifying Meets are fast approaching, and entries are open on Swim Central.</strong>
-
-Please Note: The actual Australian Age Qualification Ruling should read: Any swimmer who has achieved a national qualifying time for the 2025 Australian Age Championships by 31 January 2025 (excluding MC and Open Water) is ineligible to compete in the heats and finals series. This is for Speedo events only, which are 8-13 Years 50m events.
-
-If you are not a club member, or you are a recreational swimmer, and you would like to come and try, this is a meet for you. 
-
-Please complete the Google Form attached if you are interested.
-All entries close at 11.59pm on Friday 24 January 2025.
-<a href="https://forms.gle/8tFcjJ3H4q4fZEws5" title="2025 Speedo Sprints South &amp; Qualifying Meet">https://forms.gle/8tFcjJ3H4q4fZEws5</a>
