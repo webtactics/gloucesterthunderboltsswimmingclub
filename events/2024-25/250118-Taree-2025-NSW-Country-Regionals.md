@@ -12,11 +12,15 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Taree-Torpedoes
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
 
 
-image: 
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-400x600.jpg
 
-clubimage: https://ik.imagekit.io/webtactics/gtsc/img/resources/taree-torpedoes-600x400.jpg
+results: /static/results/2024-25/250118-Taree-2025-NSW-Country-Regionals-Results.pdf
 
 club: Taree Torpedoes
 clubURL: https://www.tareetorpedoes.com/
