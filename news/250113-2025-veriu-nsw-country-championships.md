@@ -1,7 +1,7 @@
 ---
 title: 2025 Veriu NSW Country Championships
 
-date: 2024-10-12
+date: 2025-01-13
 
 eventdate:
   day: 14-16
