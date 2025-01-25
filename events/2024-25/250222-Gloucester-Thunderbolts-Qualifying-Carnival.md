@@ -20,7 +20,7 @@ sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbol
 club: Gloucester Thunderbolts Swimming Club
 clubURL: https://www.gloucesterthunderboltsswimmingclub.com.au/
 
-meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_cf4a6eb7717e43bb82f552e60a90c882.pdf
+meetflyerpdf: https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/2025-Gloucester-Thunderbolts-Development-Carnival-Flyer.pdf
 
 entrylink: https://swimcentral.swimming.org.au/events/37688ec4-79ce-ef11-8eea-002248978584/detail
 
