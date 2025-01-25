@@ -2,6 +2,10 @@
 
 
 
+{% block bodyclass %}<body class="news {{ class }} " >
+	<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v21.0"></script>{% endblock %}
+
 {% block content %}
 <div class="container">
 	<main class="content">
@@ -14,6 +18,35 @@
 	{% set postslist = collections['News'] %} 
 	{% include "components/postslist-news.njk" %}
 </div>
+
+
+
+
+
+
+<div class="grid-2x1">
+	<div class="twothirds">
+		<div class="resultswrapper">
+  			{% set postslist = collections['News'] | reverse %} 
+			{% include "components/postslist-news-2-wide.njk" %}
+		</div>
+		<div class="linkwrapper"><a class="resultspdf" href="/news/" title="GTSC News" alt="GTSC News" >For all News Items &gt;</a></div>
+	</div>
+
+	<div class="onethird">
+		<div class="fbswrapper">
+			<div class="fb-page" data-href="https://www.facebook.com/GloucesterThunderboltsSwimmingClub" data-tabs="timeline" data-width="500px" data-height="500px" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
+			<blockquote cite="https://www.facebook.com/GloucesterThunderboltsSwimmingClub" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/GloucesterThunderboltsSwimmingClub">Gloucester Thunderbolts Swimming Club</a>
+			</blockquote>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
 
 	</main>
 </div>
