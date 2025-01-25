@@ -15,7 +15,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
 
 articlelink: https://swimcentral.swimming.org.au/events/37688ec4-79ce-ef11-8eea-002248978584/detail
-articllinktitle: Swim Central Event Entry
+articlelinktitle: Swim Central Event Entry
 
 articlePDF: https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/2025-Gloucester-Thunderbolts-Development-Carnival-Flyer.pdf
 articlePDFtitle: GTSC Development Carnival Flyer
