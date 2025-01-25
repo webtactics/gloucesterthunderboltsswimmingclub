@@ -33,7 +33,7 @@ articlePDFtitle2:
 <h3>Gloucester Thunderbolts Swimming Club is excited to announce our very first Qualifying Carnival.</h3>
 
 Warm-up from 8:00am. Meet starts at 9:00am
-Gloucester Olympic Pool, Gloucester District Park, Gloucester
+
 
 Come and help us celebrate our new Diving blocks!
 
@@ -42,4 +42,4 @@ Come and help us celebrate our new Diving blocks!
 <div class="map"><p><strong>Map Shortcode :</strong> <a href="https://maps.app.goo.gl/JXexsoRAoSNzhJPm7" title="2025 Gloucester Thunderbolts Qualifying Carnival">https://maps.app.goo.gl/JXexsoRAoSNzhJPm7</a></p></div>
 <p><strong>Event Flyer: </strong><a href="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/2025-Gloucester-Thunderbolts-Development-Carnival-Flyer.pdf" title="2025 Gloucester Thunderbolts Qualifying Carnival Flyer" alt="2025 Gloucester Thunderbolts Qualifying Carnival Flyer" target="_blank">2025 Gloucester Thunderbolts Qualifying Carnival Pdf</a></p>
 
-<p>further information at: <a href="https://www.gloucesterthunderboltsswimmingclub.com.au/events/2025-gloucester-thunderbolts-qualifying-carnival/" title="Gloucester Thunderbolts Swimming Club" alt="Gloucester Thunderbolts Swimming Club">Gloucester Thunderbolts Swimming Club Events</a></p>
+<p>Further information at: <a href="https://www.gloucesterthunderboltsswimmingclub.com.au/events/2025-gloucester-thunderbolts-qualifying-carnival/" title="Gloucester Thunderbolts Swimming Club" alt="Gloucester Thunderbolts Swimming Club">Gloucester Thunderbolts Swimming Club Events</a></p>
