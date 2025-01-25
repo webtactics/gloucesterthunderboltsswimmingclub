@@ -14,6 +14,9 @@ tags:
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
   - Summer-Social
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-28.jpg
 
