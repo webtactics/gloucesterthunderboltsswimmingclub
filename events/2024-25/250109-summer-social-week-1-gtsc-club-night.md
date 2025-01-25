@@ -17,7 +17,7 @@ tags:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-28.jpg
 
-results:
+results: /static/results/2024-25/250109-summer-social-week-1-results.pdf
 
 
 

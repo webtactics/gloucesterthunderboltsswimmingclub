@@ -17,8 +17,7 @@ tags:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-10.jpg
 
-results: 
-
+results: /static/results/2024-25/241219-round-2-week-3-overall-week-10-results.pdf
 
 
 

@@ -18,7 +18,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-26.jpg
 sumimage: 
 
-results: 
+results: /static/results/2024-25/250123-summer-social-week-3-results.pdf
 
 rain:
 
