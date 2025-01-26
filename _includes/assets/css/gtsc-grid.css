@@ -81,11 +81,15 @@
          url('/static/fonts/montserrat-v26-latin-600.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
   }
   
+  @view-transition {
+    navigation: auto;
+  }
+
 
 /* Box sizing rules */
 *, *::before, *::after {
   box-sizing: border-box;
-}
+}mg
 
 /* Prevent font size inflation */
 html {
