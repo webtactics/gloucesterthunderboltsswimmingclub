@@ -12,10 +12,14 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Port-Macquarie
-  - Featured
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-400x600.jpg
+
+results: /static/results/2024-25/250201-Speedo-Sprints-South-Qualifying-Meet-results.pdf
 
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
