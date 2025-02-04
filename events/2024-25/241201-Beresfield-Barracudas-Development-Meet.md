@@ -20,7 +20,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/beresfield-sc-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/beresfield-sc-400x600.jpg
 
-results: /static/results/2024-25/41201-Beresfield-Barracudas-Development-Meet-results.pdf
+results: /static/results/2024-25/241201-Beresfield-Barracudas-Development-Meet-results.pdf
 
 
 
