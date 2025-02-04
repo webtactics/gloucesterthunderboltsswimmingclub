@@ -12,12 +12,17 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Beresfield-Barracudas
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/beresfield-sc-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/beresfield-sc-400x600.jpg
 
-results: 
+results: /static/results/2024-25/41201-Beresfield-Barracudas-Development-Meet-results.pdf
+
+
 
 club: Beresfield Barracudas Swim Club 
 clubURL: https://www.facebook.com/BeresfieldSwimClub
