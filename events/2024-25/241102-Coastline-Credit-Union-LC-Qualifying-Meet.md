@@ -21,7 +21,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-400x600.jpg
 
-results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_6dde64e5459f4fac80a6cff8c3a5ddfc.pdf
+results: /static/results/2024-25/241102-Coastline-Credit-Union-LC-Qualifying-Meet-results.pdf
 
 club: Taree Torpedoes
 clubURL: https://www.tareetorpedoes.com/
