@@ -44,7 +44,7 @@ mapsydneyolympic: https://maps.app.goo.gl/yW8LAZartfFc6veo7
 
 
 ---
-
+Speedo Sprint Series Finals are for those swimmers who placed in the top four at their area Speedo Sprint Heats & have progressed through to the finals.
 
 Area Sprint Series Convenors need to send in their Entries by either a MM or TM File to Swimming NSW (events@nsw.swimming.org.au) no later than 5pm Tuesday 18th February 2025. 
 
