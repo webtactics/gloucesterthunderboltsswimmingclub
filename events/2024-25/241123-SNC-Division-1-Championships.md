@@ -20,7 +20,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
 
-results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_f8e15be203994a51993fa1fdce7a1030.pdf
+results: /static/results/2024-25/241123-SNC-Division-1-Championships-results.pdf
 
 club: Coffs Harbour Swim Club
 clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/

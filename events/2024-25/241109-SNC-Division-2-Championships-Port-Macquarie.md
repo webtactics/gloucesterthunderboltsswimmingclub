@@ -19,7 +19,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-400x600.jpg
 
-results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_2b98bd2dbc194a6988c4e7918d19c206.pdf
+results: /static/results/2024-25/241109-SNC-Division-2-Championships-Port-Macquarie-results.pdf
 
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
