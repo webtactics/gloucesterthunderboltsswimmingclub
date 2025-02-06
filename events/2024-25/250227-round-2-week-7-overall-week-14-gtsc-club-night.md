@@ -2,6 +2,7 @@
 title: Club Night Round 2 Week 7, 2024-25 Season
 subtitle: GTSC Round 2 Week 7
 date: 2025-02-27
+time: 2025-02-27T18:00:00
 
 eventdate:
   day: 27th

@@ -2,6 +2,7 @@
 title: 2025-Manning-Zone-Championships
 subtitle: 2025-Manning-Zone-Championships
 date: 2025-02-27
+time: 2025-02-27T09:30:00
 
 eventdate:
   day: 27th
