@@ -8,7 +8,7 @@ eventdate:
   month: January
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-25.jpg
+eleventyExcludeFromCollections: true
 
 tags:
   - Club-Night
@@ -16,8 +16,14 @@ tags:
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
   - Summer-Social
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
 
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-25.jpg
+sumimage: 
 
+results: /static/results/2024-25/250130-summer-social-week-4-results.pdf
 
 
 events:

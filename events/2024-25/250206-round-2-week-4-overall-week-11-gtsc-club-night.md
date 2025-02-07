@@ -8,14 +8,23 @@ eventdate:
   month: February
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-11.jpg
 
 tags:
   - Club-Night
   - GTSC-Event
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
-  - Featured
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
+
+
+eleventyExcludeFromCollections: true
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-11.jpg
+
+
+results: /static/results/2024-25/250206-round-2-week-4-overall-week-11-results.pdf
 
 events:
   - freestyle
