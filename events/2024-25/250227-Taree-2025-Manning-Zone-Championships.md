@@ -1,8 +1,6 @@
 ---
 
 eleventyExcludeFromCollections: true
-permalink: false
-
 
 
 title: 2025 Manning Zone School Championships
