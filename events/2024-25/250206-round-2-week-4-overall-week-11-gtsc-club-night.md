@@ -19,12 +19,12 @@ tags:
   - 2024-25-Results-GTSC
 
 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-11.jpg
 
 
-results: /static/results/2024-25/250206-round-2-week-4-overall-week-11-results.pdf
+results: /static/results/2024-25/250206-round-2-week-4-overall-week-11-gtsc-club-night-results.pdf
 
 events:
   - freestyle
