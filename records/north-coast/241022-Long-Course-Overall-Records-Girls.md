@@ -8,7 +8,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/records/swimming-north-coast-4
 
 description: Girls Long Course Overall North Coast Records @ 04/01/2025
 
-records: /static/records/north-coast/2501014-Long-Course-Overall-Records-Girls.pdf
+records: /static/records/north-coast/250104-Long-Course-Overall-Records-Girls.pdf
 
 tags:
   - Records
