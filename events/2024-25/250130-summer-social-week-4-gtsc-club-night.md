@@ -8,7 +8,7 @@ eventdate:
   month: January
   year: 2025
 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 tags:
   - Club-Night
@@ -23,7 +23,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-25.jpg
 sumimage: 
 
-results: /static/results/2024-25/250130-summer-social-week-4-results.pdf
+results: /static/results/2024-25/250130-summer-social-week-4-gtsc-club-night-results.pdf
 
 
 events:
