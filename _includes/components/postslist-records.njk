@@ -8,16 +8,17 @@
 
 <div class="resultssumsmallcontent">
 
-<div class="postsumtitle">
-<h3><a href="{{ post.data.records }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"target="_blank">{{ post.data.title }}</a></h3>
-</div>
+	<div class="postsumtitle">
+		<h3><a href="{{ post.data.records }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"target="_blank">{{ post.data.title }}</a></h3>
+	</div>
 
+	<a class="recordspdfsmall" href="{{ post.data.records }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank">{{ post.data.subtitle }} Pdf &gt;</a>
 
-<a class="recordspdfsmall" href="{{ post.data.records }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank">{{ post.data.subtitle }} Pdf &gt;</a>
-
-<div class="postsumupdate">
-<p>Last updated:</br>{{ post.data.updated }}</p>
-</div>
+{% if post.data.updated %}
+	<div class="postsumupdate">
+		<p>Last updated:</br>{{ post.data.updated }}</p>
+	</div>
+{% endif %}
 
 </div>				
 
