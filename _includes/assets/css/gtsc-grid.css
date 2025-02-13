@@ -2938,7 +2938,15 @@ padding: 0 0.75rem;
 min-height: 2rem;
 }
 .postsumdate p {margin:0;line-height:2rem;color: var(--white);}
-.postsumupdate p {margin:0;line-height:2rem;min-height: 2rem;}
+
+.postsumupdate {
+
+  padding: 0.75rem;
+  min-height: 2rem;
+  }
+
+
+.postsumupdate p {margin:0;line-height:1;min-height: 2rem;}
 
 .committee-title {font-weight: bold;}
 
