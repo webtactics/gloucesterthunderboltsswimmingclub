@@ -1,7 +1,8 @@
 ---
-title: Girls Long Course Overall North Coast Records @ 22/10/2024
+title: Girls Long Course Overall North Coast Records
 subtitle: Girls Long Course Overall Records
 date: 2024-10-22
+updated: 22nd October 2024
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/swimming-north-coast-400x600.jpg
 

@@ -2,6 +2,7 @@
 title: Long Course Championship Records Boys & Girls
 subtitle: Long Course Championship Records Boys & Girls
 date: 2023-11-29
+updated: 9th November 2023
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/swimming-north-coast-400x600.jpg
 
