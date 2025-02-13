@@ -1,7 +1,8 @@
 ---
-title: Mens Long Course Records @ 29/05/2024
+title: Mens Long Course Records
 subtitle: Mens Long Course Records
 date: 2024-05-29
+updated: 29th May 2024
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.jpg
 

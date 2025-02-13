@@ -1,7 +1,8 @@
 ---
-title: Mixed Relay Long Course Records @ 31/05/2022
+title: Mixed Relay Long Course Records
 subtitle: Mixed Relay Long Course Records
 date: 2022-05-31
+updated: 31st May 2022
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.jpg
 
