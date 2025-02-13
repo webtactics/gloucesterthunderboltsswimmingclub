@@ -1,7 +1,8 @@
 ---
-title: Womens Long Course Records @ 11/07/2024
+title: Womens Long Course Records
 subtitle: Womens Long Course Records
 date: 2024-07-11
+updated: 11th July 2024
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.jpg
 
