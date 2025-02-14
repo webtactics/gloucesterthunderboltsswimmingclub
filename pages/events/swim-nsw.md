@@ -6,7 +6,7 @@ description:
 date: 2024-08-22
 permalink: /events/swim-nsw/
 eleventyNavigation:
-  key: Swim NSW 
+  key: Swim NSW Events
   parent: Events
   order: 4
 ---
