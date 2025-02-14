@@ -8,6 +8,6 @@ permalink: /events/records/
 eleventyNavigation:
   key: Swim Records
   parent: Events
-  order: 3
+  order: 4
 ---
 
