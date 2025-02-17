@@ -11,7 +11,6 @@
 
 <title>{{ title or metadata.title }} - {{ metadata.title }}</title>
 <link rel="canonical" href="https://www.gloucesterthunderboltsswimmingclub.com.au/{{ page.url or post.url or permalink }}" />
-<meta name="description" content="{{ description or metadata.description or eleventyComputed.description }}" />
 <meta property="og:title" content="{{ metatitle or title or metadata.title }}" />
 <meta property="og:description" content="{{ description or metadata.description or metatitle or title or metadata.title or eleventyComputed.description }}" />
 <meta property="og:image" content="{{ image or metadata.image or eleventyComputed.image }}" />
