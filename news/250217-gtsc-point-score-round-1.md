@@ -15,7 +15,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
 
 articlelink: https://www.facebook.com/share/p/1AvfA2UtGz/
-articlelinktitle: 
+articlelinktitle: Facebook post
 
 articlePDF: 
 articlePDFtitle: 
@@ -43,6 +43,6 @@ Well done everyone on their results so far.
 <div class="postnewsimage"><img src="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250217-gtsc-point-score-round-1-girls.jpg" alt="Gloucester Thunderbolts Top 10 Point Score Round 1" title="Gloucester Thunderbolts Top 10 Point Score Round 1" width="100%" height="auto" class="postlistimg"></div>
 <br/><br/>
 <div class="postnewsimage"><img src="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250217-gtsc-point-score-round-1-boys.jpg" alt="Gloucester Thunderbolts Top 10 Point Score Round 1" title="Gloucester Thunderbolts Top 10 Point Score Round 1" width="100%" height="auto" class="postlistimg"></div>
-
+<br/><br/>
 
 
