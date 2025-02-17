@@ -1,7 +1,7 @@
 ---
 title: 2025 Australian Age and MC Age Championships Qualifying Times Released
-
 date: 2024-10-09
+description: Swimming Australia has released the qualifying times for the 2025 National Age Swimming Championships, signalling the start of an exciting season for swimmers aiming to compete on the national stage.
 
 eventdate:
   day: 9th

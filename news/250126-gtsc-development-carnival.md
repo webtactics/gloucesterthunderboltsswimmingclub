@@ -1,7 +1,7 @@
 ---
 title: Gloucester Thunderbolts Development Carnival
-
 date: 2025-01-26
+description: Gloucester Thunderbolts Swimming Club is excited to announce our very first Qualifying Carnival.
 
 eventdate:
   day: 22nd

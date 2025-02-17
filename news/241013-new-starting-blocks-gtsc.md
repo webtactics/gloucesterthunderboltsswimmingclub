@@ -1,7 +1,7 @@
 ---
 title: Finally! New diving blocks at the Gloucester Olympic Pool.
-
 date: 2024-10-13
+description: It has been many years in the making but we are so pleased to say that we finally have the correct diving blocks in place at the Gloucester Olympic Pool. 
 
 eventdate:
   day: 13th

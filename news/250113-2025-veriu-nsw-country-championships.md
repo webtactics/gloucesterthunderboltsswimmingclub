@@ -1,7 +1,7 @@
 ---
 title: 2025 Veriu NSW Country Championships
-
 date: 2025-01-13
+description: 2025 NSW COUNTRY CHAMPIONSHIPS We are so excited to announce that two of our Thunderbolt swimmers are heading down to Homebush tomorrow for three big days of racing.
 
 eventdate:
   day: 14-16
