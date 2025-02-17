@@ -1,7 +1,8 @@
 ---
 title: Gloucester Thunderbolts Top 10 Point Score Round 1
-
 date: 2025-02-17
+
+description: Each week our swimmers earn points based on how they swim against their own times. We are over half way through our season and it is time to celebrate who is leading out top 10 competition. 
 
 eventdate:
   day: 17th
