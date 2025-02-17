@@ -40,7 +40,9 @@ Round 2 is proving to be very interesting there is no guessing who is actually g
 
 Well done everyone on their results so far.
 
-(https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250217-gtsc-point-score-round-1-girls.jpg)
+<div class="postnewsimage"><img src="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250217-gtsc-point-score-round-1-girls.jpg" alt="Gloucester Thunderbolts Top 10 Point Score Round 1" title="Gloucester Thunderbolts Top 10 Point Score Round 1" width="100%" height="auto" class="postlistimg"></div>
 
-(https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250217-gtsc-point-score-round-1-boys.jpg)
+<div class="postnewsimage"><img src="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250217-gtsc-point-score-round-1-boys.jpg" alt="Gloucester Thunderbolts Top 10 Point Score Round 1" title="Gloucester Thunderbolts Top 10 Point Score Round 1" width="100%" height="auto" class="postlistimg"></div>
+
+
 
