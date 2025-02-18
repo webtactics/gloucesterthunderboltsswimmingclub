@@ -1,5 +1,6 @@
 ---
 title: 2025 Speedo NSW Junior State Age Championships
+description: 2025 Speedo NSW Junior State Age Championships
 subtitle: 2025 Speedo NSW Junior State Age Championships
 date: 2025-03-15
 

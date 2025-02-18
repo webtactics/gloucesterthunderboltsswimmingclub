@@ -1,5 +1,6 @@
 ---
 title: 2025 NSW Speedo Sprint Series Finals
+description: 2025 NSW Speedo Sprint Series Finals
 subtitle: 2025 NSW Speedo Sprint Series Finals
 date: 2025-03-01
 

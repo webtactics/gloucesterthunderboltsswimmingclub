@@ -2,6 +2,7 @@
 eleventyExcludeFromCollections: false
 
 title: 2025 Manning Zone School Championships
+description: 2025 Manning Zone School Championships
 subtitle: 2025 Manning Zone School Championships
 date: 2025-02-27
 

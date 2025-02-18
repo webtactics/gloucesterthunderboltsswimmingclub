@@ -1,5 +1,6 @@
 ---
 title: Fashion Fish Nelson Bay Swim Club Carnival 25
+description: Fashion Fish Nelson Bay Swim Club Carnival 25
 subtitle: Fashion Fish Nelson Bay Swim Club Carnival 25
 date: 2025-01-10
 

@@ -1,5 +1,6 @@
 ---
 title: 2025 Gloucester Thunderbolts Qualifying Carnival
+description: 2025 Gloucester Thunderbolts Qualifying Carnival
 subtitle: 2025 Gloucester Thunderbolts Qualifying Carnival
 date: 2025-02-22
 

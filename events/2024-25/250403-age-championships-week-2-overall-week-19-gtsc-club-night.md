@@ -1,5 +1,6 @@
 ---
 title: GTSC Age Championships Week 2, 2024-25 Season
+description: GTSC Age Championships Week 2, 2024-25 Season
 subtitle: GTSC Age Championships Week 2
 date: 2025-04-03
 

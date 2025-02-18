@@ -1,5 +1,6 @@
 ---
-title: Club Night Round 2 Week 4, 2024-25 Season
+title: GTSC Club Night Round 2 Week 4, 2024-25 Season
+description: GTSC Club Night Round 2 Week 4, 2024-25 Season
 subtitle: GTSC Round 2 Week 4
 date: 2025-02-06
 
