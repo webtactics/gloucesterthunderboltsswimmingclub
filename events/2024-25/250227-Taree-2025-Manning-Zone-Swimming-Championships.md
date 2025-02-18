@@ -1,8 +1,8 @@
 ---
 eleventyExcludeFromCollections: false
 
-title: 2025 Manning Zone School Championships
-description: 2025 Manning Zone School Championships
+title: 2025 Manning Zone School Swimming Championships
+description: 2025 Manning Zone School Swimming Championships
 subtitle: 2025 Manning Zone School Championships
 date: 2025-02-27
 
