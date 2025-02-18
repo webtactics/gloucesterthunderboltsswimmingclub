@@ -6,7 +6,7 @@ section: events
 class: events
 date: 2025-02-18
 permalink: /events/
-metadata: Gloucester Thunderbolts Swimming Club runs from mid Oct until early April on Thursday evenings at 6.00pm at the Gloucester Pool Complex.  All ages and abilities are welcome.
+metadata: 
   title: Gloucester Thunderbolts Swimming Club Events and Swim NSW Meets
 eleventyNavigation:
   key: Events
