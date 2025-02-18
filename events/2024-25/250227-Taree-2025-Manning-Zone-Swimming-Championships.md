@@ -6,6 +6,9 @@ description: 2025 Manning Zone School Swimming Championships
 subtitle: 2025 Manning Zone School Championships
 date: 2025-02-27
 
+permalink: /events/2025-manning-zone-school-swimming-championships/
+redirect_from: /events/2025-manning-zone-school-championships/ 
+
 
 eventdate:
   day: 27th
