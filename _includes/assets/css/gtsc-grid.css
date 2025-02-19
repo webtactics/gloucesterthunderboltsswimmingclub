@@ -2913,14 +2913,19 @@ a.goldsponsorwebsite:hover {
 }
 
 
-.eightypercentborder3rem, .eightypercentborder {
+ .eightypercentborder, .eightypercentborder3rem, .eightypercentborder2rem, .eightypercentborder1rem {
   margin: 0 auto 5rem auto;
   border-bottom: 4px dotted var(--lightgrey);
   width: calc(80vw - 6rem);
   max-width: 800px;
-  height: 80px
+  height: 80px;
  
 }
+
+.eightypercentborder3rem {margin: 0 auto 3rem auto;   height: 80px;}
+.eightypercentborder2rem {margin: 0 auto 2rem auto;   height: 64px;}
+.eightypercentborder1rem {margin: 0 auto 1rem auto;   height: 32px;}
+
 @media (max-width: 1025px) {
   .eightypercentborder3rem, .eightypercentborder {
     margin: 0 auto 2rem auto;
