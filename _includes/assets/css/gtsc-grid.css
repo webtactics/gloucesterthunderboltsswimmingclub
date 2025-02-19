@@ -1938,7 +1938,7 @@ padding: 3rem 1rem;}
   gap: 2rem;
 }
 .grid-2-news {
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 3fr 2fr;
   gap: 3rem;
 }
 .grid-2-sponsor, .grid-2x1 {
