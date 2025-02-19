@@ -52,3 +52,9 @@ Have you entered our carnival yet?
 Why not come over and check out our new diving blocks, grab a coffee or slushie from Nels coffee van or grab some food at the rotary bbq. 
 
 So stop scrolling on your phone and get into swim central and get your entries in!
+
+<p>GTSC Development Carnival Program & Entries are now available.</p>
+<p><a href="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250222-GTSC-Full-2025-Qualifying-Carnival-Program.pdf" title="GTSC Development Carnival Program" alt="GTSC Development Carnival Program">GTSC Development Carnival Program</a></p>
+
+<p><a href="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250222-GTSC-start-list-2025-qualifying-carnival.pdf" title="GTSC Development Carnival Start List" alt="GTSC Development Carnival Start List">GTSC Development Carnival Start List</a></p>
+
