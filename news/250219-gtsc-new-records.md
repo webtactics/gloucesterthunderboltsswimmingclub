@@ -38,7 +38,7 @@ As we start to get ready for our big Carnival this Saturday, let's take the time
 
 How amazing are our country kids? Well done everyone.
 
-An up to date, well, as close we have, complete list of GTSC, Swimming North Coast and Swim NSW records is at: <a href="https://www.gloucesterthunderboltsswimmingclub.com.au/events/records/" title="Gloucester Thunderbolts Records Breakers" alt="Gloucester Thunderbolts Records Breakers">https://www.gloucesterthunderboltsswimmingclub.com.au/events/records/</a>
+An up to date, well, as close we have, complete list of GTSC, Swimming North Coast and Swim NSW records is <a href="https://www.gloucesterthunderboltsswimmingclub.com.au/events/records/" title="Gloucester Thunderbolts Records Breakers" alt="Gloucester Thunderbolts Records Breakers">available here</a>
 
 <br/><br/>
 
