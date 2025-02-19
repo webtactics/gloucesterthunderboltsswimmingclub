@@ -2059,11 +2059,14 @@ max-width: 600px;}
     row-gap: 0;
   }
 
-  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news, .grid-3-columns.resultssum, .grid-3-columns.eventsum, .grid-4-columns.resultssum, .grid-4-columns.eventsum,  .grid-2-sponsor, .grid-2x1   {
+  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news,  .grid-2-sponsor, .grid-2x1   {
     grid-template-columns: repeat(1, 1fr); 
     gap: 1rem;
   }
-
+  .grid-3-columns.eventsum, .grid-4-columns.resultssum, .grid-4-columns.eventsum {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
   .grid-3-columns.resultssum {
     grid-template-columns: repeat(1, 1fr);
     gap: 2rem;
