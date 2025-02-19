@@ -14,7 +14,7 @@ tags:
   - GTSC
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250222-gtsc-development-carnival-3.jpg
 
 articlelink: https://www.gloucesterthunderboltsswimmingclub.com.au/events/2025-gloucester-thunderbolts-qualifying-carnival/
 articlelinktitle: Event Information
