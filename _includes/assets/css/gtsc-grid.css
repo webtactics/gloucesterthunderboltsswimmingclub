@@ -2356,7 +2356,7 @@ select {
 ------------------------------------------------- */
 
 .resultswrapper {padding:0;}
-.resultswrapper:first-child {padding-top:2rem;}
+.resultswrapper.top {padding-top:1rem;}
   
 
 a.swimcentral {
