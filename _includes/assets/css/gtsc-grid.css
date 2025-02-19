@@ -2355,11 +2355,8 @@ select {
 /* Gallery
 ------------------------------------------------- */
 
-.resultswrapper {
-
-padding-top:2rem;
-
-}
+.resultswrapper {padding:0;}
+.resultswrapper:first-child {padding-top:2rem;}
   
 
 a.swimcentral {
