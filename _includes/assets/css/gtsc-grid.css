@@ -2041,7 +2041,7 @@ max-width: 600px;}
 }
 
 @media (max-width: 1024px) {
-  h4.sum-title-cancelled {white-space: wrap;}
+
 
   .grid-4-columns.resultssum, .grid-4-columns.eventsum {
     grid-template-columns: repeat(1, 1fr);
@@ -2738,7 +2738,9 @@ h4.sum-title-cancelled {
   padding: var(--h3h4sumpadding);
 }
 
-
+@media (max-width: 1024px) { 
+  h4.sum-title-cancelled {white-space: wrap;}
+}
 
 a.resultspdf {
   color: var(--white);
