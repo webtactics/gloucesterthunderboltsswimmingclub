@@ -12,7 +12,7 @@ tags:
   - GTSC
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250222-gtsc-development-carnival-600x400.jpg
 
 articlelink: https://swimcentral.swimming.org.au/events/37688ec4-79ce-ef11-8eea-002248978584/detail
 articlelinktitle: Swim Central Event Entry
