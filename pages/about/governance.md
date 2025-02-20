@@ -16,5 +16,3 @@ eleventyNavigation:
 
 
  {% include "components/global/governance.html" %}
-<div class="eightypercentborder3rem"></div>
-  {% include "components/global/events.njk" %}
