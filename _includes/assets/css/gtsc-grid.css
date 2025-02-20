@@ -1962,7 +1962,7 @@ padding: 3rem 1rem;}
 }
 
 .grid-auto-fill-4 {
-  --grid-min-col-size: 200px;
+  --grid-min-col-size: 250px;
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fill, minmax(min(var(--grid-min-col-size), 100%), 1fr));
