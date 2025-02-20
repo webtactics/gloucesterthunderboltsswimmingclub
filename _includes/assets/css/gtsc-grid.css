@@ -2003,17 +2003,7 @@ max-width: 600px;}
 .grid-3-columns {
   grid-template-columns: repeat(3, 1fr);
 }
-.grid-3-columns.resultssum, .grid-3-columns.eventsum {
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
 
-}
-
-.grid-4-columns.resultssum, .grid-4-columns.eventsum {
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1.4rem;
-
-}
 
 .grid-4-columns {
   grid-template-columns: repeat(4, 1fr);
@@ -2080,14 +2070,7 @@ max-width: 600px;}
     grid-template-columns: repeat(1, 1fr); 
     gap: 1rem;
   }
-  .grid-3-columns.eventsum, .grid-4-columns.resultssum, .grid-4-columns.eventsum {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-  }
-  .grid-3-columns.resultssum {
-    grid-template-columns: repeat(1, 1fr);
-    gap: 2rem;
-  }
+
 
 
 .grid-4-1-gluten {
@@ -2161,10 +2144,7 @@ max-width: 600px;}
       grid-template-columns:1fr;gap: 1rem;
     }
     
-    .grid-3-columns.eventsum, .grid-4-columns.resultssum {
-      grid-template-columns: repeat(1, 1fr);
-      gap: 1rem;
-    }
+
 
   .grid-2-columns {
     grid-template-columns: repeat(1, 1fr);
