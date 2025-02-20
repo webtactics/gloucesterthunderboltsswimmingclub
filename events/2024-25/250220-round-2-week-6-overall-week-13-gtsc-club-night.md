@@ -15,12 +15,16 @@ tags:
   - GTSC-Event
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
-  - Featured
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
 
 
 eleventyExcludeFromCollections: false
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-13.jpg
+
+results: /static/results/2024-25/250220-round-2-week-6-overall-week-13-gtsc-club-night-results.pdf
 
 
 results: 
