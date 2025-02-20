@@ -32,7 +32,7 @@
     {% else %}
 
     <h2 class="heading-text">2024-25 Season Club Night Results</h2>
-	{% set postslist = collections['2024-25-Results-GTSC'] | reverse | limit(3) -%} 
+	{% set postslist = collections['Results'] | reverse | limit(3) -%} 
 	{% include "components/postslist-results-sidebar.njk" %}
 
 {% endif %}
