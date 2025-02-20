@@ -13,3 +13,4 @@ eleventyNavigation:
 
 
 
+ {% include "components/global/governance.html" %}
