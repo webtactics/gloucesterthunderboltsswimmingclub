@@ -24,7 +24,7 @@
 <div class="grid-2x1">
 	<div class="twothirds">
 		<div class="resultswrapper">
-  			{% set postslist = collections['News'] | reverse %} 
+  			{% set postslist = collections['News'] | reverse | limit(4) %} 
 			{% include "components/postslist-news-2-wide.njk" %}
 		</div>
 		
