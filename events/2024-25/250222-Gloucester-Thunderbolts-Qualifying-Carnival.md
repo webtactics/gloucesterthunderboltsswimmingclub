@@ -49,7 +49,7 @@ maplaurieton:
 
 Have you entered our carnival yet?
 
-Why not come over and check out our new diving blocks, grab a coffee or slushie from Nels coffee van or grab some food at the rotary bbq. 
+Why not come over and check out our new diving blocks, grab a coffee or slushie from Nels coffee van or grab some food at the Rotary BBQ. 
 
 So stop scrolling on your phone and get into swim central and get your entries in!
 
