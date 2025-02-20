@@ -1,7 +1,7 @@
 ---
 layout: layouts/grid-7x4.njk
 title: Governance
-class: about
+class: about governance
 description: Governance and Bylaws
 date: 2025-02-20
 eventssidebar: false
