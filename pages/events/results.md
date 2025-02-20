@@ -1,7 +1,7 @@
 ---
 layout: layouts/grid-results.njk
 title: GTSC & Swimming NSW Results
-class: events
+class: events results
 description: All the GTSC  for the club and Swim NSW events.
 date: 2024-11-02
 permalink: /events/results/

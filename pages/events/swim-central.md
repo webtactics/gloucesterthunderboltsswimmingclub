@@ -2,8 +2,8 @@
 layout: layouts/grid-useful.njk
 title: Swim Central & Other Swimming Organisations.
 description: 
-section: events
-class: events
+section: events 
+class: events swimcentral
 date: 2024-07-18
 permalink: /events/swim-central/
 metadata:

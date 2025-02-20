@@ -1,7 +1,7 @@
 ---
 layout: layouts/grid-swim-nsw.njk
 title: Swim NSW Events
-class: events
+class: events swimnsw
 description: 
 date: 2024-08-22
 permalink: /events/swim-nsw/
