@@ -1,9 +1,11 @@
 ---
-layout: layouts/grid-governance.njk
+layout: layouts/grid-7x4.njk
 title: Governance
 class: about
 description: Governance and Bylaws
-date: 2024-10-29
+date: 2025-02-20
+eventssidebar: false
+
 permalink: /about/governance/
 eleventyNavigation:
   key: Governance
