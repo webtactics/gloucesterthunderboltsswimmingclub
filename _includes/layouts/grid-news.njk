@@ -44,16 +44,13 @@
 		{% set postslist = collections['News-body'] | reverse  %} 
 		{% include "components/postslist-news-4-wide.njk" %}
 		</div>
-<div class="resultswrapper top2rem fade-in appear">
-{% set atPost = 0 %}
-{% for post in collection.posts %}
-{% if atPost < 3 %}
-{#  do your processing here or include it #}
-{% endif%}
-{% set atPost = atPost + 1 %}
-{% endfor %}
 
-</div>
+
+<div class="resultswrapper top2rem fade-in appear">
+		{% set postslist = collections['News'] | reverse |  %} 
+		{% include "components/postslist-news-4-wide-start-4.njk" %}
+		</div>
+
 
 
 	</main>
