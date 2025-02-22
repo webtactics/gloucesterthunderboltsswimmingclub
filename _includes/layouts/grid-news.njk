@@ -40,7 +40,10 @@
 
 
 
-
+<div class="resultswrapper top fade-in appear">
+		{% set postslist = collections['News-body'] | reverse  %} 
+		{% include "components/postslist-news-4-wide.njk" %}
+		</div>
 
 
 
