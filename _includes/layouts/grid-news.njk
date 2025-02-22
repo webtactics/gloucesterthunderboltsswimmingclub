@@ -22,7 +22,7 @@
     	</div>
 		{{ content | safe }}
 		<div class="resultswrapper">
-  		{% set postslist = collections['News'] | reverse | limit(4) %} 
+  		{% set postslist = collections['News'] | reverse  %} 
 		{% include "components/postslist-news-2-wide.njk" %}
 		</div>
 	</div>
