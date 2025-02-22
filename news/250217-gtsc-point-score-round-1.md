@@ -12,6 +12,7 @@ eventdate:
 
 tags:
   - GTSC
+  - Recent
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg

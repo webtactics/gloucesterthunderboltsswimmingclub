@@ -68,6 +68,14 @@ module.exports = function (eleventyConfig) {
         return arr.slice(0, limit);
       });
     
+      eleventyConfig.addFilter("exclude", (collection, stringToFilter) => {
+        if (!stringToFilter) {
+          return collection
+        }
+        return (collection ?? []).filter(item => item !== stringToFilter)
+      })
+
+
 
     // Minify HTML output
     eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
