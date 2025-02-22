@@ -21,7 +21,7 @@
        		<h1 class="heading-text">{{ title }}</h1>
     	</div>
 		{{ content | safe }}
-		<div class="resultswrapper">
+		<div class="resultswrapper top fade-in appear">
   		{% set postslist = collections['News'] | reverse  %} 
 		{% include "components/postslist-news-2-wide.njk" %}
 		</div>
