@@ -67,13 +67,7 @@ module.exports = function (eleventyConfig) {
       eleventyConfig.addFilter("limit", function (arr, limit) {
         return arr.slice(0, limit);
       });
-    
-      eleventyConfig.addFilter("exclude", (collection, stringToFilter) => {
-        if (!stringToFilter) {
-          return collection
-        }
-        return (collection ?? []).filter(item => item !== stringToFilter)
-      })
+  
 
 
 
