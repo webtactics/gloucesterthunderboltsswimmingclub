@@ -2364,6 +2364,8 @@ select {
 
 .resultswrapper {padding:0;}
 .resultswrapper.top {padding-top:1rem;}
+.resultswrapper.top2rem {padding-top:2rem;}
+
 
 .fbswrapper {margin:0 auto;align-items: center;text-align: center;}
   
