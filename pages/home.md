@@ -4,7 +4,7 @@ title: Gloucester Thunderbolts Swimming Club
 subtitle: 
 class: home
 date: 2025-02-06
-description: Gloucester Thunderbolts Swimming Club we provide opportunities for swimmers of all levels to improve their swimming and achieve personal goals. 
+description: At Gloucester Thunderbolts Swimming Club we provide opportunities for swimmers of all levels to have fun, improve their swimming and achieve personal goals. 
 metadata:
   title: Gloucester Thunderbolts Swimming Club
 permalink: /
