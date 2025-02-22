@@ -1969,6 +1969,7 @@ padding: 3rem 1rem;}
 
 }
 
+.news .grid-auto-fill-4 {gap: 2rem;}
 
 .grid-4-footer {
   grid-template-columns: 1fr 1fr 1fr 1fr;
