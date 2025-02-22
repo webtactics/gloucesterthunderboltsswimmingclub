@@ -13,7 +13,7 @@ eventdate:
 tags:
   - GTSC
   - Development-Carnival
-  - Recent
+  - News-hero
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250222-gtsc-development-carnival-3.jpg

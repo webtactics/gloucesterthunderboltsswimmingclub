@@ -12,6 +12,7 @@ tags:
   - 2024-25-Qualifying-Times
   - Swim-NSW
   - NSW-Country-Championships
+  - News-body
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/news/241012-country-championships.jpg
