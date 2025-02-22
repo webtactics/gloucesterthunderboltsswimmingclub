@@ -13,10 +13,15 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Gloucester-Thunderbolts
-  - Featured
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
+
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-400x600.jpg
+
+results: /static/results/2024-25/250222-Gloucester-Thunderbolts-Qualifying-Carnival-results.pdf
 
 club: Gloucester Thunderbolts Swimming Club
 clubURL: https://www.gloucesterthunderboltsswimmingclub.com.au/
