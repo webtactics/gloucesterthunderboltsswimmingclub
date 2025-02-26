@@ -1,13 +1,14 @@
 ---
-title: Boys Short Course Overall North Coast Records @ 22/10/2024
+title: Boys Short Course Overall North Coast Records
 subtitle: Boys Short Course Overall Records
-date: 2024-10-22
+date: 2025-01-04
+updated: 4th january 2025
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/swimming-north-coast-400x600.jpg
 
-description: Boys Short Course Overall North Coast Records @ 22/10/2024
+description: Boys Short Course Overall North Coast Records @ 04/01/2025
 
-records: /static/records/north-coast/241022-Short-Course-Overall-Records-Boys.pdf
+records: /static/records/north-coast/250104-Short-Course-Overall-Records-Boys.pdf
 
 tags:
   - Records

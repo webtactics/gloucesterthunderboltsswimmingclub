@@ -1,5 +1,6 @@
 ---
 title: GTSC Summer Social Week 4, 2024-25 Season
+description: GTSC Summer Social Week 4, 2024-25 Season
 subtitle: GTSC Summer Social Week 4, 2024-25 Season
 date: 2025-01-30
 
@@ -8,7 +9,7 @@ eventdate:
   month: January
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-25.jpg
+eleventyExcludeFromCollections: false
 
 tags:
   - Club-Night
@@ -16,8 +17,14 @@ tags:
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
   - Summer-Social
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
 
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-25.jpg
+sumimage: 
 
+results: /static/results/2024-25/250130-summer-social-week-4-gtsc-club-night-results.pdf
 
 
 events:

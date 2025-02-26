@@ -1,5 +1,6 @@
 ---
-title: Club Night Bonus Round Week 3, 2024-25 Season
+title: GTSC Club Night Bonus Round Week 3, 2024-25 Season
+description: GTSC Club Night Bonus Round Week 3, 2024-25 Season
 subtitle: GTSC Bonus Round Week 3
 date: 2025-03-20
 

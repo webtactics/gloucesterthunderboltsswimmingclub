@@ -1,5 +1,6 @@
 ---
 title: 2025 Taree NSW Country Regionals
+description: 2025 Taree NSW Country Regionals
 subtitle: 2025 Taree NSW Country Regionals
 date: 2025-01-18
 

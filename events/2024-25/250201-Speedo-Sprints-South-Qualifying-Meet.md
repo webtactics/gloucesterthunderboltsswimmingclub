@@ -1,5 +1,6 @@
 ---
 title: 2025 Speedo Sprints South & Qualifying Meet
+description: 2025 Speedo Sprints South & Qualifying Meet
 subtitle: 2025 Speedo Sprints South & Qualifying Meet
 date: 2025-02-01
 

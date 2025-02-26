@@ -1,7 +1,7 @@
 ---
 title: Gloucester Thunderbolts Development Carnival
-
 date: 2025-01-26
+description: Gloucester Thunderbolts Swimming Club is excited to announce our very first Qualifying Carnival.
 
 eventdate:
   day: 22nd
@@ -10,15 +10,15 @@ eventdate:
 
 tags:
   - GTSC
+  - News-body
 
+image: https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250222-gtsc-development-carnival-600x400.jpg
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
+articlelink: 
+articlelinktitle: 
 
-articlelink: https://swimcentral.swimming.org.au/events/37688ec4-79ce-ef11-8eea-002248978584/detail
-articlelinktitle: Swim Central Event Entry
-
-articlePDF: https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/2025-Gloucester-Thunderbolts-Development-Carnival-Flyer.pdf
-articlePDFtitle: GTSC Development Carnival Flyer
+articlePDF: 
+articlePDFtitle: 
 
 articlePDF2: 
 
@@ -43,3 +43,9 @@ Come and help us celebrate our new Diving blocks!
 <p><strong>Event Flyer: </strong><a href="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/2025-Gloucester-Thunderbolts-Development-Carnival-Flyer.pdf" title="2025 Gloucester Thunderbolts Qualifying Carnival Flyer" alt="2025 Gloucester Thunderbolts Qualifying Carnival Flyer" target="_blank">2025 Gloucester Thunderbolts Qualifying Carnival Pdf</a></p>
 
 <p>Further information at: <a href="https://www.gloucesterthunderboltsswimmingclub.com.au/events/2025-gloucester-thunderbolts-qualifying-carnival/" title="Gloucester Thunderbolts Swimming Club" alt="Gloucester Thunderbolts Swimming Club">Gloucester Thunderbolts Swimming Club Events</a></p>
+
+<p><a href="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250222-GTSC-Full-2025-Qualifying-Carnival-Program.pdf" title="GTSC Development Carnival Program" alt="GTSC Development Carnival Program">GTSC Development Carnival Program</a></p>
+
+<p><a href="https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250222-GTSC-start-list-2025-qualifying-carnival.pdf" title="GTSC Development Carnival Start List" alt="GTSC Development Carnival Start List">GTSC Development Carnival Start List</a></p>
+
+<p><a class="resultspdfsmall" href="/static/results/2024-25/250222-Gloucester-Thunderbolts-Qualifying-Carnival-results.pdf" title="2025 Gloucester Thunderbolts Qualifying Carnival" alt="2025 Gloucester Thunderbolts Qualifying Carnival" target="_blank">Event Results Pdf &gt;</a></p>

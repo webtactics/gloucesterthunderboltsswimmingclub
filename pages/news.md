@@ -13,14 +13,9 @@ eleventyNavigation:
   order: 3
 ---
 
-
-
 ### Interested in swimming?
 
 **Cool, then some of this stuff may interest you too.**
-
-
-```
 
 
 

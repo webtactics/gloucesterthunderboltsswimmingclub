@@ -1,12 +1,12 @@
 ---
 layout: layouts/grid-events.njk
 title: GTSC Events & Swim NSW Meets
-description: 
+description: Gloucester Thunderbolts Swimming Club runs from mid Oct until early April on Thursday evenings at 6.00pm at the Gloucester Pool Complex.  All ages and abilities are welcome.
 section: events
 class: events
-date: 2024-07-18
+date: 2025-02-18
 permalink: /events/
-metadata:
+metadata: 
   title: Gloucester Thunderbolts Swimming Club Events and Swim NSW Meets
 eleventyNavigation:
   key: Events
@@ -15,11 +15,11 @@ eleventyNavigation:
 
 
 
-Gloucester Thunderbolts Swimming Club is a small community club providing opportunities for swimmers of all levels to improve their swimming and achieve personal goals. 
 
-We are a family oriented club offering a friendly and relaxed environment for all swimmers, both young and old. Racing is against swimmers of similar ability, not age, and the focus is on improving your own best time.
 
-Gloucester Thunderbolts Swimming Club runs from mid Oct until March on Thursday evenings at 6.00pm at the Gloucester Pool Complex. All ages and abilities are welcome.
+Gloucester Thunderbolts Swimming Club runs from mid Oct until early April on Thursday evenings at 6.00pm at the Gloucester Pool Complex. 
+
+All ages and abilities are welcome.
 
 
 

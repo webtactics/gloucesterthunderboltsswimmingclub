@@ -12,12 +12,14 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Laurieton-Swimming-Club
-
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/laurieton-sc-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/laurieton-sc-400x600.jpg
 
-results: 
+results: /static/results/2024-25/241215-Laurieton-SC-Christmas-Carnival-results.pdf
 
 club: Laurieton Swimming Club
 clubURL: https://www.laurietonswimmingclub.com/

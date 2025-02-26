@@ -2,6 +2,7 @@
 title: GTSC Freestyle Records
 subtitle: Freestyle
 date: 2025-01-24
+updated: 19th January 2025
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/freestyle-400x600.jpg
 

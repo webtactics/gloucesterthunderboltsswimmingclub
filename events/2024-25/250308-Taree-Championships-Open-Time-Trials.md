@@ -1,5 +1,6 @@
 ---
 title: 2025 Taree Torpedoes Championships & Open Time Trials
+description: 2025 Taree Torpedoes Championships & Open Time Trials
 subtitle: 2025 Taree Torpedoes Championships & Open Time Trials
 date: 2025-03-08
 

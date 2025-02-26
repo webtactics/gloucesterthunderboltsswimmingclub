@@ -20,7 +20,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Crescent-Head-Pointers-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Crescent-Head-Pointers-400x600.jpg
 
-results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_50da6fef2e2f4e6c922db181bff6d7d4.pdf
+results: /static/results/2024-25/241116-Crescent-Head-Pointers-Swim-Club-16th-Annual-SC-Qualifing-Meet-results.pdf
 
 club: Crescent Head Pointers
 clubURL: https://www.facebook.com/p/Crescent-Head-Pointers-Swimming-Club-100031252717475/

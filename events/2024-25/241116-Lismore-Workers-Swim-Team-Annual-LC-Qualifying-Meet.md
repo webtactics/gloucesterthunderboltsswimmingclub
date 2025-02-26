@@ -20,7 +20,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-400x600.jpg
 
-results: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_55bd1035f297428ea5b4b3bdd01cd6bc.pdf
+results: /static/results/2024-25/241116-Lismore-Workers-Swim-Team-Annual-LC-Qualifying-Meet-results.pdf
 
 club: Lismore Workers Swim Team 
 clubURL: https://www.facebook.com/lwstswimming/

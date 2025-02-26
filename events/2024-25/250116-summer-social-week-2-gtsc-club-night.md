@@ -1,5 +1,6 @@
 ---
 title: GTSC Summer Social Week 2, 2024-25 Season
+description: GTSC Summer Social Week 2, 2024-25 Season
 subtitle: GTSC Summer Social Week 2, 2024-25 Season
 date: 2025-01-16
 
