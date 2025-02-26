@@ -48,8 +48,8 @@ butterfly:
 
 
 medley:
-  length100or200: 100 or 200
-
+  length100: 100
+  length200: 200
 
 
 time: 6:00pm - 8:00pm
