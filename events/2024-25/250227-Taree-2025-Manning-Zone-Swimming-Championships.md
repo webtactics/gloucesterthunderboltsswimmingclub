@@ -20,7 +20,7 @@ tags:
   - 2024-25-Season-Events-SwimNSW
   - Taree-Torpedoes
   - Swim-NSW
-  - Featured
+
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone pssa-600x400.jpg
