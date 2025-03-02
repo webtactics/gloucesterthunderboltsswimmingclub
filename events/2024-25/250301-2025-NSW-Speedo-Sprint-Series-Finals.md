@@ -13,7 +13,7 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Swim-NSW
-  - Featured
+ 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-600x400.jpg
