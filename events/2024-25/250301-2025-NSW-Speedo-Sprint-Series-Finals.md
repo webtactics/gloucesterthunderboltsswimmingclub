@@ -13,10 +13,15 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Swim-NSW
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
  
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-600x400.jpg
+
+results: /static/results/2024-25/250301-2025-NSW-Speedo-Sprint-Series-Finals-results.pdf
 
 club: Swim NSW
 clubURL: https://nsw.swimming.org.au/
