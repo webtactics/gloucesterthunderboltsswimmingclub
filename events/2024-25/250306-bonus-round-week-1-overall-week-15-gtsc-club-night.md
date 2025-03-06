@@ -17,7 +17,13 @@ tags:
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
   - Bonus-Round
-  - Featured
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
+
+
+results: 
+rain: true
 
 events:
   - freestyle
