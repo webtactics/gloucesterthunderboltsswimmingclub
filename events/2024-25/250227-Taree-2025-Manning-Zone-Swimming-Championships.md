@@ -23,8 +23,8 @@ tags:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone pssa-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone pssa-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone-pssa-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone-pssa-400x600.jpg
 
 results: 
 
