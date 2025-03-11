@@ -7,8 +7,6 @@ subtitle: 2025 Hunter Regional School Swimming Championships
 date: 2025-03-11
 
 
-
-
 eventdate:
   day: 11th
   month: March
@@ -38,7 +36,7 @@ entrylink:
 
 time: 9:00am - 5:00pm
 where: The Forum Sports & Aquatic Centre, Newcastle
-map: The Forum Sports & Aquatic Centre
+map: https://maps.app.goo.gl/8R9ezrBZKFkuKjWM8
 
 maptaree: 
 
@@ -51,6 +49,8 @@ mapcresenthead:
 maplismore: 
 
 maplaurieton: 
+
+mapnewcastleforum: https://maps.app.goo.gl/8R9ezrBZKFkuKjWM8
 
 
 ---
