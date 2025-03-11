@@ -2,8 +2,8 @@
 eleventyExcludeFromCollections: false
 
 title: 2025 Hunter Regional School Swimming Championships
-description: 2025 Hunter Regional School Swimming Championships
-subtitle: 2025 Hunter Regional School Swimming Championships
+description: 2025 Hunter Regional Primary School Swimming Championships
+subtitle: 2025 Hunter Regional Primary Championships
 date: 2025-03-11
 
 
