@@ -9,7 +9,7 @@ eventdate:
   month: March
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-16.jpg
+
 
 tags:
   - Club-Night
@@ -17,7 +17,15 @@ tags:
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
   - Bonus-Round
-  - Featured
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
+
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-16.jpg
+
+results: /static/results/2024-25/250313-bonus-round-week-2-overall-week-16-gtsc-club-night-results.pdf
+
 
 events:
   - freestyle
@@ -66,7 +74,10 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 entrylink: https://swimcentral.swimming.org.au/events/1aa74561-1dce-ef11-8eea-6045bdc295e3/detail
 ---
 
-<strong>Distance Championships</strong>
+<strong>Distance Championships Results not posted till season end</strong>
+
+
+<h3>Distance Championships</h3>
 Freestyle: 200m
 Breaststroke: 200m
 IM: 100m
