@@ -54,3 +54,4 @@ mapnewcastleforum: https://maps.app.goo.gl/8R9ezrBZKFkuKjWM8
 
 ---
 
+First of the Winter Season events for 2025.
