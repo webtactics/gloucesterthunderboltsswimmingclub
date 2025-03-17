@@ -13,10 +13,14 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Swim-NSW
-  - Featured
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-600x400.jpg
+
+results: /static/results/2024-25/250315-2025-NSW-Junior-State-Age-Championships-Boys-10-50m-Breaststroke.pdf
 
 club: Swim NSW
 clubURL: https://nsw.swimming.org.au/
@@ -45,6 +49,9 @@ mapsydneyolympic: https://maps.app.goo.gl/yW8LAZartfFc6veo7
 
 
 ---
+Full Results when available.
+
+
 **Entries**
 
 Opening 9am Wednesday 22 February 2025

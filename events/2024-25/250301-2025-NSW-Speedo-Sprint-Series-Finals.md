@@ -15,7 +15,7 @@ tags:
   - Swim-NSW
   - Results
   - 2024-25-Results
-  - 2024-25-Results-GTSC
+  - 2024-25-Results-SwimNSW
  
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
