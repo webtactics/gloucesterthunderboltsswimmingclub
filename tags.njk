@@ -12,12 +12,13 @@ permalink: /tagged/{{ tag }}/
 layout: layouts/grid-default.njk
 eleventyComputed:
   title: "Tagged “{{ tag }}”"
-  metaDescription: "All Practice Areas tagged with “{{ tag }}”"
+  metaDescription: "All Events, Results and News tagged with “{{ tag }}”"
+  description: "All Events, Results and News tagged with “{{ tag }}”"
 ---
 
 
 
 {% set postslist = collections[tag] %}
-{% include "components/postslist-events-sidebar.njk" %}
+{% include "components/postslist-tagged.njk" %}
 
 
