@@ -2479,6 +2479,18 @@ font-size:1rem;
 
 }
 
+
+.taggedimg img {
+  border-radius: 1rem;
+  width: auto;
+  aspect-ratio: 3 / 2;
+}
+.taggedimg img:hover {
+  filter: brightness(110%);
+  transition: all 0.2s ease-in-out;
+
+}
+
 .recordsimage img {
   border-radius: 0.5rem;
   width: auto;
