@@ -2958,10 +2958,10 @@ a.goldsponsorwebsite:hover {
   padding-bottom: 0.5rem;
 }
 
-ul  li.taggs a {
+ul  li.taggs a, ul  li.taggs a:visited {
   display: block;
   color: var(--white);
-  background: var(--primarydark);
+  background: var(--darkblue);
  padding: 0.25rem 0.5rem;
   border:none;
   transition: background 300ms ease;
