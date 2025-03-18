@@ -2925,6 +2925,17 @@ a.goldsponsorwebsite:hover {
 
 }
 
+.eventresultspdf, .tagged {
+  width:100%;
+  display: flex;
+  padding: 2rem 0;
+}
+
+
+
+
+
+
 .two-colum-wrapper {
   margin: 0;
   padding:2rem 0 0 0;

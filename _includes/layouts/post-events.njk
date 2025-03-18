@@ -204,18 +204,24 @@ section: post
                             <strong>Championship</strong>
                         </p>
                     {% endif %}
+
+                    </div>
+
                     {% if results %}
+                    <div class="eventresultspdf">
                         <a class="resultspdfsmall"
                            href="{{ results }}"
                            title="{{ title }}"
                            alt="{{ title }}"
                            target="_blank">Event Results Pdf &gt;</a>
+                    </div>
                     {% endif %}
 
-</div>
+
 
 {% if tags %}
-  <div class="tag"><h4>Tags</h4>
+  <div class="tagged">
+  <div class="tag">
   <ul>
 {% for tag in tags %}
   {%- if tag != "post" -%}
@@ -224,6 +230,7 @@ section: post
   {%- endif -%}
 {% endfor %}
   </ul>
+</div>
 </div>
 {% endif %}
 
