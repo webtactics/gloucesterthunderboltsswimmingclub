@@ -2932,7 +2932,12 @@ a.goldsponsorwebsite:hover {
 }
 
 
-
+.tagged ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.5rem;
+  margin-left:1rem;
+}
 
 
 
