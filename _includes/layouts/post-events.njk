@@ -240,7 +240,7 @@ section: post
 {% for tag in tags %}
   {%- if tag != "post" -%}
     {% set tagUrl %}/tagged/{{ tag }}/{% endset %}
-   <li><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
+   <li class="taggs"><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
   {%- endif -%}
 {% endfor %}
   </ul>
