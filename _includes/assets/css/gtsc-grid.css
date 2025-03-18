@@ -2935,6 +2935,10 @@ a.goldsponsorwebsite:hover {
 .tagged ul {
   display: flex;
   flex-wrap: wrap;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .tagged ul li {
