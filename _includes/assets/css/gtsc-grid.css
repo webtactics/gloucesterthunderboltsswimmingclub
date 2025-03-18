@@ -2939,7 +2939,10 @@ a.goldsponsorwebsite:hover {
   margin-left:1rem;
 }
 
-
+.tagged ul li {
+  list-style: none;
+  margin-right: 1rem;
+}
 
 .two-colum-wrapper {
   margin: 0;
