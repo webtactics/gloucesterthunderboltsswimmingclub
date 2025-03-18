@@ -16,9 +16,9 @@ results: /static/results/2023-24/240118-summer-social-week-3-results.pdf
 tags:
   - Club-Night
   - Results
+  - 2024-Year
   - 2023-24-Results
   - 2023-24-Results-GTSC
-  - 2024-Year
   - Summer-Social
 
 time: 6:00pm - 8:00pm
