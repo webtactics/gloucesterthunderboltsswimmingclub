@@ -7,6 +7,20 @@ section: post
     <article>
         <div class="grid-2">
             <div class="item postdetail">
+
+ {% if results %}
+                    <div class="eventresultspdf">
+                        <a class="resultspdf"
+                           href="{{ results }}"
+                           title="{{ title }}"
+                           alt="{{ title }}"
+                           target="_blank">Results Pdf &gt;</a>
+                    </div>
+                    {% endif %}
+
+
+
+
                 <div class="detailcontent">{{ content | safe }}</div>
                 <div class="eventdate">
                     <p>
