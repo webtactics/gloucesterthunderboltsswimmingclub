@@ -2943,8 +2943,8 @@ a.goldsponsorwebsite:hover {
 
 .tagged ul li {
   list-style: none;
-  margin-right: 1rem;
-  padding: 0.5rem;
+  margin-right: 0.5rem;
+  padding: 0;
 }
 
 ul  li.taggs a {
@@ -2965,7 +2965,7 @@ ul  li.taggs a {
 ul  li.taggs a:hover, ul  li.taggs  a:focus {
   color: var(--primary);
   background: var(--red);
-  font-weight: bold;
+  font-weight: normal;
   text-decoration: none;
 }
 
