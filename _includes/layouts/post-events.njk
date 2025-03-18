@@ -237,20 +237,7 @@ section: post
 
 
 
-{% if tags %}
-  <div class="tagged">
-  <div class="tag">
-  <ul>
-{% for tag in tags %}
-  {%- if tag != "post" -%}
-    {% set tagUrl %}/tagged/{{ tag }}/{% endset %}
-   <li class="taggs"><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
-  {%- endif -%}
-{% endfor %}
-  </ul>
-</div>
-</div>
-{% endif %}
+{% include "components/global/tagged.html" %}
 
 
 
