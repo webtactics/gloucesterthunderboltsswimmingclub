@@ -2757,9 +2757,20 @@ h4.sum-title-cancelled {
   border-bottom-right-radius: 0.5rem;
   padding: var(--h3h4sumpadding);
 }
-
+h4.sum-title-cancelled-no-radius {
+  color: var(--white);
+  background-color: var(--red);
+  font-size:var(--h4sum);
+  line-height: 2;
+  white-space: nowrap;
+  width:100%;
+  display: block;
+  margin:0;
+  border:none;
+  padding: var(--h3h4sumpadding);
+}
 @media (max-width: 1024px) { 
-  h4.sum-title-cancelled {white-space: wrap;}
+  h4.sum-title-cancelled, h4.sum-title-cancelled-no-radius {white-space: wrap;}
 }
 
 a.resultspdf {
@@ -2944,13 +2955,13 @@ a.goldsponsorwebsite:hover {
 .tagged ul li {
   list-style: none;
   margin-right: 0.5rem;
-  padding: 0.5rem 0;
+  padding-bottom: 0.25rem;
 }
 
 ul  li.taggs a {
   display: block;
   color: var(--white);
-  background: var(--primary);
+  background: var(--primarydark);
  padding: 0.25rem 0.5rem;
   border:none;
   transition: background 300ms ease;
@@ -2963,7 +2974,7 @@ ul  li.taggs a {
 
 
 ul  li.taggs a:hover, ul  li.taggs  a:focus {
-  color: var(--primary);
+  color: var(--white);
   background: var(--red);
   font-weight: normal;
   text-decoration: none;
