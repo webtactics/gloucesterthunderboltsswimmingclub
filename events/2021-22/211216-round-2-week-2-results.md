@@ -4,7 +4,7 @@ subtitle: Round 2 Week 2
 date: 2021-12-16
 
 eventdate:
-  day: 5th
+  day: 16th
   month: December
   year: 2021
 

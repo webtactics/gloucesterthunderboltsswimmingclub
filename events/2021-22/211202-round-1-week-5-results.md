@@ -1,10 +1,10 @@
 ---
 title: Club Night Results Round 1 Week 5, 2021-22 Season
 subtitle: Round 1 Week 5
-date: 2021-11-18
+date: 2021-12-02
 
 eventdate:
-  day: 5th
+  day: 2nd
   month: December
   year: 2021
 
