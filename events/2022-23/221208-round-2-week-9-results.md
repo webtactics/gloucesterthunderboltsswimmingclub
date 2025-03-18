@@ -19,7 +19,7 @@ tags:
   - Results
   - 2022-23-Results
   - 2022-23-Results-GTSC
-  - 2022
+  - 2022-Year
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool

@@ -9,13 +9,13 @@ eventdate:
   year: 2024
 
 tags:
-  - 2024-year
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Taree-Torpedoes
   - Results
   - 2024-25-Results
   - 2024-25-Results-SwimNSW
+  - 2024-Year
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg

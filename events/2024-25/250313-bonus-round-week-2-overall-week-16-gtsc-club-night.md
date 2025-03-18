@@ -16,6 +16,7 @@ tags:
   - GTSC-Event
   - 2024-25-Season-GTSC
   - 2024-25-Season-Events
+  - 2025-Year
   - Bonus-Round
   - Results
   - 2024-25-Results

@@ -17,7 +17,7 @@ tags:
   - Results
   - 2021-22-Results
   - 2021-22-Results-GTSC
-  - 2022
+  - 2022-Year
 
 
 time: 6:00pm - 8:00pm

@@ -18,7 +18,7 @@ tags:
   - Results
   - 2023-24-Results
   - 2023-24--Results-GTSC
-  - 2023
+  - 2023-Year
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool

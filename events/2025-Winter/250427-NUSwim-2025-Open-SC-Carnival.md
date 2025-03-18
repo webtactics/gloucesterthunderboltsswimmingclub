@@ -14,9 +14,11 @@ eventdate:
 
 tags:
   - 2025-Winter
+  - 2025-Year
   - Swim-NSW
   - Swim-CVSA
   - Featured
+
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/NUSwim-600x400.jpg

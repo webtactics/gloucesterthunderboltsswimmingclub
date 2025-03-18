@@ -18,6 +18,7 @@ tags:
   - Results
   - 2024-25-Results
   - 2024-25-Results-GTSC
+  - 2025-Year
 
 
 eleventyExcludeFromCollections: false

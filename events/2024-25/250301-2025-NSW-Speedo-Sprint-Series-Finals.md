@@ -16,6 +16,7 @@ tags:
   - Results
   - 2024-25-Results
   - 2024-25-Results-SwimNSW
+  - 2025-Year
  
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
