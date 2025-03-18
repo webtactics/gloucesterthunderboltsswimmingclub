@@ -2944,14 +2944,14 @@ a.goldsponsorwebsite:hover {
 .tagged ul li {
   list-style: none;
   margin-right: 0.5rem;
-  padding: 0;
+  padding-right: 0.5rem;
 }
 
 ul  li.taggs a {
   display: block;
   color: var(--white);
   background: var(--primary);
- padding: 0.5rem;
+ padding: 0.25rem 0.5rem;
   border:none;
   transition: background 300ms ease;
   font-weight: normal;
