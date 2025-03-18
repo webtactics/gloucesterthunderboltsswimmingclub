@@ -2481,9 +2481,9 @@ font-size:1rem;
 
 
 .taggedimg img {
-  border-radius: 1rem;
+  border-radius: 0.75rem;
   width: auto;
-  aspect-ratio: 3 / 2;
+  aspect-ratio: 2 / 3;
 }
 .taggedimg img:hover {
   filter: brightness(110%);
