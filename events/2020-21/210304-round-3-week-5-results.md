@@ -17,7 +17,6 @@ tags:
   - Results
   - 2020-21-Results
   - 2020-21-Results-GTSC
-  - 2021
 
 
 time: 6:00pm - 8:00pm
