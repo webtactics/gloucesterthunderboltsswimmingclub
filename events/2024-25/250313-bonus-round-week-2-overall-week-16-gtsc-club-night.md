@@ -77,14 +77,14 @@ entrylink: https://swimcentral.swimming.org.au/events/1aa74561-1dce-ef11-8eea-60
 
 <strong>Distance Championships Results not posted till season end</strong>
 <br/>
-<br/><br/>
+<br/>
 
 <strong>Distance Championships</strong><br/>
-Freestyle: 200m
-Breaststroke: 200m
-IM: 100m
+Freestyle: 200m<br/>
+Breaststroke: 200m<br/>
+IM: 100m<br/>
 <br/>
-<br/><br/>
+<br/>
 
 
 

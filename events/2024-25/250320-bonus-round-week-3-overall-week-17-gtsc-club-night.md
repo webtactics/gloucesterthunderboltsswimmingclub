@@ -74,14 +74,14 @@ entrylink: https://swimcentral.swimming.org.au/events/709bf748-47ce-ef11-8ee9-00
 ---
 <strong>Distance Championships Results not posted till season end</strong>
 <br/>
-<br/><br/>
+<br/>
 
 <strong>Distance Championships</strong><br/>
 Backstroke: 200m<br/>
 Butterfly: 200m<br/>
 IM: 200m
 <br/>
-<br/><br/>
+<br/>
 
 
 
