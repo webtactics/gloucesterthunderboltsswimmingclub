@@ -9,8 +9,6 @@ eventdate:
   month: April
   year: 2025
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-19.jpg
-
 tags:
   - Club-Night
   - GTSC-Event
@@ -19,6 +17,11 @@ tags:
   - 2025-Year
   - Age-Championships
   - Featured
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-19.jpg
+
+results: 
+
 
 events:
   - freestyle
