@@ -72,9 +72,12 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 entrylink: https://swimcentral.swimming.org.au/events/709bf748-47ce-ef11-8ee9-000d3a6b6147/detail
 ---
+<strong>Distance Championships Results not posted till season end</strong>
 
 <strong>Distance Championships</strong><br/>
 Backstroke: 200m<br/>
 Butterfly: 200m<br/>
 IM: 200m
+
+
 
