@@ -14,13 +14,16 @@ tags:
   - 2024-25-Season-Events-SwimNSW
   - 2025-Year
   - Swim-NSW
-  - Featured
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
+  - 2025-Year
  
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-600x400.jpg
 
-results: 
+results: /static/results/2024-25/250321-2025-NSW-State-Open-Championships-results.pdf
 
 club: Swim NSW
 clubURL: https://nsw.swimming.org.au/
