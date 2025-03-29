@@ -16,7 +16,7 @@ tags:
   - 2024-25-Season-Events
   - 2025-Year
   - Age-Championships
-  - Featured
+
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-18.jpg
 
