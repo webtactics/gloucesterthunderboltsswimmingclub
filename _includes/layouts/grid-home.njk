@@ -33,7 +33,26 @@
 </div>
 
 
- {% include "components/postlist-home-3-boxes.njk" %}
+<section class="grid-auto-fill-3" >
+
+<div class="box3wrapper">
+{% set postslist = collections['Featured'] | limit (1) %} 
+{% include "components/postslist-homebox-events.njk" %}
+<div class="linkwrapper"><a class="resultspdf" href="/events/" title="All Events" alt="All Events" >For all Event Listings &gt;</a></div>
+</div>
+
+<div class="box3wrapper">
+{% set postslist = collections['2025-Winter'] | limit (1) %} 
+{% include "components/postslist-homebox-events.njk" %}
+<div class="linkwrapper"><a class="resultspdf" href="/events/" title="All Events" alt="All Events" >For all Winter Events &gt;</a></div>
+</div>
+
+<div class="box3wrapper">
+{% set postslist = collections['2024-25-Results'] | limit (1) %} 
+{% include "components/postslist-homebox-results.njk" %}
+	<div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="2024-25 Season  Results" alt="2024-25 Season  Results">For all Results &gt;</a></div>
+</div>
+</section>
 	
 
 {# Upcoming 2024-25 Season Events #}
