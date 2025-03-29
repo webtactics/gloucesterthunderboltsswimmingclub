@@ -46,6 +46,9 @@
 
   --h4sum: 1.2rem;
   --h3h4sumpadding: 0.25rem 0.75rem;
+
+  --grid-auto-fill-3-min-col-size: 300px;
+  --grid-auto-fill-4-min-col-size: 250px;
 }
   
   
@@ -1954,18 +1957,16 @@ padding: 3rem 1rem;}
 }
 
 .grid-auto-fill-3 {
-  --grid-min-col-size: 300px;
   display: grid;
   gap: 2rem;
-  grid-template-columns: repeat(auto-fill, minmax(min(var(--grid-min-col-size), 100%), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(var(--grid-auto-fill-3-min-col-size), 100%), 1fr));
 
 }
 
 .grid-auto-fill-4 {
-  --grid-min-col-size: 250px;
   display: grid;
   gap: 2rem;
-  grid-template-columns: repeat(auto-fill, minmax(min(var(--grid-min-col-size), 100%), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(var(--grid-auto-fill-4-min-col-size), 100%), 1fr));
 
 }
 
