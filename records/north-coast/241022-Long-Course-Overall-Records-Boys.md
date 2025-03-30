@@ -2,7 +2,7 @@
 title: Boys Long Course Overall North Coast Records
 subtitle: Boys Long Course Overall Records
 date: 2025-01-04
-updated: 4th january 2025
+updated: 4th January 2025
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/swimming-north-coast-400x600.jpg
 
