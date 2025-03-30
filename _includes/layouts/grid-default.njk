@@ -116,9 +116,12 @@
         </div>
 	{{ content | safe }}
 
-
-{% if page.url == "/about/sponsors/" %}
+{% if page.url == "/events/" %}
+{% include "components/page-events.njk" %}
+{% elif page.url == "/about/sponsors/" %}
 {% include "components/page-sponsors.njk" %}
+{% elif page.url == "/events/records/" %}
+{% include "components/page-records.njk" %}
 {% else %}
 {% endif %}
 

@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-records.njk
+layout: layouts/grid-default.njk
 title: GTSC & Swimming NSW Records
 class: events records
 description: All the swim records for the GTSC and Swim NSW events.
