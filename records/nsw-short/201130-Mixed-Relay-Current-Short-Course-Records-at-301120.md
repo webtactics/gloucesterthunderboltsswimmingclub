@@ -1,5 +1,5 @@
 ---
-title: Mixed Relay Short Course Records as at 30/11/2020
+title: Mixed Relay Short Course Records
 subtitle: Mixed Relay Short Course Records
 date: 2020-11-30
 updated: 30th November 2020

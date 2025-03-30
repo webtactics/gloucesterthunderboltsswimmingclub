@@ -1,5 +1,5 @@
 ---
-title: Womens Short Course Records as at 22/07/2024
+title: Womens Short Course Records
 subtitle: Womens Short Course Records
 date: 2024-07-22
 updated: 22nd July 2024

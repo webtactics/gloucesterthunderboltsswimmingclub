@@ -1,5 +1,5 @@
 ---
-title: Mens Short Course Records as at 22/07/2024
+title: Mens Short Course Records
 subtitle: Mens Short Course Records
 date: 2024-07-22
 updated: 22nd July 2024
