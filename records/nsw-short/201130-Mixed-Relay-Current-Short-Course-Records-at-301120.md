@@ -2,6 +2,7 @@
 title: Mixed Relay Short Course Records as at 30/11/2020
 subtitle: Mixed Relay Short Course Records
 date: 2020-11-30
+updated: 30th November 2020
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.jpg
 

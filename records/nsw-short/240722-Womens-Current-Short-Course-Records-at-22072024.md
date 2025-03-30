@@ -2,6 +2,7 @@
 title: Womens Short Course Records as at 22/07/2024
 subtitle: Womens Short Course Records
 date: 2024-07-22
+updated: 22nd July 2024
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.jpg
 
