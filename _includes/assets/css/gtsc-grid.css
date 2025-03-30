@@ -91,12 +91,21 @@
   main {
     view-transition-name: page;
   }
-  
+
+
   ::view-transition-old(page) {
-    animation: slide-out 0.5s cubic-bezier(0.86, 0, 0.07, 1) forwards;
+    animation: fadeInUp 0.5s cubic-bezier(0.86, 0, 0.07, 1) forwards;
   }
   
   ::view-transition-new(page) {
+    animation: fadeInUp 0.5s cubic-bezier(0.86, 0, 0.07, 1) forwards;
+  }
+  
+  ::view-transition-old(page2) {
+    animation: slide-out 0.5s cubic-bezier(0.86, 0, 0.07, 1) forwards;
+  }
+  
+  ::view-transition-new(page2) {
     animation: slide-in 0.5s cubic-bezier(0.86, 0, 0.07, 1) forwards;
   }
   
@@ -121,6 +130,35 @@
       transform: translateX(0%);
     }
   }
+
+
+
+
+  @keyframes fadeInUp {
+    0% {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0%);
+      opacity: 1;
+    }
+  }
+  
+  .fadeInUp-animation {
+    animation: 1.5s fadeInUp;
+  }
+
+
+
+
+
+
+
+
+
+
+
 
   .animate-opacity {animation:opac 0.8s}@keyframes opac{from{opacity:0} to{opacity:1}}
 
