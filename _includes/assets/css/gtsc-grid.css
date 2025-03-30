@@ -94,11 +94,11 @@
 
 
   ::view-transition-old(page) {
-    animation: fadeInUp 0.5s cubic-bezier(0.86, 0, 0.07, 1) forwards;
+    animation: fadeInUp 1.5s cubic-bezier(0.86, 0, 0.07, 1) forwards;
   }
   
   ::view-transition-new(page) {
-    animation: fadeInUp 0.5s cubic-bezier(0.86, 0, 0.07, 1) forwards;
+    animation: fadeInUp 1.5s cubic-bezier(0.86, 0, 0.07, 1) forwards;
   }
   
   ::view-transition-old(page2) {
