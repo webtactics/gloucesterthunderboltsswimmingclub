@@ -122,9 +122,9 @@
     }
   }
 
+  .animate-opacity {animation:opac 0.8s}@keyframes opac{from{opacity:0} to{opacity:1}}
 
-
-
+ 
 /* Box sizing rules */
 *, *::before, *::after {
   box-sizing: border-box;

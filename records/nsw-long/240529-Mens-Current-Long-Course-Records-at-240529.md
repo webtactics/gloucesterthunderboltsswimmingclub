@@ -11,8 +11,7 @@ metadescription: Mens Long Course Records as at 29 May 2024
 records: /static/records/nsw-long/240529-Mens-Current-Long-Course-Records-at-240529.pdf
 
 tags:
-  - Records
-  - NSW-Long-Course-Records
+
 
 
 
