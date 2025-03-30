@@ -115,6 +115,14 @@
 
         </div>
 	{{ content | safe }}
+
+
+{% if page.url == "/about/sponsors/" %}
+{% include "components/page-sponsors.njk" %}
+{% else %}
+{% endif %}
+
+
 	</main>
 </div>
 {% endblock %}

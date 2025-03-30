@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-sponsors.njk
+layout: layouts/grid-default.njk
 title: GTSC Sponsors and Supporters
 class: about sponsors
 description: Gloucester Thunderbolts Swimming Club Sponsors and Supporters. Supporting our club and our swimmers.
