@@ -16,11 +16,13 @@ tags:
   - 2024-25-Season-Events
   - 2025-Year
   - Age-Championships
-  - Featured
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-GTSC
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-19.jpg
 
-results: 
+results: /static/results/2024-25/250403-age-championships-week-2-overall-week-19-gtsc-club-night-results.pdf
 
 
 events:
