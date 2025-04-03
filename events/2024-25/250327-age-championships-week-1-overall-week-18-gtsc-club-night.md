@@ -74,7 +74,9 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 entrylink: https://swimcentral.swimming.org.au/events/eed4d87a-49ce-ef11-8eea-002248978584/detail
 ---
-
+<strong>Age Championships Results not posted till season end</strong>
+<br/>
+<br/>
 <strong>Age Championships</strong><br/>
 Freestyle: 25m and 100m<br/>
 Backstroke: 50m<br/>
