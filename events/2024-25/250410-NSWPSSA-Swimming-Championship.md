@@ -1,0 +1,85 @@
+---
+eleventyExcludeFromCollections: false
+
+title: 2025 NSWPSSA School Swimming Championships
+description: 2025 NSWPSSA School Swimming Championships
+subtitle: 2025 NSWPSSA School Swimming Championships
+date: 2025-04-10
+
+
+eventdate:
+  day: 10th-11th
+  month: April
+  year: 2025
+
+tags:
+  - 2024-25-Season-Events
+  - 2024-25-Season-Events-SwimNSW
+  - Swim-NSW
+  - Results
+  - 2024-25-Results
+  - 2025-Year
+  - Featured
+
+
+
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/events/nsw-gov-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/nsw-gov-400x600.jpg
+
+results: 
+
+club: 
+clubURL: 
+
+meetflyerpdf: https://app.education.nsw.gov.au/sport/File/7935
+
+entrylink:
+
+time: 9:00am - 5:00pm
+where: Sydney Olympic Park Aquatic Centre
+map: https://maps.app.goo.gl/yW8LAZartfFc6veo7
+
+maptaree: 
+
+mapportmac: 
+
+mapcoffs:
+
+mapcresenthead:
+
+maplismore: 
+
+maplaurieton: 
+
+mapsydneyolympic: https://maps.app.goo.gl/yW8LAZartfFc6veo7
+
+
+---
+<h2>NSW Primary Schools Sports Association</h2>
+
+Organised by
+
+NSW Primary Schools Sports Association
+Sport type
+
+Primary Swimming
+Date
+
+Thursday, 10 April 2025 to Friday, 11 April 2025
+Method of entry
+
+Region/Association team
+Cost info
+
+Contact your regional school sport association
+Note
+
+This event includes specific activities for people with disabilities who are classified through the appropriate sport association
+Quick information
+
+2025 NSWPSSA Swimming Championship Order of Events (PDF349kb)
+
+Day 1 morning session - gates open 7.30am, warm up 8.00am
+
+Day 2 morning session - gates open 7.30am, warm up 8.00am
