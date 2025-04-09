@@ -13,14 +13,14 @@ eleventyNavigation:
   order: 4
 ---
 
+<h3>Gloucester Thunderbolts Swimming Club runs from mid Oct until early April on Thursday evenings at 6.00pm at the Gloucester Pool Complex.</h3>
+
+<h4>All ages and abilities are welcome.</h4>
 
 
 
-<p>Gloucester Thunderbolts Swimming Club runs from mid Oct until March on Thursday evenings at 6.00pm at the Gloucester Pool Complex.</p>
 
-<p>All ages and abilities are welcome.<p>
-
-<p>For more information please contact the club via email @ <a href="mailto:gloucesterthunderboltsswimclub@outlook.com">gloucesterthunderboltsswimclub@outlook.com</a>, or use the form below.</p>
+<p><strong>For more information please contact the club via email @ <a href="mailto:gloucesterthunderboltsswimclub@outlook.com">gloucesterthunderboltsswimclub@outlook.com</a>, or use the form below.</strong></p>
 
 
 
