@@ -22,7 +22,7 @@ tags:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/events/nsw-gov-600x400.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/events/nsw-gov-600x400-new.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/nsw-gov-400x600.jpg
 
 results: 
