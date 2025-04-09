@@ -57,26 +57,25 @@ mapsydneyolympic: https://maps.app.goo.gl/yW8LAZartfFc6veo7
 <h2>NSW Primary Schools Sports Association</h2>
 
 Organised by
-
 NSW Primary Schools Sports Association
+
 Sport type
-
 Primary Swimming
+
 Date
-
 Thursday, 10 April 2025 to Friday, 11 April 2025
+
 Method of entry
-
 Region/Association team
+
 Cost info
-
 Contact your regional school sport association
+
 Note
-
 This event includes specific activities for people with disabilities who are classified through the appropriate sport association
-Quick information
 
-2025 NSWPSSA Swimming Championship Order of Events (PDF349kb)
+Quick information
+<a title="2025 NSWPSSA Swimming Championship Order of Events" href="https://app.education.nsw.gov.au/sport/File/7935" target="_blank" rel="noopener">2025 NSWPSSA Swimming Championship Order of Events</a>
 
 Day 1 morning session - gates open 7.30am, warm up 8.00am
 
