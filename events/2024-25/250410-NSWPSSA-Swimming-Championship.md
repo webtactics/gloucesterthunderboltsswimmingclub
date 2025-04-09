@@ -16,8 +16,6 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Swim-NSW
-  - Results
-  - 2024-25-Results
   - 2025-Year
   - Featured
 
