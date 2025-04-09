@@ -3038,7 +3038,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 }
 
 
- .eightypercentborder, .eightypercentborder3rem, .eightypercentborder2rem, .eightypercentborder1rem {
+ .eightypercentborder, .eightypercentborder3rem, .eightypercentborder2rem, .eightypercentborder1rem, .eightypercentborder3rempadlow74pxabove {
   margin: 0 auto 5rem auto;
   border-bottom: 4px dotted var(--lightgrey);
   width: calc(80vw - 6rem);
