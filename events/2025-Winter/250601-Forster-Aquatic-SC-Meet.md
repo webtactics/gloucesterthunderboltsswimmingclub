@@ -21,8 +21,8 @@ tags:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/events/forster-aquatic-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/forster-aquatic-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/events/forster-aquatic-600x400-white.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/forster-aquatic-400x600-white.jpg
 
 results: 
 
