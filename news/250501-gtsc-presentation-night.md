@@ -38,7 +38,7 @@ articlePDFtitle2:
 
 Please save the date; it is time to celebrate what our children have achieved this year. 
 
-Our annual presentation will be held in the top bar section of Club Gloucester. 
+Our annual presentation will be held in the [top bar section of Club Gloucester](https://clubgloucester.com.au/). 
 
 Grab your dinner from the Chinese below and bring it up with you. 
 
