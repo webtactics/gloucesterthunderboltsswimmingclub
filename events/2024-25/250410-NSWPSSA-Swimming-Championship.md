@@ -16,8 +16,10 @@ tags:
   - 2024-25-Season-Events
   - 2024-25-Season-Events-SwimNSW
   - Swim-NSW
+  - Results
+  - 2024-25-Results
+  - 2024-25-Results-SwimNSW
   - 2025-Year
-  - Featured
 
 
 
@@ -25,7 +27,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/nsw-gov-600x400b.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/nsw-gov-400x600b.jpg
 
-results: 
+results: /static/results/2024-25/250410-NSWPSSA-Swimming-Championship-results.pdf
 
 club: 
 clubURL: 
