@@ -35,7 +35,7 @@ entrylink: https://swimcentral.swimming.org.au/events/fddcb8e2-011d-f011-998a-00
 
 time: 9:00am - 5:00pm
 where: Great Lakes Aquatic and Leisure Centre
-map: https://g.co/kgs/utT26kK
+map: https://maps.app.goo.gl/qVBxupLdPTEf1RhD9
 
 maptaree: 
 
