@@ -56,9 +56,16 @@ mapforster: true
 
 ---
 
-Forster Aquatic SC Meet – Sunday 1 June
+<h2>Forster Aquatic SC Meet – Sunday 1 June</h2>
+
 Registrations now open via Swim Central
+
 Make the most of your swim season with a trip to beautiful Forster for the Forster Aquatic Swimming Club Meet, happening Sunday 1 June at the Forster Aquatic Leisure Centre.
-Turn it into a weekend escape— unwind on Saturday and swim on Sunday. Forster offers stunning beaches, tranquil lakes, and crystal-clear waterways perfect for fishing, boating, or just relaxing with the family. With plenty of local accommodation and great dining options, it’s the ideal destination for a fun and rewarding weekend away.
+
+Turn it into a weekend escape— unwind on Saturday and swim on Sunday. 
+
+Forster offers stunning beaches, tranquil lakes, and crystal-clear waterways perfect for fishing, boating, or just relaxing with the family. With plenty of local accommodation and great dining options, it’s the ideal destination for a fun and rewarding weekend away.
+
 Whether you’re aiming for a PB or just keen to hit the pool in a picturesque setting, this is the meet to be at.
+
 Enter now via Swim Central!
