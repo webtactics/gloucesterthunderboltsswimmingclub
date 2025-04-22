@@ -33,7 +33,7 @@ articlePDFtitle2:
 ---
 
 
-<h2>GTSC PRESENTATION NIGHT.</h2>
+
 
 
 Please save the date; it is time to celebrate what our children have achieved this year. 
