@@ -51,7 +51,7 @@ maplaurieton:
 
 mapnewcastleforum: 
 
-mapforster: https://g.co/kgs/utT26kK
+mapforster: true
 
 
 ---
