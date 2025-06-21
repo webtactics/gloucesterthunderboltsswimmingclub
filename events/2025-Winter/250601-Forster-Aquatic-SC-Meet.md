@@ -2,7 +2,7 @@
 eleventyExcludeFromCollections: false
 
 title: Forster Aquatic SC Meet
-description: NForster Aquatic SC Meet
+description: Forster Aquatic SC Meet
 subtitle: Forster Aquatic SC Meet
 date: 2025-06-01
 
