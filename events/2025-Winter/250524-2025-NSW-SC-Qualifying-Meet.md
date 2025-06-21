@@ -13,6 +13,9 @@ tags:
   - 2025-Winter
   - 2025-Year
   - Swim-NSW
+  - Results
+  - 2025-Winter-Results
+  - 2025-Winter-Results-Swim-NSW
 
  
 
