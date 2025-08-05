@@ -24,7 +24,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-400x600.jpg
 
-results: 
+results: /static/results/2025-winter/250622-SNC-Short-Course-Championships-South-results.pdf
 
 club: Swimming North Coast Inc 
 clubURL: https://www.swimmingnorthcoast.com/
