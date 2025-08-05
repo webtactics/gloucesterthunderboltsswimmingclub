@@ -24,7 +24,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/forster-aquatic-600x400-sq.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/forster-aquatic-400x600-sq.jpg
 
-results: 
+results: /static/results/25-winter/250601-Forster-Aquatic-SC-Meet-results
 
 club: Forster Aquatic SC
 clubURL: https://www.facebook.com/ForsterAquaticSwimClub/
