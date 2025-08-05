@@ -1,6 +1,6 @@
 ---
-title: Port Macquarie SNC Division 2 Championships
-subtitle: Port Macquarie SNC Division 2 Championships
+title: 2025 Port Macquarie SNC Division 2 Championships
+subtitle: 2025 Port Macquarie SNC Division 2 Championships
 date: 2025-11-08
 
 eventdate:
