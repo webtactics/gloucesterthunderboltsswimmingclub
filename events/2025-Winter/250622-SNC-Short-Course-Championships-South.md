@@ -18,6 +18,9 @@ tags:
   - Swim-NSW
   - Swim-CVSA
   - Featured
+  - 2025-Winter-Results
+  - 2025-Winter-Results-Swim-NSW
+
 
 
 
