@@ -3215,7 +3215,7 @@ textarea
 }
 
 .buttonnavwrapper > button {
-  padding: 0.25rem;
+  padding: 0.25rem 0.5rem;
   text-align: center;
   text-decoration: none;
   background-color: var(--white);
