@@ -26,7 +26,7 @@ clubURL: https://www.facebook.com/PMQSC2444
 
 meetflyerpdf: /static/events/2025-26/251004-05-Port-Macquarie-LC-Qualifying-Meet-flyer.pdf
 
-entrylink: https://swimcentral.swimming.org.au/events/8490d1c1-6860-f011-bec2-7c1e5289e092/detail
+entrylink: https://swimcentral.swimming.org.au/events/8490d1c1-6860-f011-bec2-7c1e5289e092/nominations
 
 time: 9:00am - 5:00pm
 where: Port Macquarie War Memorial Olympic Swimming Pool
@@ -48,12 +48,10 @@ maplaurieton:
 ---
 
 
-<strong>The 2025 Speedo Heats and Qualifying Meets are fast approaching, and entries are open on Swim Central.</strong>
 
-Please Note: The actual Australian Age Qualification Ruling should read: Any swimmer who has achieved a national qualifying time for the 2025 Australian Age Championships by 31 January 2025 (excluding MC and Open Water) is ineligible to compete in the heats and finals series. This is for Speedo events only, which are 8-13 Years 50m events.
 
-If you are not a club member, or you are a recreational swimmer, and you would like to come and try, this is a meet for you. 
+PLEASE NOTE - QUALIFYING TIMES APPLY FOR THE FOLLOWING EVENTS: -Events 1 & 2 need a 200m freestyle time of 4:20 ,Events 25 & 26 need a 400m freestyle time of 6:45 Events 27 & 28 need a 200 IM time of 4:20, Events 51 & 52 need a 400m freestyle time of 6:45
 
-Please complete the Google Form attached if you are interested.
-All entries close at 11.59pm on Friday 24 January 2025.
-<a href="https://forms.gle/8tFcjJ3H4q4fZEws5" title="2025 Speedo Sprints South &amp; Qualifying Meet">https://forms.gle/8tFcjJ3H4q4fZEws5</a>
+Swimmers entering 25m events are not eligible to enter another distance in the same stroke.
+
+Enquiries: Jason Higgins – Race Secretary  0427 774 558,    Tanya Harrison – President  0438 834 036 pmsc.president.2444@gmail.com
