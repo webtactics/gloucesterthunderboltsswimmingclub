@@ -24,7 +24,7 @@ results:
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
 
-meetflyerpdf: /static/eventys/2025-26/251004-05-Port-Macquarie-LC-Qualifying-Meet-flyer.pdf
+meetflyerpdf: /static/events/2025-26/251004-05-Port-Macquarie-LC-Qualifying-Meet-flyer.pdf
 
 entrylink: https://swimcentral.swimming.org.au/events/8490d1c1-6860-f011-bec2-7c1e5289e092/detail
 
