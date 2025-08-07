@@ -51,7 +51,7 @@ maplaurieton:
 ---
 
 
-Savce the date and time for the Gloucester Thunderbolts Qualifying Carnival, a key event in the 2025-26 SwimNSW season. 
+Save the date and time for the Gloucester Thunderbolts Qualifying Carnival, a key event in the 2025-26 SwimNSW season. 
 
 This carnival will be held at the Gloucester Olympic Pool, providing an excellent opportunity for swimmers to qualify for upcoming competitions. The event promises to be a day filled with competitive spirit and community engagement, showcasing the talents of local swimmers. 
 
