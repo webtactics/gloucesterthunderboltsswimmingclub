@@ -50,8 +50,29 @@ maplaurieton:
 
 
 
-PLEASE NOTE - QUALIFYING TIMES APPLY FOR THE FOLLOWING EVENTS: -Events 1 & 2 need a 200m freestyle time of 4:20 ,Events 25 & 26 need a 400m freestyle time of 6:45 Events 27 & 28 need a 200 IM time of 4:20, Events 51 & 52 need a 400m freestyle time of 6:45
+PLEASE NOTE - QUALIFYING TIMES APPLY FOR THE FOLLOWING EVENTS:
+Events 1 & 2 need a 200m freestyle time of 4:20 
+Events 25 & 26 need a 400m freestyle time of 6:45
+Events 27 & 28 need a 200 IM time of 4:20 
+Events 51 & 52 need a 400m freestyle time of 6:45
 
-Swimmers entering 25m events are not eligible to enter another distance in the same stroke.
+1. An area approved meet conducted under rules of SAL and SNSW Ltd. This is a qualifying meet.
+2. Online entries only via Swim Central.
+3. All events are timed finals.
+4. Entry Fee $8.00 per event, which includes SNSW $1.50 Levy. Entry fee for 25m events $6.00. NORMAL POOL ENTRY APPLIES
+5. Medals will be awarded to 1st, 2nd & 3rd in 50m & 100m events – to each age group as follows: - 6/u, 7/8, 9/10.
+Prizemoney will be awarded to 1st, 2nd & 3rd in 50m & 100m events – to each age group as follows: - 11/12, 13/14, 15/16/17 over & for each
+Open event irrespective of age & to 1st, 2nd & 3rd in 200m events to each age group 12/u & 13/o.
+6. Medals will be awarded for Multi Class/Para.
+7. Entries close Midnight Sunday 28 September, unless meet is filled beforehand.
+8. Age as at 4 October 2025.
+9. Meet Director reserves the right to amend the program and conditions of entry. Refunds WILL NOT BE ISSUED for ineligible entries.
+10. Please ensure all swimmers are registered with appropriate bodies before the commencement of the meet.
+11. Swimmers entering 25m events are not eligible to enter another distance in the same stroke.
+Rule considerations will apply for all 25m events. All competitors will receive ribbons. 25m events will not be timed.
+12. Visiting clubs are required to assist with timekeeping duties.
+13. BBQ will be in operation, Eftpos facilities available.
 
-Enquiries: Jason Higgins – Race Secretary  0427 774 558,    Tanya Harrison – President  0438 834 036 pmsc.president.2444@gmail.com
+Enquiries: 
+Jason Higgins – Race Secretary 0427 774 558
+Tanya Harrison – President 0438 834 036 <a title="mailto:pmsc.president.2444@gmail.com" href="mailto:pmsc.president.2444@gmail.com" target="new" ></a>
