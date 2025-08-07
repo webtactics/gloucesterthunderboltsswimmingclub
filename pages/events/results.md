@@ -12,6 +12,7 @@ eleventyNavigation:
 ---
 <div class="buttonnavwrapperoutside">
 <div class="buttonnavwrapper">
+<button><a href="#2025-26" title="{{ title }} 2025-26 Season" alt="{{ title }} 2025-26 Season"> 2024-25 </a></button>
 <button><a href="#2024-25" title="{{ title }} 2024-25 Season" alt="{{ title }} 2024-25 Season">2024-25 Season</a></button>
 <button><a href="#2023-24" title="{{ title }} 2023-24 Season" alt="{{ title }} 2023-24 Season">2023-24 Season</a></button>
 <button><a href="#2022-23" title="{{ title }} 2022-23 Season" alt="{{ title }} 2022-23 Season">2022-23 Season</a></button>
