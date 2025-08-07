@@ -14,9 +14,7 @@ tags:
   - GTSC-Event
   - 2025-26-Season-GTSC
   - 2025-26-Season-Events
-  - Results
-  - 2025-26-Results
-  - 2025-26-Results-GTSC
+
   - 2025-Year
 
 
