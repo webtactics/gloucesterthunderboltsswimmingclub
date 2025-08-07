@@ -51,15 +51,15 @@ maplaurieton:
 
 
 PLEASE NOTE - QUALIFYING TIMES APPLY FOR THE FOLLOWING EVENTS:
-Events 1 & 2 need a 200m freestyle time of 4:20 
-Events 25 & 26 need a 400m freestyle time of 6:45
-Events 27 & 28 need a 200 IM time of 4:20 
-Events 51 & 52 need a 400m freestyle time of 6:45
+Events 1 & 2 need a 200m freestyle time of 4:20</br>
+Events 25 & 26 need a 400m freestyle time of 6:45</br>
+Events 27 & 28 need a 200 IM time of 4:20</br>
+Events 51 & 52 need a 400m freestyle time of 6:45</br>
 
-1. An area approved meet conducted under rules of SAL and SNSW Ltd. This is a qualifying meet.
-2. Online entries only via Swim Central.
-3. All events are timed finals.
-4. Entry Fee $8.00 per event, which includes SNSW $1.50 Levy. Entry fee for 25m events $6.00. NORMAL POOL ENTRY APPLIES
+1. An area approved meet conducted under rules of SAL and SNSW Ltd. This is a qualifying meet.</br>
+2. Online entries only via Swim Central.</br>
+3. All events are timed finals.</br>
+4. Entry Fee $8.00 per event, which includes SNSW $1.50 Levy. Entry fee for 25m events $6.00. NORMAL POOL ENTRY APPLIES</br>
 5. Medals will be awarded to 1st, 2nd & 3rd in 50m & 100m events – to each age group as follows: - 6/u, 7/8, 9/10.
 Prizemoney will be awarded to 1st, 2nd & 3rd in 50m & 100m events – to each age group as follows: - 11/12, 13/14, 15/16/17 over & for each
 Open event irrespective of age & to 1st, 2nd & 3rd in 200m events to each age group 12/u & 13/o.
@@ -73,6 +73,6 @@ Rule considerations will apply for all 25m events. All competitors will receive 
 12. Visiting clubs are required to assist with timekeeping duties.
 13. BBQ will be in operation, Eftpos facilities available.
 
-Enquiries: 
-Jason Higgins – Race Secretary 0427 774 558
-Tanya Harrison – President 0438 834 036 <a title="mailto:pmsc.president.2444@gmail.com" href="mailto:pmsc.president.2444@gmail.com" target="new" ></a>
+Enquiries:</br>
+Jason Higgins – Race Secretary 0427 774 558</br>
+Tanya Harrison – President 0438 834 036 <a title="mailto:pmsc.president.2444@gmail.com" href="mailto:pmsc.president.2444@gmail.com" target="new" >pmsc.president.2444@gmail.com</a>
