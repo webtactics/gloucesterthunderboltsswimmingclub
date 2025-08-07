@@ -12,25 +12,19 @@
         </div>
 	{{ content | safe }}
 
+{# 2025 Winter Events #}
 
+	{% include "components/events/2025-Winter-Events.njk" %}
 
-<div class="two-colum-wrapper">	
-   <h2 class="heading-text">2025 Winter Events</h2>
-<div class="resultswrapper">
-	{%- set postslist = collections['2024-25-Season-Events'] | reverse -%} 
-	{% include "components/postslist-events.njk" %}
-</div>
-</div>
+{# end 2025 Winter Events #}
 
 
 
-<div class="two-colum-wrapper">	
-   <h2 class="heading-text">2024-25 Season Events</h2>
-<div class="resultswrapper">
-	{%- set postslist = collections['2024-25-Season-Events'] | reverse -%} 
-	{% include "components/postslist-events.njk" %}
-</div>
-</div>
+{# 2025-26 Season Events #}
+
+	{% include "components/events/2025-26-Season-Events.njk" %}
+
+{# end 2025-26 Season Events #}
 
 
 
