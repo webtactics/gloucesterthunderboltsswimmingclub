@@ -46,4 +46,3 @@ const navObserver = new IntersectionObserver((entries) => {
 }, {rootMargin: "50px 0px 0px 0px"});
 navObserver.observe(scrollWatcher)
 
-
