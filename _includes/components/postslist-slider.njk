@@ -4,17 +4,20 @@
 <div>
         
        
-{% if gold %}
+{% if post.data.gold %}
       <div class="homesliderbanner goldsponsorsumimage">
           <a href="{{ post.url | url }}" alt="{{ post.data.title }}" title="{{ post.data.title }}"><img src="{{ post.data.image }}?tr=w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}"></a>
+          <div class="sponsorsumtext"><h3>{{ post.data.title }}</h3></div>
      </div>
-{% elif silver %}
+{% elif post.data.silver %}
      <div class="homesliderbanner silversponsorsumimage">
           <a href="{{ post.url | url }}" alt="{{ post.data.title }}" title="{{ post.data.title }}"><img src="{{ post.data.image }}?tr=w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}"></a>
+          <div class="sponsorsumtext"><h3>{{ post.data.title }}</h3></div>
      </div>
-{% elif bronze %}
+{% elif post.data.bronze %}
      <div class="homesliderbanner bronzesponsorsumimage">
           <a href="{{ post.url | url }}" alt="{{ post.data.title }}" title="{{ post.data.title }}"><img src="{{ post.data.image }}?tr=w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}"></a>
+          <div class="sponsorsumtext"><h3>{{ post.data.title }}</h3></div>
      </div>
 {% endif %}
 
