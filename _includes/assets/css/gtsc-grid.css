@@ -24,6 +24,8 @@
   --mattblack: hsla(214,12%,11%,0.95);
   --green: hsla(144, 80%, 22%, 1);
 
+  --accent: #b300d7;
+
   --gold: hsl(43, 74.4%, 49%);
   --darkgold: hsl(43, 88.7%, 38.2%);
 
@@ -3246,4 +3248,66 @@ textarea
   padding: 4rem 0 0 0;
   clear: both;
   width:100%;
+}
+
+
+/* slider */
+
+.slick-center .homesliderbanner {
+  text-decoration:none;
+  -webkit-filter:grayscale(0%);
+  -moz-filter:grayscale(0%);
+  filter:grayscale(0%);
+  opacity:1
+}
+.slick-arrow.slick-prev {
+  display:inline-block;
+  cursor:pointer;
+  padding:0;
+  border:none;
+  color:transparent;
+  background-color:var(--white)
+}
+.slick-arrow.slick-next {
+  display:inline-block;
+  cursor:pointer;
+  padding:0;
+  border:none;
+  color:transparent;
+  background-color:var(--white)
+}
+.slick-arrow-text::before {
+  border-style:solid;
+  border-width:.6rem .6rem 0 0;
+  content:'';
+  display:inline-block;
+  height:1.6rem;
+  width:1.6rem;
+  left:0;
+  position:relative;
+  top:0;
+  transform:rotate(-45deg);
+  vertical-align:top;
+  color:var(--black);
+  font-size:0
+}
+.slick-arrow-text.prev:before {
+  top:0;
+  transform:rotate(45deg)
+}
+.slick-arrow.slick-prev:hover .slick-arrow-text.prev:before {
+  color:var(--accent)
+}
+.slick-arrow-text.next:before {
+  left:.25em;
+  transform:rotate(-135deg)
+}
+.slick-arrow.slick-next:hover .slick-arrow-text.next:before {
+  color:var(--accent)
+}
+.clientthree .item {
+  padding:4rem
+}
+.client4 .item {
+  padding:0
 }
