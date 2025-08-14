@@ -1,13 +1,34 @@
      <!-- items -->
 <div class="client-class">
       {% for post in postslist | reverse %}
-    <div>
+     <div>
         
-    <div class="homesliderbanner">
-        <a href="{{ post.url | url }}" alt="{{ post.data.title }}" title="{{ post.data.title }}"><img src="{{ post.data.image }}?tr=w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}"></a>
-    </div>
+          <div class="homesliderbanner">
+
+
+
+{% if gold %}
+<div class="goldsponsorsumimage">
+<a href="{{ post.url | url }}" alt="{{ post.data.title }}" title="{{ post.data.title }}"><img src="{{ post.data.image }}?tr=w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}"></a>
+</div>
+{% elif silver %} 
+<div class="silversponsorsumimage">
+<a href="{{ post.url | url }}" alt="{{ post.data.title }}" title="{{ post.data.title }}"><img src="{{ post.data.image }}?tr=w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}"></a>
+</div>
+{% elif bronze %}
+<div class="bronzesponsorsumimage">
+<a href="{{ post.url | url }}" alt="{{ post.data.title }}" title="{{ post.data.title }}"><img src="{{ post.data.image }}?tr=w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}"></a>
+</div>
+{% endif %}
+
+
+
+
+
+          </div>
     
-    </div>
+     </div>
+
    {% endfor %}
 </div>
      <!-- end items -->
