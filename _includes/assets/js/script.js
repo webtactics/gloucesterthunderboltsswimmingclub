@@ -82,11 +82,5 @@ sliders.forEach(slider => {
 
 
 
-window.addEventListener("pagereveal", async (e) => {
-  if (e.viewTransition) {
-    const transitionType = determineTransitionType(navigation.activation.from, navigation.activation.entry);
-    e.viewTransition.types.add(transitionType);
-  }
-});
 
 
