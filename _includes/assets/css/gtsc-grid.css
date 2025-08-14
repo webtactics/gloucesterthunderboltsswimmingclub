@@ -3328,7 +3328,7 @@ section.slidersection {
   top:0;
   transform:rotate(-45deg);
   vertical-align:top;
-  color:var(--black);
+  color:var(--darkblue);
   font-size:0
 }
 .slick-arrow-text.prev:before {
