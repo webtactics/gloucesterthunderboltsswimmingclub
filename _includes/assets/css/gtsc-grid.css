@@ -3252,12 +3252,18 @@ textarea
 
 
 /* slider */
+
+.slidersection {
+ background-color:var(--white);
+
+}
+
 .content1600 {
   margin:10rem auto;
   padding:0;
   width:calc(100vw - 2rem);
   max-width:1600px;
-  background-color:var(--white)
+  background-color:var(--white);
 }
 @media only screen and (max-width:800px) {
   .content1600 {
