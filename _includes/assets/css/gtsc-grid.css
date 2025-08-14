@@ -3265,7 +3265,9 @@ section.slidersection {
   max-width: 1600px;
   background-color: var(--white);
 }
-
+ h3.slider-text {
+  margin-bottom:4rem;
+ }
 
 .homesliderbanner {
   width:200px;
