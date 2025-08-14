@@ -3252,6 +3252,51 @@ textarea
 
 
 /* slider */
+.content1600 {
+  margin:10rem auto;
+  padding:0;
+  width:calc(100vw - 2rem);
+  max-width:1600px;
+  background-color:var(--white)
+}
+@media only screen and (max-width:800px) {
+  .content1600 {
+    margin:3rem auto
+  }
+}
+
+
+.homesliderbanner {
+  width:200px;
+  height:150px;
+  margin:0 auto 1rem auto;
+  display:block;
+  font-size:0px;
+  text-decoration:none;
+  -webkit-filter:grayscale(100%);
+  -moz-filter:grayscale(100%);
+  filter:grayscale(100%);
+  opacity:.3;
+  transition:all .5s ease
+}
+.homesliderbanner a {
+  margin:0 auto 1rem auto;
+  text-decoration:none
+}
+.homesliderbanner:hover {
+  text-decoration:none;
+  -webkit-filter:grayscale(0%);
+  -moz-filter:grayscale(0%);
+  filter:grayscale(0%);
+  opacity:1
+}
+.slick-center .homesliderbanner {
+  text-decoration:none;
+  -webkit-filter:grayscale(0%);
+  -moz-filter:grayscale(0%);
+  filter:grayscale(0%);
+  opacity:1
+}
 
 .slick-center .homesliderbanner {
   text-decoration:none;
