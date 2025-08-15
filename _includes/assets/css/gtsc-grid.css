@@ -3260,7 +3260,7 @@ section.slidersection {
 
 .content1600 {
   margin: 0 auto;
-  padding: 2rem 0 6rem 0;
+  padding: 0 0 6rem 0;
   width: calc(100vw - 2rem);
   max-width: 1600px;
   background-color: var(--white);
