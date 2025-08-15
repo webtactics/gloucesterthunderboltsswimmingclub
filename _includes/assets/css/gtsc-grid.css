@@ -1346,8 +1346,8 @@ ul.footer-menu li {
   width: calc(100vw - 1rem);
   max-width: 1280px;
   background-color: var(--white);
-  min-height: 100px;
 }
+.home.content { padding: 6rem 0 0;}
 
 .content.secondblock {
   padding: 6rem 0 5rem 0;
