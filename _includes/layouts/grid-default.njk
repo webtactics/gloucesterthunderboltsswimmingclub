@@ -130,9 +130,14 @@
 
 	</main>
 </div>
-{% include "components/global/slider.html" %}
 
+{% if page.url == "/about/sponsors/" %}
 {% endblock %}
+{% else %}
+{% include "components/global/slider.html" %}
+{% endblock %}
+{% endif %}
+
 
 {% block content2 %}{% endblock %}
 {% block content3 %}{% endblock %}
