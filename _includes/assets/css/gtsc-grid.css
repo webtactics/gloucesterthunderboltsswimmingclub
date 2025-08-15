@@ -1342,7 +1342,7 @@ ul.footer-menu li {
 
 .content {
   margin: 0 auto;
-  padding: 6rem 0 0;
+  padding: 6rem 0;
   width: calc(100vw - 1rem);
   max-width: 1280px;
   background-color: var(--white);
@@ -1369,7 +1369,6 @@ ul.footer-menu li {
     padding: 0.5rem 0 3rem 0;
   }
 }
-
 
 
 h1.heading-text {
