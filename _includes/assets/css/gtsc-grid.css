@@ -3345,3 +3345,22 @@ section.slidersection {
 .slick-arrow.slick-next:hover .slick-arrow-text.next:before {
   color:var(--primary)
 }
+
+.homesliderbanner.goldsponsorsumimage h3 {
+  color: var(--gold);
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+.homesliderbanner.silversponsorsumimage h3 {
+  color: var(--silver);
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+.homesliderbanner.bronzesponsorsumimage h3 {
+  color: var(--bronze);
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
