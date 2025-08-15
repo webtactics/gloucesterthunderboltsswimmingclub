@@ -3271,8 +3271,8 @@ section.slidersection {
 
 .homesliderbanner {
   width:200px;
-  height:200px;
-  margin:0 auto 1rem auto;
+  height:auto;
+  margin:1rem auto;
   display:block;
   font-size:0px;
   text-decoration:none;
@@ -3283,7 +3283,7 @@ section.slidersection {
   transition:all .5s ease
 }
 .homesliderbanner a {
-  margin:0 auto 1rem auto;
+   margin:1rem auto;
   text-decoration:none
 }
 .homesliderbanner:hover {
