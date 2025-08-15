@@ -3346,24 +3346,45 @@ section.slidersection {
   color:var(--primary)
 }
 
-.homesliderbanner.goldsponsorsumimage h3 {
+.homesliderbanner.goldsponsorsumimage h3, .homesliderbanner.goldsponsorsumimage h3 a {
   color: var(--gold);
   font-size: 1.5rem;
   font-weight: bold;
   text-align: center;
    opacity:1
-
 }
-.homesliderbanner.silversponsorsumimage h3 {
+
+.homesliderbanner.goldsponsorsumimage h3 a:hover, .homesliderbanner.goldsponsorsumimage h3 a:focus, .homesliderbanner.goldsponsorsumimage h3 a:visited {
+  color: var(--gold);
+  font-size: 1.52rem;
+  font-weight: bold;
+  text-align: center;
+   opacity:1
+}
+.homesliderbanner.silversponsorsumimage h3, .homesliderbanner.silversponsorsumimage h3 a {
   color: var(--silver);
   font-size: 1.5rem;
   font-weight: bold;
   text-align: center;
    opacity:1
 }
-.homesliderbanner.bronzesponsorsumimage h3 {
+.homesliderbanner.silversponsorsumimage h3 a:hover, .homesliderbanner.silversponsorsumimage h3 a:focus, .homesliderbanner.silversponsorsumimage h3 a:visited {
+  color: var(--silver);
+  font-size: 1.52rem;
+  font-weight: bold;
+  text-align: center;
+   opacity:1
+}
+.homesliderbanner.bronzesponsorsumimage h3, .homesliderbanner.bronzesponsorsumimage h3 a {
   color: var(--bronze);
   font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+   opacity:1
+}
+.homesliderbanner.bronzesponsorsumimage h3 a:hover, .homesliderbanner.bronzesponsorsumimage h3 a:focus, .homesliderbanner.bronzesponsorsumimage h3 a:visited {
+  color: var(--bronze);
+  font-size: 1.52rem;
   font-weight: bold;
   text-align: center;
    opacity:1
