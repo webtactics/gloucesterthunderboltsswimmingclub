@@ -1416,18 +1416,7 @@ h1.bronze.heading-text { background-color: var(--bronze);}
     
     }
 
-.content.home {
-  padding: 4rem 0;
 
-}
-.content.home h3 {
-  font-size: 3rem;
- font-family: 'Montserrat', Helvetica, Arial, Lucida, sans-serif;
-  color: var(--primary);
-  text-align: center;
-  padding: 2rem 0 3rem 0;
-  margin: 0;
-}
 
 
 .content.selectnavbox {
