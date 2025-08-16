@@ -1418,8 +1418,7 @@ h1.bronze.heading-text { background-color: var(--bronze);}
 
 
 .home.content h3 {
-  font-size: 3rem;
- font-family: 'Montserrat', Helvetica, Arial, Lucida, sans-serif;
+
   color: var(--primary);
   text-align: left;
   padding: 2rem 0 3rem 0;
