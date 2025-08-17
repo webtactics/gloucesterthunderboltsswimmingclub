@@ -531,7 +531,8 @@ background-color: var(--primary); font-weight: bold;}
 
 .navbar ul.navbar-menu li.active-class  a {
     color: var(--darkblue);
-    background: var(--primarydark);
+    background: var(--primarylight);
+    border-radius: 20px;
 
 }
 
