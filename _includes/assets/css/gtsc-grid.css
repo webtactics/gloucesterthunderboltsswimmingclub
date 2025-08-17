@@ -527,6 +527,7 @@ background-color: var(--primary); font-weight: bold;}
   -ms-transition: all .3s;
   -o-transition: all .3s;
   transition: all .3s;
+    border-radius: 8px;
 }
 
 .navbar ul.navbar-menu li.active-class  a {
@@ -538,8 +539,9 @@ background-color: var(--primary); font-weight: bold;}
 
 .navbar  .navbar-menu  li  a:hover,
 .navbar  .navbar-menu > li  a:focus {
-  background: var(--primarydark);
-  color: var(--darkblue);
+    color: var(--white);
+    background: var(--primarylight);
+    border-radius: 8px;
 }
 
 
