@@ -1334,7 +1334,7 @@ ul.footer-menu li {
 
 .content {
   margin: 0 auto;
-  padding: 6rem 0 4rem 0;
+padding: 6rem 0 0;
   width: calc(100vw - 1rem);
   max-width: 1280px;
   background-color: var(--white);
