@@ -530,9 +530,9 @@ background-color: var(--primary); font-weight: bold;}
 }
 
 .navbar ul.navbar-menu li.active-class  a {
-    color: var(--darkblue);
+    color: var(--white);
     background: var(--primarylight);
-    border-radius: 20px;
+    border-radius: 8px;
 
 }
 
