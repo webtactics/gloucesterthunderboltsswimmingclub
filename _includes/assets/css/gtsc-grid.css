@@ -1166,7 +1166,7 @@ grid-template-rows: var(--headerheight);
 
 .footernavwrapper {
   background-color: var(--white);
-  border-top: 1rem dotted var(--primary);
+  border-top: 1rem dashed var(--primarylight);
   padding:1rem 0;
   }
 
