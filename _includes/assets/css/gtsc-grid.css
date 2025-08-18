@@ -2439,7 +2439,17 @@ font-size:1rem;
 }
 
 .scrolled .swimcentral, .scrolled a.swimcentral, .scrolled a.swimcentral:hover {
-    display: none;transition: all 0.2s ease-in-out;}
+  transition: all 0.2s ease-out;
+      display: inline-flex;
+    align-items: center;
+font-size:0rem;
+  margin: 0;
+  padding: 0;
+ color: transparent;
+  background-color: transparent;
+  border:none;
+  border-radius: 20px;
+  text-decoration: none;}
 
 .resultssummary, .eventsummary {margin: 0;}
 
