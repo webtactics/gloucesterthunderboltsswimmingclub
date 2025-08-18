@@ -540,7 +540,7 @@ background-color: var(--primary); font-weight: bold;}
 .navbar  .navbar-menu  li  a:hover,
 .navbar  .navbar-menu > li  a:focus {
     color: var(--white);
-   background: var(--primarydark);
+    background: var(--primarylight);
     border-radius: 8px;
 }
 
@@ -2438,7 +2438,7 @@ font-size:1rem;
 }
 
 .scrolled .swimcentral, .scrolled a.swimcentral, .scrolled a.swimcentral:hover {
-    display: none}
+    display: none;transition: all 0.2s ease-in-out;}
 
 .resultssummary, .eventsummary {margin: 0;}
 
