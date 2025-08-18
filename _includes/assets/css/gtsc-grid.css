@@ -3046,6 +3046,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
 .two-colum-wrapper:last-child {
   margin: 0;
+  padding:0 0 4rem 0;
 
 }
 
