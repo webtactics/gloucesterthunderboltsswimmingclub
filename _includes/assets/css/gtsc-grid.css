@@ -609,7 +609,9 @@ position: relative;
   padding: 0 0 0 2rem;
 
 }
-.navbar  ul.navbar-menu  li  a.social-icon:hover svg
+
+
+.navbar .navbar-menu li a.social-icon:hover, .navbar  ul.navbar-menu  li  a.social-icon:hover svg
 {
 
   color: var(--darkblue);
