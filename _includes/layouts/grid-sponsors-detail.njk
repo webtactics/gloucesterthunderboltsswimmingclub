@@ -1,0 +1,43 @@
+{% extends "layouts/grid-default.njk" %}
+
+
+
+{% block content %}
+<div class="container">
+	<main class="content results">
+
+
+        <div class="titlebox fade-in appear">
+       		<h1 class="heading-text">{{ title }}</h1>
+        </div>
+	{{ content | safe }}
+
+
+
+
+
+
+	</main>
+
+{% include "components/global/slider.html" %}
+
+</div>
+
+
+{% endblock %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
