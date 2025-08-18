@@ -10,6 +10,17 @@
         <div class="titlebox fade-in appear">
        		<h1 class="heading-text">{{ title }}</h1>
         </div>
+
+{% if gold %}
+<h2 class="gold heading-text">2024-25 Season Gold Sponsor</h2></br>
+{% elif silver %}
+<h2 class="silver heading-text">2024-25 Season Silver Sponsor</h2></br>
+{% elif bronze %}
+<h2 class="bronze heading-text">2024-25 Season Bronze Sponsor</h2></br>
+{% endif %}
+
+
+
 	{{ content | safe }}
 
 
