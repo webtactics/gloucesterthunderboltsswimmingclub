@@ -2437,6 +2437,8 @@ font-size:1rem;
   text-decoration: none;
 }
 
+.scrolled .swimcentral, .scrolled a.swimcentral, .scrolled a.swimcentral:hover {
+    display: none}
 
 .resultssummary, .eventsummary {margin: 0;}
 
