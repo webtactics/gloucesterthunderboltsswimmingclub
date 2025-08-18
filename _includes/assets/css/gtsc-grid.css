@@ -2439,10 +2439,10 @@ font-size:1rem;
 }
 
 .scrolled .swimcentral, .scrolled a.swimcentral, .scrolled a.swimcentral:hover {
-  transition: all 0.2s ease-out;
+  transition: all 0.2s ease-in-out;
       display: inline-flex;
     align-items: center;
-font-size:0rem;
+font-size:1rem;
   margin: 0;
   padding: 0;
  color: transparent;
