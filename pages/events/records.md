@@ -3,11 +3,23 @@ layout: layouts/grid-default.njk
 title: GTSC & Swimming NSW Records
 class: events records
 description: All the swim records for the GTSC and Swim NSW events.
-date: 2025-02-11
+date: 2025-08-19
 permalink: /events/records/
 eleventyNavigation:
   key: Swim Records
   parent: Events
   order: 4
 ---
+We like records. 
+
+Unfortunately, we can be a little slow updating, or finding the ;laterst records or swims, so if you have any records that are not listed here, please let us know.
+
+
+
+{% include "components/results/2025-Winter-Season-Results.njk" %}
+
+{% if page.url == "/events/records/" %}
+Say hi!
+{% include "components/global/slider.html" %}
+{% endif %}
 
