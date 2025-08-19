@@ -113,23 +113,9 @@
 <h1 class="heading-text">{{ title }}</h1>
 
 
-
-
-
-
-        </div>
+ </div>
 	{{ content | safe }}
 
-{% if page.url == "/events/" %}
-{% include "components/page-events.njk" %}
-{% elif page.url == "/about/sponsors/" %}
-{% include "components/page-sponsors.njk" %}
-{% elif page.url == "/events/records/" %}
-{% include "components/page-records.njk" %}
-{% elif page.url == "/events/club-nights/" %}
-{% include "components/page-clubnights.njk" %}
-{% else %}
-{% endif %}
 
 
 
@@ -137,6 +123,7 @@
 
 
 {% if page.url == "/about/sponsors/" %}
+<div class="pad3rem"></div>
 {% else %}
 {% include "components/global/slider.html" %}
 {% endif %}
