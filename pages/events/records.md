@@ -16,10 +16,7 @@ Unfortunately, we can be a little slow updating, or finding the ;laterst records
 
 
 
-{% include "components/results/2025-Winter-Season-Results.njk" %}
+{% include "components/page-records.njk" %}
 
-{% if page.url == "/events/records/" %}
-Say hi!
-{% include "components/global/slider.html" %}
-{% endif %}
+
 

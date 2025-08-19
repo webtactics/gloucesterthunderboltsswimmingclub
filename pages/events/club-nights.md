@@ -15,3 +15,5 @@ eleventyNavigation:
 ### We aim for a 6pm start and generally finish before 8pm.
 
 #### All ages and abilities are welcome.
+
+{% include "components/page-clubnights.njk" %}
