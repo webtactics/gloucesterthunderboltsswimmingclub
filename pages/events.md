@@ -22,4 +22,4 @@ eleventyNavigation:
 <h4>All ages and abilities are welcome.</h4>
 
 
-{% include "components/page-events.njk" %}
+{% include "components/page/page-events.njk" %}

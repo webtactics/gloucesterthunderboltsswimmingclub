@@ -16,4 +16,4 @@ eleventyNavigation:
 
 #### All ages and abilities are welcome.
 
-{% include "components/page-clubnights.njk" %}
+{% include "components/page/page-clubnights.njk" %}

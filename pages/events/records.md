@@ -16,7 +16,7 @@ Unfortunately, we can be a little slow updating, or finding the ;laterst records
 
 
 
-{% include "components/page-records.njk" %}
+{% include "components/page/page-records.njk" %}
 
 
 

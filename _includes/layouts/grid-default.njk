@@ -1,7 +1,7 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
 
-{% include "components/grid-head.njk" %}
+{% include "components/assets/grid-head.njk" %}
 
 	
 {% block bodyclass %}<body class="internal {{ class }} " >{% endblock %}
@@ -15,7 +15,7 @@
 <div id="menu_vert">
 
 <div class="mobilemenu">
- {% include "components/grid-nav-side.njk" %}
+ {% include "components/assets/grid-nav-side.njk" %}
 </div>
 
 <div class="grid-2-small">
@@ -73,7 +73,7 @@
 
 		<div class="navrightsidebottomline hide-for-small">
 			<nav class="navbar hide-for-small">
-				{% include "components/grid-nav-top.njk" %}
+				{% include "components/assets/grid-nav-top.njk" %}
 			</nav>
 		</div>
 
@@ -93,7 +93,7 @@
 
 
 {% block hero %}
-{% include "components/grid-hero.njk" %}
+{% include "components/hero/grid-hero.njk" %}
 {% endblock %}
 
 
@@ -173,7 +173,7 @@
 
 
 
-{% include "components/grid-js.njk" %}
+{% include "components/assets/grid-js.njk" %}
 
 </body>
 </html>
