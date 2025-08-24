@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-swim-nsw.njk
+layout: layouts/grid-default.njk
 title: Swim NSW Events
 class: events swimnsw
 description: 
@@ -13,3 +13,6 @@ eleventyNavigation:
 
 
 
+
+
+{% include "components/events/2025-26-Season-SwimNSW-Events.njk" %}
