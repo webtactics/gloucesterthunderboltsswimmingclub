@@ -12,7 +12,6 @@ eleventyNavigation:
 ---
 
 
-SwimNSW events that GTSC swimmers can enter.
 
 
 {% include "components/events/2025-26-Season-SwimNSW-Events.njk" %}
