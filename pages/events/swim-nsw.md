@@ -15,3 +15,7 @@ eleventyNavigation:
 
 
 {% include "components/events/2025-26-Season-SwimNSW-Events.njk" %}
+
+<div class="eightypercentborder3rem"></div>
+
+{% include "components/events/2024-25-Season-SwimNSW-Events.njk" %}
