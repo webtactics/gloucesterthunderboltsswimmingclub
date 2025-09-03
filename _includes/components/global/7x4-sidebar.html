@@ -1,0 +1,12 @@
+{% if eventssidebar %}
+
+
+  {% include "components/events/2025-26-Season-Events.njk" %}
+
+<div class="linkwrapper"><a class="resultspdf" href="/events/" title="2024-25 Season Events" alt="2024-25 Season Events" >For all Event Listings &gt;</a></div>
+    {% else %}
+
+  {% include "components/events/sidebar-Results.njk" %}
+    <div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="For all Event Results" alt="For all Event Results" >For all Event Results &gt;</a></div>
+
+{% endif %}
