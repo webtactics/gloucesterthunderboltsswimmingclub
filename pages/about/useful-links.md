@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-useful.njk
+layout: layouts/grid-7x4.njk
 title: Useful Links & Resources
 class: about resources
 description: Useful Links & Resources
@@ -13,3 +13,6 @@ eleventyNavigation:
 
 
 
+
+
+  {% include "components/global/usefullinks.html" %}
