@@ -15,8 +15,12 @@
 <div class="postsumdate">
 <p>{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</p>
 </div>
-<h4 class="sum-title"><a  href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >Event Details &gt;</a></h4>
-			
+
+{% if post.data.results %}
+<h4 class="sum-title"><a  href="{{ post.data.results }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank" >Results Pdf &gt;</a></h4>
+{% else %}
+	<h4 class="sum-title"><a  href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >Event Details &gt;</a></h4>		
+{% endif %}
 
 </summary>
 		
