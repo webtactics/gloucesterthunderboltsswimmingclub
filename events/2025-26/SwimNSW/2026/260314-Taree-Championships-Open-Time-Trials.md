@@ -11,10 +11,8 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2025-26-Season-Events-SwimNSW
   - Taree-Torpedoes
-  - 2026-Year
+
  
 
 

@@ -11,8 +11,6 @@ eventdate:
 
 tags:
   - 2025-Year
-  - 2025-26-Season-Events-SwimNSW
-  - Swim-NSW
   - Swim-CVSA
   - Mingara-Aquatic-Club
 

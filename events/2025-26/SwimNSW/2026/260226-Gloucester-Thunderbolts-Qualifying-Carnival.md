@@ -11,10 +11,8 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2025-26-Season-Events-SwimNSW
   - Gloucester-Thunderbolts
-  - 2026-Year
+
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg

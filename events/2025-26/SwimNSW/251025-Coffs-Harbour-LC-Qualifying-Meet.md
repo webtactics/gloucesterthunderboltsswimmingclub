@@ -10,9 +10,8 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
+
   - 2025-Year
-  - 2025-26-Season-Events-SwimNSW
   - Coffs-Harbour-Swim-Club
 
 
