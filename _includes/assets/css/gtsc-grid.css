@@ -3070,13 +3070,9 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
 
 @media (max-width: 1025px) {
-  .eightypercentborder3rem, .eightypercentborder {
-    padding: 0 0 2rem;
-    border-bottom: 4px dotted var(--lightgrey);
-    width: calc(80vw - 6rem);
-    max-width: 800px;
-    height: 32px
-   
+.eightypercentborder {
+  margin: 0 auto 2rem auto;
+  height: 32px;
   }
 }
 
