@@ -11,10 +11,7 @@ eventdate:
 
 tags:
 
-  - 2025-Year
-
-
-
+  - Sydney-Olympic-Park
 
  
 

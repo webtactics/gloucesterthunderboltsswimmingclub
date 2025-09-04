@@ -10,7 +10,6 @@ eventdate:
 
 tags:
 
-  - 2025-Year
   - Lismore-Workers
 
 

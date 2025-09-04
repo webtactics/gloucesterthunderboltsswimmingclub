@@ -10,7 +10,6 @@ eventdate:
   year: 2025
 
 tags:
-  - 2025-Year
   - Swim-CVSA
   - Mingara-Aquatic-Club
 

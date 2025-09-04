@@ -10,8 +10,6 @@ eventdate:
 
 tags:
 
-
-  - 2025-Year
   - Coffs-Harbour-Swim-Club
 
 
