@@ -9,11 +9,13 @@ eventdate:
   year: 2025
 
 tags:
+  - Event
+  - Swim-NSW
+  - 2025-Year
   - 2025-26-Season-Events
   - 2025-26-Season-Events-SwimNSW
   - Lismore-Workers
 
-  - 2025-Year
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-600x400.jpg

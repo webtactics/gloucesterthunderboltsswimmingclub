@@ -9,10 +9,13 @@ eventdate:
   year: 2025
 
 tags:
+  - Event
+  - Swim-NSW
+  - 2025-Year
   - 2025-26-Season-Events
   - 2025-26-Season-Events-SwimNSW
   - Laurieton-Swimming-Club
-  - 2025-Year
+
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/laurieton-sc-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/laurieton-sc-400x600.jpg

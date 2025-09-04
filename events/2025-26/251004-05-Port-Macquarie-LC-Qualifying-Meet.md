@@ -9,10 +9,13 @@ eventdate:
   year: 2025
 
 tags:
+  - Event
+  - Swim-NSW
+  - 2025-Year
   - 2025-26-Season-Events
   - 2025-26-Season-Events-SwimNSW
   - Port-Macquarie
-  - 2025-year
+
 
 
 

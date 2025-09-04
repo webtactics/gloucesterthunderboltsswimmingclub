@@ -11,6 +11,7 @@ eventdate:
 
 
 tags:
+  - Event
   - Club-Night
   - GTSC-Event
   - 2024-25-Season-GTSC
