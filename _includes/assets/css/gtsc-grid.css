@@ -1433,6 +1433,14 @@ h1.bronze.heading-text { background-color: var(--bronze);}
   margin: 0;
 }
 
+.home.content h3.sum-title {
+
+  color: var(--white);
+  text-align: left;
+padding: 0;
+  margin: 0;
+}
+
 
 .content.selectnavbox {
   margin: 0 auto;
