@@ -16,8 +16,7 @@ eleventyNavigation:
 
 
 {% include "components/events/2025-26-Season-Events.njk" %}
-<div class="eightypercentborder"></div>
-{% include "components/events/2024-25-Season-Events.njk" %}
+
 
 <div class="linkwrapper"><a class="resultspdf" href="/events/" title="For all Event Listings" alt="For all Event Listings">For all Event Listings &gt;</a></div>
 
