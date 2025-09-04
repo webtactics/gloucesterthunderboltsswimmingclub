@@ -9,7 +9,7 @@ eventdate:
   year: 2025
 
 tags:
-  - Event
+
   - Swim-NSW
   - 2025-Year
   - 2025-26-Season-Events
