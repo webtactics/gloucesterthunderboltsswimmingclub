@@ -3,7 +3,7 @@
     <h2 id="Recent-Results" class="heading-text">Upcoming Events</h2>
 <div class="resultswrapper">
 	{%- set postslist = collections['Event'] | reverse | limit(4) -%} 
-	{% include "components/postslist-events.njk" %}
+	{% include "components/postslist-events-sidebar.njk" %}
 </div>
 </div>
 
