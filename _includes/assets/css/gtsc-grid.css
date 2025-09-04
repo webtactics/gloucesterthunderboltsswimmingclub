@@ -2023,8 +2023,8 @@ padding: 3rem 1rem;}
 }
 
 .grid-7x4 {
-  grid-template-columns: 7fr 4fr;
-  gap: 4rem;
+  grid-template-columns: 6fr 4fr;
+  gap: 5rem;
 }
 
 
