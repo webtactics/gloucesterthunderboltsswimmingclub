@@ -17,6 +17,7 @@ tags:
   - Results
   - 2025-Winter-Results
   - 2025-Winter-Results-Swim-NSW
+  - Sydney-Olympic-Park
 
  
 
