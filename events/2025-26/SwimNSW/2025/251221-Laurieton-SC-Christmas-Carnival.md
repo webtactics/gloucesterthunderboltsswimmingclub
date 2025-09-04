@@ -9,8 +9,6 @@ eventdate:
   year: 2025
 
 tags:
-
-r
   - Laurieton-Swimming-Club
 
 
