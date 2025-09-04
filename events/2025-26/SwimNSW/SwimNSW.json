@@ -3,7 +3,8 @@
     "permalink": "events/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-     "2025-26-Season-Events"
+     "Swim-NSW",
+     "2025-26-Season-Events-SwimNSW"
     ]
   }
   

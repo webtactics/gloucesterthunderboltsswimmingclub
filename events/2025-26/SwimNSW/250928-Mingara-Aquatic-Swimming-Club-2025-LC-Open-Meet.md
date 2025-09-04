@@ -10,10 +10,7 @@ eventdate:
   year: 2025
 
 tags:
-
-
   - 2025-Year
-  - 2025-26-Season-Events
   - 2025-26-Season-Events-SwimNSW
   - Swim-NSW
   - Swim-CVSA

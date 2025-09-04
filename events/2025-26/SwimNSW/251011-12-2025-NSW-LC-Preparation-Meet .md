@@ -13,7 +13,6 @@ tags:
 
   - Swim-NSW
   - 2025-Year
-  - 2025-26-Season-Events
   - 2025-26-Season-Events-SwimNSW
 
 

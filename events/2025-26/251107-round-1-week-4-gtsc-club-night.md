@@ -14,7 +14,7 @@ tags:
   - Club-Night
   - GTSC-Event
   - 2025-26-Season-GTSC
-  - 2025-26-Season-Events
+
 
   - 2025-Year
   
