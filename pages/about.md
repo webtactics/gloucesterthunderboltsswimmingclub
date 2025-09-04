@@ -15,13 +15,11 @@ eleventyNavigation:
 
 
 
-## Gloucester Thunderbolts Swimming Club (GTSC) is a small community club providing opportunities for swimmers of all levels to improve their swimming and achieve personal goals. 
+{% include "components/events/2025-26-Season-Events.njk" %}
+<div class="eightypercentborder"></div>
+{% include "components/events/2024-25-Season-Events.njk" %}
 
-We are a family oriented club offering a friendly and relaxed environment for all swimmers, both young and old. Racing is against swimmers of similar ability, not age, and the focus is on improving your own best time.
-
-Gloucester Thunderbolts Swimming Club runs from mid Oct till early April on Thursday evenings at 6.00pm at the Gloucester Pool Complex. 
-
-All ages and abilities are welcome.
+<div class="linkwrapper"><a class="resultspdf" href="/events/" title="For all Event Listings" alt="For all Event Listings">For all Event Listings &gt;</a></div>
 
 
 

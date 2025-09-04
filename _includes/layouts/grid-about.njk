@@ -2,8 +2,8 @@
 
 
 {% block bodyclass %}<body class="about {{ class }} " >
-	<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v21.0"></script>{% endblock %}
+{% include "components/assets/facebook-body.njk" %}
+{% endblock %}
 
 
 {% block content %}
@@ -15,27 +15,24 @@
 
 <div class="twothirds">
     <div class="titlebox fade-in appear"><h1 class="heading-text">{{ title }}</h1></div>
-	{{ content | safe }}
+	<h2 id="gloucester-thunderbolts-swimming-club-(gtsc)-is-a-small-community-club-providing-opportunities-for-swimmers-of-all-levels-to-improve-their-swimming-and-achieve-personal-goals." tabindex="-1">Gloucester Thunderbolts Swimming Club (GTSC) is a small community club providing opportunities for swimmers of all levels to improve their swimming and achieve personal goals.</h2>
+	
+	<p>We are a family oriented club offering a friendly and relaxed environment for all swimmers, both young and old. Racing is against swimmers of similar ability, not age, and the focus is on improving your own best time.</p>
+	
+	<p>Gloucester Thunderbolts Swimming Club runs from mid Oct till early April on Thursday evenings at 6.00pm at the Gloucester Pool Complex.</p>
+	
+	<p>All ages and abilities are welcome.</p>
 </div>
 
 <div class="onethird">
-	<div class="fbswrapper">
-		<div class="fb-page" data-href="https://www.facebook.com/GloucesterThunderboltsSwimmingClub" data-tabs="timeline" data-width="500px" data-height="500px" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
-			<blockquote cite="https://www.facebook.com/GloucesterThunderboltsSwimmingClub" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/GloucesterThunderboltsSwimmingClub">Gloucester Thunderbolts Swimming Club</a>
-			</blockquote>
-		</div>
-	</div>
+	{% include "components/assets/facebook-body.njk" %}
 </div>
 
 </div>
 
 
+	{{ content | safe }}
 
-{% include "components/events/2025-26-Season-Events.njk" %}
-<div class="eightypercentborder"></div>
-{% include "components/events/2024-25-Season-Events.njk" %}
-
-<div class="linkwrapper"><a class="resultspdf" href="/events/" title="2025-26 Season Events" alt="2025-26Season Events">For all Event Listings &gt;</a></div>
 
 
 
