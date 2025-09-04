@@ -17,6 +17,7 @@ tags:
   - 2025-Year
   - Swim-NSW
   - Swim-CVSA
+  - Results
   - Featured
   - 2025-Winter-Results
   - 2025-Winter-Results-Swim-NSW
