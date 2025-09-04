@@ -3,6 +3,8 @@ layout: layouts/grid-7x4.njk
 title: Useful Links & Resources
 class: about resources
 description: Useful Links & Resources
+
+eventssidebar: true
 date: 2024-08-22
 permalink: /about/resources/
 eleventyNavigation:
