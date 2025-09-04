@@ -1,0 +1,11 @@
+{# Recent Results #}
+<div class="two-colum-wrapper">	
+    <h2 id="Recent-Results" class="heading-text">Events</h2>
+<div class="resultswrapper">
+	{%- set postslist = collections['Event'] | reverse | limit(6) -%} 
+	{% include "components/postslist-events-sidebar.njk" %}
+</div>
+</div>
+
+{# end Recent Results #}
+
