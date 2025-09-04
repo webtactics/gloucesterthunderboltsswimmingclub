@@ -2000,6 +2000,9 @@ padding: 3rem 1rem;}
   grid-template-columns: 2fr 1fr;
   gap: 2rem;
 }
+.grid-2x1 {padding: 0 0 3rem 0;}
+
+
 .grid-3 {
   grid-template-columns:1fr 1fr 1fr;
   gap: 1rem;
