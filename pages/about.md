@@ -13,7 +13,7 @@ eleventyNavigation:
   order: 1
 ---
 
-<div class="toppad3rem"></div>
+
 
 {% include "components/events/2025-26-Season-Events.njk" %}
 
