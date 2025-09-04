@@ -3070,7 +3070,7 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
   background-color: var(--white);
  
 }
-.eightypercentborder3rempadlow80pxabove {margin: 0 auto;padding: 0 0 5rem;   height: 80px;}
+.eightypercentborder3rempadlow80pxabove {margin: 0 auto;padding: 0 5rem;   height: 80px;}
 .eightypercentborder3rem {padding: 0 0 5rem;   height: 80px;}
 .eightypercentborder2rem {padding: 0 0 2rem;   height: 36px;}
 .eightypercentborder1rem {padding: 0 0 1rem;   height: 20px;}
