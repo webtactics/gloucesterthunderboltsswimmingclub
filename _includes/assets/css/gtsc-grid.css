@@ -2450,6 +2450,8 @@ font-size:1rem;
 
 .resultssummary, .eventsummary {margin: 0;}
 
+.sidebar .eventsummary {margin: 0 0 2rem 0;}
+
 .bordertopsumimage img {
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
