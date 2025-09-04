@@ -1,11 +1,11 @@
 <section class="resultssum" >
 	{% for post in postslist %}
-<summary class="grid-150x1fr resultssummarysmall">
+<summary class="grid-100x1fr resultssummarysmall">
 
 
 {% if post.data.rain %}
 <div class="resultssumsmallimage">
-<img src="{{ post.data.image }}/tr:w-150,h-150" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="150px" height="auto" class="postlistimg">
+<img src="{{ post.data.image }}/tr:w-100,h-100" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="100px" height="auto" class="postslist-results-sidebar-img">
 </div>
 
 <div class="resultssumsmallcontent">
@@ -24,7 +24,7 @@
 
 			
 <div class="resultssumsmallimage">
-<a href="{{ post.data.results }}" target="_blank"><img src="{{ post.data.image }}/tr:w-150,h-150" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="150px" height="auto" class="postlistimg"></a>
+<a href="{{ post.data.results }}" target="_blank"><img src="{{ post.data.image }}/tr:w-100,h-100" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="100px" height="auto" class="postslist-results-sidebar-img"></a>
 </div>
 
 <div class="resultssumsmallcontent">

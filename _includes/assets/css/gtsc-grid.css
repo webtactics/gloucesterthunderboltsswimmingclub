@@ -1951,6 +1951,10 @@ padding: 3rem 1rem;}
   display: grid;
   gap: 1rem;
 }
+.grid-100x1fr {
+  grid-template-columns: 100px 1fr;
+}
+
 
 .grid-150x1fr {
   grid-template-columns: 150px 1fr;
@@ -2101,7 +2105,7 @@ max-width: 600px;}
   
   }
 
-  .grid-150x1fr {
+   .grid-100x1fr, .grid-150x1fr {
     grid-template-columns: 100px 1fr;
   }
 
@@ -2501,6 +2505,19 @@ font-size:1rem;
   transition: all 0.2s ease-in-out;
   border: 0.5rem solid var(--darkbronze);
 
+}
+
+
+.postslist-results-sidebar-img img{
+  border-radius: 0.5rem;
+    width: auto;
+  aspect-ratio: 1 / 1;
+}
+
+.postslist-results-sidebar-img img:hover {
+  filter: brightness(110%);
+  transition: all 0.2s ease-in-out;
+ 
 }
 
 .resultssumroundimage img {
