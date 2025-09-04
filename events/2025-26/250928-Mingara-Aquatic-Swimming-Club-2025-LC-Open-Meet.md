@@ -20,8 +20,8 @@ tags:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/valleyaquaticclub-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/valleyaquaticclub-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/mingara-sc-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/mingara-sc-400x600.jpg
 
 results: 
 
@@ -30,7 +30,7 @@ clubURL: https://mingaraswimclub.com.au/
 
 meetflyerpdf: https://coastandvalleynsw.swimmingclub.org.au/wp-content/uploads/2025/08/Mingara-Aquatic-Swimming-Club-September-Long-Course-Carnival.pdf
 
-entrylink: https://swimcentral.swimming.org.au/events/4665dbb0-cd62-f011-bec1-00224811a58b/nominations
+entrylink: 
 
 time: 9:00am - 5:00pm
 where: Mingara Recreation Club, 12-14 Mingara Dr, Tumbi Umbi NSW 2261
