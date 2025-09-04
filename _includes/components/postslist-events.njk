@@ -10,13 +10,16 @@
 
 <div class="sumtitle">
 <h3 class="sum-title"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.subtitle }}</a></h3>
-
 </div>
 
 <div class="postsumdate">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
 
 
+{% if post.data.results %}
+<h4 class="sum-title"><a  href="{{ post.data.results }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank" >Results Pdf &gt;</a></h4>
+{% else %}
 <h4 class="sum-title"><a  href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >Event Details &gt;</a></h4>		
+{% endif %}	
 
 
 </summary>
