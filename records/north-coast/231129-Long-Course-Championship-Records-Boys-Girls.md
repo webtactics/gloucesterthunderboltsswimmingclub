@@ -1,4 +1,5 @@
 ---
+layout: layouts/post-events.njk
 title: Long Course Championship Records Boys & Girls
 subtitle: Long Course Championship Records Boys & Girls
 date: 2025-01-04
