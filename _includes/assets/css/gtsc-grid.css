@@ -3140,7 +3140,11 @@ h3.news-title a:hover {
   width: auto;
   aspect-ratio: 1 / 1;
 }
-
+.recordspostlistimg4x6 img  {
+border-radius: 0.5rem;
+  width: auto;
+  aspect-ratio: 3 / 2;
+}
 
 /* Useful links */
 
