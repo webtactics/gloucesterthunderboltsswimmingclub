@@ -2,7 +2,7 @@
 
 title: GTSC Club Committee
 class: about committee
-description: Whether you choose to avoid gluten for lifestyle or health reasons, going gluten-free doesn’t mean missing out. Chang’s has a great range of gluten free and wheat free (tamari) products options just for you!
+description: Like many sporting clubs, we could not function without our volunteers.
 date: 2024-08-22
 permalink: /about/committee/
 
@@ -16,6 +16,8 @@ eleventyNavigation:
 ### Like many sporting clubs, we could not function without our volunteers.
 
 **We would like to acknowledge our committee for the 2024/2025 season.**
+
+<div class="padtop3rem"></div>
 
 <h2 class="heading-text">2024/2025 GTSC Committee</h2>
 <div class="committeewrapper">
