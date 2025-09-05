@@ -17,12 +17,12 @@
 <div class="grid-2x1">
 
 	<div class="twothirds">
-   		<div class="titlebox fade-in appear">
+   		<div class="titlebox fade-in">
        		<h1 class="heading-text">{{ title }}</h1>
     	</div>
 		{{ content | safe }}
-		<div class="resultswrapper top fade-in appear">
-		{% set postslist = collections['News-hero'] | reverse  %} 
+		<div class="resultswrapper top fade-in">
+		{% set postslist = collections['News-hero'] | reverse | limit(2)  %} 
 		{% include "components/postslist-news-2-wide.njk" %}
 		</div>
 	</div>
@@ -40,8 +40,8 @@
 
 
 
-<div class="resultswrapper top2rem fade-in appear">
-		{% set postslist = collections['News-body'] | reverse  %} 
+<div class="resultswrapper top2rem fade-in">
+		{% set postslist = collections['News-body'] | reverse  | start(2)  %} 
 		{% include "components/postslist-news-4-wide.njk" %}
 		</div>
 
