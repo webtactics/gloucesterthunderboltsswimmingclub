@@ -14,12 +14,8 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2025-Winter
-  - 2025-Year
-  - Swim-CVSA
+  - Swimming-North-Coast
   - Results
-  - Featured
   - 2025-Winter-Results
   - 2025-Winter-Results-Swim-NSW
 

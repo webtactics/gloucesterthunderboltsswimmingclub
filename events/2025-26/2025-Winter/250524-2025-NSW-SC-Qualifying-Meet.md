@@ -10,14 +10,11 @@ eventdate:
   year: 2025
 
 tags:
-
-  - Swim-NSW
-  - 2025-Winter
-  - 2025-Year
+  - Sydney-Olympic-Park
   - Results
   - 2025-Winter-Results
   - 2025-Winter-Results-Swim-NSW
-  - Sydney-Olympic-Park
+
 
  
 

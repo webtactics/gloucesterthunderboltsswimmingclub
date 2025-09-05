@@ -11,11 +11,6 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2025-Winter
-  - 2025-Year
-  - Swim-CVSA
-  - Featured
   - Taree-Torpedoes
 
 

@@ -13,11 +13,7 @@ eventdate:
   year: 2025
 
 tags:
-
-  - Swim-NSW
-  - 2025-Winter
-  - 2025-Year
-  - Swim-CVSA
+  - Forster-Aquatic
   - Results
   - 2025-Winter-Results
   - 2025-Winter-Results-Swim-NSW
