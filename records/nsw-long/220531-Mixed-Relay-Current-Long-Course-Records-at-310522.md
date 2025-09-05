@@ -11,8 +11,7 @@ metadescription: Mixed Relay Long Course Records as at 31 May 2022
 records: /static/records/nsw-long/220531-Mixed-Relay-Current-Long-Course-Records-at-310522.pdf
 
 tags:
-  - Records
-  - NSW-Long-Course-Records
+
 
 
 
