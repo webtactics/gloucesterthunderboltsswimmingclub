@@ -10,13 +10,10 @@ eleventyNavigation:
   parent: Events
   order: 4
 ---
-We like records. 
+<h2>We like records.</h2>
 
-Unfortunately, we can be a little slow updating, or finding the ;laterst records or swims, so if you have any records that are not listed here, please let us know.
+<p><strong>Unfortunately, we can be a little slow updating, or finding the ;laterst records or swims, so if you have any records that are not listed here, please let us know.</strong></p>
 
-
+<div class="padtop3rem"></div>
 
 {% include "components/page/page-records.njk" %}
-
-
-

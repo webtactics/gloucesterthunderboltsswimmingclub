@@ -18,10 +18,3 @@ permalink: /
 <h3>GTSC are a family friendly club offering a welcoming and relaxed environment for swimmers of any age or ability.</h3>
 
 <h3>We welcome new members to GTSC and look forward to seeing you at the pool.</h3>
-
-
-
-
-
-
-

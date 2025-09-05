@@ -21,7 +21,3 @@ eleventyNavigation:
 
 
 <p><strong>For more information please contact the club via email @ <a href="mailto:gloucesterthunderboltsswimclub@outlook.com">gloucesterthunderboltsswimclub@outlook.com</a>, or use the form below.</strong></p>
-
-
-
-

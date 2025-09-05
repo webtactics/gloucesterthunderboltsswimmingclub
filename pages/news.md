@@ -16,6 +16,3 @@ eleventyNavigation:
 ### Interested in swimming?
 
 **Cool, then some of this stuff may interest you too.**
-
-
-
