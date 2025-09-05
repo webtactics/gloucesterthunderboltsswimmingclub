@@ -3,7 +3,9 @@
     "permalink": "events/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-     "2025-26-Season-Events"
+     "GTSC",
+     "2025-26-Season-Events",
+     "2025-26-Season-Events-GTSC"
     ]
   }
   
