@@ -1,14 +1,14 @@
 ---
 title: Mens Short Course Records
 subtitle: Mens Short Course Records
-date: 2024-07-22
-updated: 22nd July 2024
+date: 2025-08-18
+updated: 18th August 2025
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/SNSW-logo-400x600-new.jpg
 
-metadescription: Mens Short Course Records as at 22 July 2024
+metadescription: Mens Short Course Records as at 18th August 2025
 
-records: /static/records/nsw-short/240722-Mens-Short-Course-Records-at-22072024.pdf
+records: /static/records/nsw-short/250818-Mens-Short-Course-Records.pdf
 
 tags:
 
