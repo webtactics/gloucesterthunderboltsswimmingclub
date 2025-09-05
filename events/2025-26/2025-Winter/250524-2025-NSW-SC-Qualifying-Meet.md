@@ -21,7 +21,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-600x400.jpg
 
-results: /static/results/2024-25/250321-2025-NSW-State-Open-Championships-results.pdf
+results: /static/results/2025-winter/250524-2025-NSW-SC-Qualifying-Meet-results.pdf
 
 club: Swim NSW
 clubURL: https://nsw.swimming.org.au/
