@@ -10,9 +10,6 @@ metadata:
 permalink: /
 
 ---
-
-
-
 <h2 class="home-heading-text">Gloucester Thunderbolts Swimming Club (GTSC) provides opportunities for swimmers of all levels to improve their swimming, have fun, and to achieve personal goals.</h2>
 
 <h3>GTSC are a family friendly club offering a welcoming and relaxed environment for swimmers of any age or ability.</h3>

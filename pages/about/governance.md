@@ -13,6 +13,4 @@ eleventyNavigation:
   order: 5
 ---
 
-
-
  {% include "components/global/governance.html" %}

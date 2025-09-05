@@ -60,17 +60,6 @@ If you have any questions or concerns, please do not hesitiate to contact us on 
 
 <div><a class="resultspdfsmall" href="https://swimcentral.swimming.org.au/home" title="Join GTSC now." alt="Join GTSC now." target="_blank">Join GTSC now.</a></div>
 
-<div class="padtop3rem">
+<div class="padtop3rem"></div>
 
 {% include "components/global/swim-central-how-to.html" %}
-</div>
-
-
-
-
-
-
-
-
-
-

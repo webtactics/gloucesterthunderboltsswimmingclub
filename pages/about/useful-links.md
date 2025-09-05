@@ -13,8 +13,4 @@ eleventyNavigation:
   order: 4
 ---
 
-
-
-
-
-  {% include "components/global/usefullinks.html" %}
+{% include "components/global/usefullinks.html" %}
