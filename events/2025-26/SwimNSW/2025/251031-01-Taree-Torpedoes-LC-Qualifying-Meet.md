@@ -5,7 +5,7 @@ date: 2025-10-31
 
 eventdate:
   day: 31st-1st
-  month: October
+  month: October / November
   year: 2025
 
 tags:
