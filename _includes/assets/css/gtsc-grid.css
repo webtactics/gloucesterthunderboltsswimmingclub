@@ -3088,6 +3088,15 @@ h3.news-title a:hover {
   width: auto;
   aspect-ratio: 1 / 1;
 }
+
+.recordspostlistimg4x6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  height: 100%;
+}
+
 .recordspostlistimg4x6 img  {
 border-radius: 0.5rem;
   width: auto;
