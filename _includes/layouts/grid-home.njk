@@ -46,7 +46,7 @@
 <div class="resultswrapper">
 <h2 class="heading-text">2025 Winter Events</h2>
 {% set postslist = collections['2025-Winter'] | limit (12) %} 
-	{% include "components/postslist-events.njk" %}
+	{% include "components/postlist/postslist-events.njk" %}
 
 	<div class="linkwrapper"><a class="resultspdf" href="/events/" title="All Events" alt="All Events" >For all Winter Event Listings &gt;</a></div>
 </div>
@@ -60,7 +60,7 @@
 <div class="resultswrapper">
 <h2 class="heading-text">2025-26 Season Events</h2>
 {% set postslist = collections['2025-26-Season-Events'] | reverse | limit (12) %} 
-	{% include "components/postslist-events.njk" %}
+	{% include "components/postlist/postslist-events.njk" %}
 
 	<div class="linkwrapper"><a class="resultspdf" href="/events/" title="All Events" alt="All Events" >For all 2025-26 Event Listings &gt;</a></div>
 </div>

@@ -23,7 +23,7 @@
 		{{ content | safe }}
 		<div class="resultswrapper top fade-in">
 		{% set postslist = collections['News-hero'] | reverse | limit(2)  %} 
-		{% include "components/postslist-news-2-wide.njk" %}
+		{% include "components/postlist/postslist-news-2-wide.njk" %}
 		</div>
 	</div>
 
@@ -42,7 +42,7 @@
 
 <div class="resultswrapper top2rem fade-in">
 		{% set postslist = collections['News-body'] %}  
-		{% include "components/postslist-news-4-wide.njk" %}
+		{% include "components/postlist/postslist-news-4-wide.njk" %}
 		</div>
 
 
