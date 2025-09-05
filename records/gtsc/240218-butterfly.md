@@ -11,8 +11,7 @@ metadescription: Gloucester Thunderbolts Swimming Club Butterfly Swimming Record
 records: /static/records/gtsc/250403-butterfly-records.pdf
 
 tags:
-  - Records
-  - GTSC-Records
+
 
 
 

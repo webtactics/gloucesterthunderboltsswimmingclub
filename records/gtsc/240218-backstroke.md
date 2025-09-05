@@ -11,8 +11,7 @@ metadescription: Gloucester Thunderbolts Swimming Club Backstroke Swimming Recor
 records: /static/records/gtsc/250403-backstroke-records.pdf
 
 tags:
-  - Records
-  - GTSC-Records
+
 
 
 

@@ -11,8 +11,7 @@ description: Girls Long Course Overall North Coast Records @ 04/01/2025
 records: /static/records/north-coast/250104-Long-Course-Overall-Records-Girls.pdf
 
 tags:
-  - Records
-  - North-Coast-Records
+
   - North-Coast-Long-Course-Records
 
 

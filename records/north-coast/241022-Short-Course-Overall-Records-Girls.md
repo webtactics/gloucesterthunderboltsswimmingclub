@@ -11,8 +11,6 @@ description: Girls Short Course Overall North Coast Records @ 04/01/2025
 records: /static/records/north-coast/250104-Short-Course-Overall-Records-Girls.pdf
 
 tags:
-  - Records
-  - North-Coast-Records
   - North-Coast-Short-Course-Records
 
 

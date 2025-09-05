@@ -3,7 +3,6 @@
     "permalink": "records/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-      "Records"
+      "North-Coast-Records"
     ]
   }
-  

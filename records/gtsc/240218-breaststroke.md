@@ -11,8 +11,7 @@ metadescription: Gloucester Thunderbolts Swimming Club Breaststroke Swimming Rec
 records: /static/records/gtsc/250403-breaststroke-records.pdf
 
 tags:
-  - Records
-  - GTSC-Records
+
 
 
 

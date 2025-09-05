@@ -11,8 +11,7 @@ description: Long Course Championship Records Boys & Girls
 records: /static/records/north-coast/250104-Long-Course-Championship-Records-Boys-Girls.pdf
 
 tags:
-  - Records
-  - North-Coast-Records
+
   - North-Coast-Long-Course-Records
 
 

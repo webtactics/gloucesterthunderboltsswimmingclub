@@ -11,8 +11,7 @@ metadescription: Gloucester Thunderbolts Swimming Club Freestyle Swimming Record
 records: /static/records/gtsc/250403-freestyle-records.pdf
 
 tags:
-  - Records
-  - GTSC-Records
+
 
 
 

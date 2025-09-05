@@ -11,9 +11,7 @@ description: Short Course Championship Records Boys & Girls
 records: /static/records/north-coast/240604-Short-Course-Championship-Records-Boys-Girls.pdf
 
 tags:
-  - Records
-  - North-Coast-Records
-  - North-Coast-Long-Course-Records
+  - North-Coast-Short-Course-Records
 
 
 

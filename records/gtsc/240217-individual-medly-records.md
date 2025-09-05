@@ -11,8 +11,7 @@ metadescription: Gloucester Thunderbolts Swimming Club Individual Medley Records
 records: /static/records/gtsc/250403-individual-medly-records.pdf
 
 tags:
-  - Records
-  - GTSC-Records
+
 
 
 

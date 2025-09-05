@@ -3,7 +3,7 @@
     "permalink": "records/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-      "Records"
+      "GTSC-Records"
     ]
   }
   
