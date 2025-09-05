@@ -17,7 +17,7 @@ tags:
   - Results
   - 2024-25-Results
   - 2024-25-Results-SwimNSW
-  - 2024-year
+  - 2024-Year
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg

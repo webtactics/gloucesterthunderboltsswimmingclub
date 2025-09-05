@@ -3,7 +3,7 @@
     "permalink": "events/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-     "2026-year"
+     "2026-Year"
     ]
   }
   
