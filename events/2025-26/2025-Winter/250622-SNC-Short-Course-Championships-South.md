@@ -4,11 +4,11 @@ eleventyExcludeFromCollections: false
 title: SNC Short Course Championships South
 description: SNC Short Course Championships South
 subtitle: SNC Short Course Championships South
-date: 2025-06-22
+date: 2025-06-21
 
 
 eventdate:
-  day: 22nd-23rd
+  day: 21st-22nd
   month: June
   year: 2025
 
@@ -25,7 +25,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-400x600.jpg
 
-results: /static/results/2025-winter/250622-SNC-Short-Course-Championships-South-results.pdf
+results: /static/results/2025-winter/250621-SNC-Short-Course-Championships-South-results.pdf
 
 club: Swimming North Coast Inc 
 clubURL: https://www.swimmingnorthcoast.com/
@@ -52,7 +52,9 @@ maplaurieton:
 
 mapnewcastleforum: 
 
-mapforster: true
+mapforster: https://maps.app.goo.gl/qVBxupLdPTEf1RhD9
+
+mapsydneyolympic:
 
 
 ---
