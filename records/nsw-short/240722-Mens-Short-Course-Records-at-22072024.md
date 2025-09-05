@@ -11,8 +11,7 @@ metadescription: Mens Short Course Records as at 22 July 2024
 records: /static/records/nsw-short/240722-Mens-Short-Course-Records-at-22072024.pdf
 
 tags:
-  - Records
-  - NSW-Short-Course-Records
+
 
 
 
