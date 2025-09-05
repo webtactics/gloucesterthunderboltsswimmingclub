@@ -15,9 +15,18 @@
 <div class="postsumtitle">
 <h4><a href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.title }}</a></h4>
 </div>
+
+{% if post.data.eventdate.day %}
 <div class="postsumdatesmall">
 <p>{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</p>
 </div>
+{% endif %}
+{% if post.data.updated %}
+<div class="postsumdatesmall">
+<p>Updated: {{ post.data.updated }}</p>
+</div>
+{% endif %}
+
 <a class="resultspdfsmall" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >More info &gt;</a>
 </div>	
 
