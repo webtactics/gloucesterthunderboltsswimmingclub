@@ -8,15 +8,13 @@ section: post
         <div class="grid-2">
             <div class="item postdetail">
               
-                <div class="eventdate">
-                    <p><strong>Date :</strong>{{ date }}</p>
-                </div>
+           
 
                 <div class="time">
-                    <p><strong>Updated :</strong>{{ updated }}</p>
+                    <p><strong>Record Updated :</strong>{{ updated }}</p>
                 </div>
 
-            
+            <a class="recordspdfsmall" href="{{ records }}" title="{{ title }}" alt="{{ post.data.title }}" target="_blank">{{ subtitle }} Pdf &gt;</a>
                
                     <div class="detailcontent">{{ content | safe }}</div>
 
