@@ -13,6 +13,3 @@ eleventyNavigation:
 ## Gloucester Thunderbolts Swimming Club Sponsors and Supporters. Supporting our club and our swimmers.
 
 {% include "components/page/page-sponsors.njk" %}
-```
-
-
