@@ -1,27 +1,21 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: Club Night Round 1 Week 4, 2025-26 Season
 subtitle: GTSC Round 1 Week 4
-date: 2025-11-07
+date: 2025-11-06
 
 eventdate:
-  day: 7th
+  day: 6th
   month: November
   year: 2025
 
 tags:
 
-  - Club-Night
-  - GTSC-Event
-  - 2025-26-Season-GTSC
-
-
-  - 2025-Year
   
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-4.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-4.jpg
 
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/events
 
 results: 
 

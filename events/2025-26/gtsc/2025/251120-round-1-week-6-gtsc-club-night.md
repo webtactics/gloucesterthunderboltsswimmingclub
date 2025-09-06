@@ -1,25 +1,20 @@
 ---
-eleventyExcludeFromCollections: true
-title: Club Night Round 1 Week 5, 2025-26 Season
-subtitle: GTSC Round 1 Week 5
-date: 2025-11-14
+eleventyExcludeFromCollections: false
+title: Club Night Round 1 Week 6, 2025-26 Season
+subtitle: GTSC Round 1 Week 6
+date: 2025-11-20
 
 eventdate:
-  day: 14th
+  day: 20th
   month: November
   year: 2025
 
 tags:
 
-  - Club-Night
-  - GTSC-Event
-  - 2025-26-Season-GTSC
-  - 2025-Year
 
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-6.jpg
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-5.jpg
-
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/events
 
 results: 
 
@@ -35,21 +30,22 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length800: 800
+  length1500: 1500
 
 backstroke:
   length25: 25
   length50: 50
-  length200: 100
+
 
 breaststroke:
   length25: 25
   length50: 50
-  length200: 100
+
 
 butterfly:
   length25: 25
   length50: 50
+
 
 
 
@@ -61,7 +57,3 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 
 ---
-
-
-
-

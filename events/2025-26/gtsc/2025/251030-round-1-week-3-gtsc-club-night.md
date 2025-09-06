@@ -1,26 +1,21 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: Club Night Round 1 Week 3, 2025-25 Season
 subtitle: GTSC Round 1 Week 3
-date: 2025-10-31
+date: 2025-10-30
 
 eventdate:
-  day: 31st
+  day: 30th
   month: October
   year: 2025
 
 tags:
 
-  - Club-Night
-  - GTSC-Event
-  - 2025-25-Season-Events
-
-  - 2025-Year
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-3.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-3.jpg
 
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/events
 
 results: 
 
