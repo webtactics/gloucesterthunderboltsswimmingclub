@@ -1,6 +1,6 @@
 ---
 eleventyExcludeFromCollections: false
-title: Club Night Round 1 Week 3, 2025-25 Season
+title: GTSC Club Night Round 1 Week 3, 2025-25 Season
 subtitle: GTSC Round 1 Week 3
 date: 2025-10-30
 

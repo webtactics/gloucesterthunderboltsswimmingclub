@@ -1,6 +1,6 @@
 ---
 eleventyExcludeFromCollections: false
-title: Club Night Round 1 Week 7, 2025-26 Season
+title: GTSC Club Night Round 1 Week 7, 2025-26 Season
 subtitle: GTSC Round 1 Week 7
 date: 2025-11-27
 
