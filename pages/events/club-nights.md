@@ -16,6 +16,7 @@ eleventyNavigation:
 
 #### All ages and abilities are welcome.
 <div class="padtop3rem"></div>
+
 <div class="postlist-section-wrapper">	
    <h2 class="heading-text">2025-26 Season Club Night Events</h2>
 <div class="resultswrapper">
