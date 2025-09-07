@@ -16,4 +16,13 @@ eleventyNavigation:
 
 #### All ages and abilities are welcome.
 <div class="padtop3rem"></div>
-{% include "components/page/page-clubnights.njk" %}
+<div class="postlist-section-wrapper">	
+   <h2 class="heading-text">2025-26 Season Club Night Events</h2>
+<div class="resultswrapper">
+	{%- set postslist = collections['2025-26-Season-GTSC']  -%} 
+	{% include "components/postlist/postslist-events.njk" %}
+</div>
+</div>
+
+
+<div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="Club Night Results" alt="Club Night Results">For all Club Night Results &gt;</a></div>
