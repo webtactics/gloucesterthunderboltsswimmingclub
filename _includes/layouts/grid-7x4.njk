@@ -23,26 +23,15 @@
     <div class="sidebarbox">
 
 
-{% if eventssidebar %}
 
 
-{# Recent Results #}
-<div class="postlist-section-wrapper-sidebar">	
-    <h2 id="Recent-Results" class="heading-text">Upcoming Events</h2>
-<div class="resultswrapper">
-{% set postslist = collections['2025-26-Season'] | limit (3) %} 
-	{% include "components/postlist/postslist-events-sidebar.njk" %}
-</div>
-</div>
-{# end Recent Results #}
 
-<div class="linkwrapper"><a class="resultspdf" href="/events/" title="2024-25 Season Events" alt="2024-25 Season Events" >For all Event Listings &gt;</a></div>
-    {% else %}
+
 
   {% include "components/results/sidebar-Results.njk" %}
     <div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="For all Event Results" alt="For all Event Results" >For all Event Results &gt;</a></div>
 
-{% endif %}
+
 
 
     </div>
