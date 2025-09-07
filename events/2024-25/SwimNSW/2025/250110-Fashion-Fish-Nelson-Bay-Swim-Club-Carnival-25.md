@@ -11,11 +11,8 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2024-25-Season-Events
-  - 2024-25-Season-Events-SwimNSW
   - Nelson-Bay-Swim-Club
-  - 2025-Year
+
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/nelson-bay-sc-600x400.jpg

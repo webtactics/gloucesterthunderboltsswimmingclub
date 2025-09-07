@@ -11,9 +11,6 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2024-25-Season-Events
-  - 2024-25-Season-Events-SwimNSW
   - Taree-Torpedoes
   - Results
   - 2024-25-Results

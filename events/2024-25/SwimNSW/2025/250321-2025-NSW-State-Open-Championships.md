@@ -10,11 +10,7 @@ eventdate:
   year: 2025
 
 tags:
-
-  - Swim-NSW
-  - 2024-25-Season-Events
-  - 2024-25-Season-Events-SwimNSW
-  - 2025-Year
+  
   - Results
   - 2024-25-Results
   - 2024-25-Results-SwimNSW

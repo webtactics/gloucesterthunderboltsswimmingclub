@@ -10,11 +10,7 @@ eventdate:
   year: 2025
 
 tags:
-  - Club-Night
-  - GTSC-Event
-  - 2024-25-Season-GTSC
-  - 2024-25-Season-Events
-  - 2025-Year
+
   - Age-Championships
   - Results
   - 2024-25-Results

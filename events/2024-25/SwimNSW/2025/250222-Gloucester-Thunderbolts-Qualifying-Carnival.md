@@ -11,14 +11,10 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2024-25-Season-Events
-  - 2024-25-Season-Events-SwimNSW
   - Gloucester-Thunderbolts
   - Results
   - 2024-25-Results
   - 2024-25-Results-GTSC
-  - 2025-Year
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg

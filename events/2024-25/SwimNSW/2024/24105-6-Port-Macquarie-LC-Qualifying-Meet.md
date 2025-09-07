@@ -1,34 +1,34 @@
 ---
-title: 2025 Speedo Sprints South & Qualifying Meet
-description: 2025 Speedo Sprints South & Qualifying Meet
-subtitle: 2025 Speedo Sprints South & Qualifying Meet
-date: 2025-02-01
+title: 2024 Port Macquarie LC Qualifying Meet
+subtitle: 2024 Port Macquarie LC Qualifying Meet
+date: 2024-10-05
 
 eventdate:
-  day: 1st
-  month: February
-  year: 2025
+  day: 5th and 6th
+  month: October
+  year: 2024
 
 tags:
 
   - Swim-NSW
-  - 2024-25-Season-Events
-  - 2024-25-Season-Events-SwimNSW
+  - 2024-25-Season-SwimNSW
   - Port-Macquarie
   - Results
   - 2024-25-Results
   - 2024-25-Results-SwimNSW
-  - 2025-Year
+  - 2024-Year
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-400x600.jpg
 
-results: /static/results/2024-25/250201-Speedo-Sprints-South-Qualifying-Meet-results.pdf
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-400x600.jpg
+
+results: /static/results/2024-25/24105-6-Port-Macquarie-LC-Qualifying-Meet-results.pdf
 
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
 
-meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_82ab5b36cbf54aef9baed9eded7225be.pdf
+meetflyerpdf: 
 
 entrylink: https://swimcentral.swimming.org.au/events/8c3e7b5c-63af-ef11-b8e8-002248971738/detail
 

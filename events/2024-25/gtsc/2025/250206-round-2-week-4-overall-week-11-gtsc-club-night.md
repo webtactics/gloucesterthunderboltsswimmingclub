@@ -1,33 +1,30 @@
 ---
-title: GTSC Club Night Round 2 Week 5, 2024-25 Season
-description: GTSC Club Night Round 2 Week 5, 2024-25 Season
-subtitle: GTSC Round 2 Week 5
-date: 2025-02-13
+title: GTSC Club Night Round 2 Week 4, 2024-25 Season
+description: GTSC Club Night Round 2 Week 4, 2024-25 Season
+subtitle: GTSC Round 2 Week 4
+date: 2025-02-06
 
 eventdate:
-  day: 13th
+  day: 6th
   month: February
   year: 2025
 
+
 tags:
 
-  - Club-Night
-  - GTSC-Event
-  - 2024-25-Season-GTSC
-  - 2024-25-Season-Events
+
   - Results
   - 2024-25-Results
   - 2024-25-Results-GTSC
-  - 2025-Year
+
 
 
 eleventyExcludeFromCollections: false
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-12.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-11.jpg
 
 
-results: /static/results/2024-25/250213-round-2-week-5-overall-week-12-gtsc-club-night-results.pdf
-
+results: /static/results/2024-25/250206-round-2-week-4-overall-week-11-gtsc-club-night-results.pdf
 
 events:
   - freestyle
@@ -38,25 +35,24 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length400: 1500
+  length400: 800
 
 
 backstroke:
   length25: 25
   length50: 50
-
+  length100: 100
 
 
 breaststroke:
   length25: 25
   length50: 50
-
+  length100: 100
 
 
 butterfly:
   length25: 25
   length50: 50
-
 
 
 
