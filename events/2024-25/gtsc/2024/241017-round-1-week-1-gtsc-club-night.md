@@ -11,12 +11,9 @@ eventdate:
 
 tags:
 
-  - Club-Night
-  - GTSC-Event
-  - 2024-25-Season-GTSC
+
   - Results
   - 2024-25-Results
-  - 2024-Year
   - 2024-25-Results-GTSC
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.jpg
