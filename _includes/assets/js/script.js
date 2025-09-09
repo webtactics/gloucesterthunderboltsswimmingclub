@@ -43,6 +43,111 @@ navObserver.observe(scrollWatcher)
 
 
 
+  const faders = document.querySelectorAll(".fade-in");
+  const sliders = document.querySelectorAll(".slide-in");
+
+
+
+  const appearOptions = {
+    threshold: 0,
+    rootMargin: "0px 0px -200px 0px"
+  };
+
+  const appearOnScroll = new IntersectionObserver(function(
+    entries,
+    appearOnScroll
+  ) {
+    entries.forEach(entry => {
+
+
+if (entry.isIntersecting) {
+                // Element is in view, add the desired class
+                entry.target.classList.add('appear');
+            } else {
+                // Element is out of view, remove the class
+                entry.target.classList.remove('appear');
+            }
+
+    });
+  },
+  appearOptions);
+
+  faders.forEach(fader => {
+    appearOnScroll.observe(fader);
+  });
+
+  sliders.forEach(slider => {
+    appearOnScroll.observe(slider);
+  });
+
+
+
+
+
+
+
+
+
+// Mobile menu toggle
+
+
+
+// Accordion
+
+
+
+// Project filter
+
+
+
+const filterList = document.querySelector(".filter");
+const filterButtons = filterList.querySelectorAll(".filter-btn");
+const conferences = document.querySelectorAll(".conference");
+
+let conferenceIndex = 0;
+
+conferences.forEach((conference) => {
+  conference.style.viewTransitionName = `conf-${++conferenceIndex}`;
+});
+
+filterButtons.forEach((button) => {
+  button.addEventListener("click", (e) => {
+    let confCategory = e.target.getAttribute("data-filter");
+
+    if (!document.startViewTransition) {
+      updateActiveButton(e.target);
+      filterEvents(confCategory);
+    }
+
+    document.startViewTransition(() => {
+      updateActiveButton(e.target);
+      filterEvents(confCategory);
+    });
+  });
+});
+
+function updateActiveButton(newButton) {
+  filterList.querySelector(".active").classList.remove("active");
+  newButton.classList.add("active");
+}
+
+function filterEvents(filter) {
+  conferences.forEach((conference) => {
+    // get each conferences category
+    let eventCategory = conference.getAttribute("data-category");
+
+    // check if that category matches with the filter
+    if (filter === "all" || filter === eventCategory) {
+      conference.removeAttribute("hidden");
+    } else {
+      conference.setAttribute("hidden", "");
+    }
+  });
+}
+
+
+
+
 
 
 
