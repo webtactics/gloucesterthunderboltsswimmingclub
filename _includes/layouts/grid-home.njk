@@ -32,7 +32,7 @@
 </div>
 
 {# Home 3 boxes #}
-<div class="resultswrapper">
+<div class="resultswrapper fade-in">
 <h2 class="heading-text">Latest Events, Results & News</h2>
 {% include "components/assets/home3boxes.njk" %}
 </div>
@@ -43,7 +43,7 @@
 
 
 {# Upcoming 2024-25 Season Events #}
-<div class="resultswrapper">
+<div class="resultswrapper fade-in">
 <h2 class="heading-text">2025 Winter Events</h2>
 {% set postslist = collections['2025-Winter'] | limit (12) %} 
 	{% include "components/postlist/postslist-events.njk" %}
@@ -57,7 +57,7 @@
 
 
 {# Upcoming 2025-26 Season Events #}
-<div class="resultswrapper">
+<div class="resultswrapper fade-in">
 <h2 class="heading-text">2025-26 Season Events</h2>
 {% set postslist = collections['2025-26-Season'] | reverse | limit (240) %} 
 	{% include "components/postlist/postslist-events.njk" %}
