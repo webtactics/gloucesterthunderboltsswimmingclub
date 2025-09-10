@@ -36,16 +36,15 @@ We are very pleased to award Maddie Boorer and Ryan Stanton with a little someth
 
 They have both achieved some amazing results!
 
-Congratulations to Maddie Boorer who won the Lorraine Watt Memorial trophy and Ryan Stanton who won the Grame Breeze Memorial trophy for receiving the Commitment Awards for the 2024/2025 season.
-
-These awards are voted on by the GTSC committee. 
+Congratulations to Maddie Boorer who won the Lorraine Watt Memorial trophy, and Ryan Stanton who won the Grame Breeze Memorial trophy, for receiving the GTSC Commitment Awards for the 2024/2025 season.
 
 The Commitment Awards are for swimmers who consistently give the time, energy and determination needed to grow as an athlete.
 
 Winners are athletes who always show up, give their best and keep going, through both good and bad times.
 
+These awards are voted on by the GTSC committee. 
 
-
+<div class="padtop3rem"></div>
 
 <div class="postnewsimage"><img src="https://ik.imagekit.io/webtactics/gtsc/img/news/2025-26/250910-commitment-awards.jpg" alt="2024-25 Season Commitment Awards" title="2024-25 Season Commitment Awards" width="100%" height="auto" class="postlistimg"></div>
 <div class="padtop3rem"></div>
