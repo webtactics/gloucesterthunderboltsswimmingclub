@@ -10,9 +10,7 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2024-25-Season-Events
-  - 2024-25-Season-Events-SwimNSW
+
   - Beresfield-Barracudas
   - Results
   - 2024-25-Results

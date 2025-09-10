@@ -10,8 +10,7 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2024-25-Season-SwimNSW
+
   - Port-Macquarie
   - Results
   - 2024-25-Results

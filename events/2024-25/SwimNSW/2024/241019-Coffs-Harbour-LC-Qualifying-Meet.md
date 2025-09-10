@@ -10,8 +10,6 @@ eventdate:
 
 tags:
 
-  - Swim-NSW
-  - 2024-25-Season-SwimNSW
   - Coffs-Harbour-Swim-Club
   - Results
   - 2024-25-Results
