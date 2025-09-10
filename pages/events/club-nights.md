@@ -25,7 +25,4 @@ eleventyNavigation:
 </div>
 </div>
 
-   <h2 class="heading-text fade-in">2025-26 Season GTSC Club Night Events</h2>
-{% include "components/events/2025-26-Season-GTSC.njk" %}
-
 <div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="Club Night Results" alt="Club Night Results">For all Club Night Results &gt;</a></div>
