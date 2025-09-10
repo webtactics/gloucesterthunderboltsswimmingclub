@@ -16,7 +16,7 @@ Swimming NSW is the peak body for the sport in NSW. Swimming NSW also includes t
 
 <p><strong>Swimming NSW currently maintains a membership of over 32,000 members across 12 affiliated Areas and over 350 clubs.</strong></p>
 
-
+<div class="padtop3rem"></div>
 {% include "components/events/2025-26-Season-SwimNSW-Events.njk" %}
 
 <div class="eightypercentborder"></div>
