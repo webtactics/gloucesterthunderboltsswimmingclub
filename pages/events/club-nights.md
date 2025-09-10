@@ -18,14 +18,14 @@ eleventyNavigation:
 <div class="padtop3rem"></div>
 
 <div class="postlist-section-wrapper fade-in">	
-   <h2 class="heading-text">2025-26 Season Club Night Events</h2>
+   <h2 class="heading-text">2025-26 Season GTSC Club Night Events</h2>
 <div class="resultswrapper">
 	{%- set postslist = collections['2025-26-Season-GTSC'] | reverse -%} 
 	{% include "components/postlist/postslist-events.njk" %}
 </div>
 </div>
 
-<h2 class="fade-in">2025-26-Season-GTSC</h2>
+   <h2 class="heading-text fade-in">2025-26 Season GTSC Club Night Events</h2>
 {% include "components/events/2025-26-Season-GTSC.njk" %}
 
 <div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="Club Night Results" alt="Club Night Results">For all Club Night Results &gt;</a></div>
