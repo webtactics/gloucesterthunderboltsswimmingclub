@@ -1,6 +1,6 @@
 ---
 title: 2024-25 Season Commitment Awards
-date: 2025-09-10
+date: 2025-09-09
 
 description: We are very pleased to award Maddie Boorer and Ryan Stanton with a little something to acknowledge all the hard work they have put in over the past season.
 

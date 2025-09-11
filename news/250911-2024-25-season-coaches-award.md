@@ -2,10 +2,9 @@
 title: 2024-25 Season GTSC Coaches Award
 date: 2025-09-11
 
-description: Congratulations to Maximus Burgess, Olivia Lewis and Tomas Dellsperger who are the recipients of our 2024-25 Season GTSC Coaches Award
+description: Congratulations to Olivia Wade for receiving the 2024-25 Season GTSC Coaches Award. 
 
 
-eventdate:
   day: 11th
   month: September
   year: 2025
