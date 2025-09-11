@@ -2,7 +2,7 @@
 title: 2024-25 Season Encouragement Awards
 date: 2025-09-11
 
-description: Congratulations to Maximus Burgess, Olivia Lewis and Tomas Dellsperger who were the recipients of our club encouragement awards.
+description: Congratulations to Maximus Burgess, Olivia Lewis and Tomas Dellsperger who are the recipients of our 2024-25 Season Encouragement Awards
 
 
 eventdate:
@@ -32,7 +32,7 @@ articlePDFtitle2:
 
 ---
 
-Congratulations to Maximus Burgess, Olivia Lewis and Tomas Dellsperger who were the recipients of our club encouragement awards. 
+Congratulations to Maximus Burgess, Olivia Lewis and Tomas Dellsperger who are the recipients of our 2024-25 Season Encouragement Awards. 
 
 These swimmers showed up consistently and have all improved so much over the season. 
 
