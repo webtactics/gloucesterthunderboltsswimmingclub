@@ -33,11 +33,11 @@ articlePDFtitle2:
 
 Congratulations to Olivia Wade for receiving the 2024-25 Season GTSC Coaches Award. 
 
-Oliva is there for every squad session always doing her best. Her consistency and dedication is always 100%. Well done Olivia this is well deserved!
+Oliva is there for every squad session, and always does her best. Oliva's consistency and dedication is always 100%. Well done Olivia this award is well deserved!
 
-The coaches Award is awarded by squad coach, Sue Kingston.
+The coaches Award is decided by squad coach, Sue Kingston.
 
-Thanks to sue forv your patience, dedication and support of all our swimmers.
+Thanks to Sue for your patience, dedication and support of all our swimmers.
 
 <div class="padtop3rem"></div>
 
