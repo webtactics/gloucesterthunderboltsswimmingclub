@@ -4,7 +4,7 @@ date: 2025-09-11
 
 description: Congratulations to Olivia Wade for receiving the 2024-25 Season GTSC Coaches Award. 
 
-
+eventdate:
   day: 11th
   month: September
   year: 2025
