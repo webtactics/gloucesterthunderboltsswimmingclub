@@ -24,7 +24,7 @@ section: post
 </div>
                     {% endif %}
 
-
+  <div class="detailcontent">{{ content | safe }}</div>
               
                 <div class="eventdate">
                     <p>
@@ -235,7 +235,9 @@ section: post
                     </div>
                     {% endif %}
 
-  <div class="detailcontent">{{ content | safe }}</div>
+ {% if numberswims %}  <div class="detailnumberswims"> <p><strong>Max Swims:</strong> {{ numberswims }}</p></div>{% endif %}
+
+
 
 {% include "components/global/tagged.html" %}
 
