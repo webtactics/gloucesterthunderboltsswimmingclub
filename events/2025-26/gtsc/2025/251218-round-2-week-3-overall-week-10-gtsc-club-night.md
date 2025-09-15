@@ -10,7 +10,7 @@ eventdate:
   month: December
   year: 2025
 
-  numberswims: 4
+numberswims: 4
 
 tags:
 
