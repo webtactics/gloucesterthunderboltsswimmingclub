@@ -1,8 +1,8 @@
 ---
 eleventyExcludeFromCollections: false
-title: GTSC Club Night Round 1 Week 9, 2025-26 Season
-description: GTSC Club Night Round 1 Week 9, 2025-26 Season
-subtitle: GTSC Round 1 Week 9
+title: GTSC Club Night Round 2 Week 2 (overall Week 9), 2025-26 Season
+description: GTSC Club Night Round 2 Week 2 (overall Week 9), 2025-26 Season
+subtitle: GTSC Round 2 Week 2 (overall Week 9)
 date: 2025-12-11
 
 eventdate:
@@ -10,12 +10,14 @@ eventdate:
   month: December
   year: 2025
 
+  numberswims: 4
+
 tags:
 
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events
 

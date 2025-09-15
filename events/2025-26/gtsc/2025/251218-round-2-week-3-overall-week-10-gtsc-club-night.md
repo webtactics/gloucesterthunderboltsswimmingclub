@@ -1,14 +1,16 @@
 ---
 eleventyExcludeFromCollections: false
-title: GTSC Club Night Round 1 Week 10, 2025-26 Season
-description: GTSC Club Night Round 1 Week 10, 2025-26 Season
-subtitle: GTSC Round 1 Week 10
-date: 2025-12-11
+title: GTSC Club Night Round 2 Week 3 (overall Week 10), 2025-26 Season
+description: GTSC Club Night Round 2 Week 3 (overall Week 10), 2025-26 Season
+subtitle: GTSC Round 2 Week 3 (overall Week 10)
+date: 2025-12-18
 
 eventdate:
-  day: 11th
+  day: 18th
   month: December
   year: 2025
+
+  numberswims: 4
 
 tags:
 

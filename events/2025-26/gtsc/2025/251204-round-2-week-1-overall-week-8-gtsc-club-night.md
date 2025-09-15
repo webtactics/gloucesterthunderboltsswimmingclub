@@ -1,13 +1,16 @@
 ---
 eleventyExcludeFromCollections: false
-title: GTSC Club Night Round 1 Week 8, 2025-26 Season
-subtitle: GTSC Round 1 Week 8
+title: GTSC Club Night Round 2 Week 1 (overall Week 8), 2025-26 Season
+description: GTSC Club Night Round 2 Week 1 (overall Week 8), 2025-26 Season
+subtitle: GTSC Round 2 Week 1 (overall Week 8)
 date: 2025-12-04
 
 eventdate:
   day: 4tth
   month: December
   year: 2025
+
+numberswims: 4  
 
 tags:
 

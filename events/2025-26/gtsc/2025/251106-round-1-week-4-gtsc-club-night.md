@@ -9,6 +9,8 @@ eventdate:
   month: November
   year: 2025
 
+numberswims: 4
+
 tags:
 
   
