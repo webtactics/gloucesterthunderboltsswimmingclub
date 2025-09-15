@@ -1,19 +1,21 @@
 ---
 eleventyExcludeFromCollections: false
-title: GTSC Club Night Round 1 Week 4, 2025-26 Season
-subtitle: GTSC Round 1 Week 4
-date: 2025-11-06
+title: GTSC Club Night Round 1 Week 9, 2025-26 Season
+description: GTSC Club Night Round 1 Week 9, 2025-26 Season
+subtitle: GTSC Round 1 Week 9
+date: 2025-12-11
 
 eventdate:
-  day: 6th
-  month: November
+  day: 11th
+  month: December
   year: 2025
 
 tags:
 
-  
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-4.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-4.jpg
+
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events
 
@@ -21,33 +23,31 @@ results:
 
 rain: 
 
-
 events:
   - freestyle
   - backstroke
   - breaststroke
   - butterfly
 
-
 freestyle:
   length25: 25m
   length50: 50m
-  length100: 100m
+  length400: 400m
 
 backstroke:
   length25: 25m
   length50: 50m
-  length200: 200m
+  length100: 100m
 
 breaststroke:
   length25: 25m
   length50: 50m
-  length200: 200m
+  length100: 100m
 
 butterfly:
   length25: 25m
   length50: 50m
-  length100: 100m
+  length200: 200m
 
 
 
@@ -56,7 +56,6 @@ where: Gloucester Olympic Pool
 map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
-
 
 
 ---

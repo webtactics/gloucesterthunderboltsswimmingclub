@@ -1,19 +1,18 @@
 ---
 eleventyExcludeFromCollections: false
-title: GTSC Club Night Round 1 Week 2, 2025-26 Season
-subtitle: GTSC Round 1 Week 2
-date: 2025-10-23
+title: GTSC Club Night Round 1 Week 8, 2025-26 Season
+subtitle: GTSC Round 1 Week 8
+date: 2025-12-04
 
 eventdate:
-  day: 23rd
-  month: October
+  day: 4tth
+  month: December
   year: 2025
 
 tags:
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-2.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-2.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-8.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events
 
@@ -31,26 +30,30 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length200: 200
-
+  length100: 100
+  length400: 400
 
 backstroke:
   length25: 25
   length50: 50
   length100: 100
 
+
 breaststroke:
   length25: 25
   length50: 50
   length100: 100
+
 
 butterfly:
   length25: 25
   length50: 50
 
 medley:
-  length100: 100
-  length200: 200
+ length100: 100
+ length200: 200
+
+
 
 
 
@@ -61,9 +64,4 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 
-
 ---
-
-
-
-
