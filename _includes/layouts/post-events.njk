@@ -235,7 +235,18 @@ section: post
                     </div>
                     {% endif %}
 
- {% if numberswims %}  <div class="detailnumberswims"> <p><strong>Max Swims:</strong> {{ numberswims }}</p></div>{% endif %}
+ {% if numberswims %}
+ <div class="detailnumberswims"> 
+    
+    <div class="strokeleft">
+        <p><span class="stroketitle">Max Swims:</span></p>
+    </div>
+    <div class="strokeright">
+        <p>{{ numberswims }}</p>
+    </div>
+    
+</div>
+{% endif %}
 
 
 
