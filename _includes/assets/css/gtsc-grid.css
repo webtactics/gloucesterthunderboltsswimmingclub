@@ -3434,3 +3434,13 @@ section.slidersection {
   text-align: center;
    opacity:1
 }
+
+
+.detailnumberswims {
+margin: 0 auto 3rem auto;
+padding: 3rem 0 0 0;
+  border-top: 4px dotted var(--lightgrey);
+  width: calc(80% - 6rem);
+  max-width: 600px;
+  background-color: var(--white);
+}
