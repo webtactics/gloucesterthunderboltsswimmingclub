@@ -15,7 +15,7 @@ numberswims: 4
 tags:
   - Summer-Social
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-24.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-29.jpg
 sumimage: 
 
 results: 

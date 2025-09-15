@@ -16,7 +16,7 @@ tags:
   - Summer-Social
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-27.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-32.jpg
 
 results: 
 
