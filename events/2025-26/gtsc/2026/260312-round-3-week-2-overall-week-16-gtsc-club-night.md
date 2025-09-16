@@ -67,3 +67,14 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 <p>200m Freestyle</br>
 200m Breaststroke</br>
 100m Medley</p>
+
+
+<div class="champbox">
+<h4>Distance Championship Events:</h4>
+<ul>
+<li>200m Freestyle</li>
+<li>200m Breaststroke</li>
+<li>100m Medley</li>
+</ul>
+</div>
+<div class="tworemdotteddivider"></div>
