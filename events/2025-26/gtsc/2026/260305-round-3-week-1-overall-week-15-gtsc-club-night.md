@@ -60,5 +60,9 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 ---
-<h3>Distance Championship Events:</h3>
-<p>400m Freestyle</p>
+<div class="champbox">
+<h4>Distance Championship Events:</h4>
+<ul>
+<li>400m Freestyle</li>
+</ul>
+</div>
