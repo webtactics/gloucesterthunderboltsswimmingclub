@@ -13,6 +13,7 @@ eventdate:
 numberswims: 4
 
 tags:
+   - Distance-Championship
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-16.jpg
@@ -27,6 +28,7 @@ events:
   - backstroke
   - breaststroke
   - butterfly
+  - medley
 
 freestyle:
   length25: 25
@@ -50,7 +52,8 @@ butterfly:
   length25: 25
   length50: 50
 
-
+medley:
+  length100: 100
 
 
 time: 6:00pm - 8:00pm
@@ -62,4 +65,5 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 ---
 <h3>Distance Championship Events:</h3>
 <p>200m Freestyle</br>
-200m Breaststroke</p>
+200m Breaststroke</br>
+100m Medley</p>

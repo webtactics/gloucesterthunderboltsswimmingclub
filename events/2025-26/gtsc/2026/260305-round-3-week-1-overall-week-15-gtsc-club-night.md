@@ -13,7 +13,7 @@ eventdate:
 numberswims: 4
 
 tags:
-
+   - Distance-Championship
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-15.jpg
 
@@ -60,3 +60,5 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 ---
+<h3>Distance Championship Events:</h3>
+<p>400m Freestyle</p>
