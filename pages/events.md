@@ -23,7 +23,7 @@ eleventyNavigation:
 <div class="postlist-section-wrapper fade-in">	
    <h2 class="heading-text">2025-26 Season Events</h2>
 <div class="resultswrapper">
-	{%- set postslist = collections['2025-26-Season'] | reverse -%} 
+	{%- set postslist = collections['2025-26-Season'] -%} 
 	{% include "components/postlist/postslist-events.njk" %}
 </div>
 </div>
