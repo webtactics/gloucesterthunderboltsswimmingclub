@@ -19,5 +19,5 @@ eleventyNavigation:
 
 <div class="padtop3rem"></div>
 
- {% include "components/global/committee/2025-26-committee.md" %}
+ {% include "components/global/committee/2025-26-committee.html" %}
 
