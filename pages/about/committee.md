@@ -1,8 +1,8 @@
 ---
 
-title: GTSC Club Committee
+title: Gloucester Thunderbolts Swimming Club Committee
 class: about committee
-description: Like many sporting clubs, we could not function without our volunteers.
+description: Like many sporting clubs, Gloucester Thunderbolts Swimming Club could not function without our volunteers.
 date: 2025-08-22
 permalink: /about/committee/
 
@@ -21,4 +21,3 @@ eleventyNavigation:
 
  {% include "components/global/committee/2025-26-committee.md" %}
 
-</div>
