@@ -2,32 +2,35 @@
 
 <div class="committeewrapper">
 
- <div class="grid-committee">
-  <div class="committee-title">President:</div>
-  <div class="committee-member">Jodie House</div>
+    <div class="grid-committee">
+        
+        <div class="committee-title">President:</div>
+        <div class="committee-member">Jodie House</div>
 
-  <div class="committee-title">Vice President:</div>
-   <div class="committee-member">Aleena Kellner</div>
+        <div class="committee-title">Vice President:</div>
+        <div class="committee-member">Aleena Kellner</div>
 
-  <div class="committee-title">Treasurer:</div>
-  <div class="committee-member">Vacant</div>
+        <div class="committee-title">Treasurer:</div>
+        <div class="committee-member">Vacant</div>
 
-  <div class="committee-title">Secretary:</div>
-  <div class="committee-member">Penny Dellsperger</div>
+        <div class="committee-title">Secretary:</div>
+         <div class="committee-member">Penny Dellsperger</div>
 
-  <div class="committee-title">Registrar / Race Secretary:</div>
-  <div class="committee-member">Jodie House</div>
+        <div class="committee-title">Registrar / Race Secretary:</div>
+        <div class="committee-member">Jodie House</div>
 
-  <div class="committee-title">Public Officer:</div>
-  <div class="committee-member">Cara Gruisinga</div>
+         <div class="committee-title">Public Officer:</div>
+        <div class="committee-member">Cara Gruisinga</div>
 
-  <div class="committee-title">Record Keeper:</div>
-  <div class="committee-member">Vacant</div>
+        <div class="committee-title">Record Keeper:</div>
+        <div class="committee-member">Vacant</div>
 
-  <div class="committee-title">MPIO:</div>
-  <div class="committee-member">Hayden White</div>
+        <div class="committee-title">MPIO:</div>
+        <div class="committee-member">Hayden White</div>
 
-  <div class="committee-title">General Committee:</div>
-  <div class="committee-member">Matt Peters, Keirra Ruyter, Miriam Denham, Adam Wade, Michelle Boorer, Tamara Perry, Joanne Charlier</div>
+        <div class="committee-title">General Committee:</div>
+         <div class="committee-member">Matt Peters, Keirra Ruyter, Miriam Denham, Adam Wade, Michelle Boorer, Tamara Perry, Joanne Charlier</div>
 
-  </div>
+    </div>
+
+</div>
