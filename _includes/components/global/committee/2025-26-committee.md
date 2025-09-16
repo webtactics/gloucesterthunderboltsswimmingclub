@@ -1,4 +1,4 @@
-<h2 class="heading-text">2025/2026 GTSC Committee</h2>
+<h2 class="heading-text">2025 - 2026 GTSC Committee</h2>
 
 <div class="committeewrapper">
 
