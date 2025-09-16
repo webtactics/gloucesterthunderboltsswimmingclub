@@ -59,7 +59,11 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 
 ---
-
+<h4>Long Distance Events:</h4>
+<ul>
+<li>800m Freestyle</li>
+</ul>
+<div class="tworemdotteddivider"></div>
 
 
 

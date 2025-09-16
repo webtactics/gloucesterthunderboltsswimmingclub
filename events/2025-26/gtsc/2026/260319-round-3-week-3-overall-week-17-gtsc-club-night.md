@@ -1,21 +1,22 @@
 --- 
 eleventyExcludeFromCollections: false
-title: GTSC Club Night Round 2 Week 5 (overall Week 12), 2025-26 Season
-description: GTSC Club Night Round 2 Week 5 (overall Week 12), 2025-26 Season
-subtitle: GTSC Round 2 Week 5 (overall Week 12)
-date: 2026-02-12
+title: GTSC Club Night Round 3 Week 3 (overall Week 17), 2025-26 Season
+description: GTSC Club Night Round 3 Week 3 (overall Week 17), 2025-26 Season
+subtitle: GTSC Round 3 Week 3 (overall Week 17)
+date: 2026-03-19
 
 eventdate:
-  day: 12th
-  month: February
+  day: 19th
+  month: March
   year: 2026
 
-numberswims: 3
+numberswims: 4
 
 tags:
+   - Distance-Championship
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-12.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-17.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events
 
@@ -27,17 +28,17 @@ events:
   - backstroke
   - breaststroke
   - butterfly
+  - medley
 
 freestyle:
   length25: 25
   length50: 50
-  length1500: 1500
 
 
 backstroke:
   length25: 25
   length50: 50
-
+  length200: 200
 
 
 breaststroke:
@@ -45,12 +46,13 @@ breaststroke:
   length50: 50
 
 
-
 butterfly:
   length25: 25
   length50: 50
+  length200: 200
 
-
+medley:
+  length200: 200
 
 
 time: 6:00pm - 8:00pm
@@ -60,8 +62,10 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 ---
-<h4>Long Distance Events:</h4>
+<h4>Distance Championship Events:</h4>
 <ul>
-<li>1500m Freestyle</li>
+<li>200m Backstroke</li>
+<li>200m Butterfly</li>
+<li>200m Medley</li>
 </ul>
 <div class="tworemdotteddivider"></div>

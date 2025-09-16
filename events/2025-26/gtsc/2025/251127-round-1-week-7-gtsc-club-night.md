@@ -66,3 +66,8 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 
 ---
+<h4>Long Distance Events:</h4>
+<ul>
+<li>400m Medley</li>
+</ul>
+<div class="tworemdotteddivider"></div>
