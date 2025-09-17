@@ -3192,8 +3192,8 @@ border-radius: 0.5rem;
 }
 
 .strokeleft p {margin:0;}
-span.eventlength {padding:0 0.5rem 0 0; border-right: 2px solid var(--primary);min-width: 100px;display: block;}
-span.eventlength:last-child {padding:0; border-right: 2px solid var(--white);min-width: 100px;display: block;}
+span.eventlength {padding:0 0.5rem 0 0; border-right: 2px solid var(--primary);min-width: 100px;max-width:120px;display: block;}
+span.eventlength:last-child {padding:0; border-right: 2px solid var(--white);min-width: 100px;max-width:120px;display: block;}
 
 .eventsheld p {background-color: var(--primary);color: var(--white);padding: 0.5rem;margin:3rem 0 2rem 0;}
 span.stroketitle  {font-weight:bold;color:var(--primary);}
