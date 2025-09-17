@@ -12,7 +12,7 @@ eventdate:
 numberswims: 3
 
 tags:
-
+ - Long-Distance
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-7.jpg
 
