@@ -11,14 +11,16 @@ eventdate:
 tags:
 
   - Port-Macquarie
-
+  - Results
+  - 2025-25-Results
+  - 2025-26-Results-SwimNSW
 
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-400x600.jpg
 
-results: 
+results: /static/results/2025-26/251004-2025-port-macquarie-lc-qualifying-meet-results.pdf
 
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
