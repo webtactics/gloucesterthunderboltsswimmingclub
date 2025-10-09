@@ -15,13 +15,13 @@ tags:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/hunter-sc-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/hunter-sc-400x600.jpg
 
 results: 
 
 club: Hunter Swim Club
-clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/
+clubURL: https://www.facebook.com/hunterswimclub/
 
 meetflyerpdf: https://coastandvalleynsw.swimmingclub.org.au/wp-content/uploads/2025/10/EA-Meet-Flyer-26.10.2025.pdf
 
