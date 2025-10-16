@@ -3191,9 +3191,11 @@ border-radius: 0.5rem;
   }
 }
 
-.strokeleft p {margin:0;}
+.strokeleft p, .strokeright p {margin:0;}
+
+span.eventlength {padding:0 0.5rem; border-left: 2px solid var(--primary);width:105px;display:inline-block;font-size: 90%;}
 span.eventlength:first-child {padding:0;  border-left: none;width:100px;display:inline-block;}
-span.eventlength {padding:0 0.5rem; border-left: 2px solid var(--primary);width:105px;display:inline-block;}
+
 
 span.eventlength:last-child {padding:0 0 0 0.5rem; border-left: 2px solid var(--primary);width:105px;display:inline-block;}
 
