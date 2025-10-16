@@ -39,7 +39,7 @@ freestyle:
 backstroke:
   length25: 25
   length50: 50
-  length100: 100
+
 
 breaststroke:
   length25: 25
