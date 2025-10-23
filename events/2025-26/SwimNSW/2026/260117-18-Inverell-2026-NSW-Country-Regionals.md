@@ -46,4 +46,12 @@ mapinverell: https://share.google/bPbA2hqTLjYFPrAUZ
 
 ---
 
+<strong>Save the date...</strong>
 
+This year our choices are Inverell or Goulburn for country regional swimming (unless you want to go to Leeton). 
+
+Personally we are heading out to Inverell to check out their brand new pool.  
+
+This is a competition that does not require qualifying times. 
+
+It is a very large event and a great experience if you want to give it a crack.
