@@ -32,7 +32,7 @@ map: https://maps.app.goo.gl/aybGhAJ9BHA2vg1S8
 
 maptaree: https://maps.app.goo.gl/aybGhAJ9BHA2vg1S8
 
-mapportmac:
+mapportmac: 
 
 mapcoffs:
 
@@ -42,6 +42,11 @@ maplismore:
 
 maplaurieton: 
 
+mapinverell:
+
+mapsydneyolympic: 
+
+mapnewcastleforum: 
 
 ---
 
