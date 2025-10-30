@@ -9,16 +9,16 @@ eventdate:
   year: 2025
 
 tags:
-
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-SwimNSW
   - Coffs-Harbour-Swim-Club
-
-
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
 
-results: 
+results: /static/results/2025-26/251025-Coffs-Harbour-LC-Qualifying-Meet-results.pdf
 
 club: Coffs Harbour Swim Club
 clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/
