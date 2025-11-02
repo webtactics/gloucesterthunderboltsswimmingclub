@@ -10,15 +10,17 @@ eventdate:
   year: 2025
 
 tags:
- 
   - Sydney-Olympic-Park
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-SwimNSW
 
  
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-600x400.jpg
 
-results: 
+results: /static/results/2025-26/251011-12-2025-NSW-LC-Preparation-Meet-results
 
 club: Swim NSW
 clubURL: https://nsw.swimming.org.au/
