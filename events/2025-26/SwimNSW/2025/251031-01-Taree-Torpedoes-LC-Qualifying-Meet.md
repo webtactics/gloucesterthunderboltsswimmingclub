@@ -11,13 +11,15 @@ eventdate:
 tags:
 
   - Taree-Torpedoes
-
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-SwimNSW
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-400x600.jpg
 
-results: 
+results: /static/results/2025-26/251031-01-Taree-Torpedoes-LC-Qualifying-Meet-results.pdf
 
 club: Taree Torpedoes
 clubURL: https://www.tareetorpedoes.com/
