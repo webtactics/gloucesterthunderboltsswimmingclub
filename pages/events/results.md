@@ -2,8 +2,8 @@
 layout: layouts/grid-results.njk
 title: GTSC & Swimming NSW Results
 class: events results
-description: All the GTSC  for the club and Swim NSW events.
-date: 2024-11-02
+description: A listing of results for Gloucester Thunderbolts Club Nights and  Swim NSW events.
+date: 2025-11-02
 permalink: /events/results/
 eleventyNavigation:
   key: Results
