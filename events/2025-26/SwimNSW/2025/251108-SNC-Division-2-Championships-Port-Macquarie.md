@@ -9,14 +9,16 @@ eventdate:
   year: 2025
 
 tags:
-
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-SwimNSW
   - Port-Macquarie
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-400x600.jpg
 
-results: 
+results: /static/results/2025-26/251108-SNC-Division-2-Championships-Port-Macquarie-results.pdf
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
 
