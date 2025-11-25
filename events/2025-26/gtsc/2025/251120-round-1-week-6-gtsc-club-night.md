@@ -13,6 +13,9 @@ numberswims: 3
 
 tags:
  - Long-Distance
+ - Results
+ - 2025-26-Results
+ - 2025-26-Results-GTSC
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-6.jpg
