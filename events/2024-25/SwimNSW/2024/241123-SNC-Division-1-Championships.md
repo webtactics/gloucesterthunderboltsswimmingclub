@@ -18,8 +18,8 @@ tags:
   - 2024-Year
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-400x600.jpg
 
 results: /static/results/2024-25/241123-SNC-Division-1-Championships-results.pdf
 

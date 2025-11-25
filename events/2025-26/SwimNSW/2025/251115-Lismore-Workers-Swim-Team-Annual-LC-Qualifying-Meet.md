@@ -9,7 +9,9 @@ eventdate:
   year: 2025
 
 tags:
-
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-SwimNSW
   - Lismore-Workers
 
 
@@ -17,7 +19,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-400x600.jpg
 
-results: 
+results: /static/results/2025-26/251115-Lismore-Workers-Swim-Team-Annual-LC-Qualifying-Meet-results.pdf
 
 club: Lismore Workers Swim Team 
 clubURL: https://www.facebook.com/lwstswimming/
