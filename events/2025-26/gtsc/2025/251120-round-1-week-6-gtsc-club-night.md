@@ -21,7 +21,7 @@ entrylink: https://swimcentral.swimming.org.au/events
 
 results: 
 
-rain: 
+rain: true
 
 
 events:
