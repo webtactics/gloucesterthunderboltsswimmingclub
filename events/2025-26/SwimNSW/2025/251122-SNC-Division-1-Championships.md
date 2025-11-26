@@ -12,7 +12,9 @@ tags:
   - Results
   - 2025-26-Results
   - 2025-26-Results-SwimNSW
-  - Lismore-Workers
+  - Grafton-Services-Swimming-Club
+  - Swimming-North-Coast
+
 
 
 
