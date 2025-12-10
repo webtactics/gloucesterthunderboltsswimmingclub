@@ -1,0 +1,55 @@
+---
+title: Fashion Fish Nelson Bay Swim Club Carnival 2026
+description: Fashion Fish Nelson Bay Swim Club Carnival 2026
+subtitle: Fashion Fish Nelson Bay Swim Club Carnival 2026
+date: 2026-01-09
+
+eventdate:
+  day: 9th and 10th
+  month: January
+  year: 2026
+
+tags:
+
+  - Nelson-Bay-Swim-Club
+
+
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/nelson-bay-sc-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/nelson-bay-sc-400x600.jpg
+
+results: 
+
+club: 	Nelson Bay Swim Club
+clubURL: https://www.tomareeac.com.au/swim/swim-club
+
+meetflyerpdf: /static/events/2025-26/260109-10-Nelson-Bay-Carnival-2026-Flyer.pdf
+
+entrylink: https://swimcentral.swimming.org.au/events/eb274ed4-eca3-f011-bbd3-7c1e5289e092/nominations
+
+time: 9:00am - 5:00pm
+where: Tomaree Aquatic Centre 3 Aquatic Cl, Salamander Bay NSW 2317
+
+map: https://maps.app.goo.gl/BFaLLJtAEpVoaTx86
+
+maptaree: 
+
+mapportmac:
+
+mapcoffs:
+
+mapcresenthead:
+
+maplismore: 
+
+maplaurieton: 
+
+mapberesfield: 
+
+mapnelsonbay: true
+
+
+---
+Fashion Fish Designs are again the title sponsor of the Nelson Bay event and the weekend is set to be spectacular. 
+
+Whether you plan to make a weekend of it and take the opportunity to double up on a specific event/events, or pick and choose events across the weekend to spread out your races - this is a one time, not to be missed, opportunity!
