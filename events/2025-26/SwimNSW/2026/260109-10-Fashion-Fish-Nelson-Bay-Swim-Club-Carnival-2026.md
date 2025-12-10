@@ -5,7 +5,7 @@ subtitle: Fashion Fish Nelson Bay Swim Club Carnival 2026
 date: 2026-01-09
 
 eventdate:
-  day: 9th and 10th
+  day: 9th-10th
   month: January
   year: 2026
 

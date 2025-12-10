@@ -4,7 +4,7 @@ subtitle: 2026 Coffs Harbour Summer Splash LC Qualifying Meet
 date: 2026-01-09
 
 eventdate:
-  day: 9-10th
+  day: 9th-10th
   month: January
   year: 2026
 
