@@ -1,10 +1,10 @@
 ---
 title: 2025 Laurieton SC Christmas Carnival
 subtitle: 2025 Laurieton SC Christmas Carnival
-date: 2025-12-15
+date: 2025-12-21
 
 eventdate:
-  day: 15th
+  day: 21st
   month: December
   year: 2025
 
