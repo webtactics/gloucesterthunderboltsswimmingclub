@@ -3450,7 +3450,7 @@ padding: 0 0 2rem 0;
   width: 70%;
 }
 
-.swimcentralmobile a {
+ a.swimcentralmobile {
   color: var(--darkblue);
   background-color: var(--white);
   font-size: var(--h3sum);
@@ -3460,7 +3460,7 @@ padding: 0 0 2rem 0;
 border:none;
 }
 
-.swimcentralmobile a:hover {
+ a.swimcentralmobile:hover {
   color: var(--lightblue);
   background-color: var(--darkblue);
   font-size: var(--h3sum);
