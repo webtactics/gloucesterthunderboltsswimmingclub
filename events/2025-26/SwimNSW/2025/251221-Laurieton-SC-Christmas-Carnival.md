@@ -22,7 +22,7 @@ clubURL: https://www.laurietonswimmingclub.com/
 
 meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_0c28bad4a8254803a40daed7beef6eb3.pdf
 
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/events/7d6965b5-78a1-f011-bbd3-6045bdc300f5/nominations
 
 time: 9:00am - 5:00pm
 where: The Y NSW Laurieton War Memorial Baths
