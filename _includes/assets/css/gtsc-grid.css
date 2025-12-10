@@ -3450,22 +3450,33 @@ padding: 0 0 2rem 0;
   width: 70%;
 }
 
+.swimcentralexternal {
+  display:flex;
+  justify-content: flex-start;
+  align-items: center;
+  min-height:2rem;
+}
  a.swimcentralmobile {
   color: var(--darkblue);
   background-color: var(--white);
   font-size: var(--h3sum);
-  border: none;
-  padding: .35rem 1rem;
+padding:.75rem .5rem;
+  transition: background .3s ease;
+  font-weight: 400;
+  text-decoration: none;
   white-space: wrap;
 border:none;
+width:100%;
 }
 
  a.swimcentralmobile:hover {
-  color: var(--lightblue);
+  color: var(--primarylight);
   background-color: var(--darkblue);
   font-size: var(--h3sum);
-  border: none;
-  padding: .35rem 1rem;
+padding:.75rem .5rem;
+  transition: background .3s ease;
+  font-weight: 400;
+  text-decoration: none;
   white-space: wrap;
 border:none;
 }
