@@ -3470,8 +3470,8 @@ width:100%;
 }
 
  a.swimcentralmobile:hover {
-  color: var(--primarylight);
-  background-color: var(--darkblue);
+  color: var(--white);
+  background-color: var(--primary);
   font-size: var(--h3sum);
 padding:.75rem .5rem;
   transition: background .3s ease;
