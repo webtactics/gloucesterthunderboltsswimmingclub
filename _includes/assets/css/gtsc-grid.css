@@ -3449,3 +3449,23 @@ padding: 0 0 2rem 0;
   border-top: 4px dotted var(--lightgrey);
   width: 70%;
 }
+
+.swimcentralmobile a {
+  color: var(--darkblue);
+  background-color: var(--white);
+  font-size: var(--h3sum);
+  border: none;
+  padding: .35rem 1rem;
+  white-space: wrap;
+border:none;
+}
+
+.swimcentralmobile a:hover {
+  color: var(--lightblue);
+  background-color: var(--darkblue);
+  font-size: var(--h3sum);
+  border: none;
+  padding: .35rem 1rem;
+  white-space: wrap;
+border:none;
+}
