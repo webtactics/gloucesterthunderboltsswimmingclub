@@ -63,10 +63,10 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 ---
 
 We’re excited to celebrate together at our Christmas BBQ during club night on Thursday, 18 December.
-Please remember to:
+Please remember to:</br>
 
 <ul>
 <li>Bring a salad or dessert to share.</li>
   <li>Bring a camping chair just for something comfy to sit in</li>
   </ul>
-  
+
