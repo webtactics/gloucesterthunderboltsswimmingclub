@@ -41,12 +41,7 @@
 
 
 <div class="resultswrapper top2rem fade-in">
-		{% set postslist = collections['News'] | reverse | slice(2)  %} 
-
-		{% for post in postslist %}
-  {{ loop.index2 }}. {{ post.data.title }}
-  	{% include "components/postlist/postslist-news-4-wide.njk" %}
-{% endfor %}
+		{% set postslist = collections['News-body'] | reverse  %} 
 		{% include "components/postlist/postslist-news-4-wide.njk" %}
 		</div>
 
