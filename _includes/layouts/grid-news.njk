@@ -41,7 +41,7 @@
 
 
 <div class="resultswrapper top2rem fade-in">
-		{% set postslist = collections['News-body'] | reverse %}  
+		{% set postslist = collections['News-body'] | reverse | slice(2) %}  
 		{% include "components/postlist/postslist-news-4-wide.njk" %}
 		</div>
 
