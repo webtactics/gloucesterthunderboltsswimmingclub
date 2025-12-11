@@ -13,16 +13,17 @@ eventdate:
 numberswims: 4
 
 tags:
- - Homebox
 
+ - Results
+ - 2025-26-Results
+ - 2025-26-Results-GTSC
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events
 
-results: 
-
+results: /static/results/2025-26/251211-round-2-week-2-overall-week-9-gtsc-club-night-results.pdf
 rain: 
 
 events:
