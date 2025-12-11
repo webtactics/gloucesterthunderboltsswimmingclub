@@ -41,7 +41,7 @@
 
 
 <div class="resultswrapper top2rem fade-in">
-		{% set postslist = collections['News'] | reverse %}  
+		{% set postslist = collections['News'] | reverse | start(2)  %} 
 
 		{% for post in postslist %}
   {{ loop.index2 }}. {{ post.data.title }}
