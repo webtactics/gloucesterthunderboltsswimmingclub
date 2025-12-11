@@ -31,9 +31,11 @@ articlePDFtitle2:
 
 ---
 We’re thrilled to announce four weeks of Summer Social Club Nights, beginning January 8th.
-Entries as normal on Swim Central. 
 
-If you have friends in town visiting or some new friend's who want to come and try this is a great time to bring them along as well. Just come to the pool at 530pm so I can add their entries in. 
+Entries as normal on <a href="https://swimcentral.swimming.org.au/" title="Swim Central - Swimming Australia" target="_blank">Swim Central</a>.
+
+If you have friends in town visiting or some new friend's who want to come and try this is a great time to bring them along as well.
+Just come to the pool at 5:30pm so I can add their entries in. 
 
 These evenings are perfect for:
 <ul>
@@ -42,7 +44,9 @@ These evenings are perfect for:
 <li>Parents to jump in, have a go, and maybe even race the kids!</li>
 </ul>
 
-It’s a wonderful opportunity for everyone to connect, play, and enjoy the water together. These 4 weeks do not count as club nights so if you are away don't worry about missing them. 
+It’s a wonderful opportunity for everyone to connect, play, and enjoy the water together. 
+
+These 4 weeks do not count as club nights so if you are away don't worry about missing them. 
 
 
 
