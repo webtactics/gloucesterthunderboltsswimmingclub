@@ -30,7 +30,7 @@ articlePDFtitle2:
 
 
 ---
-We’re thrilled to announce four weeks of Summer Social Club Nights, beginning January 8th.
+We’re thrilled to announce four weeks of Summer Social Club Nights, beginning January 8th, 2026.
 
 Entries as normal on <a href="https://swimcentral.swimming.org.au/" title="Swim Central - Swimming Australia" target="_blank">Swim Central</a>.
 
