@@ -14,7 +14,7 @@ tags:
   - News-hero
 
 
-image: /static/img/news/2025-26/251212-2026-summer-socials.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/news/2025-26/251212-2026-summer-socials.jpg
 
 articlelink: 
 articlelinktitle:
