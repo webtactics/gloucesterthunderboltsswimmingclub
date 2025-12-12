@@ -3,8 +3,7 @@
     "permalink": "news/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-      "News"
-      "News-body"
+      "News-hero"
     ]
   }
   

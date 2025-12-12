@@ -11,7 +11,6 @@ eventdate:
 
 tags:
   - GTSC
-  - News-hero
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/news/2025-26/250911-coaches-award-600x400.jpg
