@@ -10,7 +10,7 @@ eventdate:
 
 tags:
   - GTSC
-  - News-body
+
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/news/241013-new-blocks-600x400.jpg

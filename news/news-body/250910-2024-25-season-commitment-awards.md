@@ -12,7 +12,6 @@ eventdate:
 
 tags:
   - GTSC
-  - News-body
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/news/2025-26/250910-commitment-awards-600x400.jpg
