@@ -14,13 +14,14 @@ numberswims: 4
 
 tags:
   - Summer-Social
+  - Homebox
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-32.jpg
 
 results: 
 
-rain: true
+rain:
 
 events:
   - freestyle
