@@ -2,10 +2,10 @@
 title: 2026 Gloucester Thunderbolts Qualifying Carnival
 description: 2026 Gloucester Thunderbolts Qualifying Carnival
 subtitle: 2026 Gloucester Qualifying Carnival
-date: 2026-02-26
+date: 2026-02-14
 
 eventdate:
-  day: 26th
+  day: 14th
   month: February
   year: 2026
 
@@ -25,7 +25,7 @@ clubURL: https://www.gloucesterthunderboltsswimmingclub.com.au/
 
 meetflyerpdf: 
 
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/events/4b19c2f0-add4-f011-8544-6045bdc3444c/nominations
 
 time: 9:00am - 5:00pm
 where: Gloucester Olympic Pool
