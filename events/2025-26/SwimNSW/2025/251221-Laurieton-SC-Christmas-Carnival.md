@@ -10,12 +10,16 @@ eventdate:
 
 tags:
   - Laurieton-Swimming-Club
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-SwimNSW
+  - Swimming-North-Coast
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/laurieton-sc-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/laurieton-sc-400x600.jpg
 
-results: 
+results: /static/results/2025-26/251221-Laurieton-SC-Christmas-Carnival-results.pdf
 
 club: Laurieton Swimming Club
 clubURL: https://www.laurietonswimmingclub.com/
