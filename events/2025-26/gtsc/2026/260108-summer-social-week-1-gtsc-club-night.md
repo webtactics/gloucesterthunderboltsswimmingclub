@@ -14,12 +14,14 @@ numberswims: 4
 
 tags:
   - Summer-Social
-  - Homebox
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-GTSC
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-32.jpg
 
-results: 
+results: /static/results/2025-26/260108-summer-social-week-1-gtsc-club-night-results.pdf
 
 rain:
 
