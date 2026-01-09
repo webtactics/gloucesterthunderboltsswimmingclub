@@ -2760,9 +2760,9 @@ h4.sum-title a {
   border-bottom-left-radius: 0.5rem;
   border-bottom-right-radius: 0.5rem;
 }
-h4.sum-title.results a {  background-color: var(--primarydark);}
+h4.sum-title.results a {background-color: var(--primarydark);}
 }
-h4.sum-title.rain a {  background-color: var(--red);}
+h4.sum-title.rain a {background-color: var(--red);}
 
 h4.sum-title a:hover {
   color: var(--white);
