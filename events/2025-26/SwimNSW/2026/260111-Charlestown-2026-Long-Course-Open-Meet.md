@@ -14,8 +14,8 @@ tags:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/charlestown-sc-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/charlestown-sc-400x600.jpg
 
 results: 
 
