@@ -24,7 +24,7 @@ clubURL: https://charlestownswimclub.com.au/
 
 meetflyerpdf: /static/events/2025-26/260111-Charlestown-2026-Long-Course-Open-Meet-flyer.pdf
 
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/events/3436e1d6-4cb9-f011-bbd2-6045bde53556/detail
 
 time: 9:00am - 5:00pm
 where: 52 Dickinson St, Charlestown NSW 2290
