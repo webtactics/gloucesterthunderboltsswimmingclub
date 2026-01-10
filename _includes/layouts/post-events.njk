@@ -259,81 +259,11 @@ section: post
 
                 
             </div>
+            
             <div class="sidebarwrapper">
-                {% if mapgtsc %}
-                    <div class="map">{% include "components/maps/map-gtsc.html" %}</div>
-                {% endif %}
-                {% if maptaree %}
-                    <div class="map">{% include "components/maps/map-taree.html" %}</div>
-                {% endif %}
-                {% if mapforster %}
-                    <div class="map">{% include "components/maps/map-forster.html" %}</div>
-                {% endif %}
-                {% if mapportmac %}
-                    <div class="map">
-                        {% include "components/maps/map-portmac.html" %}
-                    {% endif %}
-                    {% if mapcresenthead %}
-                        <div class="map">
-                            {% include "components/maps/map-cresenthead.html" %}
-                        {% endif %}
-                        {% if maplismore %}
-                            <div class="map">
-                                {% include "components/maps/map-lismore.html" %}
-                            {% endif %}
-                            {% if mapcoffs %}
-                                <div class="map">
-                                    {% include "components/maps/map-coffs.html" %}
-                                {% endif %}
-                                {% if maplaurieton %}
-                                    <div class="map">
-                                        {% include "components/maps/map-laurieton.html" %}
-                                    {% endif %}
-                                    {% if mapberesfield %}
-                                        <div class="map">
-                                            {% include "components/maps/map-beresfield.html" %}
-                                        {% endif %}
-                                        {% if mapnelsonbay %}
-                                            <div class="map">
-                                                {% include "components/maps/map-nelsonbay.html" %}
-                                            {% endif %}
-                                            {% if mapsydneyolympic %}
-                                                <div class="map">
-                                                    {% include "components/maps/map-sydney-olympic.html" %}
-                                                {% endif %}
-                                                {% if mapnewcastleforum %}
-                                                    <div class="map">
-                                                        {% include "components/maps/map-newcastle-forum.html" %}
-                                                    {% endif %}
-                                                     {% if mapmaitland %}
-                                                    <div class="map">
-                                                        {% include "components/maps/map-maitland.html" %}
-                                                    {% endif %}
-                                                     {% if mapmingara %}
-                                                    <div class="map">
-                                                        {% include "components/maps/map-mingara.html" %}
-                                                    {% endif %}
+ {% include "components/maps/index.html" %}
 
-                                                   {% if maphuntersc %}
-                                                    <div class="map">
-                                                        {% include "components/maps/map-huntersc.html" %}
-                                                    {% endif %}
-                                                     {% if mapinverell %}
-                                                    <div class="map">
-                                                        {% include "components/maps/map-inverell.html" %}
-                                                    {% endif %}
-                                                       {% if mapgrafton %}
-                                                    <div class="map">
-                                                        {% include "components/maps/map-grafton.html" %}
-                                                    {% endif %}
-                                                     {% if mapcasino %}
-                                                    <div class="map">
-                                                        {% include "components/maps/map-casino.html" %}
-                                                    {% endif %}
-                                                        {% if mapcharlestown %}
-                                                    <div class="map">
-                                                        {% include "components/maps/map-charlestown.html" %}
-                                                    {% endif %}
+                
                                                 </div>
                                             </div>
                                         </article>
