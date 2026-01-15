@@ -18,7 +18,7 @@
 {% if post.data.results %}
 <h4 class="sum-title results"><a  href="{{ post.data.results }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank" >Results Pdf &gt;</a></h4>
 {% elif post.data.rain %}
-<h4 class="sum-title rain"><a  href="{{ post.data.results }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank" >Rained out &gt;</a></h4>
+<h4 class="sum-title rain"><a  href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank" >Rained out &gt;</a></h4>
 {% else %}
 <h4 class="sum-title"><a  href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >Event Details &gt;</a></h4>		
 {% endif %}	
