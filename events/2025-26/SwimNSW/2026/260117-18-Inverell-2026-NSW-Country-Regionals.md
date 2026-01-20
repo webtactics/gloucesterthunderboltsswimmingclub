@@ -11,13 +11,15 @@ eventdate:
 tags:
 
   - Inverell-Aquatic-Centre
-
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-SwimNSW
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-400x600.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/Swim-NSW-600x400.jpg
 
-results: 
+results: /static/results/2025-26/260117-18-Inverell-2026-NSW-Country-Regionals-results.pdf
 
 club: Inverell Aquatic Centre
 clubURL: https://inverellaquaticcentre.com.au/
