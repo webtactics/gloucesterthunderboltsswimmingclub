@@ -21,7 +21,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-29.jpg
 sumimage: 
 
-results: /static/results/2025-26/260129-summer-social-week-4-gtsc-club-night-results
+results: /static/results/2025-26/260129-summer-social-week-4-gtsc-club-night-results.pdf
 
 
 events:
