@@ -19,8 +19,8 @@ sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/charlestown-sc-400x60
 
 results: 
 
-club: Charlestown Swimming Club
-clubURL: https://charlestownswimclub.com.au/
+club: Kempsey Swimming Club
+clubURL: https://www.facebook.com/kempseyswimmingclub/
 
 meetflyerpdf: /static/events/2025-26/260131-Speedo-Sprints-South-Qualifying-Meet.pdf
 
