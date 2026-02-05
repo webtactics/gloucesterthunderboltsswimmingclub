@@ -11,11 +11,11 @@ eventdate:
 tags:
 
   - Kempsey-Swimming-Club
+  - Swimming-North-Coast
 
 
-
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/charlestown-sc-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/charlestown-sc-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/kempsey-sc-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/kempsey-sc-400x600.jpg
 
 results: 
 
