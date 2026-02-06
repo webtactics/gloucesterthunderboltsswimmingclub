@@ -9,11 +9,24 @@
 
 
 <div class="sumtitle">
+
+{% if post.data.results %}
+<h3 class="sum-title results"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.subtitle }}</a></h3>
+{% elif post.data.rain %}
+<h3 class="sum-title rain"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.subtitle }}</a></h3>
+{% else %}
 <h3 class="sum-title"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.subtitle }}</a></h3>
+{% endif %}	
 </div>
 
-<div class="postsumdate">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
 
+{% if post.data.results %}
+<div class="postsumdate results">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
+{% elif post.data.rain %}
+<div class="postsumdate rail">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
+{% else %}
+<div class="postsumdate">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
+{% endif %}	
 
 {% if post.data.results %}
 <h4 class="sum-title results"><a  href="{{ post.data.results }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank" >Results Pdf &gt;</a></h4>
