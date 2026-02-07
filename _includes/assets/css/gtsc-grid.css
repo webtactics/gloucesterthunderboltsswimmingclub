@@ -3047,6 +3047,12 @@ min-height: 2rem;
 line-height:2rem;color: var(--white);
 }
 
+.postsumdate.results {
+background-color: var(--darkblue);}
+
+.postsumdate.rain {
+background-color: var(--red);}
+
 .postsumdate p {margin:0;line-height:2rem;color: var(--white);}
 
 .postsumupdate {
