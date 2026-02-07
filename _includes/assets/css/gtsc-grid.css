@@ -2765,9 +2765,7 @@ h4.sum-title a {
   border-bottom-left-radius: 0.5rem;
   border-bottom-right-radius: 0.5rem;
 }
-h4.sum-title.results a {background-color: var(--darkblue);}
 
-h4.sum-title.rain a {background-color: var(--red);}
 
 h4.sum-title a:hover {
   color: var(--white);
@@ -2777,8 +2775,7 @@ h4.sum-title a:hover {
   border-bottom-right-radius: 0.5rem;
 }
 
-h4.sum-title.results a:hover {
-  color: var(--primarylight);}
+
 
 h4.sum-title-cancelled {
   color: var(--white);
@@ -3047,13 +3044,24 @@ min-height: 2rem;
 line-height:2rem;color: var(--white);
 }
 
-.postsumdate.results {
-background-color: var(--darkblue);}
-
-.postsumdate.rain {
-background-color: var(--red);}
-
 .postsumdate p {margin:0;line-height:2rem;color: var(--white);}
+
+
+.postsumdate.rain, h3.sum-title.rain a, h4.sum-title.rain a, h3.sum-title.rain a:hover, h4.sum-title.rain a:hover {
+background-color: var(--red);
+color: var(--white);}
+
+.postsumdate.results, h3.sum-title.results a, h4.sum-title.results a {
+background-color: var(--darkblue);
+color: var(--white);}
+
+.postsumdate.results, h3.sum-title.results a:hover , h4.sum-title.results a:hover {
+background-color: var(--primarydark);
+color: var(--white);}
+
+
+
+
 
 .postsumupdate {
   padding: 1.5rem 0 0 0;
