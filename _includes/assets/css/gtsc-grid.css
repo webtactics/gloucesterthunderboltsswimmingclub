@@ -3055,7 +3055,7 @@ color: var(--white);}
 background-color: var(--darkblue);
 color: var(--white);}
 
-.postsumdate.results, h3.sum-title.results a:hover , h4.sum-title.results a:hover {
+h3.sum-title.results a:hover , h4.sum-title.results a:hover {
 background-color: var(--primarydark);
 color: var(--white);}
 
