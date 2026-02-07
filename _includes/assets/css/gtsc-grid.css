@@ -2833,6 +2833,14 @@ a.resultspdf:hover {
   transition: background-color .6s,text-decoration-color .6s;
   }
 
+
+a.resultspdf.events {   background-color: var(--primary);}
+a.resultspdf.events:hover {  background-color: var(--darkblue);}
+
+a.resultspdf.news {   background-color: var(--red);}
+a.resultspdf.news:hover {  background-color: var(--darkblue);}
+
+
 a.resultspdfsmall {
   color: var(--white);
   background-color: var(--primary);
