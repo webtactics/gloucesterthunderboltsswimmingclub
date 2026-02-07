@@ -9,7 +9,6 @@
 
 
 <div class="sumtitle">
-
 {% if post.data.results %}
 <h3 class="sum-title results"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.subtitle }}</a></h3>
 {% elif post.data.rain %}
@@ -23,7 +22,7 @@
 {% if post.data.results %}
 <div class="postsumdate results">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
 {% elif post.data.rain %}
-<div class="postsumdate rail">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
+<div class="postsumdate rain">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
 {% else %}
 <div class="postsumdate">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
 {% endif %}	
