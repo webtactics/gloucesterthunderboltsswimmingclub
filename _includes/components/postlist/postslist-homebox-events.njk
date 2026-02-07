@@ -2,20 +2,40 @@
 {% for post in postslist %}
 <summary class="eventsummary">
 
+
 <div class="bordertopsumimage">
 <a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-440,h-293" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="440px" height="auto" class="postlistimg"></a>
 </div>
 
 
 <div class="sumtitle">
+{% if post.data.results %}
+<h3 class="sum-title results"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.subtitle }}</a></h3>
+{% elif post.data.rain %}
+<h3 class="sum-title rain"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.subtitle }}</a></h3>
+{% else %}
 <h3 class="sum-title"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.subtitle }}</a></h3>
+{% endif %}	
+</div>
 
-</div>
-<div class="postsumdate">
-<p>{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</p>
-</div>
-<h4 class="sum-title"><a  href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >Event Details &gt;</a></h4>
-			
+
+{% if post.data.results %}
+<div class="postsumdate results">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
+{% elif post.data.rain %}
+<div class="postsumdate rain">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
+{% else %}
+<div class="postsumdate">{{ post.data.eventdate.day }} {{ post.data.eventdate.month }}, {{ post.data.eventdate.year }}</div>
+{% endif %}	
+
+{% if post.data.results %}
+<h4 class="sum-title results"><a  href="{{ post.data.results }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" target="_blank" >Results Pdf &gt;</a></h4>
+{% elif post.data.rain %}
+<h4 class="sum-title rain"><a  href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}" >Rained out &gt;</a></h4>
+{% else %}
+<h4 class="sum-title"><a  href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >Event Details &gt;</a></h4>		
+{% endif %}	
+
 
 </summary>
-{% endfor %}
+		
+	{% endfor %}
