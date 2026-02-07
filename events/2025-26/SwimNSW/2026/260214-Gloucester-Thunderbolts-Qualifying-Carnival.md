@@ -23,7 +23,7 @@ results:
 club: Gloucester Thunderbolts Swimming Club
 clubURL: https://www.gloucesterthunderboltsswimmingclub.com.au/
 
-meetflyerpdf: 
+meetflyerpdf: /static/events/2025-26/260214-2026-GTSC-Carnival-Flyer.pdf
 
 entrylink: https://swimcentral.swimming.org.au/events/4b19c2f0-add4-f011-8544-6045bdc3444c/nominations
 
