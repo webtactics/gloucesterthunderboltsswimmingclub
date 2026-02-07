@@ -2837,7 +2837,7 @@ a.resultspdf:hover {
 a.resultspdf.events {   background-color: var(--primary);}
 a.resultspdf.events:hover {  background-color: var(--darkblue);}
 
-a.resultspdf.news {   background-color: var(--red);}
+a.resultspdf.news {   background-color: var(--primary);}
 a.resultspdf.news:hover {  background-color: var(--darkblue);}
 
 
