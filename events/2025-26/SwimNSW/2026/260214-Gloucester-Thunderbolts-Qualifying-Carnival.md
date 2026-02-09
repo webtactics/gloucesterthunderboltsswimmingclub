@@ -12,8 +12,8 @@ eventdate:
 tags:
 
   - Gloucester-Thunderbolts
-
-
+  - Homebox
+  - Swimming-North-Coast
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-400x600.jpg
@@ -57,4 +57,7 @@ This carnival will be held at the Gloucester Olympic Pool, providing an excellen
 Stay tuned for more details on the meet flyer and entry information as the date approaches.
 
 *The above written by AI - it was ok, so I left it!
+
+<h3>Event Program & Start List</h3> 
+<a href="/static/events/2025-26/260214-Gloucester-Thunderbolts-Qualifying-Carnival-Full-Program.pdf" title="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" alt="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" target="_blank">2026 Gloucester Thunderbolts Qualifying Carnival Event Program &gt;</a>
 
