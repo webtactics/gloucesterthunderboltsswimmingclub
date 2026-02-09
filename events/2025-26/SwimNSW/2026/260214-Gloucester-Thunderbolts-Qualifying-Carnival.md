@@ -50,6 +50,11 @@ mapinverell:
 ---
 
 
+<h3>Event Program & Start List</h3> 
+<div class="eventresultspdf"><a class="resultspdf" href="/static/events/2025-26/260214-Gloucester-Thunderbolts-Qualifying-Carnival-Full-Program.pdf" title="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" alt="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" target="_blank">2026 Gloucester Thunderbolts Qualifying Carnival Event Program &gt;</a>
+</div>
+
+
 Save the date and time for the Gloucester Thunderbolts Qualifying Carnival, a key event in the 2025-26 SwimNSW season. 
 
 This carnival will be held at the Gloucester Olympic Pool, providing an excellent opportunity for swimmers to qualify for upcoming competitions. The event promises to be a day filled with competitive spirit and community engagement, showcasing the talents of local swimmers. 
@@ -58,6 +63,5 @@ Stay tuned for more details on the meet flyer and entry information as the date 
 
 *The above written by AI - it was ok, so I left it!
 
-<h3>Event Program & Start List</h3> 
-<a href="/static/events/2025-26/260214-Gloucester-Thunderbolts-Qualifying-Carnival-Full-Program.pdf" title="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" alt="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" target="_blank">2026 Gloucester Thunderbolts Qualifying Carnival Event Program &gt;</a>
+
 
