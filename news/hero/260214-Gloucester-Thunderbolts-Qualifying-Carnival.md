@@ -31,5 +31,5 @@ articlePDFtitle2:
 
 
 
-<p><a href="/static/events/2025-26/260214-Gloucester-Thunderbolts-Qualifying-Carnival-Full-Program.pdf" title="GTSC Development Carnival Start List" alt="GTSC Development Carnival Start List">GTSC Development Carnival Program & Start List</a></p>
+<p><a href="/static/events/2025-26/260214-Gloucester-Thunderbolts-Qualifying-Carnival-Full-Program-2.pdf" title="GTSC Development Carnival Start List" alt="GTSC Development Carnival Start List">GTSC Development Carnival Program & Start List</a></p>
 
