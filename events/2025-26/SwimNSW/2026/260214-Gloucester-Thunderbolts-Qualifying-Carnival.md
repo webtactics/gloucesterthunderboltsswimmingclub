@@ -51,7 +51,7 @@ mapinverell:
 
 
 <h3>Event Program & Start List</h3> 
-<div class="eventresultspdf"><a class="resultspdf" href="/static/events/2025-26/260214-Gloucester-Thunderbolts-Qualifying-Carnival-Full-Program-2.pdf" title="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" alt="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" target="_blank">2026 Gloucester Thunderbolts Qualifying Carnival Event Program &gt;</a>
+<div class="eventresultspdf"><a class="resultspdf" href="/static/events/2025-26/260214-Gloucester-Thunderbolts-Qualifying-Carnival-Full-Program-2.pdf" title="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" alt="2026 Gloucester Thunderbolts Qualifying Carnival Event Program" target="_blank">2026 GTSC Qualifying Carnival Event Program &gt;</a>
 </div>
 
 
