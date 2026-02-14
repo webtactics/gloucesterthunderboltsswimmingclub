@@ -55,8 +55,8 @@ mapsydneyolympic: https://maps.app.goo.gl/yW8LAZartfFc6veo7
 
 ---
 <h2>NSW Primary Schools Sports Association</h2>
-<h3>The 2026 NSWPSSA School Swimming Championships will be held from Monday, April 27 to Tuesday, April 28, 2026, at the Sydney Olympic Park Aquatic Centre (SOPAC). 
-This event brings together top primary school swimmers from across New South Wales for a two-day competition in Term 2.</h3>
+<h3>The 2026 NSWPSSA School Swimming Championships will be held from Monday, April 27 to Tuesday, April 28, 2026, at the Sydney Olympic Park Aquatic Centre (SOPAC).</h3>
+<h4>This event brings together top primary school swimmers from across New South Wales for a two-day competition in Term 2.</h4>
 
 Organised by</br>
 NSW Primary Schools Sports Association
