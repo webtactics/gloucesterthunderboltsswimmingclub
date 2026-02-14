@@ -15,8 +15,9 @@ eventdate:
   year: 2026
 
 tags:
-
-  - Taree-Torpedoes
+ - Primary-Schools
+ - Manning-Zone
+ - Taree-Torpedoes
 
 
 

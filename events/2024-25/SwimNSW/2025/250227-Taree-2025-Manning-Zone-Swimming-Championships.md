@@ -17,7 +17,9 @@ eventdate:
 
 tags:
 
-  - Taree-Torpedoes
+ - Primary-Schools
+ - Manning-Zone
+ - Taree-Torpedoes
 
 
 

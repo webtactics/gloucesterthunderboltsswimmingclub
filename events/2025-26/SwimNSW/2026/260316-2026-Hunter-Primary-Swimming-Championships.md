@@ -14,9 +14,8 @@ eventdate:
 
 tags:
 
-  - Hunter-Regional
-  - Primary-School
-
+ - Primary-Schools
+ - Hunter-Regional
 
 
 

@@ -14,10 +14,10 @@ eventdate:
 
 tags:
 
-  - Hunter-Regional
-  - Primary-School
-  - Results
-  - 2024-25-Results
+ - Hunter-Regional
+ - Primary-Schools
+ - Results
+ - 2024-25-Results
 
 
 
