@@ -15,7 +15,7 @@ eventdate:
 tags:
 
   - SOPAC
-  - Primary-School
+  - Primary-Schools
 
 
 

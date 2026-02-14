@@ -15,7 +15,7 @@ eventdate:
 tags:
 
   - SOPAC
-  - Primary-School
+  - Primary-Schools
   - Results
   - 2024-25-Results
   - 2024-25-Results-SwimNSW
