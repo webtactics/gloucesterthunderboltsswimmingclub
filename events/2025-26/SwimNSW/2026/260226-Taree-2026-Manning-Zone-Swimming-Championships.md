@@ -52,7 +52,7 @@ maplaurieton:
 ---
 
 
-### Manning Zone Schools includes:
+### Manning Zone Schools include:
 
 Barrington PS, Bobin PS, Bungwahl PS, Chatham PS, Coolongolook PS, Coopernook PS, Crowdy Head PS, Cundletown PS, Elands PS, Forster PS, Gloucester PS, Hallidays Point PS, Hannam Vale PS, Harrington PS, Johns River PS, Krambach PS, Lansdowne PS, Manning Gardens PS, Mitchells Island PS, Moorland PS, Mount George PS, Nabiac PS, Old Bar PS, Oxley Island PS, Pacific Palms PS, Stratford PS, Taree PS, Taree West PS, Tinonee PS, Tuncurry PS, Upper Lansdowne PS, Wingham PS, Wingham Brush PS.
 
