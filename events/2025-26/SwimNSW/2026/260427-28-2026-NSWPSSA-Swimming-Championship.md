@@ -4,7 +4,7 @@ eleventyExcludeFromCollections: false
 title: 2026 NSWPSSA School Swimming Championships
 description: 2026 NSWPSSA School Swimming Championships
 subtitle: 2026 NSWPSSA School Swimming Championships
-date: 2026-04-27-28
+date: 2026-04-27
 
 
 eventdate:
