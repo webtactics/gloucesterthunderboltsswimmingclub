@@ -12,13 +12,15 @@ eventdate:
 tags:
 
   - Gloucester-Thunderbolts
-  - Homebox
   - Swimming-North-Coast
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-SwimNSW
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-400x600.jpg
 
-results: 
+results: /static/results/2025-26/260214-Gloucester-Thunderbolts-Qualifying-Carnival-results.pdf
 
 club: Gloucester Thunderbolts Swimming Club
 clubURL: https://www.gloucesterthunderboltsswimmingclub.com.au/
