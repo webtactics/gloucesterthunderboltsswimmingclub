@@ -24,7 +24,7 @@ clubURL: https://www.tareetorpedoes.com/
 
 meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_26eabd1bd0ea4a69a414eafba2708ccf.pdf
 
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/events/e4a57813-e2c9-f011-bbd3-6045bdc483fd/detail
 
 time: 9:00am - 5:00pm
 where: Manning Aquatic Leisure Centre Taree
