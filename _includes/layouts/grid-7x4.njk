@@ -28,8 +28,23 @@
 
 
 
-  {% include "components/results/sidebar-Results.njk" %}
-    <div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="For all Event Results" alt="For all Event Results" >For all Event Results &gt;</a></div>
+{# Recent Results #}
+<div class="two-colum-wrapper">	
+    <h2 id="Recent-Results" class="heading-text">Recent Results</h2>
+<div class="resultswrapper">
+
+{% if sidebarnumber %}
+{%- set postslist = collections['Results'] | reverse | limit({{ sidebarnumber }}) -%}
+{% else %}
+{%- set postslist = collections['Results'] | reverse | limit(6) -%}
+{% endif %}
+{% include "components/postlist/postslist-results-sidebar.njk" %}
+
+</div>
+</div>
+
+{# end Recent Results #}
+<div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="For all Event Results" alt="For all Event Results" >For all Event Results &gt;</a></div>
 
 
 
