@@ -1,5 +1,5 @@
 ---
-
+layout: layouts/grid-7x4.njk
 title: Gloucester Thunderbolts Swimming Club Committee
 class: about committee
 description: Like many sporting clubs, Gloucester Thunderbolts Swimming Club could not function without our volunteers.
