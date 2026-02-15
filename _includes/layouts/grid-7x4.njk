@@ -34,7 +34,7 @@
 <div class="resultswrapper">
 
 {% if sidebarnumber %}
-{%- set postslist = collections['Results'] | reverse | limit({{ sidebarnumber }}) -%}
+{%- set postslist = collections['Results'] | reverse | limit(3) -%}
 {% else %}
 {%- set postslist = collections['Results'] | reverse | limit(6) -%}
 {% endif %}
