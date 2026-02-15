@@ -5,36 +5,39 @@
 
 {% block content %}
 <div class="container">
-	<main class="content">
+
+<main class="content">
 
 <div class="grid-7x4">
 
 <div class="contentleft">
     <div class="titlebox fade-in appear">
-       <h1 class="heading-text">{{ title }}</h1>
+        <h1 class="heading-text">{{ title }}</h1>
     </div>
-	{{ content | safe }}
-     {% include "components/global/usefullinks.html" %}
+	    {{ content | safe }}
+        {% include "components/global/usefullinks.html" %}
 </div>
 
 
 <aside class="sidebar">
     <div class="sidebarbox">
 
+    {# Recent Results #}
+    {% include "components/postlist-sidebar-results.njk" %}
+    {# end Recent Results #}
 
-{# Recent Results #}
- {% include "components/postlist-sidebar-results.njk" %}
-{# end Recent Results #}
-</div>
+    </div>
 </aside>
 
 </div>
-	</main>
+
+</main>
+
     {# Sponsor slider #}
     {% include "components/global/slider.html" %}
-      {# end Sponsor slider #}
-</div>
+    {# end Sponsor slider #}
 
+</div>
 {% endblock %}
 
 
