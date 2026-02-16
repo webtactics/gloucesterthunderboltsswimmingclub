@@ -878,7 +878,7 @@ grid-template-rows: var(--headerheight);
     -ms-transition: all 0.6s;
     -o-transition: all 0.6s;
     transition: all 0.6s;
-    background-color: var(--darkblue);
+    background-color: transparent;
   }
 
   .scrolled .hamburger  {
