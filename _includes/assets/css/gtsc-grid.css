@@ -91,44 +91,7 @@
   navigation: auto;
 }
 
-main {
-  view-transition-name: page;
-}
 
-/* Slide out the old page */
-::view-transition-old(page) {
-  animation: slideOut 0.2s cubic-bezier(0.86, 0, 0.07, 1);
-}
-
-/* Slide in the new page */
-::view-transition-new(page) {
-  animation: slideIn 0.5s cubic-bezier(0.86, 0, 0.07, 1);
-}
-
-@keyframes slideOut {
-  from {
-    opacity: 1;
-    transform: translateX(0);
-  }
-  to {
-    opacity: 0;
-    transform: translateX(-300px);
-  }
-}
-
-@keyframes slideIn {
-  from {
-    opacity: 0;
-    transform: translateX(300px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-
-  .animate-opacity {animation:opac 0.8s}@keyframes opac{from{opacity:0} to{opacity:1}}
 
  
 /* Box sizing rules */
