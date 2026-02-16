@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-useful.njk
+layout: layouts/grid-7x4.njk
 title: Swim Central & Other Swimming Organisations.
 description: 
 section: events 
@@ -13,9 +13,6 @@ eleventyNavigation:
   parent: Events
   order: 5
 ---
-
-
-
-
+{% include "components/global/usefullinks.html" %}
 
 
