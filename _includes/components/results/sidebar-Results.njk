@@ -3,7 +3,7 @@
     <h2 id="Recent-Results" class="heading-text">Recent Results</h2>
 <div class="resultswrapper">
 
-{% if sidebarnumber %}
+{% if sidebarshort %}
 {%- set postslist = collections['Results'] | reverse | limit(3) -%}
 {% else %}
 {%- set postslist = collections['Results'] | reverse | limit(6) -%}

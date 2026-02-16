@@ -4,7 +4,11 @@ title: Swim Central & Other Swimming Organisations.
 description: 
 section: events 
 class: events swimcentral
-date: 2024-07-18
+date: 2026-02-16
+
+sidebarshort: true
+
+
 permalink: /events/swim-central/
 metadata:
   title: Gloucester Thunderbolts Swimming Club Events and Swim NSW Meets

@@ -4,6 +4,8 @@ title: GTSC & Swimming NSW Records
 class: events records
 description: All the swim records for the GTSC and Swim NSW events.
 date: 2025-08-19
+
+
 permalink: /events/records/
 eleventyNavigation:
   key: Swim Records

@@ -2,7 +2,7 @@
 layout: layouts/grid-default.njk
 title: Swim NSW Events
 class: events swimnsw
-description: 
+description: Swimming NSW is the peak body for the sport in NSW. Swimming NSW also includes the ACT as an area with ACT Government jurisdictional oversight.
 date: 2024-08-22
 permalink: /events/swim-nsw/
 eleventyNavigation:
