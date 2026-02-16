@@ -3,12 +3,16 @@
     <h2 id="Recent-Results" class="heading-text">Recent Results</h2>
 <div class="resultswrapper">
 
-
+{% if sidebarnumber %}
+{%- set postslist = collections['Results'] | reverse | limit(3) -%}
+{% else %}
 {%- set postslist = collections['Results'] | reverse | limit(6) -%}
+{% endif %}
 {% include "components/postlist/postslist-results-sidebar.njk" %}
 
 </div>
 </div>
 
+<div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="For all Event Results" alt="For all Event Results" >For all Event Results &gt;</a></div>
 {# end Recent Results #}
 
