@@ -5,6 +5,7 @@ class: about join-us
 description: At Gloucester Thunderbolts Swimming Club we provide opportunities for swimmers of all levels to improve their swimming and achieve personal goals. We are a family friendly club offering a friendly and relaxed environment for all swimmers, both young and old. 
 
 eventssidebar: true
+sidebarshort: 3
 
 date: 2024-08-22
 permalink: /about/join-us/

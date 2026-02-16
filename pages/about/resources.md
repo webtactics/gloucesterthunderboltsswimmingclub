@@ -5,7 +5,7 @@ class: about resources
 description: Useful Links & Resources
 
 eventssidebar: true
-sidebarshort: true
+sidebarshort: 3
 
 date: 2024-08-22
 permalink: /about/resources/

@@ -7,7 +7,7 @@ date: 2025-08-22
 permalink: /about/committee/
 
 eventssidebar: true
-sidebarshort: true
+sidebarshort: 3
 
 eleventyNavigation:
   key: Committee

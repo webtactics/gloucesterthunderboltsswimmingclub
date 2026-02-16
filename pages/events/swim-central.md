@@ -6,7 +6,7 @@ section: events
 class: events swimcentral
 date: 2026-02-16
 
-sidebarshort: 2
+sidebarshort: 3
 
 
 permalink: /events/swim-central/
