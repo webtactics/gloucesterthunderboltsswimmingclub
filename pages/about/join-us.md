@@ -7,7 +7,7 @@ description: At Gloucester Thunderbolts Swimming Club we provide opportunities f
 eventssidebar: true
 sidebarshort: 3
 
-date: 2024-08-22
+
 permalink: /about/join-us/
 eleventyNavigation:
   key: Join Us
