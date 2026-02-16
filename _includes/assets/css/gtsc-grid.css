@@ -1412,6 +1412,8 @@ h1.bronze.heading-text { background-color: var(--bronze);}
       display: inline-block;
      
     }
+.usefulsectionwrapper h3.heading-text {margin: 4rem 0;}
+  
 
     h2.gold.heading-text { background-color: var(--gold);}
     h2.silver.heading-text { background-color: var(--silver);}
