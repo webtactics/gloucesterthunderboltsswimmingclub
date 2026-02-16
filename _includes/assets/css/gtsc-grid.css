@@ -97,7 +97,7 @@ main {
 
 /* Slide out the old page */
 ::view-transition-old(page) {
-  animation: slideOut 0.5s cubic-bezier(0.86, 0, 0.07, 1);
+  animation: slideOut 0.2s cubic-bezier(0.86, 0, 0.07, 1);
 }
 
 /* Slide in the new page */
