@@ -112,14 +112,14 @@ main {
   }
   to {
     opacity: 0;
-    transform: translateX(-300px);
+    transform: translateX(400px);
   }
 }
 
 @keyframes slideIn {
   from {
     opacity: 0;
-    transform: translateX(300px);
+    transform: translateX(-400px);
   }
   to {
     opacity: 1;
