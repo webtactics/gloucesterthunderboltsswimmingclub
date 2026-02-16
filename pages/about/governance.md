@@ -5,7 +5,7 @@ class: about governance
 description: Governance and Bylaws
 date: 2025-02-20
 eventssidebar: true
-sidebarshort: true
+sidebarshort: 9
 
 permalink: /about/governance/
 eleventyNavigation:
