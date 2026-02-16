@@ -38,9 +38,9 @@ Gloucester Thunderbolts welcome you and your family to our club and look forward
 
 ### Membership
 
-The Club Membership Fees for the 2024/2025 season have been set by the club committee and the fees set by Swimming Australia / Swimming NSW / Swimming North Coast.
+The Club Membership Fees for the 2025/2026 season have been set by the club committee and the fees set by Swimming Australia / Swimming NSW / Swimming North Coast.
 
-Registrations for the 2024/2025 swim season are now open.  
+Registrations for the 2025/2026 swim season are now open.  
 
 The committee has continued to try and keep club fees as low as possible, to encourage families to join and participate in our club. Our club requires that at least one parent/carer for swimmers under the age of 18 are registered (as a swimmer or dry member) as this allows for them to be covered by the Swimming Australia Insurance and gives minors a voice within the club.
 
