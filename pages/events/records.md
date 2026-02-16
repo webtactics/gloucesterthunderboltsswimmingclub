@@ -12,7 +12,8 @@ eleventyNavigation:
 ---
 <h2>We like records.</h2>
 
-<p><strong>Unfortunately, we can be a little slow updating, or finding the ;laterst records or swims, so if you have any records that are not listed here, please let us know.</strong></p>
+<p><strong>If you notice any records or swims missing from this list, or have updates we haven’t included yet, please get in touch and let us know.</strong></p>
+<p><strong>Sometimes it takes us a while to catch up with the latest achievements, so your help is very much appreciated!</strong></p>
 
 <div class="padtop3rem"></div>
 
