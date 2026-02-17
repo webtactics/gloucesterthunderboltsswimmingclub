@@ -151,16 +151,16 @@ section: post
                                 <span class="stroketitle">Butterfly:</span>
                             </p>
                         </div>
-                        <div class="strokeright">
-                          
-                                {% if butterfly.length25 %}<span class="eventlength">25 metres</span>{% endif %}
-                                {% if butterfly.length50 %}<span class="eventlength">50 metres</span>{% endif %}
-                                {% if butterfly.length100 %}<span class="eventlength">100 metres</span>{% endif %}
-                                {% if butterfly.length200 %}<span class="eventlength">200 metres</span>{% endif %}
-                                {% if butterfly.length400 %}<span class="eventlength">400 metres</span>{% endif %}
-                                {% if butterfly.length800 %}<span class="eventlength">800 metres</span>{% endif %}
                         
-                        </div>
+                          
+                                {% if butterfly.length25 %}<div class="strokeright"><span class="eventlength">25 metres</span></div>{% endif %}
+                                {% if butterfly.length50 %}<div class="strokeright"><span class="eventlength">50 metres</span></div>{% endif %}
+                                {% if butterfly.length100 %}<div class="strokeright"><span class="eventlength">100 metres</span></div>{% endif %}
+                                {% if butterfly.length200 %}<div class="strokeright"><span class="eventlength">200 metres</span></div>{% endif %}
+                                {% if butterfly.length400 %}<div class="strokeright"><span class="eventlength">400 metres</span></div>{% endif %}
+                                {% if butterfly.length800 %}<div class="strokeright"><span class="eventlength">800 metres</span></div>{% endif %}
+                        
+                        
                     {% endif %}
                     </div>
                      <div class="grid-1x4event">
@@ -170,14 +170,14 @@ section: post
                                 <span class="stroketitle">IM:</span>
                             </p>
                         </div>
-                        <div class="strokeright">
+                       
                          
-                                {% if medley.length100 %}<span class="eventlength">100 metres</span>{% endif %}
-                                {% if medley.length200 %}<span class="eventlength">200 metres</span>{% endif %}
-                                {% if medley.length400 %}<span class="eventlength">400 metres</span>{% endif %}
-                                {% if medley.length800 %}<span class="eventlength">800 metres</span>{% endif %}
+                                {% if medley.length100 %}<div class="strokeright"><span class="eventlength">100 metres</span></div>{% endif %}
+                                {% if medley.length200 %}<div class="strokeright"><span class="eventlength">200 metres</span></div>{% endif %}
+                                {% if medley.length400 %}<div class="strokeright"><span class="eventlength">400 metres</span></div>{% endif %}
+                                {% if medley.length800 %}<div class="strokeright"><span class="eventlength">800 metres</span></div>{% endif %}
                           
-                        </div>
+                       
                     {% endif %}
                     </div>
                      <div class="grid-1x4event">
@@ -187,12 +187,12 @@ section: post
                                 <span class="stroketitle">Relay:</span>
                             </p>
                         </div>
-                        <div class="strokeright">
+                   
                       
-                                {% if relay.length4x50 %}<span class="eventlength">4 x 50 metres</span>{% endif %}
-                                {% if relay.length4x100 %}<span class="eventlength">4 x 100 metres</span>{% endif %}
+                                {% if relay.length4x50 %}<div class="strokeright"><span class="eventlength">4 x 50 metres</span></div>{% endif %}
+                                {% if relay.length4x100 %}<div class="strokeright"><span class="eventlength">4 x 100 metres</span></div>{% endif %}
                         
-                        </div>
+                      
                     {% endif %}
 </div>
 
