@@ -3169,9 +3169,9 @@ border-radius: 0.5rem;
 
 .strokeleft p, .strokeright p {margin:0;}
 
-span.eventlength:nth-child(odd) {padding:0 0 0 0.2rem; width:110px;display:inline-block;font-size: 90%;background-color:var(--lightgrey) ;color: var(--black);margin:0;}
+span.eventlength:nth-child(odd) {padding:0 0 0 0.2rem; width:110px;height:100%;display:inline-block;font-size: 90%;background-color:var(--lightgrey) ;color: var(--black);margin:0;}
 
-span.eventlength:nth-child(even) {padding:0 0 0 0.2rem; width:110px;display:inline-block;font-size: 90%;background-color:var(--primary30) ;color: var(--black);}
+span.eventlength:nth-child(even) {padding:0 0 0 0.2rem; width:110px;height:100%;display:inline-block;font-size: 90%;background-color:var(--primary30) ;color: var(--black);margin:0;}
 
 
 .eventsheld p {background-color: var(--primary);color: var(--white);padding: 0.5rem;margin:3rem 0 2rem 0;}
