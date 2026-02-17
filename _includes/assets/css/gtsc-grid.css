@@ -1,6 +1,7 @@
 :root {
   --primary: hsla(211,50%,53%,1);
-  --primarylight: hsla(211,50%,53%,0.6);
+  --primary60: hsla(211,50%,53%,0.6);
+  --primary30: hsla(211,50%,53%,0.3);
   --primarydark: hsla(211,58%,43%,1);
   --darkblue: hsla(204, 96%, 18%, 1);
   --darkblue40: hsla(204deg, 96%, 18%, 0.4);
@@ -396,9 +397,9 @@ background-color: var(--primary); font-weight: bold;}
   ul.off-canvas-list li ul.second li a {
     display: block;
     color: var(--darkblue);
-    background: var(--primarylight);
+    background: var(--primary60);
    padding: 0.4rem 1.5rem;
-    border-bottom: 1px solid var(--primarylight);
+    border-bottom: 1px solid var(--primary60);
     transition: background 300ms ease;
     font-weight: normal;
     font-size: 90%;
@@ -410,7 +411,7 @@ background-color: var(--primary); font-weight: bold;}
     color: var(--white);
     background: var(--primary);
    padding: 0.4rem 1.5rem;
-   border-bottom: 1px solid var(--primarylight);
+   border-bottom: 1px solid var(--primary60);
     transition: background 300ms ease;
     font-weight: normal;
     font-size: 90%;
@@ -476,7 +477,7 @@ background-color: var(--primary); font-weight: bold;}
 
 .navbar ul.navbar-menu li.active-class  a {
     color: var(--white);
-  background: var(--primarylight);
+  background: var(--primary60);
     border-radius: 8px;
 
 }
@@ -484,7 +485,7 @@ background-color: var(--primary); font-weight: bold;}
 .navbar  .navbar-menu  li  a:hover,
 .navbar  .navbar-menu > li  a:focus {
     color: var(--white);
-    background: var(--primarylight);
+    background: var(--primary60);
     border-radius: 8px;
 }
 
@@ -508,17 +509,17 @@ background-color: var(--primary); font-weight: bold;}
 
 
 ul.navbar-menu li ul li {
- border-bottom: 1px solid var(--primarylight);
+ border-bottom: 1px solid var(--primary60);
  line-height:50px;
 }
 ul.navbar-menu li ul li:first-child {
-  border-bottom: 1px solid var(--primarylight);
-  border-top: 1px solid var(--primarylight);
+  border-bottom: 1px solid var(--primary60);
+  border-top: 1px solid var(--primary60);
 
  }
 ul.navbar-menu li ul li ul li {
-  border-bottom: 1px solid var(--primarylight);
-  border-left: 1px solid var(--primarylight);
+  border-bottom: 1px solid var(--primary60);
+  border-left: 1px solid var(--primary60);
   line-height:50px;
  }
 
@@ -1110,7 +1111,7 @@ grid-template-rows: var(--headerheight);
 
 .footernavwrapper {
   background-color: var(--white);
-  border-top: 0.6rem solid var(--primarylight);
+  border-top: 0.6rem solid var(--primary60);
   padding:3rem 0;
   }
 
@@ -1281,7 +1282,7 @@ ul.footer-menu li {
     position: relative;
     background-repeat: repeat;
     background-image: url("/img/gtsc-logo-repeat-368x219-white-30.png");
-    background-color: var(--primarylight);
+    background-color: var(--primary60);
 }
 
 
@@ -3168,9 +3169,9 @@ border-radius: 0.5rem;
 
 .strokeleft p, .strokeright p {margin:0;}
 
-span.eventlength:nth-child(odd) {padding:0 0 0 0.2rem; width:110px;display:inline-block;font-size: 85%;background-color:var(--primarylight) ;color: var(--black);margin:0;}
+span.eventlength:nth-child(odd) {padding:0 0 0 0.2rem; width:110px;display:inline-block;font-size: 90%;background-color:var(--lightgrey) ;color: var(--black);margin:0;}
 
-span.eventlength:nth-child(even) {padding:0 0 0 0.2rem; width:110px;display:inline-block;font-size: 85%;background-color:var(--lightgrey) ;color: var(--black);}
+span.eventlength:nth-child(even) {padding:0 0 0 0.2rem; width:110px;display:inline-block;font-size: 90%;background-color:var(--primary30) ;color: var(--black);}
 
 
 .eventsheld p {background-color: var(--primary);color: var(--white);padding: 0.5rem;margin:3rem 0 2rem 0;}
