@@ -1937,6 +1937,12 @@ padding: 3rem 1rem;}
   row-gap: 0.5rem;
 }
 
+.grid-1x4eventlength {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 0rem;
+  row-gap: 0.5rem;
+}
+
 .grid-1x4 {
   grid-template-columns: 100px 1fr;
   margin-bottom:2rem;
