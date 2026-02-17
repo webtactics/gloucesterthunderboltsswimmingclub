@@ -2761,6 +2761,7 @@ a.resultspdf {
   text-decoration-color: var(--primary);
   text-underline-offset: 1rem;
   transition: background-color .6s,text-decoration-color .6s;
+  clear: both;
 }
 
 
