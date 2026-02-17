@@ -85,7 +85,9 @@ section: post
                         <p>Events to be held</p>
                     </div>
                 {% endif %}
-                <div class="grid-1x4event">
+                <div class="grid-1x2event">
+
+
                     {% if freestyle %}
                         <div class="strokeleft">
                             <p>
@@ -93,7 +95,7 @@ section: post
                             </p>
                         </div>
                       
-                           
+                              <div class="grid-1x4eventlength">
                                 {% if freestyle.length25 %}<div class="strokeright"><span class="eventlength">25 metres</span></div>{% endif %}
                                 {% if freestyle.length50 %}<div class="strokeright"><span class="eventlength">50 metres</span></div>{% endif %}
                                 {% if freestyle.length100 %}<div class="strokeright"><span class="eventlength">100 metres</span></div>{% endif %}
@@ -101,7 +103,7 @@ section: post
                                 {% if freestyle.length400 %}<div class="strokeright"><span class="eventlength">400 metres</span></div>{% endif %}
                                 {% if freestyle.length800 %}<div class="strokeright"><span class="eventlength">800 metres</span></div>{% endif %}
                                 {% if freestyle.length1500 %}<div class="strokeright"><span class="eventlength">1500 metres</span></div>{% endif %}
-                       
+                       </div>
                     {% endif %}
 
 </div>
