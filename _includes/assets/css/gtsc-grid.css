@@ -3167,10 +3167,9 @@ border-radius: 0.5rem;
 
 .strokeleft p, .strokeright p {margin:0;}
 
-span.eventlength {padding:0 0.5rem; border-left: 2px solid var(--primary);width:105px;display:inline-block;font-size: 90%;}
-span.eventlength:first-child {padding:0;  border-left: 2px solid var(--white);width:100px;display:inline-block;}
+span.eventlength {padding:0 0.25rem; width:105px;display:inline-block;font-size: 90%;}
 
-span.eventlength:nth-child(2) {padding:0 0.5rem; border-left: 2px solid var(--primary);width:105px;display:inline-block;font-size: 90%;background-color:var(--lightgrey) ;}
+span.eventlength:nth-child(even) {padding:0 0.25rem; width:105px;display:inline-block;font-size: 90%;background-color:var(--lightgrey) ;}
 
 
 .eventsheld p {background-color: var(--primary);color: var(--white);padding: 0.5rem;margin:3rem 0 2rem 0;}
