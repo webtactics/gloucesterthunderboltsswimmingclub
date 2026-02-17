@@ -12,7 +12,7 @@ records: /static/records/north-coast/250707-Short-Course-Overall-Records-Boys.pd
 
 tags:
   - North-Coast-Short-Course-Records
-
+  - North-Coast-Records
 
 
 

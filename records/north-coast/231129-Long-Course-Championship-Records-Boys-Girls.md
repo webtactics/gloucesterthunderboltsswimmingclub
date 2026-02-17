@@ -2,20 +2,20 @@
 layout: layouts/post-records.njk
 title: Long Course Championship Records Boys & Girls
 subtitle: Long Course Championship Records Boys & Girls
-date: 2025-01-04
-updated: 4th January 2025
+date: 2026-01-07
+updated: 7th January 2026
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/records/swimming-north-coast-400x600.jpg
 
 
 description: Long Course Championship Records Boys & Girls
 
-records: /static/records/north-coast/250104-Long-Course-Championship-Records-Boys-Girls.pdf
+records: /static/records/north-coast/260107-Long-Course-Championship-Records-Boys-Girls.pdf
 
 tags:
 
   - North-Coast-Long-Course-Records
-
+  - North-Coast-Records
 
 
 
