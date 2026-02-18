@@ -2,6 +2,8 @@
   --primary: hsla(211,50%,53%,1);
   --primary60: hsla(211,50%,53%,0.6);
   --primary30: hsla(211,50%,53%,0.3);
+  --primary20: hsla(211,50%,53%,0.2);
+  --primary10: hsla(211,50%,53%,0.1);
   --primarydark: hsla(211,58%,43%,1);
   --darkblue: hsla(204, 96%, 18%, 1);
   --darkblue40: hsla(204deg, 96%, 18%, 0.4);
@@ -3192,16 +3194,18 @@ border-radius: 0.5rem;
   }
 }
 
+.eventsheld p {background-color: var(--primary);color: var(--white);padding: 0.5rem;margin:3rem 0 2rem 0;}
+
 .strokeleft  {margin:0;font-size: 95%;color: var(--primary);}
 span.stroketitle  {font-weight:bold;color:var(--primary);}
 
 .strokeright {font-size: 90%;color: var(--black);margin:0;padding:0.2rem;border-bottom:1px solid var(--darkgrey);}
-.strokeright:nth-child(odd) {background-color: var(--primary30);}
-.strokeright:nth-child(even) {background-color: var(--lightgrey);}
+.strokeright:nth-child(odd) {background-color: var(--primary10);}
+.strokeright:nth-child(even) {background-color: var(--primary20);}
 
 .swimnumber p {background-color: var(--primary);color: var(--white);padding: 0;margin:0;border-radius:40px;max-width:2rem;text-align:center;}
 
-.eventsheld p {background-color: var(--primary);color: var(--white);padding: 0.5rem;margin:3rem 0 2rem 0;}
+
 
 
 .google-maps {
