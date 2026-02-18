@@ -18,7 +18,7 @@ tags:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-17.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events
+entrylink: https://swimcentral.swimming.org.au/events/07f2a406-1bb2-f011-bbd2-6045bde535b6/nominations
 
 
 results: 
