@@ -1,6 +1,7 @@
 :root {
   --primary: hsla(211,50%,53%,1);
   --primary60: hsla(211,50%,53%,0.6);
+  --primary40: hsla(211,50%,53%,0.4);
   --primary30: hsla(211,50%,53%,0.3);
   --primary20: hsla(211,50%,53%,0.2);
   --primary10: hsla(211,50%,53%,0.1);
@@ -3195,9 +3196,11 @@ border-radius: 0.5rem;
 .strokeleft  {margin:0;font-size: 95%;color: var(--primary);}
 span.stroketitle  {font-weight:bold;color:var(--primary);}
 
-.strokeright {font-size: 90%;color: var(--black);margin:0;padding:0.2rem;border-bottom:1px solid var(--darkgrey);}
-.strokeright:nth-child(odd) {background-color: var(--primary10);}
-.strokeright:nth-child(even) {background-color: var(--primary20);}
+.strokeright {font-size: 90%;color: var(--black);margin:0;padding:0.2rem;border-bottom:1px solid var(--lightgrey);}
+.strokeright:nth-child(2n+1) {background-color: var(--primary10);}
+.strokeright:nth-child(2n+2) {background-color: var(--primary20);}
+.strokeright:nth-child(2n+3) {background-color: var(--primary30);}
+.strokeright:nth-child(2n+4) {background-color: var(--primary40);}
 
 .swimnumber p {background-color: var(--primary);color: var(--white);padding: 0;margin:0;border-radius:40px;max-width:2rem;text-align:center;}
 
