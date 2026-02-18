@@ -1570,12 +1570,11 @@ white-space: wrap;
   padding:5px;
  }
 
-
-
-
 }
 
-
+.toggle-nav:hover {
+  background-color: var(--primarydark);
+  color: var(--red);}
 
 
 .hamburger-icon:before {
