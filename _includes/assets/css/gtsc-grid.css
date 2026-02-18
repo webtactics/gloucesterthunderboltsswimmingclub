@@ -3187,7 +3187,7 @@ border-radius: 0.5rem;
   }
 }
 
-.strokeleft p {margin:0;}
+.strokeleft  {margin:0;font-size: 90%;color: var(--primary);}
 
 .strokeright:nth-child(even) {background-color: var(--lightgrey);}
 
