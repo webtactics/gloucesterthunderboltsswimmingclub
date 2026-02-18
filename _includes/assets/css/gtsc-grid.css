@@ -3205,10 +3205,10 @@ border-radius: 0.5rem;
 span.stroketitle  {font-weight:bold;color:var(--primary);}
 
 .strokeright {font-size: 90%;color: var(--black);margin:0;padding:0.2rem;border-bottom:1px solid var(--lightgrey);}
-.strokeright:nth-child(2n+1) {background-color: var(--primary40);}
+.strokeright:nth-child(2n+1) {background-color: var(--primary20);}
 .strokeright:nth-child(2n+2) {background-color: var(--primary30);}
 .strokeright:nth-child(2n+3) {background-color: var(--primary20);}
-.strokeright:nth-child(2n+4) {background-color: var(--primary10);}
+.strokeright:nth-child(2n+4) {background-color: var(--primary30);}
 
 .swimnumber p {background-color: var(--primary);color: var(--white);padding: 0;margin:0;border-radius:40px;max-width:2rem;text-align:center;}
 
