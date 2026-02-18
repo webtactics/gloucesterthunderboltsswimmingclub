@@ -2096,12 +2096,16 @@ max-width: 600px;}
 
 
 
-  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news,  .grid-2-sponsor, .grid-2x1, .grid-1x2event    {
+  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news,  .grid-2-sponsor, .grid-2x1   {
     grid-template-columns: repeat(1, 1fr); 
     gap: 1rem;
   }
 
-
+.grid-1x2event  {
+    grid-template-columns: repeat(1, 1fr); 
+    gap: 0rem;
+    margin-bottom: 1rem;
+  }
 
 .grid-4-1-gluten {
   grid-template-columns: 2fr 1fr;gap: 2rem;
