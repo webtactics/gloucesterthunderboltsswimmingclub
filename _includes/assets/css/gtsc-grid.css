@@ -1945,6 +1945,7 @@ padding: 3rem 1rem;}
   grid-template-columns: 1fr 1fr 1fr 1fr;
   column-gap: 0.2rem;
   row-gap: 1rem;
+  margin-bottom: 0.2rem;
 }
 
 .grid-1x4 {
