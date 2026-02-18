@@ -3190,8 +3190,9 @@ border-radius: 0.5rem;
 .strokeleft  {margin:0;font-size: 90%;color: var(--primary);}
 span.stroketitle  {font-weight:bold;color:var(--primary);}
 
-.strokeright:nth-child(even) {background-color: var(--lightgrey);font-size: 90%;color: var(--black);margin:0;}
-
+.strokeright {font-size: 90%;color: var(--black);margin:0;padding:0.2rem;}
+.strokeright:nth-child(odd) {background-color: var(--primary30);}
+.strokeright:nth-child(even) {background-color: var(--lightgrey);}
 
 
 
