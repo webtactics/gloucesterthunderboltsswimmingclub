@@ -1572,9 +1572,7 @@ white-space: wrap;
 
 }
 
-.toggle-nav:hover {
-  background-color: var(--primarydark);
-  color: var(--red);}
+
 
 
 .hamburger-icon:before {
@@ -1593,6 +1591,15 @@ white-space: wrap;
   transition: all 0.6s;
 }
 
+.hamburger:hover .hamburger-icon::before {
+  background: var(--white);
+  box-shadow: 0 12px 0 0 var(--white), 0 24px 0 0 var(--white);
+  -webkit-transition: all var(--animation-delay);
+  -moz-transition: all var(--animation-delay);
+  -ms-transition: all var(--animation-delay);
+  -o-transition: all var(--animation-delay);
+  transition: all var(--animation-delay);
+}
 
 span.title-bar-title {display:block;text-indent:34px;padding:0;}
 
