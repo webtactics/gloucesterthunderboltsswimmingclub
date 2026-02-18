@@ -2089,11 +2089,7 @@ max-width: 600px;}
     grid-template-columns: 100px 1fr;
   }
 
-  .grid-1x3 {
-    grid-template-columns: repeat(1, 1fr); 
-    column-gap: 0.5rem;
-    row-gap: 0;
-  }
+
 
 
 
