@@ -2102,7 +2102,7 @@ max-width: 600px;}
 .grid-1x2event  {
     grid-template-columns: repeat(1, 1fr); 
     gap: 0rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.7rem;
   }
 
 .grid-4-1-gluten {
