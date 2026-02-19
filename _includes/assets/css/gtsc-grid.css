@@ -1613,7 +1613,7 @@ span.title-bar-title {display:block;text-indent:34px;padding:0;}
 
 .toggle-nav:hover {
   background-color: var(--darkblue);
-  color: var(--white);
+  color: var(--red);
 }
 
 .button {
