@@ -14,14 +14,16 @@ numberswims: 3
 
 tags:
  - Long-Distance
- - Homebox
+ - Results
+ - 2025-26-Results
+ - 2025-26-Results-GTSC
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-13.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events/76103669-15b2-f011-bbd2-7c1e522a612f/nominations
 
 
-results: 
+results: /static/results/2025-26/260219-round-2-week-6-overall-week-13-gtsc-club-night-results.pdf
 
 events:
   - freestyle
