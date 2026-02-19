@@ -1592,8 +1592,8 @@ white-space: wrap;
 }
 
 .hamburger:hover .hamburger-icon::before {
-  background: var(--red);
-  box-shadow: 0 12px 0 0 var(--white), 0 24px 0 0 var(--red);
+  background: var(--white);
+  box-shadow: 0 12px 0 0 var(--white), 0 24px 0 0 var(--white);
   -webkit-transition: all var(--animation-delay);
   -moz-transition: all var(--animation-delay);
   -ms-transition: all var(--animation-delay);
