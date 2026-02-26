@@ -13,14 +13,16 @@ eventdate:
 numberswims: 4
 
 tags:
- - Homebox
+ - Results
+ - 2025-26-Results
+ - 2025-26-Results-GTSC
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-14.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events/34320b61-16b2-f011-bbd2-6045bde52f4b/nominations
 
 
-results: 
+results: /static/results/2025-26/260226-round-2-week-7-overall-week-14-gtsc-club-night-results.pdf
 
 events:
   - freestyle
