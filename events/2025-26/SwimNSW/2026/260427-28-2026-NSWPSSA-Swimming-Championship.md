@@ -4,11 +4,11 @@ eleventyExcludeFromCollections: false
 title: 2026 NSW PSSA School Swimming Championships
 description: 2026 NSW PSSA School Swimming Championships
 subtitle: 2026 NSWPSSA School Swimming Championships
-date: 2026-04-27
+date: 2026-04-28
 
 
 eventdate:
-  day: 27th-28th
+  day: 28th
   month: April
   year: 2026
 
@@ -55,8 +55,8 @@ mapsydneyolympic: https://maps.app.goo.gl/yW8LAZartfFc6veo7
 
 ---
 <h2>NSW Primary Schools Sports Association (PSSA)</h2>
-<h3>The 2026 NSW PSSA School Swimming Championships will be held from Monday, April 27 to Tuesday, April 28, 2026, at the Sydney Olympic Park Aquatic Centre (SOPAC).</h3>
-<h4>This event brings together top primary school swimmers from across New South Wales for a two-day competition in Term 2.</h4>
+<h3>The 2026 NSW PSSA School Swimming Championships will be held Tuesday, April 28, 2026, at the Sydney Olympic Park Aquatic Centre (SOPAC).</h3>
+<h4>This event brings together top primary school swimmers from across New South Wales.</h4>
 
 Organised by</br>
 NSW Primary Schools Sports Association
@@ -65,7 +65,7 @@ Sport type</br>
 Primary Swimming
 
 Date</br>
-Monday, April 27 to Tuesday, April 28, 2026
+Tuesday, April 28, 2026
 
 Method of entry</br>
 Region/Association team
@@ -80,7 +80,5 @@ This event includes specific activities for people with disabilities who are cla
 
 
 <a title="2026 NSWPSSA Swimming Championship Information" href="https://app.education.nsw.gov.au/sport/Events/View?eventId=19009" target="_blank" rel="noopener">2026 NSWPSSA Swimming Championship Information</a>
-
-Day 1 morning session - gates open 7.30am, warm up 8.00am
 
 Day 2 morning session - gates open 7.30am, warm up 8.00am
