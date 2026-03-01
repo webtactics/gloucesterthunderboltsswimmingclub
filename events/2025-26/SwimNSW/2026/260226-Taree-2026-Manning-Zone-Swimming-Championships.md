@@ -18,13 +18,15 @@ tags:
  - Primary-Schools
  - Manning-Zone
  - Taree-Torpedoes
-
+ - Results
+ - 2025-26-Results
+ - 2025-26-Results-SwimNSW
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone-pssa-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone-pssa-400x600.jpg
 
-results: 
+results: /static/results/2025-26/260226-Taree-2026-Manning-Zone-Swimming-Championships-results.pdf
 
 club: Taree Torpedoes
 clubURL: https://www.tareetorpedoes.com/
