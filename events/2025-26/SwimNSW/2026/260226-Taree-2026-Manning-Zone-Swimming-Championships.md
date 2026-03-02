@@ -26,7 +26,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone-pssa-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone-pssa-400x600.jpg
 
-results: /static/results/2025-26/260226-Taree-2026-Manning-Zone-Swimming-Championships-results.pdf
+results: /static/results/2025-26/260226-Taree-2026-Manning-Zone-Swimming-Championships-results-revised.pdf
 
 club: Taree Torpedoes
 clubURL: https://www.tareetorpedoes.com/
