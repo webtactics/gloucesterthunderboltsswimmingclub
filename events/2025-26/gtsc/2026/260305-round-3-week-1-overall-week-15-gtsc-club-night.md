@@ -14,14 +14,15 @@ numberswims: 4
 
 tags:
    - Distance-Championship
-   - Homebox
+   - Results
+   - 2025-26-Results
+   - 2025-26-Results-GTSC
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-15.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events/f20ffb20-19b2-f011-bbd2-7c1e522b54b1/nominations
 
-
-results: 
+results: /static/results/2025-26/260305-round-3-week-1-overall-week-15-gtsc-club-night-results.pdf
 
 events:
   - freestyle
