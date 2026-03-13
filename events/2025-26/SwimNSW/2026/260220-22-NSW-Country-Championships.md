@@ -1,6 +1,6 @@
 ---
-title: 2026 SNSW Country Championships
-subtitle: 2026 SNSW Country Championships
+title: 2026 NSW Country Championships
+subtitle: 2026 NSW Country Championships
 date: 2026-02-20
 
 eventdate:
