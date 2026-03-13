@@ -1,6 +1,6 @@
 ---
-title: 2026 NSW Speedo Sprint Series: FINALS
-subtitle: 2026 NSW Speedo Sprint Series: FINALS
+title: 2026 NSW Speedo Sprint Series Finals
+subtitle: 2026 NSW Speedo Sprint Series Finals
 date: 2026-02-28
 
 eventdate:
