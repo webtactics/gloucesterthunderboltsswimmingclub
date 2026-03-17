@@ -16,7 +16,10 @@ tags:
 
  - Primary-Schools
  - Hunter-Regional
-
+ - Manning-Zone
+ - Results
+ - 2025-26-Results
+ - 2025-26-Results-SwimNSW
 
 
 
@@ -24,7 +27,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/hunter-pssa-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/hunter-pssa-400x600.jpg
 
-results: 
+results: /static/results/2025-26/260316-2026-Hunter-Primary-Swimming-Championships-results.pdf
 
 club: 
 clubURL: 
