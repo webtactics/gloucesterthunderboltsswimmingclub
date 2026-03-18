@@ -23,8 +23,8 @@ sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/grafton-amateur-sc-40
 
 results: 
 
-club: Swimming North Coast Inc 
-clubURL: https://www.swimmingnorthcoast.com/
+club: Grafton Amateur Swimming Club
+clubURL: https://www.facebook.com/100076348452790/mentions/
 
 meetflyerpdf: https://319ad0d0-13e2-4670-a31b-0270aa9f937f.filesusr.com/ugd/8dab05_968f309646284566bf939845a850d379.pdf
 
