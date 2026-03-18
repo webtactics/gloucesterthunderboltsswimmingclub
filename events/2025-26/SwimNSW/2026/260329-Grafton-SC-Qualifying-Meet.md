@@ -1,9 +1,9 @@
 ---
 eleventyExcludeFromCollections: false
 
-title: Grafton SC (Short Course) Qualifying Meet
-description: Grafton SC (Short Course) Qualifying Meet
-subtitle: Grafton SC (Short Course) Qualifying Meet
+title: Grafton Amateur Swimming Club SC (Short Course) Qualifying Meet
+description: Grafton ASC (Short Course) Qualifying Meet
+subtitle: Grafton Amateur Swimming Club SC (Short Course) Qualifying Meet
 date: 2026-03-29
 
 
@@ -56,10 +56,6 @@ mapgrafton: https://maps.app.goo.gl/Mi73PYNiAgweCFNM9
 
 
 ---
-<h2>Grafton Amateur Swimming Club SC (Short Course) Qualifying Meet</h2>
-
-Clarence Regional Aquatic Centre - Corner of Oliver and Turf Streets, Grafton
-
 This a Qualifying meet with area approval conducted under the rules of SAL and SNSW.
 
 Competitors must be Swimming Australia Members for 2025 - 2026 at the time of competition.
