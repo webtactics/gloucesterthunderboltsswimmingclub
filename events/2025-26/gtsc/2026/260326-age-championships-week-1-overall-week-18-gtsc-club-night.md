@@ -13,8 +13,8 @@ eventdate:
 numberswims: 4
 
 tags:
-   - Age-Championship
-
+- Age-Championship
+- Homebox
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-18.jpg
 
