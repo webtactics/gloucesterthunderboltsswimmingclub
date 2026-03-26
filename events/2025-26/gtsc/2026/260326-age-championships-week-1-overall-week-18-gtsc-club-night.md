@@ -14,14 +14,16 @@ numberswims: 4
 
 tags:
 - Age-Championship
-- Homebox
+- Results
+- 2025-26-Results
+- 2025-26-Results-GTSC
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-18.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events/64c7c6ce-1bb2-f011-bbd2-7c1e522b268c/nominations
 
 
-results: 
+results: /static/results/2025-26/260326-age-championships-week-1-overall-week-18-gtsc-club-night-results.pdf
 
 events:
   - freestyle
