@@ -22,6 +22,7 @@ image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/grafton-amateur-sc-600x4
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/grafton-amateur-sc-400x600.jpg
 
 results: 
+eventcancelled: true
 
 club: Grafton Amateur Swimming Club
 clubURL: https://www.facebook.com/100076348452790/mentions/

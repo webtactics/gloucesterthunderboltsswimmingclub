@@ -3052,6 +3052,10 @@ line-height:2rem;color: var(--white);
 background-color: var(--red);
 color: var(--white);}
 
+.postsumdate.eventcancelled, h3.sum-title.eventcancelled a, h4.sum-title.eventcancelled a, h3.sum-title.eventcancelled a:hover, h4.sum-title.eventcancelled a:hover {
+background-color: var(--red);
+color: var(--white);}
+
 .postsumdate.results, h3.sum-title.results a, h4.sum-title.results a {
 background-color: var(--darkblue);
 color: var(--white);}
