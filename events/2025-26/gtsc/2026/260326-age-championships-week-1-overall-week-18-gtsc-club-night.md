@@ -24,6 +24,7 @@ entrylink: https://swimcentral.swimming.org.au/events/64c7c6ce-1bb2-f011-bbd2-7c
 
 
 results: /static/results/2025-26/260326-age-championships-week-1-overall-week-18-gtsc-club-night-results.pdf
+resultstitle: Results exclude Championships Events.
 
 events:
   - freestyle

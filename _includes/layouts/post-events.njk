@@ -17,7 +17,12 @@ section: post
                            title="{{ title }}"
                            alt="{{ title }}"
                            target="_blank">Event Results Pdf &gt;</a>
+
+
+ {% if resultstitle %} <div class="eventresultstitle"><p>{{ resultstitle }}</p></div>{% endif %}
+
                     </div>
+
                     {% endif %}
 
  {% if rain %}
@@ -249,6 +254,9 @@ section: post
                            title="{{ title }}"
                            alt="{{ title }}"
                            target="_blank">Event Results Pdf &gt;</a>
+
+ {% if resultstitle %} <div class="eventresultstitle"><p>{{ resultstitle }}</p></div>{% endif %}
+
                     </div>
                     {% endif %}
 
