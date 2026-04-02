@@ -1,4 +1,7 @@
 :root {
+
+   interpolate-size: allow-keywords; 
+
   --primary: hsla(211,50%,53%,1);
   --primary60: hsla(211,50%,53%,0.6);
   --primary40: hsla(211,50%,53%,0.4);
@@ -191,7 +194,9 @@ body {
 
 html { 
 scroll-behavior: smooth; 
+scrollbar-gutter: stable;
 }
+  
   
 
 a img {border: 0;}
