@@ -3513,12 +3513,8 @@ border:none;
 
 .eventresultstitle {
   display: block;
-  background-color: var(--primary);
-  color: var(--white);
   font-size: var(--textsize);
   white-space: normal;
-  transition: background-color .6s;
   width:100%;
   margin:0;
-  padding: var(--h3h4sumpadding);
 }
