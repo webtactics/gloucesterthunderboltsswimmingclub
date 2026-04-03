@@ -20,8 +20,8 @@ tags:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/grafton-amateur-sc-600x400.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/grafton-amateur-sc-400x600.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-400x600.jpg
 
 results: 
 
