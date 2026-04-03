@@ -14,6 +14,7 @@ eventdate:
 
 tags:
   - Forster-Aquatic
+  - Short-Course
   - Results
   - 2025-Winter-Results
   - 2025-Winter-Results-Swim-NSW

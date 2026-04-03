@@ -15,6 +15,7 @@ eventdate:
 tags:
 
   - Swimming-North-Coast
+  - Short-Course
   - Results
   - 2025-Winter-Results
   - 2025-Winter-Results-Swim-NSW

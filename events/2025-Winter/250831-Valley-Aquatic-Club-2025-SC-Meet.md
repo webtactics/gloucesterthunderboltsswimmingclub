@@ -13,7 +13,7 @@ tags:
 
   - Swim-CVSA
   - Valley-Aquatic-Club
-
+  - Short-Course
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/valleyaquaticclub-600x400.jpg

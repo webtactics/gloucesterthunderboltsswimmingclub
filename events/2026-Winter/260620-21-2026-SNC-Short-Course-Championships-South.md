@@ -14,8 +14,8 @@ eventdate:
 
 tags:
 
-  - Swimming-North-Coast
-
+- Swimming-North-Coast
+- Short-Course
 
 
 

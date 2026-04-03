@@ -3,8 +3,8 @@ eleventyExcludeFromCollections: false
 
 
 title: 2026 Forster Aquatic SC Meet
-description: Forster Aquatic SC Meet
-subtitle: Forster Aquatic SC Meet
+description: 2026 Forster Aquatic SC Meet
+subtitle: 2026 Forster Aquatic SC Meet
 date: 2026-05-31
 
 
@@ -14,8 +14,8 @@ eventdate:
   year: 2026
 
 tags:
-  - Forster-Aquatic
-
+- Forster-Aquatic
+- Short-Course
 
 
 

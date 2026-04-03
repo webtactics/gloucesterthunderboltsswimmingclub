@@ -11,6 +11,7 @@ eventdate:
 
 tags:
   - Sydney-Olympic-Park
+  - Short-Course
   - Results
   - 2025-Winter-Results
   - 2025-Winter-Results-Swim-NSW

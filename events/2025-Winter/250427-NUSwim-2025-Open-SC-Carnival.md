@@ -14,8 +14,8 @@ eventdate:
 
 tags:
 
-  - Swim-CVSA
-
+- Swim-CVSA
+- Short-Course
 
 
 

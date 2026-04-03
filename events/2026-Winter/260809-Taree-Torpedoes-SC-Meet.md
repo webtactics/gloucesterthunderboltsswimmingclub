@@ -13,8 +13,8 @@ eventdate:
 
 tags:
 
-  - Taree-Torpedoes
-
+- Taree-Torpedoes
+- Short-Course
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg
