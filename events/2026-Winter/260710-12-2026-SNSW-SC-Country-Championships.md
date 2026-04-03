@@ -1,18 +1,20 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
-title: 2026 NSW SC Qualifying Meet
-description: 2026 NSW SC Qualifying Meet
-subtitle: 2026 NSW SC Qualifying Meet
-date: 2026-05-24
+title: 2026 SNSW SC Country Championships
+description: 2026 SNSW SC Country Championships
+subtitle: 2026 SNSW SC Country Championships
+date: 2026-07-10
 
 eventdate:
-  day: 24th-25th
-  month: May
+  day: 10th-12th
+  month: July
   year: 2026
 
 tags:
-  - Sydney-Olympic-Park
+
+- Sydney-Olympic-Park
+- Short-Course
 
 
 
@@ -25,7 +27,7 @@ results:
 club: Swim NSW
 clubURL: https://nsw.swimming.org.au/
 
-meetflyerpdf: https://nsw.swimming.org.au/events/2026-nsw-sc-qualifying-meet
+meetflyerpdf: 
 
 entrylink: https://swimcentral.swimming.org.au/events
 
