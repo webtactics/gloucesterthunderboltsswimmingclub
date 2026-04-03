@@ -8,8 +8,8 @@ eventdate:
   year: 2026
 
 tags:
-  - GTSC
-
+- GTSC
+- NewsHero
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/news/2024-25/250222-gtsc-development-carnival-600x400.jpg
 
