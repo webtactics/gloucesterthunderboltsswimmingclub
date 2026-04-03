@@ -33,15 +33,15 @@ eleventyNavigation:
 
 <div class="eightypercentborder"></div>
 
-<!--- 2025 Winter Events --->
+<!--- 2026 Winter Events --->
 <div class="postlist-section-wrapper fade-in">	
-   <h2 class="heading-text">2025 Winter Events</h2>
+   <h2 class="heading-text">2026 Winter Events</h2>
 <div class="resultswrapper">
-	{%- set postslist = collections['2025-Winter'] -%} 
+	{%- set postslist = collections['2026-Winter'] -%} 
 	{% include "components/postlist/postslist-events.njk" %}
 </div>
 </div>
-<!--- End 2025 Winter Events --->
+<!--- End 2026 Winter Events --->
 
 
 <div class="linkwrapper"><a class="resultspdf" href="/events/results/" title="All Season Results" alt="All Season Results">For all Results &gt;</a></div>
