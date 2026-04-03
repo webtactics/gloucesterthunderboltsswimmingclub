@@ -50,7 +50,7 @@ maplaurieton:
 
 mapnewcastleforum: 
 
-mapforster: true
+mapforster: trues
 
 
 ---
