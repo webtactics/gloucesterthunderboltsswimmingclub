@@ -1,16 +1,16 @@
 ---
 eleventyExcludeFromCollections: true
 
-title: NUSwim 2025 Open SC Carnival
-description: NUSwim 2025 Open SC Carnival
-subtitle: NUSwim 2025 Open SC Carnival
-date: 2025-04-27
+title: NUSwim 2026 Open SC Carnival
+description: NUSwim 2026 Open SC Carnival
+subtitle: NUSwim 2026 Open SC Carnival
+date: 2026-04-27
 
 
 eventdate:
   day: 27th
   month: April
-  year: 2025
+  year: 2026
 
 tags:
 

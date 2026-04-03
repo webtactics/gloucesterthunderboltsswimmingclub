@@ -1,15 +1,15 @@
 ---
 eleventyExcludeFromCollections: true
 
-title: Valley Aquatic Club 2025 SC Meet 
-description: Valley Aquatic Club 2025 SC Meet 
-subtitle: Valley Aquatic Club 2025 SC Meet 
-date: 2025-08-31
+title: Valley Aquatic Club 2026 SC Meet 
+description: Valley Aquatic Club 2026 SC Meet 
+subtitle: Valley Aquatic Club 2026 SC Meet 
+date: 2026-08-31
 
 eventdate:
   day: 31st
   month: August
-  year: 2025
+  year: 2026
 
 tags:
 
@@ -26,7 +26,7 @@ results:
 club: Valley Aquatic Club
 clubURL: https://www.facebook.com/valleyaquaticclub/
 
-meetflyerpdf: https://coastandvalleynsw.swimmingclub.org.au/wp-content/uploads/2025/07/SC-2025-Open-Meet-Valley-Aquatic-Club.pdf
+meetflyerpdf: https://coastandvalleynsw.swimmingclub.org.au/wp-content/uploads/2026/07/SC-2026-Open-Meet-Valley-Aquatic-Club.pdf
 
 entrylink: https://swimcentral.swimming.org.au/events/4665dbb0-cd62-f011-bec1-00224811a58b/nominations
 

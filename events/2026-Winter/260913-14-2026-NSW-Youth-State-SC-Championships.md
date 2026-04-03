@@ -1,15 +1,15 @@
 ---
 eleventyExcludeFromCollections: true
 
-title: 2025 NSW Youth State SC Championships 
-description: 2025 NSW Youth State SC Championships 
-subtitle: 2025 NSW Youth State SC Championships 
-date: 2025-09-13
+title: 2026 NSW Youth State SC Championships 
+description: 2026 NSW Youth State SC Championships 
+subtitle: 2026 NSW Youth State SC Championships 
+date: 2026-09-13
 
 eventdate:
   day: 13th-14th
   month: September
-  year: 2025
+  year: 2026
 
 tags:
 
@@ -24,7 +24,7 @@ results:
 club: Swim NSW
 clubURL: https://nsw.swimming.org.au/
 
-meetflyerpdf: https://nsw.swimming.org.au/events/2025-speedo-nsw-youth-state-age-sc-championships
+meetflyerpdf: https://nsw.swimming.org.au/events/2026-speedo-nsw-youth-state-age-sc-championships
 
 entrylink: https://swimcentral.swimming.org.au/events/c9e39990-633b-f011-b4cb-00224811a58b/nominations
 
