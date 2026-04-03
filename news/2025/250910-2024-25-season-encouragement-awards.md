@@ -11,8 +11,9 @@ eventdate:
   year: 2025
 
 tags:
-  - GTSC
 
+- GTSC
+- Newsbody
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/news/2025-26/250911-encouragement-awards-600x400.jpg
 

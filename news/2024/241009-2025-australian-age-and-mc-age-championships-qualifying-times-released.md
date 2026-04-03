@@ -9,6 +9,7 @@ eventdate:
   year: 2024
 
 tags:
+  - Newsbody
   - 2024-25-Qualifying-Times
   - Swim-NSW
   - Australian-Age-Championships

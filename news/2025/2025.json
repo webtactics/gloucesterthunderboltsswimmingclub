@@ -1,0 +1,10 @@
+{
+    "layout": "layouts/post-news.njk",
+    "permalink": "news/2025-News/{{ title | slug }}/index.html",
+    "author": "Anonymous",
+    "tags": [
+     "2025-Year",
+      "2025-News"
+    ]
+  }
+  
