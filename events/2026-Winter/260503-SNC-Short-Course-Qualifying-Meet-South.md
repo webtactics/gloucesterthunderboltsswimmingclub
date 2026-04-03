@@ -1,9 +1,9 @@
 ---
 eleventyExcludeFromCollections: false
 
-title: 2026 SNC Short Course Championships South
-description: 2026 SNC Short Course Championships South
-subtitle: 2026 SNC Short Course Championships South
+title: 2026 SNC Short Course Qualifying Meet South
+description: 2026 SNC Short Course Qualifying Meet South
+subtitle: 2026 SNC Short Course Qualifying Meet South
 date: 2026-05-03
 
 
