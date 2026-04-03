@@ -20,8 +20,8 @@ tags:
 
 
 
-image: https://ik.imagekit.io/webtactics/gtsc/img/events/forster-aquatic-600x400-sq.jpg
-sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/forster-aquatic-400x600-sq.jpg
+image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/forster-aquatic-600x400-sq.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/forster-aquatic-400x600-sq.jpg
 
 results: 
 
