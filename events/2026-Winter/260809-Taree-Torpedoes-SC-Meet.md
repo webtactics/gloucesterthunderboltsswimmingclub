@@ -1,9 +1,9 @@
 ---
 eleventyExcludeFromCollections: false
 
-title: Taree Torpedoes SC Qualifying Meet 
-description: Taree Torpedoes SC Qualifying Meet 
-subtitle: Taree Torpedoes SC Qualifying Meet 
+title: 2026 Taree Torpedoes SC Qualifying Meet 
+description: 2026 Taree Torpedoes SC Qualifying Meet 
+subtitle: 2026 Taree Torpedoes SC Qualifying Meet 
 date: 2026-08-09
 
 eventdate:
