@@ -1,15 +1,15 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: Taree Torpedoes SC Qualifying Meet 
 description: Taree Torpedoes SC Qualifying Meet 
 subtitle: Taree Torpedoes SC Qualifying Meet 
-date: 2025-08-10
+date: 2026-08-09
 
 eventdate:
-  day: 10th
+  day: 9th
   month: August
-  year: 2025
+  year: 2026
 
 tags:
 
@@ -25,9 +25,9 @@ results:
 club: Taree Torpedoes
 clubURL: https://www.tareetorpedoes.com/
 
-meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_ebd4bd2332da4e2396e2f01c4abae010.pdf
+meetflyerpdf: 
 
-entrylink: https://swimcentral.swimming.org.au/events/caa4bfb7-ea20-f011-998a-7c1e528a8044/nominations
+entrylink: https://swimcentral.swimming.org.au/events/
 
 time: 9:00am - 5:00pm
 where: Manning Aquatic Leisure Centre Taree
