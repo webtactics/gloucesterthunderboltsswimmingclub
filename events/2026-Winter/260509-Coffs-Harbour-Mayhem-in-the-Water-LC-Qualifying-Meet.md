@@ -2,6 +2,8 @@
 eleventyExcludeFromCollections: false
 
 title: Coffs Harbour May'hem in the Water LC Qualifying Meet
+
+permalink: /events/2026-Winter/260509-Coffs-Harbour-Mayhem-in-the-Water-LC-Qualifying-Meet/
 description: Coffs Harbour May'hem in the Water LC Qualifying Meet
 subtitle: Coffs Harbour May'hem in the Water LC Qualifying Meet
 date: 2026-05-09
