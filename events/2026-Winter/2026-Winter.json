@@ -3,8 +3,8 @@
     "permalink": "events/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-     "2025-Year",
-      "2025-Winter",
+     "2026-Year",
+      "2026-Winter",
       "Swim-NSW"
     ]
   }
