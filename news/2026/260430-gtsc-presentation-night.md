@@ -12,7 +12,7 @@ eventdate:
 
 tags:
   - GTSC
-  - Newsbody
+  - NewsHero
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
