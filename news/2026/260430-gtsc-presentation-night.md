@@ -31,9 +31,12 @@ articlePDFtitle2:
 
 
 ---
- We’re excited to invite all families to our annual Presentation Night, happening on April 30th at 6pm at the Gloucester Golf Club. This is a special evening for our club and we’d love to see you all there!
+ We’re excited to invite all families to our annual Presentation Night, happening on April 30th at 6pm at the <a href="https://www.facebook.com/p/Gloucester-Country-Club-100052649385910/" target="_blank">Gloucester Golf Club</a>.
+ 
+ This is a special evening for our club and we’d love to see you all there!
 
-Following the presentation, we’ll be holding our Annual General Meeting (AGM). This is a great opportunity for all members to stay informed and engaged with the club’s direction for the coming year.
+Following the presentation, we’ll be holding our Annual General Meeting (AGM).
+This is a great opportunity for all members to stay informed and engaged with the club’s direction for the coming year.
 
 The club bistro will be open throughout the evening, so feel free to enjoy dinner, celebrate with your family, and show your support for one of our valued sponsors.
 
