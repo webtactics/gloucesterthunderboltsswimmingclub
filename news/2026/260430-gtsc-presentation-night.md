@@ -31,7 +31,7 @@ articlePDFtitle2:
 
 
 ---
- We’re excited to invite all families to our annual Presentation Night, happening on April 30th at 6pm at the <a href="https://www.facebook.com/p/Gloucester-Country-Club-100052649385910/" target="_blank">Gloucester Golf Club</a>.
+ We’re excited to invite all families to our annual Presentation Night, happening on April 30th at 6pm at the <a href="https://www.facebook.com/p/Gloucester-Country-Club-100052649385910/" target="_blank" title="Gloucester Golf Club" alt="Gloucester Golf Club">Gloucester Golf Club</a>.
  
  This is a special evening for our club and we’d love to see you all there!
 
