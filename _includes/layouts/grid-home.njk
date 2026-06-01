@@ -39,6 +39,21 @@
 <div class="eightypercentborder"></div>
 {# end Home 3 boxes #}
 
+{# 2026 Winter Events #}
+<div class="postlist-section-wrapper fade-in">	
+   <h2 class="heading-text">2026 Winter Events</h2>
+<div class="resultswrapper">
+	{%- set postslist = collections['2026-Winter'] | reverse -%} 
+	{% include "components/postlist/postslist-events.njk" %}
+</div>
+</div>
+{# End 2026 Winter Events #}
+
+
+
+
+<div class="eightypercentborder"></div>
+
 
 {# Upcoming 2025-26 Season Events #}
 <div class="resultswrapper fade-in">
@@ -52,18 +67,6 @@
 {# end Upcoming 2025-26 Season Events #}
 
 
-
-<div class="eightypercentborder"></div>
-
-{# 2026 Winter Events #}
-<div class="postlist-section-wrapper fade-in">	
-   <h2 class="heading-text">2026 Winter Events</h2>
-<div class="resultswrapper">
-	{%- set postslist = collections['2026-Winter'] | reverse -%} 
-	{% include "components/postlist/postslist-events.njk" %}
-</div>
-</div>
-{# End 2026 Winter Events #}
 
 
 	</main>
