@@ -16,14 +16,16 @@ tags:
 
 - Swimming-North-Coast
 - Short-Course
-
+  - Results
+  - 2026-Winter-Results
+  - 2026-Winter-Results-Swim-NSW
 
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/macksville-sc-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/macksville-sc-400x600.jpg
 
-results: 
+results: /static/results/2026-Winter/260503-SNC-Short-Course-Qualifying-Meet-South-results.pdf
 
 club: Macksville Amateur Swimming Club
 clubURL: https://mmafc.com.au/
