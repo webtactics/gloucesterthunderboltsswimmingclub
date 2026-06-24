@@ -33,7 +33,7 @@ entrylink: https://swimcentral.swimming.org.au/events
 
 time: 9:00am - 5:00pm
 where: Toronto Swim Centre - 280 Awaba Road, Toronto
-map: https://maps.app.goo.gl/yW8LAZartfFc6veo7
+map: https://maps.app.goo.gl/dg31HfSX9x1ois58A
 
 maptaree: 
 
@@ -49,7 +49,7 @@ maplaurieton:
 
 mapsydneyolympic:
 
-maptoronto: true
+maptoronto: https://maps.app.goo.gl/dg31HfSX9x1ois58A
 
 
 ---
