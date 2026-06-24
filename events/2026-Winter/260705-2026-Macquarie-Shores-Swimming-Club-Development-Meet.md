@@ -49,7 +49,7 @@ maplaurieton:
 
 mapsydneyolympic:
 
-maptoronto: 
+maptoronto: true
 
 
 ---
