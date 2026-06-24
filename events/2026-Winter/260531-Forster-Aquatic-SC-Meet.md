@@ -16,14 +16,17 @@ eventdate:
 tags:
 - Forster-Aquatic
 - Short-Course
-
+- Results
+- 2026-Winter-Results
+- 2026-Winter-Results-Swim-NSW
 
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/forster-aquatic-600x400-white.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/forster-aquatic-400x600-white.jpg
 
-results: 
+
+results: /static/results/2026-Winter/260531-Forster-Aquatic-SC-Meet-results.pdf
 
 club: Forster Aquatic SC
 clubURL: https://www.facebook.com/ForsterAquaticSwimClub/
