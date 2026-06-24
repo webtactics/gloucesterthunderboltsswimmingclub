@@ -13,9 +13,8 @@ eventdate:
   year: 2026
 
 tags:
-
-- Swimming-North-Coast
-- Short-Course
+  - Swimming-North-Coast
+  - Short-Course
   - Results
   - 2026-Winter-Results
   - 2026-Winter-Results-Swim-NSW

@@ -13,17 +13,18 @@ eventdate:
   year: 2026
 
 tags:
-
-- Swimming-North-Coast
-- Short-Course
-
+  - Swimming-North-Coast
+  - Short-Course
+  - Results
+  - 2026-Winter-Results
+  - 2026-Winter-Results-Swim-NSW
 
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/swimming-north-coast-400x600.jpg
 
-results: 
+results: /static/results/2026-Winter/260620-21-2026-SNC-Short-Course-Championships-South-results.pdf
 
 club: Grafton Amateur Swimming Club
 clubURL: https://www.facebook.com/100076348452790/mentions/
