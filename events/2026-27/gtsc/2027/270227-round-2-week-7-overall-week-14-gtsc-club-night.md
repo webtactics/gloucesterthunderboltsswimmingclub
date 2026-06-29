@@ -1,0 +1,66 @@
+--- 
+eleventyExcludeFromCollections: true
+title: GTSC Club Night Round 2 Week 7 (overall Week 14), 2026-27 Season
+description: GTSC Club Night Round 2 Week 7 (overall Week 14), 2026-27 Season
+subtitle: GTSC Round 2 Week 7 (overall Week 14)
+date: 2027-02-26
+
+eventdate:
+  day: 26th
+  month: February
+  year: 2027
+
+numberswims: 4
+
+tags:
+ 
+ - 2027-27-Results
+ - 2027-27-Results
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-14.jpg
+
+entrylink: https://swimcentral.swimming.org.au/events/34320b61-16b2-f011-bbd2-6045bde52f4b/nominations
+
+
+results: /static/results/2027-27/260226-round-2-week-7-overall-week-14-club-night-results.pdf
+
+events:
+  - freestyle
+  - backstroke
+  - breaststroke
+  - butterfly
+
+freestyle:
+  length25: 25
+  length50: 50
+  length200: 200
+
+
+backstroke:
+  length25: 25
+  length50: 50
+
+
+
+breaststroke:
+  length25: 25
+  length50: 50
+
+
+
+butterfly:
+  length25: 25
+  length50: 50
+
+
+medley:
+  length100: 100
+  length200: 200
+
+time: 6:00pm - 8:00pm
+where: Gloucester Olympic Pool
+map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
+
+mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
+
+---

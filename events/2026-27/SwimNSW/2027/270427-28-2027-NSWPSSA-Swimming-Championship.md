@@ -1,0 +1,85 @@
+---
+eleventyExcludeFromCollections: true
+
+title: 2027 NSW PSSA School Swimming Championships
+description: 2027 NSW PSSA School Swimming Championships
+subtitle: 2027 NSWPSSA School Swimming Championships
+date: 2027-04-28
+
+
+eventdate:
+  day: 28th
+  month: April
+  year: 2027
+
+tags:
+
+  - SOPAC
+  - Primary-Schools
+  - Homebox
+
+
+
+
+
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/events/PSSA-600x400.jpg
+sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/PSSA-400x600.jpg
+
+results: 
+
+club: 
+clubURL: 
+
+meetflyerpdf: https://app.education.nsw.gov.au/sport/File/7935
+
+entrylink:
+
+time: 9:00am - 5:00pm
+where: Sydney Olympic Park Aquatic Centre
+map: https://maps.app.goo.gl/yW8LAZartfFc6veo7
+
+maptaree: 
+
+mapportmac: 
+
+mapcoffs:
+
+mapcresenthead:
+
+maplismore: 
+
+maplaurieton: 
+
+mapsydneyolympic: https://maps.app.goo.gl/yW8LAZartfFc6veo7
+
+
+---
+<h2>NSW Primary Schools Sports Association (PSSA)</h2>
+<h3>The 2027 NSW PSSA School Swimming Championships will be held Tuesday, April 28, 2027, at the Sydney Olympic Park Aquatic Centre (SOPAC).</h3>
+<h4>This event brings together top primary school swimmers from across New South Wales.</h4>
+
+Organised by</br>
+NSW Primary Schools Sports Association
+
+Sport type</br>
+Primary Swimming
+
+Date</br>
+Tuesday, April 28, 2027
+
+Method of entry</br>
+Region/Association team
+
+Cost info</br>
+Contact your regional school sport association
+
+
+
+Note</br>
+This event includes specific activities for people with disabilities who are classified through the appropriate sport association
+
+
+<a title="2027 NSWPSSA Swimming Championship Information" href="https://app.education.nsw.gov.au/sport/Events/View?eventId=19009" target="_blank" rel="noopener">2027 NSWPSSA Swimming Championship Information</a>
+
+Day 2 morning session - gates open 7.30am, warm up 8.00am
