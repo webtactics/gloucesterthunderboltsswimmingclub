@@ -14,8 +14,6 @@ tags:
 
   - Coffs-Harbour-Swim-Club
 
-2027
-  - Swimming-North-Coast
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg

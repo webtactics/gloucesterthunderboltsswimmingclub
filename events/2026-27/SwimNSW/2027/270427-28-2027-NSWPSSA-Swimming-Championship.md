@@ -20,9 +20,6 @@ tags:
 
 
 
-
-
-
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/PSSA-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/events/PSSA-400x600.jpg
 

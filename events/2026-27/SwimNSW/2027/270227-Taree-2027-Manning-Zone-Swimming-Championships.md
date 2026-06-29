@@ -19,8 +19,6 @@ tags:
  - Manning-Zone
  - Taree-Torpedoes
  
- - 2027-27-Results
- - 2027-27-Results2027
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/events/manning-zone-pssa-600x400.jpg

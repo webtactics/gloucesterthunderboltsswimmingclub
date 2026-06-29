@@ -17,8 +17,6 @@ tags:
   - Swimming-North-Coast
   
 
-2027
-
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/gloucester-thunderbolts-400x600.jpg
 

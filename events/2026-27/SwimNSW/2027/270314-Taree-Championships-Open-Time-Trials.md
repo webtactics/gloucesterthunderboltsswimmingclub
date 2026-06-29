@@ -15,7 +15,6 @@ tags:
 
   - Taree-Torpedoes
 
- 
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg
