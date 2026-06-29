@@ -1,8 +1,8 @@
 --- 
 eleventyExcludeFromCollections: true
 
-title: Speedo Sprints South Qualifying Meet
-subtitle: Speedo Sprints South Qualifying Meet
+title: 2027 Speedo Sprints South Qualifying Meet
+subtitle: 2027 Speedo Sprints South Qualifying Meet
 date: 2027-01-31
 
 eventdate:

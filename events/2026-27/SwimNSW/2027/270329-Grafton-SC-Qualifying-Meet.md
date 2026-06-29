@@ -1,8 +1,8 @@
 ---
 eleventyExcludeFromCollections: true
 
-title: Grafton Amateur Swimming Club SC (Short Course) Qualifying Meet
-description: Grafton ASC (Short Course) Qualifying Meet
+title: 2027 Grafton Amateur Swimming Club SC (Short Course) Qualifying Meet
+description: 2027 Grafton ASC (Short Course) Qualifying Meet
 subtitle: Grafton Amateur Swimming Club SC (Short Course) Qualifying Meet
 date: 2027-03-29
 
