@@ -1,0 +1,65 @@
+---
+eleventyExcludeFromCollections: true
+title: GTSC Summer Social Week 4, 2025-26 Season
+description: GTSC Summer Social Week 4, 2025-26 Season
+subtitle: GTSC Summer Social Week 4, 2025-26 Season
+date: 2026-01-29
+
+eventdate:
+  day: 29th
+  month: January
+  year: 2026
+
+numberswims: 4
+
+tags:
+  - Summer-Social
+  - Results
+  - 2025-26-Results
+  - 2025-26-Results-GTSC
+
+image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-29.jpg
+sumimage: 
+
+results: /static/results/2025-26/260129-summer-social-week-4-gtsc-club-night-results.pdf
+
+
+events:
+  - freestyle
+  - backstroke
+  - breaststroke
+  - butterfly
+
+freestyle:
+  length25: 25
+  length50: 50
+  length100: 100
+
+
+backstroke:
+  length25: 25
+  length50: 50
+  length100: 100
+
+
+breaststroke:
+  length25: 25
+  length50: 50
+  length100: 100
+
+
+butterfly:
+  length25: 25
+  length50: 50
+  length100: 100
+
+
+time: 6:00pm - 8:00pm
+where: Gloucester Olympic Pool
+map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
+
+mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
+
+entrylink: https://swimcentral.swimming.org.au/events/
+---
+
