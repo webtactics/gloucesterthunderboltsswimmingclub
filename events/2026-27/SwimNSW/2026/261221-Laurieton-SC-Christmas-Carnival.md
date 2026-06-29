@@ -12,9 +12,6 @@ eventdate:
 
 tags:
   - Laurieton-Swimming-Club
-  
-
-
   - Swimming-North-Coast
 
 

@@ -1,4 +1,4 @@
---- - Results
+---
 eleventyExcludeFromCollections: true
 
 title: Mingara Aquatic Swimming Club 2026 LC Open Meet 
