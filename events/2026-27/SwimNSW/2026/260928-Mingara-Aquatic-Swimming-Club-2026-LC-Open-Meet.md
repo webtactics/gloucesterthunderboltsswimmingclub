@@ -20,7 +20,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/mingara-sc-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/mingara-sc-400x600.jpg
 
-results: 
+results:
 
 club: Mingara Aquatic Club
 clubURL: https://mingaraswimclub.com.au/
