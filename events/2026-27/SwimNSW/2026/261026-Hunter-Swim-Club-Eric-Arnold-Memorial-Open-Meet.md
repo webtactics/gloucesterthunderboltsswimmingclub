@@ -1,8 +1,8 @@
 --- 
 eleventyExcludeFromCollections: true
 
-title: Hunter Swim Club Eric Arnold Memorial Open Meet
-subtitle: Hunter Swim Club Eric Arnold Memorial Open Meet
+title: 2026 Hunter Swim Club Eric Arnold Memorial Open Meet
+subtitle: 2026 Hunter Swim Club Eric Arnold Memorial Open Meet
 date: 2026-10-26
 
 eventdate:

@@ -1,8 +1,8 @@
 --- 
 eleventyExcludeFromCollections: true
 
-title: Coffs Harbour Spring Sprint LC Qualifying Meet
-subtitle: Coffs Harbour Spring Sprint LC Qualifying Meet
+title: 2026 Coffs Harbour Spring Sprint LC Qualifying Meet
+subtitle: 2026 Coffs Harbour Spring Sprint LC Qualifying Meet
 date: 2026-10-25
 
 eventdate:

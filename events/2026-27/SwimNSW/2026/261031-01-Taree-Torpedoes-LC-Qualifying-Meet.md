@@ -1,8 +1,8 @@
 --- 
 eleventyExcludeFromCollections: true
 
-title: Taree Torpedoes LC Qualifying Meet
-subtitle: Taree Torpedoes LC Qualifying Meet
+title: 2026 Taree Torpedoes LC Qualifying Meet
+subtitle: 2026 Taree Torpedoes LC Qualifying Meet
 date: 2026-10-31
 
 eventdate:
