@@ -1,12 +1,12 @@
 --- 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: 2026 Port Macquarie LC Qualifying Meet
 subtitle: 2026 Port Macquarie LC Qualifying Meet
-date: 2026-10-04
+date: 2026-10-03
 
 eventdate:
-  day: 4th and 5th
+  day: 3rd and 4th
   month: October
   year: 2026
 
@@ -22,14 +22,14 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-400x600.jpg
 
-results: /static/results/2026-27/251004-2026-port-macquarie-lc-qualifying-meet-results.pdf
+results: 
 
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
 
-meetflyerpdf: /static/events/2026-27/251004-05-Port-Macquarie-LC-Qualifying-Meet-flyer.pdf
+meetflyerpdf: 
 
-entrylink: https://swimcentral.swimming.org.au/events/8490d1c1-6860-f011-bec2-7c1e5289e092/nominations
+entrylink: https://swimcentral.swimming.org.au/events/
 
 time: 9:00am - 5:00pm
 where: Port Macquarie War Memorial Olympic Swimming Pool
@@ -49,8 +49,6 @@ maplaurieton:
 
 
 ---
-
-
 
 
 PLEASE NOTE - QUALIFYING TIMES APPLY FOR THE FOLLOWING EVENTS:</br>
@@ -76,6 +74,3 @@ Rule considerations will apply for all 25m events. All competitors will receive 
 12. Visiting clubs are required to assist with timekeeping duties.</br>
 13. BBQ will be in operation, Eftpos facilities available.</br>
 
-Enquiries:</br>
-Jason Higgins – Race Secretary 0427 774 558</br>
-Tanya Harrison – President 0438 834 036 <a title="mailto:pmsc.president.2444@gmail.com" href="mailto:pmsc.president.2444@gmail.com" target="new" >pmsc.president.2444@gmail.com</a>
