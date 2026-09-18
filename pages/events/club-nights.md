@@ -3,7 +3,7 @@ layout: layouts/grid-default.njk
 title: GTSC Club Swimming Nights
 class: events clubnights
 description: Gloucester Thunderbolts Swimming Club runs from mid Oct until April on Thursday evenings at the Gloucester Pool Complex. 
-date: 2024-10-25
+date: 2026-09-18
 
 
 permalink: /events/club-nights/
@@ -20,9 +20,9 @@ eleventyNavigation:
 <div class="padtop3rem"></div>
 
 <div class="postlist-section-wrapper fade-in">	
-   <h2 class="heading-text">2025-26 Season GTSC Club Night Events</h2>
+   <h2 class="heading-text">2026-27 Season GTSC Club Night Events</h2>
 <div class="resultswrapper">
-	{%- set postslist = collections['2025-26-Season-GTSC'] | reverse -%} 
+	{%- set postslist = collections['2026-27-Season-GTSC'] | reverse -%} 
 	{% include "components/postlist/postslist-events.njk" %}
 </div>
 </div>
