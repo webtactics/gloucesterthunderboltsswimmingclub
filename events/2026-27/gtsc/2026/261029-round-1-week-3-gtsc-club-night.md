@@ -1,5 +1,5 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: GTSC Club Night Round 1 Week 3, 2026-27 Season
 subtitle: GTSC Round 1 Week 3
