@@ -4,10 +4,10 @@ eleventyExcludeFromCollections: true
 title: GTSC Club Night Round 2 Week 2 (overall Week 9), 2026-27 Season
 description: GTSC Club Night Round 2 Week 2 (overall Week 9), 2026-27 Season
 subtitle: GTSC Round 2 Week 2 (overall Week 9)
-date: 2026-12-11
+date: 2026-12-10
 
 eventdate:
-  day: 11th
+  day: 10th
   month: December
   year: 2026
 
@@ -22,9 +22,9 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events
+entrylink: https://swimcentral.swimming.org.au/events/0a9c16d4-1fb3-f111-aaac-7ced8d34e2d8/nominations
 
-results: /static/results/2026-27/251211-round-2-week-2-overall-week-9-club-night-results.pdf
+results: 
 rain: 
 
 events:

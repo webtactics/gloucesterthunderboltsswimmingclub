@@ -1,11 +1,11 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: GTSC Club Night Round 1 Week 7, 2026-27 Season
 subtitle: GTSC Round 1 Week 7
-date: 2026-11-27
+date: 2026-11-26
 
 eventdate:
-  day: 27th
+  day: 26th
   month: November
   year: 2026
 
@@ -19,9 +19,9 @@ tags:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-7.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events
+entrylink: https://swimcentral.swimming.org.au/events/15a50b0a-1fb3-f111-aaac-6045bdc27b77/nominations
 
-results: /static/results/2026-27/251127-round-1-week-7-club-night-results.pdf
+results: 
 
 rain: 
 

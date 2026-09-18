@@ -1,30 +1,28 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: GTSC Club Night Round 2 Week 3 (overall Week 10), 2026-27 Season
 description: GTSC Club Night Round 2 Week 3 (overall Week 10), 2026-27 Season
 subtitle: GTSC Round 2 Week 3 (overall Week 10)
-date: 2026-12-18
+date: 2026-12-17
 
 eventdate:
-  day: 18th
+  day: 17th
   month: December
   year: 2026
 
 numberswims: 4
 
 tags:
- 
- - 2026-27-Results
- - 2026-27-Results
+
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-10.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-10.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events
+entrylink: https://swimcentral.swimming.org.au/events/d3592a3b-20b3-f111-aaac-6045bdc277b6/nominations
 
-results: /static/results/2026-27/251218-round-2-week-3-overall-week-10-club-night-results.pdf
+results: 
 
 rain: 
 
@@ -65,7 +63,7 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 ---
 
-We’re excited to celebrate together at our Christmas BBQ during club night on Thursday, 18 December.
+We’re excited to celebrate together at our Christmas BBQ during club night on Thursday, 17 December.
 Please remember to:</br>
 
 <ul>

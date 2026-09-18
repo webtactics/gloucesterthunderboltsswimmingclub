@@ -20,9 +20,9 @@ tags:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-8.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events
+entrylink: https://swimcentral.swimming.org.au/events/4a4b456a-1fb3-f111-aaac-0022489524fd/nominations
 
-results: /static/results/2026-27/251204-round-2-week-1-overall-week-8-club-night-results.pdf
+results: 
 
 rain: 
 
@@ -36,19 +36,16 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length100: 100
-  length400: 400
+  length200: 200
 
 backstroke:
   length25: 25
   length50: 50
-  length100: 100
 
 
 breaststroke:
   length25: 25
   length50: 50
-  length100: 100
 
 
 butterfly:
