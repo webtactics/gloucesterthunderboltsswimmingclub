@@ -22,7 +22,7 @@ eleventyNavigation:
 <div class="postlist-section-wrapper fade-in">	
    <h2 class="heading-text">2026-27 Season GTSC Club Night Events</h2>
 <div class="resultswrapper">
-	{%- set postslist = collections['2026-27-Season'] | reverse -%} 
+	{%- set postslist = collections['2026-27-Season-GTSC'] | reverse -%} 
 	{% include "components/postlist/postslist-events.njk" %}
 </div>
 </div>
