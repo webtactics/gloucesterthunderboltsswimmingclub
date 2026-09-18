@@ -1,5 +1,5 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: GTSC Club Night Round 2 Week 2 (overall Week 9), 2026-27 Season
 description: GTSC Club Night Round 2 Week 2 (overall Week 9), 2026-27 Season
