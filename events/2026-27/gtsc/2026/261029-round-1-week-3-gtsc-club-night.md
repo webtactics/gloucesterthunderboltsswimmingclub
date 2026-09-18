@@ -3,10 +3,10 @@ eleventyExcludeFromCollections: true
 
 title: GTSC Club Night Round 1 Week 3, 2026-27 Season
 subtitle: GTSC Round 1 Week 3
-date: 2026-10-30
+date: 2026-10-29
 
 eventdate:
-  day: 30th
+  day: 29th
   month: October
   year: 2026
 
@@ -20,9 +20,9 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-3.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-3.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events/aa561c2b-dd95-f011-b41c-7c1e5289e092/nominations
+entrylink: https://swimcentral.swimming.org.au/events/c1550a46-fbb2-f111-aaac-6045bdc277b6/nominations
 
-results: /static/results/2026-27/251030-round-1-week-3-club-night-results.pdf
+results: 
 
 rain: 
 
@@ -67,12 +67,5 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 
 ---
-
-Special Halloween night with a spooky theme.  Dress up in your favourite Halloween costume and join in the fun.  
-
-BBQ and drinks available.
-
-<p>Come along and join in the fun.  See you there.</br>
-Happy Halloween.  🎃👻🧛‍♂️🧟‍♂️🦇🕷️🕸️🦉🌙🔮🎃</p>
 
 

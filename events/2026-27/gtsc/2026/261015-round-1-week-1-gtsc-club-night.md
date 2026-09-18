@@ -1,12 +1,13 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
+
 title: GTSC Club Night Round 1 Week 1, 2026-27 Season
 description: GTSC Club Night Round 1 Week 1, 2026-27 Season
 subtitle: GTSC Round 1 Week 1
-date: 2026-10-16
+date: 2026-10-15
 
 eventdate:
-  day: 16th
+  day: 15th
   month: October
   year: 2026
 
@@ -15,15 +16,12 @@ numberswims: 4
 tags:
   
 
-
-
-
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events/8f747cfc-ce95-f011-b41c-6045bdc36f83/nominations
+entrylink: https://swimcentral.swimming.org.au/events/77d6343b-f8b2-f111-aaac-6045bdc27b77/nominations
 
-results: /static/results/2026-27/251016-round-1-week-1-club-night-results.pdf
+results:
 
 rain: 
 
