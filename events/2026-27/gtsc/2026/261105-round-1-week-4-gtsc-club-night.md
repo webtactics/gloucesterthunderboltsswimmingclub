@@ -1,12 +1,12 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: GTSC Club Night Round 1 Week 4, 2026-27 Season
 subtitle: GTSC Round 1 Week 4
-date: 2026-11-06
+date: 2026-11-05
 
 eventdate:
-  day: 6th
+  day: 5th
   month: November
   year: 2026
 
@@ -20,9 +20,9 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-4.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-4.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events/3bbe9c23-df95-f011-b41c-6045bdc36f83/nominations
+entrylink: https://swimcentral.swimming.org.au/events/4131953b-01b3-f111-aaac-7ced8d34e36b/nominations
 
-results: /static/results/2026-27/251106-round-1-week-4-club-night-results.pdf
+results: 
 
 rain: 
 

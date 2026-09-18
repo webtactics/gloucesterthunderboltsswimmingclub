@@ -1,12 +1,12 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: GTSC Club Night Round 1 Week 5, 2026-27 Season
 subtitle: GTSC Round 1 Week 5
-date: 2026-11-13
+date: 2026-11-12
 
 eventdate:
-  day: 13th
+  day: 12th
   month: November
   year: 2026
 
@@ -14,16 +14,13 @@ numberswims: 3
 
 tags:
  - Long-Distance
- 
- - 2026-27-Results
- - 2026-27-Results
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-5.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events/a36ac9eb-e295-f011-b41c-7c1e5289d8d4/nominations
+entrylink: https://swimcentral.swimming.org.au/events/cca5918a-01b3-f111-aaac-6045bdc27380/nominations
 
-results: /static/results/2026-27/251113-round-1-week-5-club-night-results.pdf
+results: 
 
 rain: 
 
