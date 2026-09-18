@@ -1,12 +1,12 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: GTSC Summer Social Week 4, 2026-27 Season
 description: GTSC Summer Social Week 4, 2026-27 Season
 subtitle: GTSC Summer Social Week 4, 2026-27 Season
-date: 2027-01-29
+date: 2027-01-28
 
 eventdate:
-  day: 29th
+  day: 28th
   month: January
   year: 2027
 
@@ -21,7 +21,9 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-29.jpg
 sumimage: 
 
-results: /static/results/2027-27/260129-summer-social-week-4-club-night-results.pdf
+entrylink: https://swimcentral.swimming.org.au/events/
+
+results: 
 
 
 events:
@@ -60,6 +62,6 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
-entrylink: https://swimcentral.swimming.org.au/events/
+
 ---
 

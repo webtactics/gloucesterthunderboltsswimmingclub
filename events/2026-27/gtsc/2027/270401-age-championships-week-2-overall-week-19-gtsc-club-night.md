@@ -1,13 +1,13 @@
 --- 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: GTSC Club Night Age Championships Week 2 (overall Week 19), 2026-27 Season
 description: GTSC Club Night Age Championships Week 2 (overall Week 19), 2026-27 Season
 subtitle: GTSC Age Championships Week 2 (overall Week 19)
-date: 2027-04-02
+date: 2027-04-01
 
 eventdate:
-  day: 2nd
+  day: 1st
   month: April
   year: 2027
 
@@ -16,16 +16,14 @@ numberswims: 4
 tags:
 - Age-Championship
 
-- 2027-27-Results
-- 2027-27-Results
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-19.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events/d1476fed-1cb2-f011-bbd2-7c1e522b54b1/nominations
+entrylink: https://swimcentral.swimming.org.au/events/
 
 
-results: /static/results/2027-27/260402-age-championships-week-2-overall-week-19-club-night-results.pdf
-resultstitle: Results exclude Championships Events.
+results: 
+resultstitle: 
 
 events:
   - freestyle

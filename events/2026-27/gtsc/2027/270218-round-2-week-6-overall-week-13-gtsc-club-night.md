@@ -1,12 +1,12 @@
 --- 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: GTSC Club Night Round 2 Week 6 (overall Week 13), 2026-27 Season
 description: GTSC Club Night Round 2 Week 6 (overall Week 13), 2026-27 Season
 subtitle: GTSC Round 2 Week 6 (overall Week 13)
-date: 2027-02-19
+date: 2027-02-18
 
 eventdate:
-  day: 19th
+  day: 18th
   month: February
   year: 2027
 
@@ -15,15 +15,14 @@ numberswims: 3
 tags:
  - Long-Distance
  
- - 2027-27-Results
- - 2027-27-Results
+
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-13.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events/76103669-15b2-f011-bbd2-7c1e522a612f/nominations
+entrylink: https://swimcentral.swimming.org.au/events/
 
 
-results: /static/results/2027-27/260219-round-2-week-6-overall-week-13-club-night-results.pdf
+results: 
 
 events:
   - freestyle

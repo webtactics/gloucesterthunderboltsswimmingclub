@@ -1,13 +1,13 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: GTSC Summer Social Week 1, 2026-27 Season
 description: GTSC Summer Social Week 1, 2026-27 Season
 subtitle: GTSC Summer Social Week 1, 2026-27 Season
-date: 2027-01-08
+date: 2027-01-07
 
 eventdate:
-  day: 8th
+  day: 7th
   month: January
   year: 2027
 
@@ -22,7 +22,7 @@ tags:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-32.jpg
 
-results: /static/results/2027-27/260108-summer-social-week-1-club-night-results.pdf
+results: 
 
 rain:
 

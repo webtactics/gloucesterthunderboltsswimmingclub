@@ -1,12 +1,12 @@
 --- 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: GTSC Club Night Round 3 Week 3 (overall Week 17), 2026-27 Season
 description: GTSC Club Night Round 3 Week 3 (overall Week 17), 2026-27 Season
 subtitle: GTSC Round 3 Week 3 (overall Week 17)
-date: 2027-03-19
+date: 2027-03-18
 
 eventdate:
-  day: 19th
+  day: 18th
   month: March
   year: 2027
 
@@ -20,10 +20,10 @@ tags:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-17.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events/07f2a406-1bb2-f011-bbd2-6045bde535b6/nominations
+entrylink: https://swimcentral.swimming.org.au/events/
 
 
-results: /static/results/2027-27/260319-round-3-week-3-overall-week-17-club-night-results.pdf
+results: 
 
 events:
   - freestyle

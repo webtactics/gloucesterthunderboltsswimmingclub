@@ -1,12 +1,12 @@
 --- 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: GTSC Club Night Round 2 Week 7 (overall Week 14), 2026-27 Season
 description: GTSC Club Night Round 2 Week 7 (overall Week 14), 2026-27 Season
 subtitle: GTSC Round 2 Week 7 (overall Week 14)
-date: 2027-02-26
+date: 2027-02-25
 
 eventdate:
-  day: 26th
+  day: 25th
   month: February
   year: 2027
 
@@ -14,15 +14,13 @@ numberswims: 4
 
 tags:
  
- - 2027-27-Results
- - 2027-27-Results
+
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-14.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events/34320b61-16b2-f011-bbd2-6045bde52f4b/nominations
+entrylink: https://swimcentral.swimming.org.au/events/
 
-
-results: /static/results/2027-27/260226-round-2-week-7-overall-week-14-club-night-results.pdf
+results: 
 
 events:
   - freestyle

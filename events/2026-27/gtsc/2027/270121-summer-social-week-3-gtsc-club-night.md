@@ -1,12 +1,12 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: GTSC Summer Social Week 3, 2026-27 Season
 description: GTSC Summer Social Week 3, 2026-27 Season
 subtitle: GTSC Summer Social Week 3, 2026-27 Season
-date: 2027-01-22
+date: 2027-01-21
 
 eventdate:
-  day: 22nd
+  day: 21st
   month: January
   year: 2027
 
@@ -21,7 +21,9 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-30.jpg
 sumimage: 
 
-results: /static/results/2027-27/260122-summer-social-week-3-club-night-results.pdf
+entrylink: https://swimcentral.swimming.org.au/events/acb014a1-23b3-f111-aaac-7ced8da115e4/nominations
+
+results: 
 
 rain:
 
@@ -64,7 +66,7 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
-entrylink: https://swimcentral.swimming.org.au/events/
+
 ---
 
 Teams for the 4 x 50 metre relay will be decided on the day, as to try and have an even race.

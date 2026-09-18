@@ -1,13 +1,13 @@
 ---
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: GTSC Summer Social Week 2, 2026-27 Season
 description: GTSC Summer Social Week 2, 2026-27 Season
 subtitle: GTSC Summer Social Week 2, 2026-27 Season
-date: 2027-01-15
+date: 2027-01-14
 
 eventdate:
-  day: 15th
+  day: 14th
   month: January
   year: 2027
 
@@ -22,9 +22,11 @@ tags:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-31.jpg
 
+entrylink: https://swimcentral.swimming.org.au/events/955ecb62-23b3-f111-aaac-0022489524fd/nominations
+
 results: 
 
-rain: true
+rain:
 
 events:
   - freestyle
@@ -62,6 +64,6 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
-entrylink: https://swimcentral.swimming.org.au/events/
+
 ---
 

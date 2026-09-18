@@ -1,12 +1,12 @@
 --- 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: GTSC Club Night Round 2 Week 4 (overall Week 11), 2026-27 Season
 description: GTSC Club Night Round 2 Week 4 (overall Week 11), 2026-27 Season
 subtitle: GTSC Round 2 Week 4 (overall Week 11)
-date: 2027-02-05
+date: 2027-02-04
 
 eventdate:
-  day: 5th
+  day: 4th
   month: February
   year: 2027
 
@@ -15,15 +15,14 @@ numberswims: 3
 tags:
  - Long-Distance
  
- - 2027-27-Results
- - 2027-27-Results
+
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-11.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events
 
 
-results: /static/results/2027-27/260205-round-2-week-4-overall-week-11-club-night-results.pdf
+results: 
 
 events:
   - freestyle
