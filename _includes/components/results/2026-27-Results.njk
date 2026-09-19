@@ -1,10 +1,12 @@
 {# 2026-27 Season Results #}
-<div class="two-colum-wrapper">	
+{% set postslist = collections['2026-27-Results']  -%}
+{% if postslist.length %}
+<div class="two-colum-wrapper">
   <h2 id="2026-27" class="heading-text">2026-27 Season Results</h2>
 <div class="resultswrapper">
-	{% set postslist = collections['2026-27-Results']  -%} 
 	{% include "components/postlist/postslist-results-small.njk" %}
 </div>
 </div>
+{% endif %}
 
 {# 2026-27 Season Results #}
