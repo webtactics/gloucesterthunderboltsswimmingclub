@@ -16,8 +16,6 @@ numberswims: 4
 tags:
 
  
- - 2026-27-Results
- - 2026-27-Results
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-9.jpg
