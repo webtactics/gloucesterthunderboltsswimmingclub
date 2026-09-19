@@ -19,7 +19,7 @@ tags:
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-12.jpg
 
-entrylink: https://swimcentral.swimming.org.au/events/
+entrylink: https://swimcentral.swimming.org.au/events/c748740d-26b3-f111-aaac-7ced8da115e4/nominations
 
 
 results: 
@@ -33,19 +33,19 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length1500: 1500
+  length800: 800
 
 
 backstroke:
   length25: 25
   length50: 50
-
+  length100: 100
 
 
 breaststroke:
   length25: 25
   length50: 50
-
+  length100: 100
 
 
 butterfly:
@@ -64,6 +64,6 @@ mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 ---
 <h4>Long Distance Events:</h4>
 <ul>
-<li>1500m Freestyle</li>
+<li>800m Freestyle</li>
 </ul>
 <div class="tworemdotteddivider"></div>

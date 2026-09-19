@@ -13,21 +13,23 @@ eleventyNavigation:
   order: 2
 ---
 
-<h3>Gloucester Thunderbolts Swimming Club runs from mid Oct until early April on Thursday evenings at 6.00pm at the Gloucester Pool Complex.</h3>
+<h3>Gloucester Thunderbolts Swimming Club, Club Night's for the 2026-27 Season run from Thursday, October 15, 2026 until early April, 2027.</h3>
+
+<h4>Club night's are held on on Thursday evenings at 6.00pm at the <a href="https://maps.app.goo.gl/GKgamrDkqvASyJ429" target="_blank" alt="Gloucester Pool Complex" title="Gloucester Pool Complex">Gloucester Pool Complex</a>.</h4>
 
 <h4>All ages and abilities are welcome.</h4>
 
 <div class="padtop3rem"></div>
 
-<!--- 2025-26 Season Events --->
+<!--- 2026-27 Season Events --->
 <div class="postlist-section-wrapper fade-in">	
-   <h2 class="heading-text">2025-26 Season Events</h2>
+   <h2 class="heading-text">2026-27 Season Events</h2>
 <div class="resultswrapper">
-	{%- set postslist = collections['2025-26-Season'] | reverse -%} 
+	{%- set postslist = collections['2026-27-Season'] | reverse -%} 
 	{% include "components/postlist/postslist-events.njk" %}
 </div>
 </div>
-<!--- End 2025-26 Season Events --->
+<!--- End 2026-27 Season Events --->
 
 
 

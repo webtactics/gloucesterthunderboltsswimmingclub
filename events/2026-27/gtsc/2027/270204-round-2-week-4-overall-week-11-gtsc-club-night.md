@@ -13,7 +13,7 @@ eventdate:
 numberswims: 3
 
 tags:
- - Long-Distance
+
  
 
 
@@ -33,27 +33,28 @@ events:
 freestyle:
   length25: 25
   length50: 50
-  length800: 800
+  length200: 200
 
 
 backstroke:
   length25: 25
   length50: 50
-  length100: 100
+
 
 
 breaststroke:
   length25: 25
   length50: 50
-  length100: 100
+
 
 
 butterfly:
   length25: 25
   length50: 50
 
-
-
+medley:
+  length100: 100
+  length200: 200
 
 time: 6:00pm - 8:00pm
 where: Gloucester Olympic Pool
@@ -62,8 +63,3 @@ map: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 mapgtsc: https://maps.app.goo.gl/JXexsoRAoSNzhJPm7
 
 ---
-<h4>Long Distance Events:</h4>
-<ul>
-<li>800m Freestyle</li>
-</ul>
-<div class="tworemdotteddivider"></div>
