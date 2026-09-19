@@ -18,6 +18,10 @@ eleventyNavigation:
 
 <div class="padtop3rem"></div>
 
+{% include "components/events/2027-28-Season-SwimNSW-Events.njk" %}
+
+{% include "components/events/2026-27-Season-SwimNSW-Events.njk" %}
+
 {% include "components/events/2025-26-Season-SwimNSW-Events.njk" %}
 
 <div class="eightypercentborder"></div>
