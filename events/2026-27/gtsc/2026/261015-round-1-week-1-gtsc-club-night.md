@@ -14,6 +14,9 @@ eventdate:
 numberswims: 4
 
 tags:
+  - Results
+  - 2026-27-Results
+  - 2026-27-Results-GTSC
   
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.jpg
