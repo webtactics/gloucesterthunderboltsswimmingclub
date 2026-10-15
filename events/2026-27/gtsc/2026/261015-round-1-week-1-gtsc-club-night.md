@@ -21,7 +21,7 @@ sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-1.j
 
 entrylink: https://swimcentral.swimming.org.au/events/77d6343b-f8b2-f111-aaac-6045bdc27b77/nominations
 
-results:
+results: "/static/results/2026-27/261015-round-1-week-1-gtsc-club-night-results.pdf"
 
 rain: 
 
