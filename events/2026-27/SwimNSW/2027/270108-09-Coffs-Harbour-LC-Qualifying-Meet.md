@@ -1,12 +1,12 @@
 --- 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: 2027 Coffs Harbour Summer Splash LC Qualifying Meet
 subtitle: 2027 Coffs Harbour Summer Splash LC Qualifying Meet
-date: 2027-01-09
+date: 2027-01-08
 
 eventdate:
-  day: 9th-10th
+  day: 8th-9th
   month: January
   year: 2027
 
@@ -19,14 +19,14 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
 
-results: /static/results/2027-27/260109-10-Coffs-Harbour-LC-Qualifying-Meet-results.pdf
+results: 
 
 club: Coffs Harbour Swim Club
 clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/
 
-meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_aad8e4d10ddc45a5abe2206f9865034d.pdf
+meetflyerpdf: https://319ad0d0-13e2-4670-a31b-0270aa9f937f.filesusr.com/ugd/8dab05_4996b64fc8634fe182db17014c079056.pdf
 
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/events
 
 time: 9:00am - 5:00pm
 where: Coffs Harbour War Memorial Swim Centre
