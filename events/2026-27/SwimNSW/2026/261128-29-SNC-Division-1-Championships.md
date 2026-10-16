@@ -1,8 +1,8 @@
 --- 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
-title: 2026 Swimming North Coast Division 1 Championships Grafton
-subtitle: 2026 SNC Division 1 Championships Grafton
+title: 2026 Swimming North Coast Division 1 Championships
+subtitle: 2026 SNC Division 1 Championships
 date: 2026-11-28
 
 eventdate:
@@ -32,7 +32,7 @@ meetflyerpdf: https://319ad0d0-13e2-4670-a31b-0270aa9f937f.filesusr.com/ugd/8dab
 entrylink: https://swimcentral.swimming.org.au/events/305868fa-f1c4-f111-aaaf-00224812d2e0/detail
 
 time: 9:00am - 5:00pm
-where: Clarence Regional Aquatic Centre
+where: Grafton Memorial Pool
 map: https://maps.app.goo.gl/zDFnQJYF5fTwxbZ46
 
 maptaree:
