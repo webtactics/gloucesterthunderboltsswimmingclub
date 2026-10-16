@@ -1,12 +1,12 @@
 --- 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 title: 2026 Coffs Harbour Spring Sprint LC Qualifying Meet
 subtitle: 2026 Coffs Harbour Spring Sprint LC Qualifying Meet
-date: 2026-10-25
+date: 2026-10-24
 
 eventdate:
-  day: 25th
+  day: 24th
   month: October
   year: 2026
 
@@ -20,14 +20,14 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
 
-results: /static/results/2026-27/251025-Coffs-Harbour-LC-Qualifying-Meet-results.pdf
+results: 
 
 club: Coffs Harbour Swim Club
 clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/
 
-meetflyerpdf: https://www.swimmingnorthcoast.com/_files/ugd/8dab05_0fdca762b2cf46e3af2b560375d8d04d.pdf
+meetflyerpdf: https://319ad0d0-13e2-4670-a31b-0270aa9f937f.filesusr.com/ugd/8dab05_05afb49ebdb74f0fad030f2a3859aec8.pdf
 
-entrylink: 
+entrylink: https://swimcentral.swimming.org.au/events/72b06b82-b09e-f111-b8dc-6045bde6e8bc/detail
 
 time: 9:00am - 5:00pm
 where: Coffs Harbour War Memorial Swim Centre
