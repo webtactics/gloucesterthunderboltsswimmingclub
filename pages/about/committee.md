@@ -16,9 +16,9 @@ eleventyNavigation:
 ---
 ### Like many sporting clubs, we could not function without our volunteers.
 
-**We would like to acknowledge our committee for the 2025-26 season.**
+**We would like to acknowledge our committee for the 2026-27 season.**
 
 <div class="padtop3rem"></div>
 
- {% include "components/global/committee/2025-26-committee.html" %}
+ {% include "components/global/committee/2026-27-committee.html" %}
 
