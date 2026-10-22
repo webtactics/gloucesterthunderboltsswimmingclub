@@ -490,16 +490,16 @@ background-color: var(--primary); font-weight: bold;}
 }
 
 .navbar ul.navbar-menu li.active-class  a {
-    color: var(--white);
-  background: var(--primary60);
+    color: var(--darkblue);
+  background: var(--primarydark);
     border-radius: 8px;
 
 }
 
 .navbar  .navbar-menu  li  a:hover,
 .navbar  .navbar-menu > li  a:focus {
-    color: var(--white);
-    background: var(--primary60);
+    color: var(--darkblue);
+  background: var(--primarydark);
     border-radius: 8px;
 }
 
