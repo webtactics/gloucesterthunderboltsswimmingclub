@@ -13,7 +13,9 @@ eventdate:
 numberswims: 4
 
 tags:
-  - Homebox
+  - Results
+  - 2026-27-Results
+  - 2026-27-Results-GTSC
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-2.jpg
@@ -21,7 +23,7 @@ sumimage: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-2.j
 
 entrylink: https://swimcentral.swimming.org.au/events/f1010613-fab2-f111-aaac-6045bdc271a2/nominations
 
-results: 
+results: static/results/2026-27/261022-round-1-week-2-gtsc-club-night-results.pdf
 
 rain: 
 
