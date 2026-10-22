@@ -486,11 +486,11 @@ background-color: var(--primary); font-weight: bold;}
   -ms-transition: all .3s;
   -o-transition: all .3s;
   transition: all .3s;
-    border-radius: 8px;
+    border-radius: 0px;
 }
 
 .navbar ul.navbar-menu li.active-class  a {
-    color: var(--darkblue);
+    color: var(--primarydark);
   background: var(--white);
     border-radius: 0px;
 
@@ -498,7 +498,7 @@ background-color: var(--primary); font-weight: bold;}
 
 .navbar  .navbar-menu  li  a:hover,
 .navbar  .navbar-menu > li  a:focus {
-    color: var(--darkblue);
+    color: var(--primarydark);
   background: var(--white);
     border-radius: 0px;
 }
