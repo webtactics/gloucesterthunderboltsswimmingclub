@@ -12,15 +12,17 @@ eventdate:
 
 tags:
   
-
-
+  - Results
+  - 2026-27-Results
+  - 2026-27-Results-North-Coast
+  - 2026-27-Results-SwimNSW
   - Coffs-Harbour-Swim-Club
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/coffs-harbour-400x600.jpg
 
-results: 
+results: https://319ad0d0-13e2-4670-a31b-0270aa9f937f.filesusr.com/ugd/8dab05_eb4d8235164043ad95d5f1e526ddde3e.pdf
 
 club: Coffs Harbour Swim Club
 clubURL: https://www.facebook.com/p/Coffs-Harbour-Swim-Club-100060444858133/

@@ -12,17 +12,19 @@ eventdate:
 
 tags:
 
+
+  - Results
+  - 2026-27-Results
+  - 2026-27-Results-North-Coast
+  - 2026-27-Results-SwimNSW
   - Port-Macquarie
-  
-
-
 
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/port-macquarie-swimming-club-400x600.jpg
 
-results: 
+results: https://319ad0d0-13e2-4670-a31b-0270aa9f937f.filesusr.com/ugd/8dab05_2f4f2369ebd448df885084a0df09f9ac.pdf
 
 club: Port Macquarie Swimming Club
 clubURL: https://www.facebook.com/PMQSC2444
