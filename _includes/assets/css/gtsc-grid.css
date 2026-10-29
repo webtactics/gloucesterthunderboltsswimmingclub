@@ -2808,7 +2808,7 @@ a.resultspdf {
   white-space: wrap;
   text-decoration-thickness: 0.4rem;
   text-decoration-style: dotted;
-  text-decoration-color: var(--primary);
+  text-decoration-color: var(--darkblue);
   text-underline-offset: 1rem;
   transition: background-color .6s,text-decoration-color .6s;
   clear: both;
@@ -2827,11 +2827,14 @@ a.resultspdf:hover {
   }
 
 
-a.resultspdf.events {   background-color: var(--primary);}
+a.resultspdf.events {   background-color: var(--primary);
+ text-decoration-color: var(--primary);}
 a.resultspdf.events:hover {  background-color: var(--darkblue);}
+ 
 
-a.resultspdf.news {   background-color: var(--primary);}
-a.resultspdf.news:hover {  background-color: var(--darkblue);}
+a.resultspdf.news {   background-color: var(--black);
+   text-decoration-color: var(--black);}
+a.resultspdf.news:hover {  background-color: var(--primary);}
 
 
 a.resultspdfsmall {
