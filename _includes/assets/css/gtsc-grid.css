@@ -2590,6 +2590,15 @@ h3.sum-title.results a {
 }
 
 
+.news h3.sum-title a, .news h4.sum-title a, .news .postsumdate {
+  background-color: var(--black);
+}
+
+
+
+
+
+
 
 h3.sum-title-cancelled {
   display: flex;
