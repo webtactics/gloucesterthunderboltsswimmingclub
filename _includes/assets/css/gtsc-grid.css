@@ -2594,7 +2594,9 @@ h3.sum-title.results a {
   background-color: var(--black);
 }
 
-
+.news h3.sum-title a:hover, .news h4.sum-title a:hover, .news .postsumdate {
+  background-color: var(--primary);
+}
 
 
 
