@@ -13,7 +13,7 @@
   --primarydark: hsla(211,58%,43%,1);
   --darkblue: hsla(204, 96%, 18%, 1);
   --darkblue40: hsla(204deg, 96%, 18%, 0.4);
-  --lightblue: #b8a147;
+  --gold: #b8a147;
   --primarybutton: #B11112;
   --white: #ffffff;
   --white10: hsla(0,0%,100%,0.1);
@@ -2600,7 +2600,7 @@ h3.sum-title.results a {
 
 
 .news h3.sum-title, .news h3.sum-title a, .news h4.sum-title a, .news .postsumdate {
-  background-color: var(--lightblue);
+  background-color: var(--gold);
 }
 
 .news h3.sum-title a:hover, .news h4.sum-title a:hover {
@@ -2852,8 +2852,8 @@ a.resultspdf.events {   background-color: var(--primary);
 a.resultspdf.events:hover {  background-color: var(--darkblue);}
  
 
-a.resultspdf.news {   background-color: var(--black);
-   text-decoration-color: var(--black);}
+a.resultspdf.news {   background-color: var(--gold);
+   text-decoration-color: var(--gold);}
 a.resultspdf.news:hover {  background-color: var(--primary);}
 
 
