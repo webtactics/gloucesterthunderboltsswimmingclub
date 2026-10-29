@@ -2598,8 +2598,8 @@ h3.sum-title.results a {
 }
 
 
-.news h3.sum-title a, .news h4.sum-title a, .news .postsumdate {
-  background-color: var(--primary30);
+.news h3.sum-title, .news h3.sum-title a, .news h4.sum-title a, .news .postsumdate {
+  background-color: var(--primary60);
 }
 
 .news h3.sum-title a:hover, .news h4.sum-title a:hover {
