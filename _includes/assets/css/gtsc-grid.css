@@ -2589,12 +2589,20 @@ h3.sum-title.results a {
   background-color: var(--darkblue);
 }
 
+.results h3.sum-title a, .results h4.sum-title a, .results .postsumdate {
+  background-color: var(--darkblue);
+}
+
+.results h3.sum-title a:hover, .results h4.sum-title a:hover {
+  background-color: var(--primary);
+}
+
 
 .news h3.sum-title a, .news h4.sum-title a, .news .postsumdate {
   background-color: var(--black);
 }
 
-.news h3.sum-title a:hover, .news h4.sum-title a:hover, .news .postsumdate {
+.news h3.sum-title a:hover, .news h4.sum-title a:hover {
   background-color: var(--primary);
 }
 
