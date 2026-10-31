@@ -2850,7 +2850,9 @@ a.resultspdf:hover {
 
 a.resultspdf.events {   background-color: var(--primary);
  text-decoration-color: var(--primary);}
-a.resultspdf.events:hover {  background-color: var(--darkblue);}
+a.resultspdf.events:hover {  background-color: var(--darkblue);
+   text-decoration-color: var(--darkblue);
+  }
  
 
 a.resultspdf.news {   background-color: var(--accentgold);
