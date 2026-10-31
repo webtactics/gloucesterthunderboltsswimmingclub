@@ -2842,7 +2842,7 @@ a.resultspdf:hover {
   border: none;
   text-decoration-thickness: 0.4rem;
   text-decoration-style: solid;
-  text-decoration-color: var(--darkblue);
+  text-decoration-color: var(--primary);
   text-underline-offset: 1rem;
   transition: background-color .6s,text-decoration-color .6s;
   }
