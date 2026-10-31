@@ -2855,7 +2855,8 @@ a.resultspdf.events:hover {  background-color: var(--darkblue);}
 
 a.resultspdf.news {   background-color: var(--accentgold);
    text-decoration-color: var(--accentgold);}
-a.resultspdf.news:hover {  background-color: var(--accentgolddarker);}
+a.resultspdf.news:hover {  background-color: var(--accentgolddarker);
+text-decoration-color: var(--accentgolddarker);}
 
 
 a.resultspdfsmall {
