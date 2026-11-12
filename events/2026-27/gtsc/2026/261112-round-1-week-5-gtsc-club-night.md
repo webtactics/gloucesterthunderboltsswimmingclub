@@ -13,7 +13,7 @@ eventdate:
 numberswims: 3
 
 tags:
- - Long-Distance
+  - Long-Distance
   - Results
   - 2026-27-Results
   - 2026-27-Results-GTSC
