@@ -11,7 +11,10 @@ eventdate:
   year: 2026
 
 tags:
-
+  - Results
+  - 2026-27-Results
+  - 2026-27-Results-North-Coast
+  - 2026-27-Results-SwimNSW
   - Taree-Torpedoes
   
 
@@ -21,7 +24,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/taree-torpedoes-400x600.jpg
 
-results: 
+results: "https://319ad0d0-13e2-4670-a31b-0270aa9f937f.filesusr.com/ugd/8dab05_e665ec99ec23421a93e5ecd594a147ba.pdf"
 
 club: Taree Torpedoes
 clubURL: https://www.tareetorpedoes.com/
