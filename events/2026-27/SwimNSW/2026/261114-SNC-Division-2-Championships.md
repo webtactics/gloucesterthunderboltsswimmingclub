@@ -11,7 +11,10 @@ eventdate:
   year: 2026
 
 tags:
-  
+  - Results
+  - 2026-27-Results
+  - 2026-27-Results-North-Coast
+  - 2026-27-Results-SwimNSW
   - Kempsey-Swimming-Club
   - Swimming-North-Coast
 
@@ -20,7 +23,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/kempsey-sc-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/kempsey-sc-400x600.jpg
 
-results: 
+results: "https://319ad0d0-13e2-4670-a31b-0270aa9f937f.filesusr.com/ugd/8dab05_10fefe958bc94529a59cbad43aaef84a.pdf"
 
 club: Kempsey Swimming Club
 clubURL: https://www.facebook.com/kempseyswimmingclub/
