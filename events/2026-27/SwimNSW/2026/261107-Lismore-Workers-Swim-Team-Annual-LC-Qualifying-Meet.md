@@ -12,8 +12,10 @@ eventdate:
 
 tags:
   
-
-
+  - Results
+  - 2026-27-Results
+  - 2026-27-Results-North-Coast
+  - 2026-27-Results-SwimNSW
   - Lismore-Workers
 
 
@@ -22,7 +24,7 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-600x400.jpg
 sumimage: https://ik.imagekit.io/webtactics/gtsc/img/clubs/lismore-workers-400x600.jpg
 
-results: 
+results: "https://319ad0d0-13e2-4670-a31b-0270aa9f937f.filesusr.com/ugd/8dab05_019c8c7c2e5847bfb8a4020d083f5cb6.pdf"
 
 club: Lismore Workers Swim Team 
 clubURL: https://www.facebook.com/lwstswimming/
