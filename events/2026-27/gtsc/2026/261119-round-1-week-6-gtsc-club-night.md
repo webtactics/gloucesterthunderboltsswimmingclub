@@ -13,15 +13,17 @@ eventdate:
 numberswims: 3
 
 tags:
- - Long-Distance
- - Homebox
+  - Long-Distance
+  - Results
+  - 2026-27-Results
+  - 2026-27-Results-GTSC
 
 
 image: https://ik.imagekit.io/webtactics/gtsc/img/results/results-summary-6.jpg
 
 entrylink: https://swimcentral.swimming.org.au/events/edc77eb5-1eb3-f111-aaac-6045bdc277b6/nominations
 
-results: 
+results: "/static/results/2026-27/261119-round-1-week-6-gtsc-club-night-results.pdf"
 
 rain: 
 
