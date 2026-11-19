@@ -7,7 +7,7 @@ date: 2025-11-02
 permalink: /events/results/
 eleventyNavigation:
   key: Results
-  parent: Events
+  parent: Events & Club Nights
   order: 3
 ---
 <div class="buttonnavwrapperoutside">

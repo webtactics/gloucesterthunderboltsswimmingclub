@@ -7,7 +7,7 @@ date: 2024-08-22
 permalink: /events/swim-nsw/
 eleventyNavigation:
   key: Swim NSW Events
-  parent: Events
+  parent: Events & Club Nights
   order: 2
 ---
 <h3>Swimming is Australia's highest participation sport and is an activity synonymous with the Australian way of life. It is a sport that can be enjoyed by participants of all ages and abilities.</h3>

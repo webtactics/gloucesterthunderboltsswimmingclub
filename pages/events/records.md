@@ -9,7 +9,7 @@ date: 2025-08-19
 permalink: /events/records/
 eleventyNavigation:
   key: Swim Records
-  parent: Events
+  parent: Events & Club Nights
   order: 4
 ---
 <h2>We like records.</h2>

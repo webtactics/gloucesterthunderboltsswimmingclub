@@ -9,7 +9,7 @@ date: 2026-09-18
 permalink: /events/club-nights/
 eleventyNavigation:
   key: GTSC Club Nights
-  parent: Events
+  parent: Events & Club Nights
   order: 1
 ---
 ## Gloucester Thunderbolts Swimming Club runs from mid Oct until April on Thursday evenings at the Gloucester Pool Complex. 
